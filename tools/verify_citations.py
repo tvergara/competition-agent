@@ -1,4 +1,4 @@
-"""Resolve every BibTeX entry in a paper against OpenAlex."""
+"""Resolve every BibTeX entry in a paper against OpenAlex (with Semantic Scholar fallback)."""
 from __future__ import annotations
 
 import argparse
@@ -10,6 +10,7 @@ import tarfile
 import tempfile
 import time
 import unicodedata
+from collections import Counter
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Any, Iterable
@@ -20,10 +21,40 @@ from rapidfuzz import fuzz
 
 
 OPENALEX_BASE = "https://api.openalex.org"
+S2_BASE = "https://api.semanticscholar.org/graph/v1"
+S2_FIELDS = "paperId,title,year,authors"
+S2_PAPER_URL_PREFIX = "https://www.semanticscholar.org/paper/"
 KOALA_TARBALL_TEMPLATE = "https://koala.science/storage/tarballs/{paper_id}.tar.gz"
 TITLE_SIMILARITY_THRESHOLD = 90
 POLITE_SLEEP_SECONDS = 0.1
+S2_SLEEP_AUTH = 1.0
+S2_SLEEP_UNAUTH = 3.0
+S2_BACKOFF_BASE = 4.0
+S2_MAX_RETRIES = 3
 ARXIV_RE = re.compile(r"arxiv\.org/abs/(\d{4}\.\d{4,5})", re.IGNORECASE)
+
+STATUS_PRIORITY = {
+    "skipped": 5,
+    "verified": 4,
+    "metadata_mismatch": 3,
+    "ambiguous": 2,
+    "not_found": 1,
+    "error": 0,
+}
+
+NON_ACADEMIC_ENTRY_TYPES = {
+    "online", "dataset", "software", "manual", "electronic",
+    "www", "webpage", "booklet",
+}
+
+NEWS_OUTLET_KEYWORDS = [
+    "new york times", "washington post", "wall street journal",
+    "tech policy press", "bloomberg", "reuters", "bbc", "cnn",
+    "forbes", "wired", "techcrunch", "the verge", "the guardian",
+    "financial times", "wikipedia", "wikimedia",
+]
+
+NON_ACADEMIC_PUBLISHERS = ["kaggle", "wikimedia", "github"]
 
 
 # ---- Bib parsing -----------------------------------------------------------
@@ -72,7 +103,7 @@ def parse_bib_file(path: Path) -> list[dict[str, Any]]:
     out: list[dict[str, Any]] = []
     for entry in library.entries:
         title_raw = _entry_field(entry, "title")
-        title = re.sub(r"[{}]", "", title_raw).strip() if title_raw else ""
+        title = re.sub(r"\s+", " ", re.sub(r"[{}]", "", title_raw)).strip() if title_raw else ""
         year_raw = _entry_field(entry, "year")
         out.append(
             {
@@ -83,9 +114,58 @@ def parse_bib_file(path: Path) -> list[dict[str, Any]]:
                 "year": _coerce_year(year_raw) if year_raw else None,
                 "doi": _entry_field(entry, "doi"),
                 "arxiv_id": _extract_arxiv_id(entry),
+                "journal": _entry_field(entry, "journal"),
+                "publisher": _entry_field(entry, "publisher"),
+                "url": _entry_field(entry, "url"),
             }
         )
     return out
+
+
+def _should_skip(entry: dict) -> bool:
+    """Return True for non-academic sources we don't try to resolve.
+
+    Reads optional bib fields (``publisher``, ``journal``, ``url``) which
+    ``parse_bib_file`` always sets (to ``None`` when missing). Tests that
+    construct entries directly may omit them; ``.get`` keeps that boundary
+    permissive so the function works on both shapes.
+    """
+    if entry.get("entry_type", "").lower() in NON_ACADEMIC_ENTRY_TYPES:
+        return True
+    publisher = entry.get("publisher") or ""
+    if any(p in publisher.lower() for p in NON_ACADEMIC_PUBLISHERS):
+        return True
+    journal = entry.get("journal") or ""
+    if any(k in journal.lower() for k in NEWS_OUTLET_KEYWORDS):
+        return True
+    if entry.get("url") and not entry.get("doi") and not entry.get("arxiv_id"):
+        return True
+    return False
+
+
+def _key_style_outliers(entries: list[dict]) -> list[str]:
+    """Flag bib keys whose embedded year-digit count differs from the dominant one.
+
+    LLM-fabricated citations sometimes cluster on a different key style than the
+    rest of the bibliography (e.g. 2-digit-year keys against a 4-digit-year
+    majority). Returns [] if no dominant pattern exists (≥70% share).
+    """
+    digit_counts = []
+    for e in entries:
+        m = re.search(r"\d+", e["key"])
+        if m:
+            digit_counts.append(len(m.group(0)))
+    if not digit_counts:
+        return []
+    most_common, cnt = Counter(digit_counts).most_common(1)[0]
+    if cnt < 0.7 * len(digit_counts):
+        return []
+    outliers = []
+    for e in entries:
+        m = re.search(r"\d+", e["key"])
+        if m and len(m.group(0)) != most_common:
+            outliers.append(e["key"])
+    return outliers
 
 
 # ---- OpenAlex calls --------------------------------------------------------
@@ -116,6 +196,56 @@ def _search_works(
     return resp.json()["results"]
 
 
+# ---- Semantic Scholar calls ------------------------------------------------
+
+
+def _s2_get(
+    client: httpx.Client, url: str, params: dict[str, str]
+) -> httpx.Response:
+    """GET with a polite pre-call sleep and exponential backoff on 429.
+
+    With ``SEMANTIC_SCHOLAR_API_KEY`` set, sends ``x-api-key`` and sleeps
+    ``S2_SLEEP_AUTH`` (1s, the authenticated rate limit). Without a key,
+    sleeps ``S2_SLEEP_UNAUTH`` (3s) on the shared free pool. On 429, retries
+    up to ``S2_MAX_RETRIES`` times waiting ``S2_BACKOFF_BASE * 2**attempt``.
+    """
+    api_key = os.environ.get("SEMANTIC_SCHOLAR_API_KEY")
+    headers = {"x-api-key": api_key} if api_key else {}
+    time.sleep(S2_SLEEP_AUTH if api_key else S2_SLEEP_UNAUTH)
+    for attempt in range(S2_MAX_RETRIES + 1):
+        resp = client.get(url, params=params, headers=headers, timeout=20.0)
+        if resp.status_code != 429:
+            return resp
+        if attempt < S2_MAX_RETRIES:
+            time.sleep(S2_BACKOFF_BASE * (2 ** attempt))
+    return resp
+
+
+def _s2_get_by_doi(client: httpx.Client, doi: str) -> dict | None:
+    resp = _s2_get(client, f"{S2_BASE}/paper/DOI:{doi}", {"fields": S2_FIELDS})
+    if resp.status_code == 404:
+        return None
+    resp.raise_for_status()
+    return resp.json()
+
+
+def _s2_get_by_arxiv(client: httpx.Client, arxiv_id: str) -> dict | None:
+    resp = _s2_get(client, f"{S2_BASE}/paper/arXiv:{arxiv_id}", {"fields": S2_FIELDS})
+    if resp.status_code == 404:
+        return None
+    resp.raise_for_status()
+    return resp.json()
+
+
+def _s2_search(
+    client: httpx.Client, query: str, per_page: int = 5
+) -> list[dict]:
+    params = {"query": query, "limit": str(per_page), "fields": S2_FIELDS}
+    resp = _s2_get(client, f"{S2_BASE}/paper/search", params)
+    resp.raise_for_status()
+    return resp.json().get("data", [])
+
+
 # ---- Matching helpers ------------------------------------------------------
 
 
@@ -135,6 +265,10 @@ def _candidate_author_names(work: dict) -> list[str]:
     return [a["author"]["display_name"] for a in work["authorships"]]
 
 
+def _s2_author_names(work: dict) -> list[str]:
+    return [a["name"] for a in work["authors"]]
+
+
 def _author_surname_overlap(
     raw_authors: Iterable[str], candidate_authors: Iterable[str]
 ) -> bool:
@@ -149,10 +283,24 @@ def _candidate_title(work: dict) -> str:
     return work["display_name"].strip()
 
 
+def _s2_candidate_title(work: dict) -> str:
+    return work["title"].strip()
+
+
+def _normalize_for_match(s: str) -> str:
+    return re.sub(r"([a-z])([A-Z])", r"\1 \2", s).lower()
+
+
 def _title_similarity(a: str, b: str) -> float:
     if not a or not b:
         return 0.0
-    return float(fuzz.token_set_ratio(a, b))
+    return float(fuzz.token_set_ratio(_normalize_for_match(a), _normalize_for_match(b)))
+
+
+def _year_match(raw_year: int | None, cand_year: int | None) -> int:
+    if raw_year is None or cand_year is None:
+        return 0
+    return 1 if abs(raw_year - cand_year) <= 1 else 0
 
 
 def _classify_against_candidate(
@@ -161,9 +309,24 @@ def _classify_against_candidate(
     mismatches: list[str] = []
     raw_year = raw["year"]
     cand_year = candidate.get("publication_year")
-    if raw_year and cand_year and abs(int(raw_year) - int(cand_year)) > 1:
+    if raw_year and cand_year and abs(raw_year - cand_year) > 1:
         mismatches.append("year")
     if not _author_surname_overlap(raw["authors"], _candidate_author_names(candidate)):
+        mismatches.append("authors")
+    if mismatches:
+        return "metadata_mismatch", mismatches
+    return "verified", mismatches
+
+
+def _classify_against_s2_candidate(
+    raw: dict, candidate: dict
+) -> tuple[str, list[str]]:
+    mismatches: list[str] = []
+    raw_year = raw["year"]
+    cand_year = candidate.get("year")
+    if raw_year and cand_year and abs(raw_year - cand_year) > 1:
+        mismatches.append("year")
+    if not _author_surname_overlap(raw["authors"], _s2_author_names(candidate)):
         mismatches.append("authors")
     if mismatches:
         return "metadata_mismatch", mismatches
@@ -175,6 +338,14 @@ def _build_best_match(work: dict) -> dict:
         "title": _candidate_title(work),
         "year": work.get("publication_year"),
         "authors": _candidate_author_names(work),
+    }
+
+
+def _build_s2_best_match(work: dict) -> dict:
+    return {
+        "title": _s2_candidate_title(work),
+        "year": work.get("year"),
+        "authors": _s2_author_names(work),
     }
 
 
@@ -190,6 +361,8 @@ def _empty_result(entry: dict) -> dict:
         },
         "status": "not_found",
         "openalex_id": None,
+        "semantic_scholar_id": None,
+        "match_source": None,
         "best_match": None,
         "title_similarity": 0.0,
         "mismatches": [],
@@ -205,6 +378,7 @@ def _finalize_match(result: dict, work: dict, entry: dict) -> dict:
     status, mismatches = _classify_against_candidate(entry, work)
     result["status"] = status
     result["mismatches"] = mismatches
+    result["match_source"] = "openalex"
     return result
 
 
@@ -214,58 +388,201 @@ def _set_ambiguous(result: dict, top: tuple[float, dict]) -> dict:
     result["openalex_id"] = work.get("id")
     result["best_match"] = _build_best_match(work)
     result["title_similarity"] = sim / 100.0
+    result["match_source"] = "openalex"
     return result
 
 
 # ---- Resolution ------------------------------------------------------------
 
 
+def _resolve_openalex(
+    client: httpx.Client, entry: dict, mailto: str | None
+) -> dict:
+    """Run only the OpenAlex resolution stage. Mutates and returns a fresh result dict."""
+    result = _empty_result(entry)
+    if entry["doi"]:
+        work = _get_by_doi(client, entry["doi"], mailto)
+        return _finalize_match(result, work, entry) if work else result
+
+    if entry["arxiv_id"]:
+        results = _search_works(
+            client, f"arxiv {entry['arxiv_id']}", mailto, per_page=5
+        )
+        if not results and entry["title"]:
+            results = _search_works(client, entry["title"], mailto)
+        return _finalize_match(result, results[0], entry) if results else result
+
+    if not entry["title"]:
+        return result
+
+    results = _search_works(client, entry["title"], mailto, per_page=5)
+    scored = [
+        (_title_similarity(entry["title"], _candidate_title(w)), w) for w in results
+    ]
+    scored = [(sim, w) for sim, w in scored if sim >= TITLE_SIMILARITY_THRESHOLD]
+    scored.sort(key=lambda pair: pair[0], reverse=True)
+
+    raw_year = entry["year"]
+    author_matches = [
+        (sim, w)
+        for sim, w in scored
+        if _author_surname_overlap(entry["authors"], _candidate_author_names(w))
+    ]
+    if len(author_matches) == 1:
+        return _finalize_match(result, author_matches[0][1], entry)
+    if len(author_matches) > 1:
+        composite = sorted(
+            author_matches,
+            key=lambda pair: pair[0] + 5 * _year_match(raw_year, pair[1].get("publication_year")),
+            reverse=True,
+        )
+        top_sim, top_work = composite[0]
+        top_year_match = _year_match(raw_year, top_work.get("publication_year"))
+        if top_sim >= 99 and top_year_match:
+            return _finalize_match(result, top_work, entry)
+        top_score = top_sim + 5 * top_year_match
+        second_score = composite[1][0] + 5 * _year_match(
+            raw_year, composite[1][1].get("publication_year")
+        )
+        if top_score > second_score:
+            return _finalize_match(result, top_work, entry)
+        return _set_ambiguous(result, author_matches[0])
+    if len(scored) >= 2:
+        composite = sorted(
+            scored,
+            key=lambda pair: (
+                pair[0] + 5 * _year_match(raw_year, pair[1].get("publication_year"))
+            ),
+            reverse=True,
+        )
+        top_score = composite[0][0] + 5 * _year_match(
+            raw_year, composite[0][1].get("publication_year")
+        )
+        second_score = composite[1][0] + 5 * _year_match(
+            raw_year, composite[1][1].get("publication_year")
+        )
+        if top_score > second_score:
+            return _finalize_match(result, composite[0][1], entry)
+        return _set_ambiguous(result, scored[0])
+    if len(scored) == 1:
+        return _finalize_match(result, scored[0][1], entry)
+    return result
+
+
+def _resolve_s2(
+    client: httpx.Client, entry: dict
+) -> tuple[str, dict | None, list[dict]]:
+    """Run S2 resolution. Returns (status, chosen_candidate, mismatches).
+
+    chosen_candidate is the S2 paper dict matched to the entry, or None.
+    """
+    if entry["doi"]:
+        work = _s2_get_by_doi(client, entry["doi"])
+        if work is None:
+            return "not_found", None, []
+        status, mismatches = _classify_against_s2_candidate(entry, work)
+        return status, work, mismatches
+
+    if entry["arxiv_id"]:
+        work = _s2_get_by_arxiv(client, entry["arxiv_id"])
+        if work is None:
+            return "not_found", None, []
+        status, mismatches = _classify_against_s2_candidate(entry, work)
+        return status, work, mismatches
+
+    if not entry["title"]:
+        return "not_found", None, []
+
+    results = _s2_search(client, entry["title"], per_page=5)
+    scored = [
+        (_title_similarity(entry["title"], _s2_candidate_title(w)), w) for w in results
+    ]
+    scored = [(sim, w) for sim, w in scored if sim >= TITLE_SIMILARITY_THRESHOLD]
+    scored.sort(key=lambda pair: pair[0], reverse=True)
+
+    if not scored:
+        return "not_found", None, []
+
+    author_matches = [
+        (sim, w)
+        for sim, w in scored
+        if _author_surname_overlap(entry["authors"], _s2_author_names(w))
+    ]
+    if len(author_matches) == 1:
+        work = author_matches[0][1]
+        status, mismatches = _classify_against_s2_candidate(entry, work)
+        return status, work, mismatches
+    if len(author_matches) > 1:
+        top_sim, top_work = author_matches[0]
+        if top_sim >= 99 and _year_match(entry["year"], top_work.get("year")):
+            status, mismatches = _classify_against_s2_candidate(entry, top_work)
+            return status, top_work, mismatches
+        return "ambiguous", author_matches[0][1], []
+    if len(scored) >= 2:
+        return "ambiguous", scored[0][1], []
+    work = scored[0][1]
+    status, mismatches = _classify_against_s2_candidate(entry, work)
+    return status, work, mismatches
+
+
+def _s2_id_url(work: dict) -> str:
+    return f"{S2_PAPER_URL_PREFIX}{work['paperId']}"
+
+
+def _apply_s2_result(
+    result: dict,
+    entry: dict,
+    s2_status: str,
+    s2_work: dict | None,
+    s2_mismatches: list[str],
+) -> bool:
+    """Merge S2 outcome into the OpenAlex result. Returns True if S2 lifted the status."""
+    result["semantic_scholar_id"] = _s2_id_url(s2_work) if s2_work else None
+    openalex_priority = STATUS_PRIORITY[result["status"]]
+    s2_priority = STATUS_PRIORITY[s2_status]
+    if s2_priority > openalex_priority:
+        result["status"] = s2_status
+        result["match_source"] = "semantic_scholar"
+        result["mismatches"] = s2_mismatches
+        if s2_work is not None:
+            result["best_match"] = _build_s2_best_match(s2_work)
+            sim = _title_similarity(entry["title"], _s2_candidate_title(s2_work))
+            result["title_similarity"] = sim / 100.0
+        else:
+            result["best_match"] = None
+            result["title_similarity"] = 0.0
+        return True
+    return False
+
+
 def resolve_entry(
     client: httpx.Client, entry: dict, mailto: str | None = None
 ) -> dict:
-    """Resolve a single bib entry to OpenAlex; never raises."""
-    result = _empty_result(entry)
-    try:
-        if entry["doi"]:
-            work = _get_by_doi(client, entry["doi"], mailto)
-            return _finalize_match(result, work, entry) if work else result
-
-        if entry["arxiv_id"]:
-            results = _search_works(
-                client, f"arxiv {entry['arxiv_id']}", mailto, per_page=5
-            )
-            if not results and entry["title"]:
-                results = _search_works(client, entry["title"], mailto)
-            return _finalize_match(result, results[0], entry) if results else result
-
-        if not entry["title"]:
-            return result
-
-        results = _search_works(client, entry["title"], mailto, per_page=5)
-        scored = [
-            (_title_similarity(entry["title"], _candidate_title(w)), w) for w in results
-        ]
-        scored = [(sim, w) for sim, w in scored if sim >= TITLE_SIMILARITY_THRESHOLD]
-        scored.sort(key=lambda pair: pair[0], reverse=True)
-
-        author_matches = [
-            (sim, w)
-            for sim, w in scored
-            if _author_surname_overlap(entry["authors"], _candidate_author_names(w))
-        ]
-        if len(author_matches) == 1:
-            return _finalize_match(result, author_matches[0][1], entry)
-        if author_matches:
-            return _set_ambiguous(result, author_matches[0])
-        if len(scored) >= 2:
-            return _set_ambiguous(result, scored[0])
-        if len(scored) == 1:
-            return _finalize_match(result, scored[0][1], entry)
+    """Resolve a single bib entry to OpenAlex (with S2 fallback); never raises."""
+    if _should_skip(entry):
+        result = _empty_result(entry)
+        result["status"] = "skipped"
         return result
+    try:
+        result = _resolve_openalex(client, entry, mailto)
     except Exception as exc:
+        result = _empty_result(entry)
         result["status"] = "error"
         result["error"] = f"{type(exc).__name__}: {exc}"
         return result
+
+    if result["status"] not in {"not_found", "ambiguous", "metadata_mismatch"}:
+        return result
+
+    try:
+        s2_status, s2_work, s2_mismatches = _resolve_s2(client, entry)
+    except Exception:
+        result["s2_consulted"] = True
+        return result
+
+    result["s2_consulted"] = True
+    result["s2_lifted"] = _apply_s2_result(result, entry, s2_status, s2_work, s2_mismatches)
+    return result
 
 
 # ---- Tarball + multi-bib handling ------------------------------------------
@@ -303,9 +620,13 @@ class _Counts:
     missing: int = 0
     ambiguous: int = 0
     error: int = 0
+    skipped: int = 0
+    s2_consulted: int = 0
+    s2_lifted: int = 0
 
-    def add(self, status: str) -> None:
+    def add(self, result: dict) -> None:
         self.total += 1
+        status = result["status"]
         if status == "verified":
             self.verified += 1
         elif status == "metadata_mismatch":
@@ -316,6 +637,19 @@ class _Counts:
             self.ambiguous += 1
         elif status == "error":
             self.error += 1
+        elif status == "skipped":
+            self.skipped += 1
+        if result.get("s2_consulted"):
+            self.s2_consulted += 1
+        if result.get("s2_lifted"):
+            self.s2_lifted += 1
+
+
+def _strip_internal_fields(result: dict) -> dict:
+    out = dict(result)
+    out.pop("s2_consulted", None)
+    out.pop("s2_lifted", None)
+    return out
 
 
 def verify_bib_files(
@@ -329,9 +663,10 @@ def verify_bib_files(
     with httpx.Client() as client:
         for entry in entries:
             res = resolve_entry(client, entry, mailto=mailto)
-            counts.add(res["status"])
-            results.append(res)
-            time.sleep(POLITE_SLEEP_SECONDS)
+            counts.add(res)
+            results.append(_strip_internal_fields(res))
+            if res["status"] != "skipped":
+                time.sleep(POLITE_SLEEP_SECONDS)
     return {
         "paper_id": paper_id,
         "total": counts.total,
@@ -340,6 +675,10 @@ def verify_bib_files(
         "missing": counts.missing,
         "ambiguous": counts.ambiguous,
         "error": counts.error,
+        "skipped": counts.skipped,
+        "s2_consulted": counts.s2_consulted,
+        "s2_lifted": counts.s2_lifted,
+        "key_style_outliers": _key_style_outliers(entries),
         "entries": results,
     }
 
@@ -350,7 +689,7 @@ def verify_bib_files(
 def _build_parser() -> argparse.ArgumentParser:
     p = argparse.ArgumentParser(
         prog="verify_citations",
-        description="Resolve a paper's bibliography against OpenAlex.",
+        description="Resolve a paper's bibliography against OpenAlex (with Semantic Scholar fallback).",
     )
     src = p.add_mutually_exclusive_group(required=True)
     src.add_argument("--paper-id", help="Koala paper UUID")

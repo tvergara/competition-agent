@@ -5,10 +5,13 @@
 Detect **fabricated** or **metadata-mismatched** references in an ICML 2026
 submission before commenting on the paper. The skill parses each `.bib` file
 shipped in the paper's tarball and resolves every entry against
-[OpenAlex](https://openalex.org), with [Semantic Scholar](https://www.semanticscholar.org)
-as a sequential fallback when OpenAlex returns `not_found`, `ambiguous`, or
-`metadata_mismatch`. Use this skill to ground any citation-related claim in a
-comment so the claim is auditable rather than "vibes".
+[Semantic Scholar](https://www.semanticscholar.org) as the primary index, with
+[OpenAlex](https://openalex.org) as a sequential fallback when Semantic Scholar
+returns `not_found`, `ambiguous`, or `metadata_mismatch`. (Exception: entries
+with a DOI are looked up against OpenAlex first since `/works/doi:` is a keyed
+endpoint that is not subject to OpenAlex's search throttling; Semantic Scholar's
+`/paper/DOI:` is the fallback.) Use this skill to ground any citation-related
+claim in a comment so the claim is auditable rather than "vibes".
 
 Scope of v1: existence + metadata only (title, authors, year). Misattribution
 of claims to a real paper, and claim-vs-abstract entailment, are out of scope
@@ -61,9 +64,9 @@ The report has a top-level summary plus one record per bib entry:
       "key": "smith2020",
       "raw": {"title": "...", "authors": [...], "year": 2020, "doi": null, "arxiv_id": null},
       "status": "verified",
-      "openalex_id": "https://openalex.org/W...",
-      "semantic_scholar_id": null,
-      "match_source": "openalex",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/...",
+      "match_source": "semantic_scholar",
       "best_match": {"title": "...", "year": 2020, "authors": [...]},
       "title_similarity": 0.97,
       "mismatches": [],
@@ -81,19 +84,26 @@ Per-entry fields:
   both sources matched the entry.
 - `match_source` — `"openalex"` or `"semantic_scholar"`, indicating which
   source's candidate is reflected in `best_match` / `title_similarity` /
-  `mismatches`. `null` only when both sources returned `not_found`.
+  `mismatches`. For most entries this is `"semantic_scholar"` since S2 is
+  consulted first; entries with a DOI usually report `"openalex"` because the
+  DOI lookup hits OpenAlex first. `null` only when both sources returned
+  `not_found`.
 - `best_match`, `title_similarity`, `mismatches` — describe the candidate
   identified by `match_source`.
 
 Top-level summary:
 
-- `s2_consulted` — number of entries where Semantic Scholar was queried
-  (i.e. OpenAlex returned `not_found`, `ambiguous`, or `metadata_mismatch`).
-- `s2_lifted` — number of entries whose final status improved because of S2
-  (e.g. OpenAlex `not_found` → final `verified`). Useful as a
-  sanity-check metric: if `s2_lifted` is always 0 across many papers, S2 is
-  likely misconfigured or rate-limited; if it is consistently large, the
-  fallback is doing its job.
+- `s2_consulted` — number of entries where Semantic Scholar was queried.
+  Under the current ordering this is most non-skipped entries: every
+  title-only and every arXiv entry (S2 is consulted first), plus DOI entries
+  where the OpenAlex DOI lookup missed and S2 was reached via fallback.
+- `s2_lifted` — number of entries whose final status improved because the
+  *secondary* source returned a better outcome than the *first-consulted*
+  source. For DOI entries (OpenAlex first) this means S2 lifted an OpenAlex
+  miss; for title-only / arXiv entries (S2 first) this means OpenAlex lifted
+  an S2 miss. Useful as a sanity-check: if `s2_lifted` is always 0 across
+  many papers either both indices agree or one of them is misconfigured /
+  rate-limited; if it is consistently large the fallback is doing its job.
 - `skipped` — number of entries the audit deliberately did not query
   (non-academic sources: news outlets, datasets, web posts, Wikipedia).
   These are not fabrication candidates; absence from academic indices is
@@ -116,17 +126,18 @@ Top-level summary:
   surface when the mismatch is *meaningful*: wrong author, wrong year by
   more than one, or wrong venue. Year-off-by-one is the well-known
   preprint-vs-conference-vs-journal noise and should **not** be flagged.
-- `not_found` — **both OpenAlex and Semantic Scholar** missed this entry.
-  This is now stronger evidence of fabrication than under v1, because two
-  largely-disjoint indices both came up empty. You should be more willing
-  to flag a confirmed `not_found` as likely-fabricated than under v1. Still
-  do a quick Google Scholar sanity check before posting, but the bar for
-  flagging is lower.
-- `ambiguous` — multiple OpenAlex candidates with similar titles but
-  different authors. Usually noise; do not flag publicly unless you have
-  additional evidence.
-- `error` — the OpenAlex call failed (network/HTTP). Re-run the audit; do
-  **not** post a comment about a tool error.
+- `not_found` — **both Semantic Scholar and OpenAlex** missed this entry,
+  reached in that order (the DOI path is the reverse). This is strong
+  evidence of fabrication because two largely-disjoint indices both came up
+  empty. Still do a quick Google Scholar sanity check before posting, but
+  the bar for flagging is low.
+- `ambiguous` — the source identified by `match_source` returned multiple
+  candidates with similar titles but different authors, and the secondary
+  source did not disambiguate. Usually noise; do not flag publicly unless
+  you have additional evidence.
+- `error` — both source calls failed (network/HTTP). The `error` field
+  contains both fingerprints (`"S2: ... | OpenAlex: ..."`). Re-run the
+  audit; do **not** post a comment about a tool error.
 - `skipped` — the entry is a non-academic source (news article, dataset,
   Wikipedia, web post) that the audit intentionally did not query. Never
   flag a `skipped` entry as missing.

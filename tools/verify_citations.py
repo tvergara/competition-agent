@@ -1,4 +1,4 @@
-"""Resolve every BibTeX entry in a paper against OpenAlex (with Semantic Scholar fallback)."""
+"""Resolve every BibTeX entry in a paper against Semantic Scholar (with OpenAlex fallback)."""
 from __future__ import annotations
 
 import argparse
@@ -392,6 +392,28 @@ def _set_ambiguous(result: dict, top: tuple[float, dict]) -> dict:
     return result
 
 
+def _finalize_s2_match(result: dict, work: dict, entry: dict) -> dict:
+    sim = _title_similarity(entry["title"], _s2_candidate_title(work))
+    result["semantic_scholar_id"] = _s2_id_url(work)
+    result["best_match"] = _build_s2_best_match(work)
+    result["title_similarity"] = sim / 100.0
+    status, mismatches = _classify_against_s2_candidate(entry, work)
+    result["status"] = status
+    result["mismatches"] = mismatches
+    result["match_source"] = "semantic_scholar"
+    return result
+
+
+def _set_s2_ambiguous(result: dict, top: tuple[float, dict]) -> dict:
+    sim, work = top
+    result["status"] = "ambiguous"
+    result["semantic_scholar_id"] = _s2_id_url(work)
+    result["best_match"] = _build_s2_best_match(work)
+    result["title_similarity"] = sim / 100.0
+    result["match_source"] = "semantic_scholar"
+    return result
+
+
 # ---- Resolution ------------------------------------------------------------
 
 
@@ -469,29 +491,19 @@ def _resolve_openalex(
     return result
 
 
-def _resolve_s2(
-    client: httpx.Client, entry: dict
-) -> tuple[str, dict | None, list[dict]]:
-    """Run S2 resolution. Returns (status, chosen_candidate, mismatches).
-
-    chosen_candidate is the S2 paper dict matched to the entry, or None.
-    """
+def _resolve_s2(client: httpx.Client, entry: dict) -> dict:
+    """Run only the Semantic Scholar resolution stage. Returns a fresh result dict."""
+    result = _empty_result(entry)
     if entry["doi"]:
         work = _s2_get_by_doi(client, entry["doi"])
-        if work is None:
-            return "not_found", None, []
-        status, mismatches = _classify_against_s2_candidate(entry, work)
-        return status, work, mismatches
+        return _finalize_s2_match(result, work, entry) if work else result
 
     if entry["arxiv_id"]:
         work = _s2_get_by_arxiv(client, entry["arxiv_id"])
-        if work is None:
-            return "not_found", None, []
-        status, mismatches = _classify_against_s2_candidate(entry, work)
-        return status, work, mismatches
+        return _finalize_s2_match(result, work, entry) if work else result
 
     if not entry["title"]:
-        return "not_found", None, []
+        return result
 
     results = _s2_search(client, entry["title"], per_page=5)
     scored = [
@@ -501,7 +513,7 @@ def _resolve_s2(
     scored.sort(key=lambda pair: pair[0], reverse=True)
 
     if not scored:
-        return "not_found", None, []
+        return result
 
     author_matches = [
         (sim, w)
@@ -509,80 +521,126 @@ def _resolve_s2(
         if _author_surname_overlap(entry["authors"], _s2_author_names(w))
     ]
     if len(author_matches) == 1:
-        work = author_matches[0][1]
-        status, mismatches = _classify_against_s2_candidate(entry, work)
-        return status, work, mismatches
+        return _finalize_s2_match(result, author_matches[0][1], entry)
     if len(author_matches) > 1:
         top_sim, top_work = author_matches[0]
         if top_sim >= 99 and _year_match(entry["year"], top_work.get("year")):
-            status, mismatches = _classify_against_s2_candidate(entry, top_work)
-            return status, top_work, mismatches
-        return "ambiguous", author_matches[0][1], []
+            return _finalize_s2_match(result, top_work, entry)
+        return _set_s2_ambiguous(result, author_matches[0])
     if len(scored) >= 2:
-        return "ambiguous", scored[0][1], []
-    work = scored[0][1]
-    status, mismatches = _classify_against_s2_candidate(entry, work)
-    return status, work, mismatches
+        return _set_s2_ambiguous(result, scored[0])
+    return _finalize_s2_match(result, scored[0][1], entry)
 
 
 def _s2_id_url(work: dict) -> str:
     return f"{S2_PAPER_URL_PREFIX}{work['paperId']}"
 
 
-def _apply_s2_result(
-    result: dict,
-    entry: dict,
-    s2_status: str,
-    s2_work: dict | None,
-    s2_mismatches: list[str],
-) -> bool:
-    """Merge S2 outcome into the OpenAlex result. Returns True if S2 lifted the status."""
-    result["semantic_scholar_id"] = _s2_id_url(s2_work) if s2_work else None
-    openalex_priority = STATUS_PRIORITY[result["status"]]
-    s2_priority = STATUS_PRIORITY[s2_status]
-    if s2_priority > openalex_priority:
-        result["status"] = s2_status
-        result["match_source"] = "semantic_scholar"
-        result["mismatches"] = s2_mismatches
-        if s2_work is not None:
-            result["best_match"] = _build_s2_best_match(s2_work)
-            sim = _title_similarity(entry["title"], _s2_candidate_title(s2_work))
-            result["title_similarity"] = sim / 100.0
-        else:
-            result["best_match"] = None
-            result["title_similarity"] = 0.0
+def _merge_secondary(primary: dict, secondary: dict) -> bool:
+    """Merge ``secondary`` resolver result into ``primary`` in-place.
+
+    Carries over the secondary's index id always (so both id fields are populated
+    independently when both sources matched). Promotes ``primary`` to the
+    secondary's outcome when the secondary has a strictly higher status priority.
+    Returns True iff the merge raised the primary's status.
+    """
+    if secondary["openalex_id"]:
+        primary["openalex_id"] = secondary["openalex_id"]
+    if secondary["semantic_scholar_id"]:
+        primary["semantic_scholar_id"] = secondary["semantic_scholar_id"]
+
+    primary_priority = STATUS_PRIORITY[primary["status"]]
+    secondary_priority = STATUS_PRIORITY[secondary["status"]]
+    if secondary_priority > primary_priority:
+        primary["status"] = secondary["status"]
+        primary["match_source"] = secondary["match_source"]
+        primary["mismatches"] = secondary["mismatches"]
+        primary["best_match"] = secondary["best_match"]
+        primary["title_similarity"] = secondary["title_similarity"]
         return True
     return False
+
+
+def _format_error(exc: Exception) -> str:
+    return f"{type(exc).__name__}: {exc}"
 
 
 def resolve_entry(
     client: httpx.Client, entry: dict, mailto: str | None = None
 ) -> dict:
-    """Resolve a single bib entry to OpenAlex (with S2 fallback); never raises."""
+    """Resolve a single bib entry; never raises.
+
+    Dispatch order:
+      - **DOI present:** OpenAlex (`/works/doi:`) first, S2 (`/paper/DOI:`) fallback.
+        Both endpoints are keyed lookups and not subject to search throttling.
+      - **arXiv id present (no DOI):** S2 (`/paper/arXiv:`) first, OpenAlex
+        search-based arxiv path as fallback.
+      - **Title-only:** S2 search first, OpenAlex search as fallback.
+
+    The secondary is consulted whenever the primary returns ``not_found``,
+    ``ambiguous``, ``metadata_mismatch``, or raises. ``s2_consulted`` is True
+    whenever S2 was called (whether as primary or as fallback). ``s2_lifted`` is
+    True when the secondary raised the final status above what the primary
+    alone would have returned.
+    """
     if _should_skip(entry):
         result = _empty_result(entry)
         result["status"] = "skipped"
         return result
+
+    primary_is_s2 = entry["doi"] is None
+
+    primary_error: Exception | None = None
     try:
-        result = _resolve_openalex(client, entry, mailto)
+        if primary_is_s2:
+            primary_result = _resolve_s2(client, entry)
+        else:
+            primary_result = _resolve_openalex(client, entry, mailto)
     except Exception as exc:
+        primary_error = exc
+        primary_result = _empty_result(entry)
+
+    if primary_error is None and primary_result["status"] not in {
+        "not_found", "ambiguous", "metadata_mismatch"
+    }:
+        if primary_is_s2:
+            primary_result["s2_consulted"] = True
+        return primary_result
+
+    secondary_error: Exception | None = None
+    secondary_result: dict | None = None
+    try:
+        if primary_is_s2:
+            secondary_result = _resolve_openalex(client, entry, mailto)
+        else:
+            secondary_result = _resolve_s2(client, entry)
+    except Exception as exc:
+        secondary_error = exc
+
+    if primary_error is not None and secondary_error is not None:
         result = _empty_result(entry)
         result["status"] = "error"
-        result["error"] = f"{type(exc).__name__}: {exc}"
-        return result
-
-    if result["status"] not in {"not_found", "ambiguous", "metadata_mismatch"}:
-        return result
-
-    try:
-        s2_status, s2_work, s2_mismatches = _resolve_s2(client, entry)
-    except Exception:
+        s2_err = primary_error if primary_is_s2 else secondary_error
+        oa_err = secondary_error if primary_is_s2 else primary_error
+        result["error"] = (
+            f"S2: {_format_error(s2_err)} | OpenAlex: {_format_error(oa_err)}"
+        )
         result["s2_consulted"] = True
         return result
 
-    result["s2_consulted"] = True
-    result["s2_lifted"] = _apply_s2_result(result, entry, s2_status, s2_work, s2_mismatches)
-    return result
+    if primary_error is not None:
+        secondary_result["s2_consulted"] = True
+        secondary_result["s2_lifted"] = True
+        return secondary_result
+
+    if secondary_error is not None:
+        primary_result["s2_consulted"] = True
+        return primary_result
+
+    lifted = _merge_secondary(primary_result, secondary_result)
+    primary_result["s2_consulted"] = True
+    primary_result["s2_lifted"] = lifted
+    return primary_result
 
 
 # ---- Tarball + multi-bib handling ------------------------------------------
@@ -689,7 +747,7 @@ def verify_bib_files(
 def _build_parser() -> argparse.ArgumentParser:
     p = argparse.ArgumentParser(
         prog="verify_citations",
-        description="Resolve a paper's bibliography against OpenAlex (with Semantic Scholar fallback).",
+        description="Resolve a paper's bibliography against Semantic Scholar (with OpenAlex fallback).",
     )
     src = p.add_mutually_exclusive_group(required=True)
     src.add_argument("--paper-id", help="Koala paper UUID")

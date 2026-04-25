@@ -80,7 +80,7 @@ def test_parse_bib_basic(tmp_path):
 
 
 # ---------------------------------------------------------------------------
-# resolution by DOI
+# resolution by DOI: OpenAlex stays primary
 # ---------------------------------------------------------------------------
 
 
@@ -113,24 +113,18 @@ def test_resolve_by_doi(httpx_mock):
 
 
 # ---------------------------------------------------------------------------
-# resolution by arXiv id
+# resolution by arXiv id: S2 is primary
 # ---------------------------------------------------------------------------
 
 
 def test_resolve_by_arxiv(httpx_mock):
     httpx_mock.add_response(
-        url=re.compile(r"^https://api\.openalex\.org/works\?.*search=arxiv\+2103\.00001.*$"),
+        url=re.compile(r"^https://api\.semanticscholar\.org/graph/v1/paper/arXiv:2103\.00001.*$"),
         json={
-            "meta": {"count": 1},
-            "results": [
-                {
-                    "id": "https://openalex.org/W42",
-                    "display_name": "Arxiv Paper",
-                    "title": "Arxiv Paper",
-                    "publication_year": 2021,
-                    "authorships": [{"author": {"display_name": "B. Beta"}}],
-                }
-            ],
+            "paperId": "s2arxiv1",
+            "title": "Arxiv Paper",
+            "year": 2021,
+            "authors": [{"name": "B. Beta"}],
         },
     )
     entry = {
@@ -144,30 +138,30 @@ def test_resolve_by_arxiv(httpx_mock):
     with httpx.Client() as client:
         result = vc.resolve_entry(client, entry)
     assert result["status"] == "verified"
-    assert result["openalex_id"] == "https://openalex.org/W42"
-    assert result["semantic_scholar_id"] is None
-    assert result["match_source"] == "openalex"
+    assert result["semantic_scholar_id"] == "https://www.semanticscholar.org/paper/s2arxiv1"
+    assert result["openalex_id"] is None
+    assert result["match_source"] == "semantic_scholar"
 
 
 # ---------------------------------------------------------------------------
-# resolution by title + author
+# resolution by title + author: S2 is primary
 # ---------------------------------------------------------------------------
 
 
 def test_resolve_by_title_match(httpx_mock):
     httpx_mock.add_response(
-        url=re.compile(r"^https://api\.openalex\.org/works\?.*$"),
+        url=re.compile(r"^https://api\.semanticscholar\.org/graph/v1/paper/search\?.*$"),
         json={
-            "meta": {"count": 1},
-            "results": [
+            "total": 1,
+            "offset": 0,
+            "data": [
                 {
-                    "id": "https://openalex.org/W7",
-                    "display_name": "Title Only Paper",
+                    "paperId": "s2title7",
                     "title": "Title Only Paper",
-                    "publication_year": 2019,
-                    "authorships": [
-                        {"author": {"display_name": "C. Gamma"}},
-                        {"author": {"display_name": "D. Delta"}},
+                    "year": 2019,
+                    "authors": [
+                        {"name": "C. Gamma"},
+                        {"name": "D. Delta"},
                     ],
                 }
             ],
@@ -184,36 +178,36 @@ def test_resolve_by_title_match(httpx_mock):
     with httpx.Client() as client:
         result = vc.resolve_entry(client, entry)
     assert result["status"] == "verified"
-    assert result["openalex_id"] == "https://openalex.org/W7"
+    assert result["semantic_scholar_id"] == "https://www.semanticscholar.org/paper/s2title7"
     assert result["title_similarity"] >= 0.9
-    assert result["semantic_scholar_id"] is None
-    assert result["match_source"] == "openalex"
+    assert result["openalex_id"] is None
+    assert result["match_source"] == "semantic_scholar"
 
 
 # ---------------------------------------------------------------------------
-# year off by two -> metadata_mismatch
+# year off by two -> metadata_mismatch (S2 primary, OpenAlex confirms same)
 # ---------------------------------------------------------------------------
 
 
 def test_resolve_title_year_off_by_two(httpx_mock):
     httpx_mock.add_response(
-        url=re.compile(r"^https://api\.openalex\.org/works\?.*$"),
+        url=re.compile(r"^https://api\.semanticscholar\.org/graph/v1/paper/search\?.*$"),
         json={
-            "meta": {"count": 1},
-            "results": [
+            "total": 1,
+            "offset": 0,
+            "data": [
                 {
-                    "id": "https://openalex.org/W11",
-                    "display_name": "Off By Two Years Sample Paper",
+                    "paperId": "s2offyear",
                     "title": "Off By Two Years Sample Paper",
-                    "publication_year": 2020,
-                    "authorships": [{"author": {"display_name": "Hana Kim"}}],
+                    "year": 2020,
+                    "authors": [{"name": "Hana Kim"}],
                 }
             ],
         },
     )
     httpx_mock.add_response(
-        url=re.compile(r"^https://api\.semanticscholar\.org/graph/v1/paper/search\?.*$"),
-        json={"total": 0, "offset": 0, "data": []},
+        url=re.compile(r"^https://api\.openalex\.org/works\?.*$"),
+        json={"meta": {"count": 0}, "results": []},
     )
     entry = {
         "key": "kim2018wrongyear",
@@ -227,22 +221,22 @@ def test_resolve_title_year_off_by_two(httpx_mock):
         result = vc.resolve_entry(client, entry)
     assert result["status"] == "metadata_mismatch"
     assert "year" in result["mismatches"]
-    assert result["match_source"] == "openalex"
+    assert result["match_source"] == "semantic_scholar"
 
 
 # ---------------------------------------------------------------------------
-# no match -> not_found
+# no match -> not_found (both miss)
 # ---------------------------------------------------------------------------
 
 
 def test_resolve_no_match(httpx_mock):
     httpx_mock.add_response(
-        url=re.compile(r"^https://api\.openalex\.org/works\?.*$"),
-        json={"meta": {"count": 0}, "results": []},
-    )
-    httpx_mock.add_response(
         url=re.compile(r"^https://api\.semanticscholar\.org/graph/v1/paper/search\?.*$"),
         json={"total": 0, "offset": 0, "data": []},
+    )
+    httpx_mock.add_response(
+        url=re.compile(r"^https://api\.openalex\.org/works\?.*$"),
+        json={"meta": {"count": 0}, "results": []},
     )
     entry = {
         "key": "fab",
@@ -261,11 +255,33 @@ def test_resolve_no_match(httpx_mock):
 
 
 # ---------------------------------------------------------------------------
-# ambiguous: two candidates >= 0.9 with different authors
+# ambiguous: two candidates >= 0.9 with different authors (S2 returns ambiguous,
+# OpenAlex also returns ambiguous -> stays ambiguous)
 # ---------------------------------------------------------------------------
 
 
 def test_resolve_ambiguous(httpx_mock):
+    httpx_mock.add_response(
+        url=re.compile(r"^https://api\.semanticscholar\.org/graph/v1/paper/search\?.*$"),
+        json={
+            "total": 2,
+            "offset": 0,
+            "data": [
+                {
+                    "paperId": "s2amb1",
+                    "title": "Common Title Phrase Here",
+                    "year": 2020,
+                    "authors": [{"name": "Different Author One"}],
+                },
+                {
+                    "paperId": "s2amb2",
+                    "title": "Common Title Phrase Here",
+                    "year": 2021,
+                    "authors": [{"name": "Different Author Two"}],
+                },
+            ],
+        },
+    )
     httpx_mock.add_response(
         url=re.compile(r"^https://api\.openalex\.org/works\?.*$"),
         json={
@@ -292,10 +308,6 @@ def test_resolve_ambiguous(httpx_mock):
             ],
         },
     )
-    httpx_mock.add_response(
-        url=re.compile(r"^https://api\.semanticscholar\.org/graph/v1/paper/search\?.*$"),
-        json={"total": 0, "offset": 0, "data": []},
-    )
     entry = {
         "key": "amb",
         "title": "Common Title Phrase Here",
@@ -310,12 +322,19 @@ def test_resolve_ambiguous(httpx_mock):
 
 
 # ---------------------------------------------------------------------------
-# network error -> status: error, no crash
+# network error -> status: error, both sources raise
 # ---------------------------------------------------------------------------
 
 
 def test_resolve_network_error(httpx_mock):
-    httpx_mock.add_exception(httpx.ConnectError("boom"))
+    httpx_mock.add_exception(
+        httpx.ConnectError("s2 boom"),
+        url=re.compile(r"^https://api\.semanticscholar\.org/.*$"),
+    )
+    httpx_mock.add_exception(
+        httpx.ConnectError("openalex boom"),
+        url=re.compile(r"^https://api\.openalex\.org/.*$"),
+    )
     entry = {
         "key": "neterr",
         "title": "Some Paper",
@@ -328,42 +347,41 @@ def test_resolve_network_error(httpx_mock):
         result = vc.resolve_entry(client, entry)
     assert result["status"] == "error"
     assert result["error"]
+    assert "S2:" in result["error"]
+    assert "OpenAlex:" in result["error"]
+    assert "s2 boom" in result["error"]
+    assert "openalex boom" in result["error"]
 
 
 # ---------------------------------------------------------------------------
-# disambiguator year tiebreak: two ≥90 candidates, one has matching year
+# Single author-surname overlap picks the matching candidate (S2 primary path)
 # ---------------------------------------------------------------------------
 
 
-def test_disambiguator_year_tiebreak(httpx_mock):
+def test_single_author_overlap_picks_match(httpx_mock):
     httpx_mock.add_response(
-        url=re.compile(r"^https://api\.openalex\.org/works\?.*$"),
+        url=re.compile(r"^https://api\.semanticscholar\.org/graph/v1/paper/search\?.*$"),
         json={
-            "meta": {"count": 2},
-            "results": [
+            "total": 2,
+            "offset": 0,
+            "data": [
                 {
-                    "id": "https://openalex.org/W_match",
-                    "display_name": "Common Title Phrase Here",
+                    "paperId": "s2match",
                     "title": "Common Title Phrase Here",
-                    "publication_year": 2020,
-                    "authorships": [
-                        {"author": {"display_name": "Z. Smith"}}
-                    ],
+                    "year": 2020,
+                    "authors": [{"name": "Z. Smith"}],
                 },
                 {
-                    "id": "https://openalex.org/W_off",
-                    "display_name": "Common Title Phrase Here",
+                    "paperId": "s2off",
                     "title": "Common Title Phrase Here",
-                    "publication_year": 2017,
-                    "authorships": [
-                        {"author": {"display_name": "Smith Different"}}
-                    ],
+                    "year": 2017,
+                    "authors": [{"name": "Different Author"}],
                 },
             ],
         },
     )
     entry = {
-        "key": "tiebreak",
+        "key": "overlap",
         "title": "Common Title Phrase Here",
         "authors": ["Smith, Z."],
         "year": 2020,
@@ -373,33 +391,28 @@ def test_disambiguator_year_tiebreak(httpx_mock):
     with httpx.Client() as client:
         result = vc.resolve_entry(client, entry)
     assert result["status"] == "verified"
-    assert result["openalex_id"] == "https://openalex.org/W_match"
-    assert result["match_source"] == "openalex"
+    assert result["semantic_scholar_id"] == "https://www.semanticscholar.org/paper/s2match"
+    assert result["match_source"] == "semantic_scholar"
 
 
 # ---------------------------------------------------------------------------
-# S2 lifts a not_found OpenAlex result via title search
+# S2 lifts a not_found OpenAlex result (DOI path: OpenAlex first, S2 fallback)
 # ---------------------------------------------------------------------------
 
 
 def test_s2_lifts_not_found(httpx_mock):
     httpx_mock.add_response(
-        url=re.compile(r"^https://api\.openalex\.org/works\?.*$"),
-        json={"meta": {"count": 0}, "results": []},
+        url="https://api.openalex.org/works/doi:10.1000/missing",
+        status_code=404,
+        json={"error": "not found"},
     )
     httpx_mock.add_response(
-        url=re.compile(r"^https://api\.semanticscholar\.org/graph/v1/paper/search\?.*$"),
+        url=re.compile(r"^https://api\.semanticscholar\.org/graph/v1/paper/DOI:.*$"),
         json={
-            "total": 1,
-            "offset": 0,
-            "data": [
-                {
-                    "paperId": "abc123",
-                    "title": "A Real Lurking Paper",
-                    "year": 2022,
-                    "authors": [{"name": "Jane Lurker"}],
-                }
-            ],
+            "paperId": "abc123",
+            "title": "A Real Lurking Paper",
+            "year": 2022,
+            "authors": [{"name": "Jane Lurker"}],
         },
     )
     entry = {
@@ -407,7 +420,7 @@ def test_s2_lifts_not_found(httpx_mock):
         "title": "A Real Lurking Paper",
         "authors": ["Lurker, Jane"],
         "year": 2022,
-        "doi": None,
+        "doi": "10.1000/missing",
         "arxiv_id": None,
     }
     with httpx.Client() as client:
@@ -420,50 +433,126 @@ def test_s2_lifts_not_found(httpx_mock):
 
 
 # ---------------------------------------------------------------------------
-# S2 lifts an ambiguous OpenAlex result to verified
+# OpenAlex lifts an S2 not_found via title search (symmetric to s2_lifts_not_found)
 # ---------------------------------------------------------------------------
 
 
-def test_s2_lifts_ambiguous_to_verified(httpx_mock):
+def test_openalex_lifts_s2_not_found(httpx_mock):
+    httpx_mock.add_response(
+        url=re.compile(r"^https://api\.semanticscholar\.org/graph/v1/paper/search\?.*$"),
+        json={"total": 0, "offset": 0, "data": []},
+    )
     httpx_mock.add_response(
         url=re.compile(r"^https://api\.openalex\.org/works\?.*$"),
         json={
-            "meta": {"count": 2},
+            "meta": {"count": 1},
             "results": [
                 {
-                    "id": "https://openalex.org/W1",
-                    "display_name": "Shared Title Across Two Works",
-                    "title": "Shared Title Across Two Works",
-                    "publication_year": 2020,
+                    "id": "https://openalex.org/W_lurker",
+                    "display_name": "Another Real Lurking Paper",
+                    "title": "Another Real Lurking Paper",
+                    "publication_year": 2022,
                     "authorships": [
-                        {"author": {"display_name": "Different Author One"}}
+                        {"author": {"display_name": "Jane Lurker"}},
                     ],
+                }
+            ],
+        },
+    )
+    entry = {
+        "key": "lurker2",
+        "title": "Another Real Lurking Paper",
+        "authors": ["Lurker, Jane"],
+        "year": 2022,
+        "doi": None,
+        "arxiv_id": None,
+    }
+    with httpx.Client() as client:
+        result = vc.resolve_entry(client, entry)
+    assert result["status"] == "verified"
+    assert result["match_source"] == "openalex"
+    assert result["openalex_id"] == "https://openalex.org/W_lurker"
+    assert result["semantic_scholar_id"] is None
+    assert result["best_match"]["title"] == "Another Real Lurking Paper"
+
+
+# ---------------------------------------------------------------------------
+# OpenAlex lifts an S2 ambiguous result to verified (symmetric to
+# s2_lifts_ambiguous_to_verified)
+# ---------------------------------------------------------------------------
+
+
+def test_openalex_lifts_s2_ambiguous(httpx_mock):
+    httpx_mock.add_response(
+        url=re.compile(r"^https://api\.semanticscholar\.org/graph/v1/paper/search\?.*$"),
+        json={
+            "total": 2,
+            "offset": 0,
+            "data": [
+                {
+                    "paperId": "s2amb_a",
+                    "title": "Shared Title Across Two Works",
+                    "year": 2020,
+                    "authors": [{"name": "Different Author One"}],
                 },
                 {
-                    "id": "https://openalex.org/W2",
-                    "display_name": "Shared Title Across Two Works",
+                    "paperId": "s2amb_b",
                     "title": "Shared Title Across Two Works",
-                    "publication_year": 2020,
-                    "authorships": [
-                        {"author": {"display_name": "Different Author Two"}}
-                    ],
+                    "year": 2020,
+                    "authors": [{"name": "Different Author Two"}],
                 },
             ],
         },
     )
     httpx_mock.add_response(
-        url=re.compile(r"^https://api\.semanticscholar\.org/graph/v1/paper/search\?.*$"),
+        url=re.compile(r"^https://api\.openalex\.org/works\?.*$"),
         json={
-            "total": 1,
-            "offset": 0,
-            "data": [
+            "meta": {"count": 1},
+            "results": [
                 {
-                    "paperId": "s2id999",
+                    "id": "https://openalex.org/W_unique",
+                    "display_name": "Shared Title Across Two Works",
                     "title": "Shared Title Across Two Works",
-                    "year": 2020,
-                    "authors": [{"name": "John Smith"}],
+                    "publication_year": 2020,
+                    "authorships": [{"author": {"display_name": "John Smith"}}],
                 }
             ],
+        },
+    )
+    entry = {
+        "key": "ambs2flip",
+        "title": "Shared Title Across Two Works",
+        "authors": ["Smith, John"],
+        "year": 2020,
+        "doi": None,
+        "arxiv_id": None,
+    }
+    with httpx.Client() as client:
+        result = vc.resolve_entry(client, entry)
+    assert result["status"] == "verified"
+    assert result["match_source"] == "openalex"
+    assert result["openalex_id"] == "https://openalex.org/W_unique"
+
+
+# ---------------------------------------------------------------------------
+# S2 lifts an ambiguous OpenAlex result to verified (DOI path; OpenAlex 404
+# means the entry advances to S2 which finds a clean DOI match).
+# ---------------------------------------------------------------------------
+
+
+def test_s2_lifts_ambiguous_to_verified(httpx_mock):
+    httpx_mock.add_response(
+        url="https://api.openalex.org/works/doi:10.1000/lift",
+        status_code=404,
+        json={"error": "not found"},
+    )
+    httpx_mock.add_response(
+        url=re.compile(r"^https://api\.semanticscholar\.org/graph/v1/paper/DOI:.*$"),
+        json={
+            "paperId": "s2id999",
+            "title": "Shared Title Across Two Works",
+            "year": 2020,
+            "authors": [{"name": "John Smith"}],
         },
     )
     entry = {
@@ -471,7 +560,7 @@ def test_s2_lifts_ambiguous_to_verified(httpx_mock):
         "title": "Shared Title Across Two Works",
         "authors": ["Smith, John"],
         "year": 2020,
-        "doi": None,
+        "doi": "10.1000/lift",
         "arxiv_id": None,
     }
     with httpx.Client() as client:
@@ -482,18 +571,18 @@ def test_s2_lifts_ambiguous_to_verified(httpx_mock):
 
 
 # ---------------------------------------------------------------------------
-# S2 also misses -> stays not_found
+# S2 also misses -> stays not_found (title-only path)
 # ---------------------------------------------------------------------------
 
 
 def test_s2_also_not_found(httpx_mock):
     httpx_mock.add_response(
-        url=re.compile(r"^https://api\.openalex\.org/works\?.*$"),
-        json={"meta": {"count": 0}, "results": []},
-    )
-    httpx_mock.add_response(
         url=re.compile(r"^https://api\.semanticscholar\.org/graph/v1/paper/search\?.*$"),
         json={"total": 0, "offset": 0, "data": []},
+    )
+    httpx_mock.add_response(
+        url=re.compile(r"^https://api\.openalex\.org/works\?.*$"),
+        json={"meta": {"count": 0}, "results": []},
     )
     entry = {
         "key": "fab2",
@@ -512,19 +601,25 @@ def test_s2_also_not_found(httpx_mock):
 
 
 # ---------------------------------------------------------------------------
-# S2 is skipped when OpenAlex verifies cleanly
+# OpenAlex is skipped when S2 verifies cleanly (mirror of the old
+# test_s2_skipped_when_openalex_verified, with the flip)
 # ---------------------------------------------------------------------------
 
 
-def test_s2_skipped_when_openalex_verified(httpx_mock):
+def test_openalex_skipped_when_s2_verified(httpx_mock):
     httpx_mock.add_response(
-        url="https://api.openalex.org/works/doi:10.1000/clean",
+        url=re.compile(r"^https://api\.semanticscholar\.org/graph/v1/paper/search\?.*$"),
         json={
-            "id": "https://openalex.org/W_clean",
-            "display_name": "Clean Match Paper",
-            "title": "Clean Match Paper",
-            "publication_year": 2020,
-            "authorships": [{"author": {"display_name": "A. Alpha"}}],
+            "total": 1,
+            "offset": 0,
+            "data": [
+                {
+                    "paperId": "clean1",
+                    "title": "Clean Match Paper",
+                    "year": 2020,
+                    "authors": [{"name": "A. Alpha"}],
+                }
+            ],
         },
     )
     entry = {
@@ -532,31 +627,114 @@ def test_s2_skipped_when_openalex_verified(httpx_mock):
         "title": "Clean Match Paper",
         "authors": ["Alpha, A."],
         "year": 2020,
-        "doi": "10.1000/clean",
+        "doi": None,
+        "arxiv_id": None,
+    }
+    with httpx.Client() as client:
+        result = vc.resolve_entry(client, entry)
+    assert result["status"] == "verified"
+    assert result["match_source"] == "semantic_scholar"
+    openalex_calls = [
+        r for r in httpx_mock.get_requests()
+        if "api.openalex.org" in str(r.url)
+    ]
+    assert openalex_calls == []
+
+
+# ---------------------------------------------------------------------------
+# OpenAlex is called when S2 raises an exception (title-only path)
+# ---------------------------------------------------------------------------
+
+
+def test_openalex_called_when_s2_raises(httpx_mock):
+    httpx_mock.add_exception(
+        httpx.ConnectError("s2 boom"),
+        url=re.compile(r"^https://api\.semanticscholar\.org/.*$"),
+    )
+    httpx_mock.add_response(
+        url=re.compile(r"^https://api\.openalex\.org/works\?.*$"),
+        json={
+            "meta": {"count": 1},
+            "results": [
+                {
+                    "id": "https://openalex.org/W_fallback",
+                    "display_name": "Fallback Paper",
+                    "title": "Fallback Paper",
+                    "publication_year": 2022,
+                    "authorships": [
+                        {"author": {"display_name": "Fallback Author"}},
+                    ],
+                }
+            ],
+        },
+    )
+    entry = {
+        "key": "fallback",
+        "title": "Fallback Paper",
+        "authors": ["Author, Fallback"],
+        "year": 2022,
+        "doi": None,
         "arxiv_id": None,
     }
     with httpx.Client() as client:
         result = vc.resolve_entry(client, entry)
     assert result["status"] == "verified"
     assert result["match_source"] == "openalex"
-    s2_calls = [
-        r for r in httpx_mock.get_requests()
-        if "semanticscholar" in str(r.url)
-    ]
-    assert s2_calls == []
+    assert result["openalex_id"] == "https://openalex.org/W_fallback"
+    assert result["s2_consulted"] is True
 
 
 # ---------------------------------------------------------------------------
-# end-to-end CLI smoke against the bundled sample.bib fixture
+# end-to-end CLI smoke against the bundled sample.bib fixture.
+# All three entries are title-only -> S2 is consulted first for each.
+# Verifiable entry resolves via S2; not_found and metadata_mismatch entries
+# fall through to OpenAlex.
 # ---------------------------------------------------------------------------
 
 
 def test_cli_main_bibfile_smoke(httpx_mock, tmp_path):
     httpx_mock.add_response(
         url=re.compile(
-            r"^https://api\.openalex\.org/works\?.*search=Resolvable\+Sample\+Paper\+on\+Things.*$"
+            r"^https://api\.semanticscholar\.org/graph/v1/paper/search\?.*query=Resolvable\+Sample\+Paper\+on\+Things.*$"
         ),
-        json=json.loads((FIXTURES / "openalex_resolvable.json").read_text()),
+        json={
+            "total": 1,
+            "offset": 0,
+            "data": [
+                {
+                    "paperId": "s2_resolvable",
+                    "title": "Resolvable Sample Paper on Things",
+                    "year": 2020,
+                    "authors": [
+                        {"name": "Alice Smith"},
+                        {"name": "Bob Jones"},
+                    ],
+                }
+            ],
+        },
+    )
+    httpx_mock.add_response(
+        url=re.compile(
+            r"^https://api\.semanticscholar\.org/graph/v1/paper/search\?.*query=A\+Wholly\+Fabricated\+Title.*$"
+        ),
+        json={"total": 0, "offset": 0, "data": []},
+    )
+    httpx_mock.add_response(
+        url=re.compile(
+            r"^https://api\.semanticscholar\.org/graph/v1/paper/search\?.*query=Off\+By\+Two\+Years\+Sample\+Paper.*$"
+        ),
+        json={
+            "total": 1,
+            "offset": 0,
+            "data": [
+                {
+                    "paperId": "s2_wrongyear",
+                    "title": "Off By Two Years Sample Paper",
+                    "year": 2020,
+                    "authors": [{"name": "Hana Kim"}],
+                }
+            ],
+        },
     )
     httpx_mock.add_response(
         url=re.compile(
@@ -569,13 +747,6 @@ def test_cli_main_bibfile_smoke(httpx_mock, tmp_path):
             r"^https://api\.openalex\.org/works\?.*search=Off\+By\+Two\+Years\+Sample\+Paper.*$"
         ),
         json=json.loads((FIXTURES / "openalex_wrongyear.json").read_text()),
-    )
-    # S2 will be consulted for the not_found and metadata_mismatch entries.
-    # Both miss -> s2_lifted stays 0.
-    httpx_mock.add_response(
-        url=re.compile(r"^https://api\.semanticscholar\.org/graph/v1/paper/search\?.*$"),
-        json={"total": 0, "offset": 0, "data": []},
-        is_reusable=True,
     )
 
     out = tmp_path / "report.json"
@@ -591,7 +762,7 @@ def test_cli_main_bibfile_smoke(httpx_mock, tmp_path):
     assert summary["verified"] == 1
     assert summary["missing"] == 1
     assert summary["mismatch"] == 1
-    assert summary["s2_consulted"] == 2
+    assert summary["s2_consulted"] == 3
     assert summary["s2_lifted"] == 0
 
 
@@ -682,12 +853,13 @@ def test_misc_with_arxiv_not_skipped(httpx_mock, tmp_path):
     )
     entries = vc.parse_bib_file(bib)
     httpx_mock.add_response(
-        url=re.compile(r"^https://api\.openalex\.org/works\?.*$"),
-        json={"meta": {"count": 1}, "results": [
-            {"id": "https://openalex.org/W1", "display_name": "Real Paper",
-             "title": "Real Paper", "publication_year": 2024,
-             "authorships": [{"author": {"display_name": "C. Author"}}]}
-        ]},
+        url=re.compile(r"^https://api\.semanticscholar\.org/graph/v1/paper/arXiv:2401\.12345.*$"),
+        json={
+            "paperId": "s2arxiv2401",
+            "title": "Real Paper",
+            "year": 2024,
+            "authors": [{"name": "C. Author"}],
+        },
     )
     with httpx.Client() as client:
         result = vc.resolve_entry(client, entries[0])
@@ -728,11 +900,7 @@ def test_key_style_outliers_no_dominant_pattern():
 
 def test_resolve_case_mismatch_still_verifies(httpx_mock):
     """Bib lowercases title (e.g. 'Gpt-4'), source has canonical case ('GPT-4').
-    Must still resolve to verified."""
-    httpx_mock.add_response(
-        url=re.compile(r"^https://api\.openalex\.org/works\?.*$"),
-        json={"meta": {"count": 0}, "results": []},
-    )
+    Must still resolve to verified. With S2 primary, S2 alone produces the match."""
     httpx_mock.add_response(
         url=re.compile(r"^https://api\.semanticscholar\.org/graph/v1/paper/search\?.*$"),
         json={
@@ -764,25 +932,25 @@ def test_resolve_case_mismatch_still_verifies(httpx_mock):
 
 def test_duplicate_records_resolve_to_verified(httpx_mock):
     """Catalog duplicates (two records, identical title+year, both author-matched)
-    should resolve to verified, not ambiguous."""
+    should resolve to verified, not ambiguous. With S2 primary, exercise the S2
+    duplicate-detection path."""
     httpx_mock.add_response(
-        url=re.compile(r"^https://api\.openalex\.org/works\?.*$"),
+        url=re.compile(r"^https://api\.semanticscholar\.org/graph/v1/paper/search\?.*$"),
         json={
-            "meta": {"count": 2},
-            "results": [
+            "total": 2,
+            "offset": 0,
+            "data": [
                 {
-                    "id": "https://openalex.org/W100",
-                    "display_name": "Discrete Flow Matching",
+                    "paperId": "s2dup_a",
                     "title": "Discrete Flow Matching",
-                    "publication_year": 2024,
-                    "authorships": [{"author": {"display_name": "Itai Gat"}}],
+                    "year": 2024,
+                    "authors": [{"name": "Itai Gat"}],
                 },
                 {
-                    "id": "https://openalex.org/W200",
-                    "display_name": "Discrete Flow Matching",
+                    "paperId": "s2dup_b",
                     "title": "Discrete Flow Matching",
-                    "publication_year": 2024,
-                    "authorships": [{"author": {"display_name": "Itai Gat"}}],
+                    "year": 2024,
+                    "authors": [{"name": "Itai Gat"}],
                 },
             ],
         },
@@ -798,7 +966,7 @@ def test_duplicate_records_resolve_to_verified(httpx_mock):
     with httpx.Client() as client:
         result = vc.resolve_entry(client, entry)
     assert result["status"] == "verified"
-    assert result["openalex_id"] == "https://openalex.org/W100"
+    assert result["semantic_scholar_id"] == "https://www.semanticscholar.org/paper/s2dup_a"
 
 
 def test_s2_sends_api_key_header(httpx_mock, monkeypatch):

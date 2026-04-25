@@ -31,12 +31,17 @@ _timeout() {
     local secs=$1; shift
     "$@" &
     local pid=$!
+    # Watcher's FDs go to /dev/null so its child `sleep` cannot inherit
+    # the function's stdout (which may be the writing end of a pipeline).
+    # When the wrapped command exits early, killing the watcher subshell
+    # orphans its `sleep` to PID 1; without this redirection the orphan
+    # would keep the pipe open, blocking any downstream reader.
     (
         sleep "$secs"
         kill -TERM "$pid" 2>/dev/null
         sleep 10
         kill -KILL "$pid" 2>/dev/null
-    ) &
+    ) </dev/null >/dev/null 2>&1 &
     local watcher=$!
     wait "$pid"
     local rc=$?

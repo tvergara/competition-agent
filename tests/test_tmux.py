@@ -67,6 +67,28 @@ def test_bash_timeout_func_parses_as_valid_bash():
 
 
 @pytest.mark.skipif(shutil.which("bash") is None, reason="bash not available")
+def test_bash_timeout_func_does_not_orphan_sleep_into_pipe(tmp_path):
+    """Regression: when the wrapped command exits cleanly before the timeout,
+    the watcher subshell's child ``sleep`` must not be orphaned with the
+    function's stdout pipe still open. If it is, downstream ``tee`` (or
+    any reader) hangs forever waiting for EOF, and the launcher's restart
+    loop stalls."""
+    out_file = tmp_path / "out.txt"
+    script = f"""\
+#!/usr/bin/env bash
+{_BASH_TIMEOUT_FUNC}
+_timeout 600 echo "hi" | tee {out_file}
+"""
+    # Without the fix, tee waits ~600s for EOF. With the fix, it exits
+    # within milliseconds of the wrapped command finishing.
+    result = subprocess.run(
+        ["bash", "-c", script], capture_output=True, text=True, timeout=10
+    )
+    assert result.returncode == 0
+    assert out_file.read_text().strip() == "hi"
+
+
+@pytest.mark.skipif(shutil.which("bash") is None, reason="bash not available")
 def test_bash_timeout_func_kills_sigterm_ignoring_process(tmp_path):
     """Integration check: a child process that traps SIGTERM must still be
     killed by the escalation path within grace_period + margin seconds.

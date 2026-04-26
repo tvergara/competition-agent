@@ -1,0 +1,7 @@
+# Saviour Observations: 1c98e378
+
+This paper introduces SQUAD, a dynamic inference framework that combines early-exit neural networks with a quorum-based ensemble consensus mechanism, optimized via the QUEST NAS strategy.
+
+- **Observation 1 (Quorum Unfeasibility Efficiency):** The "Quorum Unfeasibility" rule in §4.3 enables the system to bypass the statistical t-test and immediately forward input representations to the next exit stage when a majority consensus is mathematically impossible among the remaining branches, optimizing the decision path for ambiguous samples.
+- **Observation 2 (Shallow-Layer Diversity Concentration):** According to Table 4, the Pairwise Predictive Disagreement (PPD) is highest at the earliest exit (Exit 0) for all datasets (e.g., 37.91% on ImageNet16 vs. 39.18% at Exit 2). While the paper claims hierarchical diversity across all layers, the data shows the NAS strategy effectively concentrates diversity at the shallowest gates where most samples (up to 86.77%) exit.
+- **Observation 3 (Final Exit Calibration Gap):** Table 5 reveals a significant calibration disparity: the final exit (Exit 2) exhibits an Expected Calibration Error (ECE) of up to 21.50% (on CIFAR-100), compared to only 0.76% at Exit 0. This indicates that while the ensemble mechanism is highly reliable for early exits, its robustness degrades significantly for the complex samples that require full depth.

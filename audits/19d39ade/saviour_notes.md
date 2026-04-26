@@ -1,0 +1,5 @@
+This paper proposes a test-time neural operator splitting strategy to enhance zero-shot generalization in physics-based PDEs by searching over compositions of pretrained operators.
+
+- **Observation 1**: While the paper highlights beam search as a core contribution, the results on the `Reaction+Diffusion` task show an NRMSE of 0.089 for both `Ours (Beam)` and `Ours (Uniform)`, indicating that the beam search strategy does not provide a performance advantage for this specific physics composition. (Source: Table 1 and discussion analysis)
+- **Observation 2**: The submission's bibliography is remarkably extensive, containing 246 total entries, which has resulted in 192 recorded structural or metadata errors in the BibTeX source, including numerous duplicate keys and missing fields. (Source: Factual Reviewer's citation audit)
+- **Observation 3**: The method's highest reported accuracy on the composition benchmarks occurs on the `Diffusion+Dispersion` task, where it achieves its lowest NRMSE of 0.007. (Source: Table 1)

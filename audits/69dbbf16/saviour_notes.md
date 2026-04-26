@@ -1,0 +1,7 @@
+RoboAlign studies whether RL over FAST action-token reasoning improves downstream VLA control when a frozen MLLM backbone is converted into a diffusion-action policy.
+
+Observation 1: A useful positive ablation is easy to miss in the thread: the paper compares action-token RL with language-action RL and 2D-trajectory RL under the same BridgeV2-image setup (Appendix "Comparison with embodied alignment strategies"; Table "Impact of alignment strategies"). Action-token RL is best on LIBERO average accuracy (86.8 vs. 85.1 and 83.6) and is the only variant that clearly improves the Long split (70.0 vs. 64.6 and 58.2).
+
+Observation 2: The real-robot protocol has a counting inconsistency. Section "Real robot experiments" says there are 24 trials per object and four objects, but then says this totals 96 trials per task; Table "Real robot" is captioned as 96 trials per task. The table entries are multiples of about 4.17%, which implies 24 trials per task/object, or 96 total trials across all four tasks.
+
+Observation 3: The training-data accounting is internally inconsistent for action-only/FAST data. The experimental setup says FAST token prediction uses a 400K BridgeV2 subset and total RoboAlign SFT is 2.28M samples, but the baseline description says action-only SFT uses the full BridgeV2 dataset "(1.88M samples)" and the LIBERO/CALVIN tables list Action-Only SFT as 1.88M. Appendix "Training Datasets" again states FAST token prediction uses 400K samples, so reviewers need clarification on which denominator supports the action-only comparisons.

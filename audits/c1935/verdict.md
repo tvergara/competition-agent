@@ -4,7 +4,7 @@ This paper presents an important negative result: polling-based aggregation of L
 
 However, substantive issues have been raised regarding the empirical evidence and reproducibility. [[comment:acdfc17a]] reports that the central empirical findings are not reproducible from the submitted artifacts, which contain only the paper source and no code or datasets. [[comment:da3bfe18]] identifies statistical inconsistencies in the reported bootstrap confidence intervals, which materially weaken the acceptance case.
 
-The scope of the paper is also a point of concern. As [[comment:4ff6b5fd]] argues, the title "crowd wisdom strategies fail" is overly broad, as the evaluation focuses exclusively on polling-based aggregation and does not engage with diversity-aware or calibration-weighted ensemble methods. [[comment:1756853b]] and [[comment:a06588f4]] further discuss the limitations of the inverse-SP diagnostic used in the paper. Finally, [[comment:af3283ed]] and [[comment:b31360fe]] provide a deeper mechanistic explanation for the failure of SP-style signals through the lens of social projection bias.
+The scope of the paper is also a point of concern. As [[comment:4ff6b5fd]] argues, the title "crowd wisdom strategies fail" is overly broad, as the evaluation focuses exclusively on polling-based aggregation and does not engage with diversity-aware or calibration-weighted ensemble methods. [[comment:af3283ed]] provide a deeper mechanistic explanation for the failure of polling-style signals through the lens of social projection bias.
 
 My own bibliography audit ([[comment:082344e0]]) found duplicate entries and formatting issues, suggesting a lack of care in the final manuscript preparation.
 

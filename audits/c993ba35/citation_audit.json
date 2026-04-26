@@ -1,0 +1,4090 @@
+{
+  "paper_id": "c993ba35-65e0-4290-a66a-c128e33410f4",
+  "total": 133,
+  "verified": 113,
+  "mismatch": 7,
+  "missing": 7,
+  "ambiguous": 1,
+  "error": 0,
+  "skipped": 5,
+  "s2_consulted": 24,
+  "s2_lifted": 9,
+  "key_style_outliers": [
+    "pmlr-v151-chen22i",
+    "doi:10.1137/1.9781611976465.84",
+    "9351818",
+    "10.1145/3269206.3272021",
+    "doi:10.1177/0278364913495721",
+    "8807386",
+    "doi:10.1137/17M1139461",
+    "10.5555/3540261.3542236",
+    "10.5555/3618408.3618858",
+    "9570295",
+    "NAAMAN2021109088",
+    "doi:10.1073/pnas.36.1.48",
+    "doi:10.1137/20M1360700",
+    "409cf137-dbb5-3eb1-8cfe-0743c3dc925f",
+    "faaf16cc-812f-3d2c-9158-610f115420d7",
+    "10.5555/1522486",
+    "doi:10.1073/pnas.39.10.1095",
+    "7989376",
+    "pmlr-v125-jin20a",
+    "pmlr-v19-abernethy11b",
+    "10.5555/1070432.1070519",
+    "10.5555/3586589.3586718",
+    "10.1007/s00182-023-00837-4",
+    "4597505",
+    "10310098",
+    "10.1145/3308558.3313433",
+    "10.1145/1391289.1391291",
+    "pmlr-v151-jin22a",
+    "10.5555/3600270.3600377",
+    "pmlr-v206-fabian23a",
+    "10.1145/1516512.1516516",
+    "pmlr-v247-lin24a"
+  ],
+  "entries": [
+    {
+      "key": "lin2022online",
+      "raw": {
+        "title": "Online Adaptive Controller Selection in Time-Varying Systems: No-Regret via Contractive Perturbations",
+        "authors": [
+          "Lin, Yiheng",
+          "Preiss, James A.",
+          "Anand, Emile",
+          "Li, Yingying",
+          "Yue, Yisong",
+          "Wierman, Adam"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "not_found",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "lazarsfeld2025fastfurioussymmetriclearning",
+      "raw": {
+        "title": "Fast and Furious Symmetric Learning in Zero-Sum Games: Gradient Descent as Fictitious Play",
+        "authors": [
+          "John Lazarsfeld",
+          "Georgios Piliouras",
+          "Ryann Sim",
+          "Andre Wibisono"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2506.13086"
+      },
+      "status": "metadata_mismatch",
+      "openalex_id": "https://openalex.org/W4407569694",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Last-iterate Convergence for Symmetric, General-sum, $2 \\times 2$ Games Under The Exponential Weights Dynamic",
+        "year": 2025,
+        "authors": [
+          "Guanghui Wang",
+          "Krishna Prasad Acharya",
+          "Lokranjan Lakshmikanthan",
+          "Juba Ziani",
+          "Vidya Muthukumar"
+        ]
+      },
+      "title_similarity": 0.45226130653266333,
+      "mismatches": [
+        "authors"
+      ],
+      "error": null
+    },
+    {
+      "key": "craven2005karlin",
+      "raw": {
+        "title": "Karlin's conjecture and a question of P\\'olya",
+        "authors": [
+          "Craven, Thomas",
+          "Csordas, George"
+        ],
+        "year": 2005,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "not_found",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "ding2022independent",
+      "raw": {
+        "title": "Independent policy gradient for large-scale Markov potential games: Sharper rates, function approximation, and game-agnostic convergence",
+        "authors": [
+          "Ding, Dongsheng",
+          "Wei, Chen-Yu",
+          "Zhang, Kaiqing",
+          "Jovanovic, Mihailo"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4226138304",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Independent Policy Gradient for Large-Scale Markov Potential Games: Sharper Rates, Function Approximation, and Game-Agnostic Convergence",
+        "year": 2022,
+        "authors": [
+          "Dong-Sheng Ding",
+          "Chen-Yu Wei",
+          "Kaiqing Zhang",
+          "Mihailo R. Jovanović"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "balcan2025learningstructuredstackelberggames",
+      "raw": {
+        "title": "Learning in Structured Stackelberg Games",
+        "authors": [
+          "Maria-Florina Balcan",
+          "Kiriaki Fragkia",
+          "Keegan Harris"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2504.09006"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2560773965",
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/fa7e85a6b34bb68c1f09ec55eca05220c0396b34",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Learning in Structured Stackelberg Games",
+        "year": 2025,
+        "authors": [
+          "Maria-Florina Balcan",
+          "Kiriaki Fragkia",
+          "Keegan Harris"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "chen2021finite",
+      "raw": {
+        "title": "Finite-sample analysis of off-policy TD-learning via generalized bellman operators",
+        "authors": [
+          "Chen, Zaiwei",
+          "Maguluri, Siva Theja",
+          "Shakkottai, Sanjay",
+          "Shanmugam, Karthikeyan"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3176355038",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Finite-Sample Analysis of Off-Policy TD-Learning via Generalized Bellman Operators",
+        "year": 2021,
+        "authors": [
+          "Zaiwei Chen",
+          "Siva Theja Maguluri",
+          "Sanjay Shakkottai",
+          "Shanmugam, Karthikeyan"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "pmlr-v151-chen22i",
+      "raw": {
+        "title": "Sample Complexity of Policy-Based Methods under Off-Policy Sampling and Linear Function Approximation",
+        "authors": [
+          "Chen, Zaiwei",
+          "Maguluri, Siva Theja"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/2d2aae890b175905539b8e776ec671ca26834d9e",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Sample Complexity of Policy-Based Methods under Off-Policy Sampling and Linear Function Approximation",
+        "year": 2022,
+        "authors": [
+          "Zaiwei Chen",
+          "Siva Theja Maguluri"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "chen2025concentration",
+      "raw": {
+        "title": "Concentration of contractive stochastic approximation: Additive and multiplicative noise",
+        "authors": [
+          "Chen, Zaiwei",
+          "Maguluri, Siva Theja",
+          "Zubeldia, Martin"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4409748086",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Concentration of contractive stochastic approximation: Additive and multiplicative noise",
+        "year": 2025,
+        "authors": [
+          "Zaiwei Chen",
+          "Siva Theja Maguluri",
+          "Martín Zubeldía"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "chen2021lyapunov",
+      "raw": {
+        "title": "A Lyapunov theory for finite-sample guarantees of asynchronous Q-learning and TD-learning variants",
+        "authors": [
+          "Chen, Zaiwei",
+          "Maguluri, Siva Theja",
+          "Shakkottai, Sanjay",
+          "Shanmugam, Karthikeyan"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3127825666",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "A Lyapunov Theory for Finite-Sample Guarantees of Asynchronous Q-Learning and TD-Learning Variants",
+        "year": 2021,
+        "authors": [
+          "Zaiwei Chen",
+          "Siva Theja Maguluri",
+          "Sanjay Shakkottai",
+          "Shanmugam, Karthikeyan"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "fujimoto2019off",
+      "raw": {
+        "title": "Off-policy deep reinforcement learning without exploration",
+        "authors": [
+          "Fujimoto, Scott",
+          "Meger, David",
+          "Precup, Doina"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2904453761",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Off-Policy Deep Reinforcement Learning without Exploration",
+        "year": 2018,
+        "authors": [
+          "Scott Fujimoto",
+          "David Meger",
+          "Doina Precup"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "overman2025oversightgamelearningcooperatively",
+      "raw": {
+        "title": "The Oversight Game: Learning to Cooperatively Balance an AI Agent's Safety and Autonomy",
+        "authors": [
+          "William Overman",
+          "Mohsen Bayati"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2510.26752"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4386794445",
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/cc47eb48129d018dd2ffeb6f7d635e1868d43cf5",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "The Oversight Game: Learning to Cooperatively Balance an AI Agent's Safety and Autonomy",
+        "year": 2025,
+        "authors": [
+          "William Overman",
+          "Mohsen Bayati"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "leonardos2025globalconvergencemultiagentpolicy",
+      "raw": {
+        "title": "Global Convergence of Multi-Agent Policy Gradient in Markov Potential Games",
+        "authors": [
+          "Stefanos Leonardos",
+          "Will Overman",
+          "Ioannis Panageas",
+          "Georgios Piliouras"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2106.01969"
+      },
+      "status": "metadata_mismatch",
+      "openalex_id": "https://openalex.org/W4285092776",
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/766f25e1e6adb4d76403e2a59733257b77d5db12",
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Fictitious Play in Markov Games with Single Controller",
+        "year": 2022,
+        "authors": [
+          "Muhammed O. Sayin",
+          "Kaiqing Zhang",
+          "Asuman Ozdaglar"
+        ]
+      },
+      "title_similarity": 0.5426356589147286,
+      "mismatches": [
+        "year",
+        "authors"
+      ],
+      "error": null
+    },
+    {
+      "key": "arefizadeh2024characterizationspotentialordinalpotential",
+      "raw": {
+        "title": "On Characterizations of Potential and Ordinal Potential Games",
+        "authors": [
+          "Sina Arefizadeh",
+          "Angelia Nedich",
+          "Gautam Dasarathy"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2405.06253"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4404313646",
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/7b5e2ab7b0a3c352154fd6911c04ae6cab44d474",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "On Characterizations of Potential and Ordinal Potential Games",
+        "year": 2024,
+        "authors": [
+          "Sina Arefizadeh",
+          "A. Nedić",
+          "Gautam Dasarathy"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "yan2025markovpotentialgameconstruction",
+      "raw": {
+        "title": "Markov Potential Game Construction and Multi-Agent Reinforcement Learning with Applications to Autonomous Driving",
+        "authors": [
+          "Huiwen Yan",
+          "Mushuang Liu"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2503.22867"
+      },
+      "status": "metadata_mismatch",
+      "openalex_id": "https://openalex.org/W4404313646",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Almost Sure Convergence of Networked Policy Gradient over Time-Varying Networks in Markov Potential Games",
+        "year": 2024,
+        "authors": [
+          "Sarper Aydın",
+          "Ceyhun Eksin"
+        ]
+      },
+      "title_similarity": 0.47706422018348627,
+      "mismatches": [
+        "authors"
+      ],
+      "error": null
+    },
+    {
+      "key": "guo2025markovalphapotentialgames",
+      "raw": {
+        "title": "Markov $\\alpha$-Potential Games",
+        "authors": [
+          "Xin Guo",
+          "Xinyu Li",
+          "Chinmay Maheshwari",
+          "Shankar Sastry",
+          "Manxi Wu"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2305.12553"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4404364855",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Imagined Potential Games: A Framework for Simulating, Learning and Evaluating Interactive Behaviors",
+        "year": 2024,
+        "authors": [
+          "Lingfeng Sun",
+          "Yixiao Wang",
+          "Pin-Yun Hung",
+          "Changhao Wang",
+          "Xiang Zhang",
+          "Zhuo Xu",
+          "Masayoshi Tomizuka"
+        ]
+      },
+      "title_similarity": 0.29230769230769227,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "doi:10.1137/1.9781611976465.84",
+      "raw": {
+        "title": "Fast convergence of fictitious play for diagonal payoff matrices",
+        "authors": [
+          "Abernethy, Jacob",
+          "Lai, Kevin A.",
+          "Wibisono, Andre"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3044580640",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Fast Convergence of Fictitious Play for Diagonal Payoff Matrices",
+        "year": 2021,
+        "authors": [
+          "Jacob Abernethy",
+          "Kevin A. Lai",
+          "Andre Wibisono"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Daskalakis_2014",
+      "raw": {
+        "title": "A Counter-example to Karlin’s Strong Conjecture for Fictitious Play",
+        "authors": [
+          "Daskalakis, Constantinos",
+          "Pan, Qinxuan"
+        ],
+        "year": 2014,
+        "doi": "10.1109/focs.2014.10",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2073826257",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "A Counter-example to Karlin's Strong Conjecture for Fictitious Play",
+        "year": 2014,
+        "authors": [
+          "Constantinos Daskalakis",
+          "Qinxuan Pan"
+        ]
+      },
+      "title_similarity": 0.9850746268656717,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "lv2024localinformationaggregationbased",
+      "raw": {
+        "title": "A Local Information Aggregation-Based Multiagent Reinforcement Learning for Robot Swarm Dynamic Task Allocation",
+        "authors": [
+          "Lv, Yang",
+          "Lei, Jinlong",
+          "Yi, Peng"
+        ],
+        "year": 2025,
+        "doi": "10.1109/TNNLS.2025.3558282",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4409723333",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "A Local Information Aggregation-Based Multiagent Reinforcement Learning for Robot Swarm Dynamic Task Allocation",
+        "year": 2025,
+        "authors": [
+          "Yang Lv",
+          "Jinlong Lei",
+          "Peng Yi"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "aina2025deepreinforcementlearningmultiagent",
+      "raw": {
+        "title": "Deep Reinforcement Learning for Multi-Agent Coordination",
+        "authors": [
+          "Kehinde O. Aina",
+          "Sehoon Ha"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2510.03592"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W7140291281",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Energy–Information–Decision Coupling Optimization for Cooperative Operations of Heterogeneous Maritime Unmanned Systems",
+        "year": 2026,
+        "authors": [
+          "Dongying Feng",
+          "Xin Liao",
+          "Liuhua Zhang",
+          "Jingfeng Yang",
+          "Weilong Shen",
+          "Li Wang",
+          "Chenguang Yang"
+        ]
+      },
+      "title_similarity": 0.38857142857142857,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "chiun2025marvelmultiagentreinforcementlearning",
+      "raw": {
+        "title": "MARVEL: Multi-Agent Reinforcement Learning for Constrained Field-of-View Multi-Robot Exploration in Large-Scale Environments",
+        "authors": [
+          "Chiun, Jimmy",
+          "Zhang, Shizhe",
+          "Wang, Yizhuo",
+          "Cao, Yuhong",
+          "Sartoretti, Guillaume"
+        ],
+        "year": 2025,
+        "doi": "10.1109/ICRA55743.2025.11127700",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4413925637",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "MARVEL: Multi-Agent Reinforcement Learning for Constrained Field-of-View Multi-Robot Exploration in Large-Scale Environments",
+        "year": 2025,
+        "authors": [
+          "Jimmy Chiun",
+          "Shizhe Zhang",
+          "Yizhuo Wang",
+          "Yuhong Cao",
+          "Guillaume Sartoretti"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "9351818",
+      "raw": {
+        "title": "Deep Reinforcement Learning for Autonomous Driving: A Survey",
+        "authors": [
+          "Kiran, B Ravi",
+          "Sobh, Ibrahim",
+          "Talpaert, Victor",
+          "Mannion, Patrick",
+          "Sallab, Ahmad A. Al",
+          "Yogamani, Senthil",
+          "Pérez, Patrick"
+        ],
+        "year": 2022,
+        "doi": "10.1109/TITS.2021.3054625",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3003533476",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Deep Reinforcement Learning for Autonomous Driving: A Survey",
+        "year": 2021,
+        "authors": [
+          "Bangalore Ravi Kiran",
+          "Ibrahim Sobh",
+          "Victor Talpaert",
+          "Patrick Mannion",
+          "Ahmad A. Al Sallab",
+          "Senthil Yogamani",
+          "Patrick Pérez"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "10.1145/3269206.3272021",
+      "raw": {
+        "title": "Real-Time Bidding with Multi-Agent Reinforcement Learning in Display Advertising",
+        "authors": [
+          "Jin, Junqi",
+          "Song, Chengru",
+          "Li, Han",
+          "Gai, Kun",
+          "Wang, Jun",
+          "Zhang, Weinan"
+        ],
+        "year": 2018,
+        "doi": "10.1145/3269206.3272021",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2788125442",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Real-Time Bidding with Multi-Agent Reinforcement Learning in Display Advertising",
+        "year": 2018,
+        "authors": [
+          "Junqi Jin",
+          "Chengru Song",
+          "Han Li",
+          "Kun Gai",
+          "Jun Wang",
+          "Weinan Zhang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Silver_Huang_Maddison_Guez_Sifre_van_den_Driessche_Schrittwieser_Antonoglou_Panneershelvam_Lanctot_et_al._2016",
+      "raw": {
+        "title": "Mastering the Game of Go with Deep Neural Networks and Tree Search",
+        "authors": [
+          "Silver, David",
+          "Huang, Aja",
+          "Maddison, Chris J.",
+          "Guez, Arthur",
+          "Sifre, Laurent",
+          "van den Driessche, George",
+          "Schrittwieser, Julian",
+          "Antonoglou, Ioannis",
+          "Panneershelvam, Veda",
+          "Lanctot, Marc",
+          "Dieleman, Sander",
+          "Grewe, Dominik",
+          "Nham, John",
+          "Kalchbrenner, Nal",
+          "Sutskever, Ilya",
+          "Lillicrap, Timothy",
+          "Leach, Madeleine",
+          "Kavukcuoglu, Koray",
+          "Graepel, Thore",
+          "Hassabis, Demis"
+        ],
+        "year": 2016,
+        "doi": "10.1038/nature16961",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2257979135",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Mastering the game of Go with deep neural networks and tree search",
+        "year": 2016,
+        "authors": [
+          "David Silver",
+          "Aja Huang",
+          "Chris J. Maddison",
+          "Arthur Guez",
+          "Laurent Sifre",
+          "George van den Driessche",
+          "Julian Schrittwieser",
+          "Ioannis Antonoglou",
+          "Veda Panneershelvam",
+          "Marc Lanctot",
+          "Sander Dieleman",
+          "Dominik Grewe",
+          "John Nham",
+          "Nal Kalchbrenner",
+          "Ilya Sutskever",
+          "Timothy Lillicrap",
+          "Madeleine Leach",
+          "Koray Kavukcuoglu",
+          "Thore Graepel",
+          "Demis Hassabis"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "doi:10.1177/0278364913495721",
+      "raw": {
+        "title": "Reinforcement Learning in Robotics: A Survey",
+        "authors": [
+          "Jens Kober",
+          "J. Andrew Bagnell",
+          "Jan Peters"
+        ],
+        "year": 2013,
+        "doi": "10.1177/0278364913495721",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W1977655452",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Reinforcement learning in robotics: A survey",
+        "year": 2013,
+        "authors": [
+          "Jens Kober",
+          "J. Andrew Bagnell",
+          "Jan Peters"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "8807386",
+      "raw": {
+        "title": "Multi-Agent Reinforcement Learning-Based Resource Allocation for UAV Networks",
+        "authors": [
+          "Cui, Jingjing",
+          "Liu, Yuanwei",
+          "Nallanathan, Arumugam"
+        ],
+        "year": 2020,
+        "doi": "10.1109/TWC.2019.2935201",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2969525674",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Multi-Agent Reinforcement Learning-Based Resource Allocation for UAV Networks",
+        "year": 2019,
+        "authors": [
+          "Jingjing Cui",
+          "Yuanwei Liu",
+          "Arumugam Nallanathan"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "deweese2024locally",
+      "raw": {
+        "title": "Locally Interdependent Multi-Agent MDP: Theoretical Framework for Decentralized Agents with Dynamic Dependencies",
+        "authors": [
+          "Alex DeWeese",
+          "Guannan Qu"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4399597744",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Locally Interdependent Multi-Agent MDP: Theoretical Framework for Decentralized Agents with Dynamic Dependencies",
+        "year": 2024,
+        "authors": [
+          "Alex DeWeese",
+          "Guannan Qu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "shalevshwartz2016safemultiagentreinforcementlearning",
+      "raw": {
+        "title": "Safe, Multi-Agent, Reinforcement Learning for Autonomous Driving",
+        "authors": [
+          "Shai Shalev-Shwartz",
+          "Shaked Shammah",
+          "Amnon Shashua"
+        ],
+        "year": 2016,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2530849036",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Safe, Multi-Agent, Reinforcement Learning for Autonomous Driving",
+        "year": 2016,
+        "authors": [
+          "Shai Shalev‐Shwartz",
+          "Shaked Shammah",
+          "Amnon Shashua"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "anand2025meanfield",
+      "raw": {
+        "title": "Mean-Field Sampling for Cooperative Multi-Agent Reinforcement Learning",
+        "authors": [
+          "Emile Timothy Anand",
+          "Ishani Karmarkar",
+          "Guannan Qu"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4405033429",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Mean-Field Sampling for Cooperative Multi-Agent Reinforcement Learning",
+        "year": 2024,
+        "authors": [
+          "Emile Anand",
+          "Ishani Karmarkar",
+          "Guannan Qu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "anand2025feelgood",
+      "raw": {
+        "title": "Feel-Good Thompson Sampling for Contextual Bandits: a Markov Chain Monte Carlo Showdown",
+        "authors": [
+          "Emile Timothy Anand",
+          "Sarah Liaw"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/f440a08e56e74b8c1d537a93be3b7d1dd66548a3",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Feel-Good Thompson Sampling for Contextual Bandits: a Markov Chain Monte Carlo Showdown",
+        "year": 2025,
+        "authors": [
+          "E. Anand",
+          "S. Liaw"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "NEURIPS2023_a7a7180f",
+      "raw": {
+        "title": "Online Adaptive Policy Selection in Time-Varying Systems: No-Regret via Contractive Perturbations",
+        "authors": [
+          "Lin, Yiheng",
+          "Preiss, James A.",
+          "Anand, Emile",
+          "Li, Yingying",
+          "Yue, Yisong",
+          "Wierman, Adam"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4307308859",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Online Adaptive Policy Selection in Time-Varying Systems: No-Regret via Contractive Perturbations",
+        "year": 2022,
+        "authors": [
+          "Yiheng Lin",
+          "James A. Preiss",
+          "Emile Anand",
+          "Yingying Li",
+          "Yisong Yue",
+          "Adam Wierman"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Monderer1996",
+      "raw": {
+        "title": "Potential games",
+        "authors": [
+          "Monderer, Dov",
+          "Shapley, Lloyd S."
+        ],
+        "year": 1996,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3022321359",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Potential Games",
+        "year": 1996,
+        "authors": [
+          "Dov Monderer",
+          "Lloyd S. Shapley"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "DurandGaujal:2016:ACBRA",
+      "raw": {
+        "title": "Complexity and Optimality of the Best Response Algorithm in Random Potential Games",
+        "authors": [
+          "St{\\'e}phane Durand",
+          "Bruno Gaujal"
+        ],
+        "year": 2016,
+        "doi": "10.1007/978-3-662-53354-3_4",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2508718653",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Complexity and Optimality of the Best Response Algorithm in Random Potential Games",
+        "year": 2016,
+        "authors": [
+          "Stéphane Durand",
+          "Bruno Gaujal"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Young:2004",
+      "raw": {
+        "title": "Strategic Learning and Its Limits",
+        "authors": [
+          "H. P. Young"
+        ],
+        "year": 2004,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2160057639",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Strategic Learning and its Limits",
+        "year": 2004,
+        "authors": [
+          "H. Peyton Young"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "jusup2023safe",
+      "raw": {
+        "title": "Safe model-based multi-agent mean-field reinforcement learning",
+        "authors": [
+          "Jusup, Matej",
+          "P{\\'a}sztor, Barna",
+          "Janik, Tadeusz",
+          "Zhang, Kenan",
+          "Corman, Francesco",
+          "Krause, Andreas",
+          "Bogunovic, Ilija"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4382766404",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Safe Model-Based Multi-Agent Mean-Field Reinforcement Learning",
+        "year": 2023,
+        "authors": [
+          "Matej Jusup",
+          "Barna Pásztor",
+          "Tadeusz J. Janik",
+          "Kenan Zhang",
+          "Francesco Corman",
+          "Andreas Krause",
+          "Ilija Bogunovic"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "bichuch2024stackelberg",
+      "raw": {
+        "title": "A Stackelberg Mean Field Game for Green Regulator with a Large Number of Prosumers",
+        "authors": [
+          "Bichuch, Maxim",
+          "Dayan{\\i}kl{\\i}, G{\\\"o}k{\\c{c}}e",
+          "Lauriere, Mathieu"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4403513020",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "A Stackelberg Mean Field Game for Green Regulator with a Large Number of Prosumers",
+        "year": 2024,
+        "authors": [
+          "Maxim Bichuch",
+          "Gökçe Dayanıklı",
+          "Mathieu Laurière"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "chen2022convergencepriceanarchyguarantees",
+      "raw": {
+        "title": "Convergence and Price of Anarchy Guarantees of the Softmax Policy Gradient in Markov Potential Games",
+        "authors": [
+          "Dingyang Chen",
+          "Qi Zhang",
+          "Thinh T. Doan"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": "2206.07642"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4379538647",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Context-Aware Bayesian Network Actor-Critic Methods for Cooperative Multi-Agent Reinforcement Learning",
+        "year": 2023,
+        "authors": [
+          "Dingyang Chen",
+          "Qi Zhang"
+        ]
+      },
+      "title_similarity": 0.4120603015075377,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "doi:10.1137/17M1139461",
+      "raw": {
+        "title": "On Best-Response Dynamics in Potential Games",
+        "authors": [
+          "Swenson, Brian",
+          "Murray, Ryan",
+          "Kar, Soummya"
+        ],
+        "year": 2018,
+        "doi": "10.1137/17M1139461",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2787689390",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "On Best-Response Dynamics in Potential Games",
+        "year": 2018,
+        "authors": [
+          "Brian Swenson",
+          "Ryan Murray",
+          "Soummya Kar"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "10.5555/3540261.3542236",
+      "raw": {
+        "title": "Sample-efficient learning of Stackelberg equilibria in general-sum games",
+        "authors": [
+          "Bai, Yu",
+          "Jin, Chi",
+          "Wang, Huan",
+          "Xiong, Caiming"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3129266365",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Sample-Efficient Learning of Stackelberg Equilibria in General-Sum Games",
+        "year": 2021,
+        "authors": [
+          "Yu Bai",
+          "Chi Jin",
+          "Huan Wang",
+          "Caiming Xiong"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "10.5555/3618408.3618858",
+      "raw": {
+        "title": "Oracles \\& followers: Stackelberg equilibria in deep multi-agent reinforcement learning",
+        "authors": [
+          "Gerstgrasser, Matthias",
+          "Parkes, David"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4307206142",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Oracles &amp; Followers: Stackelberg Equilibria in Deep Multi-Agent Reinforcement Learning",
+        "year": 2022,
+        "authors": [
+          "Matthias Gerstgrasser",
+          "David C. Parkes"
+        ]
+      },
+      "title_similarity": 0.9824561403508772,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Banach1922",
+      "raw": {
+        "title": "Sur les opérations dans les ensembles abstraits et leur application aux équations intégrales",
+        "authors": [
+          "Banach, Stefan"
+        ],
+        "year": 1922,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W1458771408",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Sur les opérations dans les ensembles abstraits et leur application aux équations intégrales",
+        "year": 1922,
+        "authors": [
+          "Stefan Banach"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "9570295",
+      "raw": {
+        "title": "Sample Complexity of Asynchronous Q-Learning: Sharper Analysis and Variance Reduction",
+        "authors": [
+          "Li, Gen",
+          "Wei, Yuting",
+          "Chi, Yuejie",
+          "Gu, Yuantao",
+          "Chen, Yuxin"
+        ],
+        "year": 2022,
+        "doi": "10.1109/TIT.2021.3120096",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3034039613",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Sample Complexity of Asynchronous Q-Learning: Sharper Analysis and Variance Reduction",
+        "year": 2021,
+        "authors": [
+          "Gen Li",
+          "Yuting Wei",
+          "Yuejie Chi",
+          "Yuantao Gu",
+          "Yuxin Chen"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "anand2024efficientreinforcementlearningglobal",
+      "raw": {
+        "title": "Efficient Reinforcement Learning for Global Decision Making in the Presence of Local Agents at Scale",
+        "authors": [
+          "Emile Anand",
+          "Guannan Qu"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2403.00222"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4385208591",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Pseudorandomness of the Sticky Random Walk",
+        "year": 2023,
+        "authors": [
+          "Emile Anand",
+          "Chris Umans"
+        ]
+      },
+      "title_similarity": 0.39436619718309857,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "zhong2024heterogeneous",
+      "raw": {
+        "title": "Heterogeneous-agent reinforcement learning",
+        "authors": [
+          "Zhong, Yifan",
+          "Kuba, Jakub Grudzien",
+          "Feng, Xidong",
+          "Hu, Siyi",
+          "Ji, Jiaming",
+          "Yang, Yaodong"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4366731969",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Heterogeneous-Agent Reinforcement Learning",
+        "year": 2023,
+        "authors": [
+          "Yifan Zhong",
+          "Jakub Grudzien Kuba",
+          "Feng, Xidong",
+          "Siyi Hu",
+          "Jiaming Ji",
+          "Yaodong Yang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "NAAMAN2021109088",
+      "raw": {
+        "title": "On the tight constant in the multivariate Dvoretzky–Kiefer–Wolfowitz inequality",
+        "authors": [
+          "Michael Naaman"
+        ],
+        "year": 2021,
+        "doi": "https://doi.org/10.1016/j.spl.2021.109088",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3135453225",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "On the tight constant in the multivariate Dvoretzky–Kiefer–Wolfowitz inequality",
+        "year": 2021,
+        "authors": [
+          "Michael Naaman"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "agarwal2023vo",
+      "raw": {
+        "title": "VO $ Q $ L: Towards Optimal Regret in Model-free RL with Nonlinear Function Approximation",
+        "authors": [
+          "Agarwal, Alekh",
+          "Jin, Yujia",
+          "Zhang, Tong"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4311432277",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "VO$Q$L: Towards Optimal Regret in Model-free RL with Nonlinear Function Approximation",
+        "year": 2022,
+        "authors": [
+          "Alekh Agarwal",
+          "Yujia Jin",
+          "Tong Zhang"
+        ]
+      },
+      "title_similarity": 0.9506172839506174,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "du2021bilinear",
+      "raw": {
+        "title": "Bilinear classes: A structural framework for provable generalization in RL",
+        "authors": [
+          "Du, Simon",
+          "Kakade, Sham",
+          "Lee, Jason",
+          "Lovett, Shachar",
+          "Mahajan, Gaurav",
+          "Sun, Wen",
+          "Wang, Ruosong"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3137324988",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Bilinear Classes: A Structural Framework for Provable Generalization in RL",
+        "year": 2021,
+        "authors": [
+          "Simon S. Du",
+          "Sham M. Kakade",
+          "Jason D. Lee",
+          "Shachar Lovett",
+          "Gaurav Mahajan",
+          "W. Sun",
+          "Ruosong Wang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "abbasi2011improved",
+      "raw": {
+        "title": "Improved algorithms for linear stochastic bandits",
+        "authors": [
+          "Abbasi-Yadkori, Yasin",
+          "P{\\'a}l, D{\\'a}vid",
+          "Szepesv{\\'a}ri, Csaba"
+        ],
+        "year": 2011,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2119738618",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Improved Algorithms for Linear Stochastic Bandits",
+        "year": 2011,
+        "authors": [
+          "Yasin Abbasi-Yadkori",
+          "Dávid Pál",
+          "Csaba Szepesvári"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "liu2023maximize",
+      "raw": {
+        "title": "Maximize to explore: One objective function fusing estimation, planning, and exploration",
+        "authors": [
+          "Liu, Zhihan",
+          "Lu, Miao",
+          "Xiong, Wei",
+          "Zhong, Han",
+          "Hu, Hao",
+          "Zhang, Shenao",
+          "Zheng, Sirui",
+          "Yang, Zhuoran",
+          "Wang, Zhaoran"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4378771758",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Maximize to Explore: One Objective Function Fusing Estimation, Planning, and Exploration",
+        "year": 2023,
+        "authors": [
+          "Zhihan Liu",
+          "Miao Lu",
+          "Wei Xiong",
+          "Han Zhong",
+          "Hao Hu",
+          "Shenao Zhang",
+          "Sirui Zheng",
+          "Zhuoran Yang",
+          "Zhaoran Wang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "yang2019sample",
+      "raw": {
+        "title": "Sample-optimal parametric q-learning using linearly additive features",
+        "authors": [
+          "Yang, Lin",
+          "Wang, Mengdi"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2956123884",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Sample-Optimal Parametric Q-Learning Using Linearly Additive Features",
+        "year": 2019,
+        "authors": [
+          "Lin F. Yang",
+          "Mengdi Wang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "chen2022almost",
+      "raw": {
+        "title": "Almost optimal algorithms for two-player zero-sum linear mixture markov games",
+        "authors": [
+          "Chen, Zixiang",
+          "Zhou, Dongruo",
+          "Gu, Quanquan"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4287327542",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Almost Optimal Algorithms for Two-player Zero-Sum Linear Mixture Markov Games",
+        "year": 2021,
+        "authors": [
+          "Zixiang Chen",
+          "Dongruo Zhou",
+          "Quanquan Gu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "yang2025agentexchangeshapingfuture",
+      "raw": {
+        "title": "Agent Exchange: Shaping the Future of AI Agent Economics",
+        "authors": [
+          "Yingxuan Yang",
+          "Ying Wen",
+          "Jun Wang",
+          "Weinan Zhang"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2507.03904"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W7138948110",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "A Visualized Framework for Event Cooperation with Generative Agents",
+        "year": 2026,
+        "authors": [
+          "Yuyang Tian",
+          "S. J. T. Mao",
+          "Wenchang Gao",
+          "Lanlan Qiu",
+          "Tianxing He"
+        ]
+      },
+      "title_similarity": 0.4444444444444444,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Blondel_Tsitsiklis_2000",
+      "raw": {
+        "title": "A Survey of Computational Complexity Results in Systems and Control",
+        "authors": [
+          "Blondel, Vincent D.",
+          "Tsitsiklis, John N."
+        ],
+        "year": 2000,
+        "doi": "https://doi.org/10.1016/S0005-1098(00)00050-9",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2113789941",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "A survey of computational complexity results in systems and control",
+        "year": 2000,
+        "authors": [
+          "Vincent D. Blondel",
+          "John N. Tsitsiklis"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "ayoub2020model",
+      "raw": {
+        "title": "Model-based reinforcement learning with value-targeted regression",
+        "authors": [
+          "Ayoub, Alex",
+          "Jia, Zeyu",
+          "Szepesvari, Csaba",
+          "Wang, Mengdi",
+          "Yang, Lin"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3029753614",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Model-Based Reinforcement Learning with Value-Targeted Regression",
+        "year": 2020,
+        "authors": [
+          "Alex Ayoub",
+          "Zeyu Jia",
+          "Csaba Szepesvári",
+          "Mengdi Wang",
+          "Lin F. Yang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "jin2021v",
+      "raw": {
+        "title": "V-Learning--A Simple, Efficient, Decentralized Algorithm for Multiagent RL",
+        "authors": [
+          "Jin, Chi",
+          "Liu, Qinghua",
+          "Wang, Yuanhao",
+          "Yu, Tiancheng"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3209461740",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "V-Learning -- A Simple, Efficient, Decentralized Algorithm for Multiagent RL",
+        "year": 2021,
+        "authors": [
+          "Chi Jin",
+          "Qinghua Liu",
+          "Yuanhao Wang",
+          "Tiancheng Yu"
+        ]
+      },
+      "title_similarity": 0.9466666666666668,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "daskalakis2009complexity",
+      "raw": {
+        "title": "The complexity of computing a Nash equilibrium",
+        "authors": [
+          "Daskalakis, Constantinos",
+          "Goldberg, Paul W",
+          "Papadimitriou, Christos H"
+        ],
+        "year": 2009,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2002373723",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "The Complexity of Computing a Nash Equilibrium",
+        "year": 2009,
+        "authors": [
+          "Constantinos Daskalakis",
+          "Paul W. Goldberg",
+          "Christos H. Papadimitriou"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "doi:10.1073/pnas.36.1.48",
+      "raw": {
+        "title": "Equilibrium points in n person games",
+        "authors": [
+          "John F. Nash"
+        ],
+        "year": 1950,
+        "doi": "10.1073/pnas.36.1.48",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2067050450",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Equilibrium points in <i>n</i> -person games",
+        "year": 1950,
+        "authors": [
+          "John F. Nash"
+        ]
+      },
+      "title_similarity": 0.8571428571428571,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Nisan_Roughgarden_Tardos_Vazirani_2007",
+      "raw": {
+        "title": "Algorithmic game theory",
+        "authors": [
+          "Roughgarden, Tim"
+        ],
+        "year": 2010,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4294576339",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Algorithmic game theory",
+        "year": 2010,
+        "authors": [
+          "Tim Roughgarden"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "doi:10.1137/20M1360700",
+      "raw": {
+        "title": "Mean-Field Controls with Q-Learning for Cooperative MARL: Convergence and Complexity Analysis",
+        "authors": [
+          "Gu, Haotian",
+          "Guo, Xin",
+          "Wei, Xiaoli",
+          "Xu, Renyuan"
+        ],
+        "year": 2021,
+        "doi": "10.1137/20M1360700",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3208215078",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Mean-Field Controls with Q-Learning for Cooperative MARL: Convergence and Complexity Analysis",
+        "year": 2021,
+        "authors": [
+          "Haotian Gu",
+          "Xin Guo",
+          "Xiaoli Wei",
+          "Renyuan Xu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "qu2020finitetime",
+      "raw": {
+        "title": "Finite-Time Analysis of Asynchronous Stochastic Approximation and Q-Learning",
+        "authors": [
+          "Qu, Guannan",
+          "Wierman, Adam"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3003165689",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Finite-Time Analysis of Asynchronous Stochastic Approximation and $Q$-Learning",
+        "year": 2020,
+        "authors": [
+          "Guannan Qu",
+          "Adam Wierman"
+        ]
+      },
+      "title_similarity": 0.987012987012987,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Sutton_McAllester_Singh_Mansour_1999",
+      "raw": {
+        "title": "Policy Gradient Methods for Reinforcement Learning with Function Approximation",
+        "authors": [
+          "Sutton, Richard S",
+          "McAllester, David",
+          "Singh, Satinder",
+          "Mansour, Yishay"
+        ],
+        "year": 1999,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Do_Nguyen-Tang_Arora_2023",
+      "raw": {
+        "title": "Multi-Agent Learning with Heterogeneous Linear Contextual Bandits",
+        "authors": [
+          "Do, Anh",
+          "Nguyen-Tang, Thanh",
+          "Arora, Raman"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W7133221646",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Multi-Agent Learning with Heterogeneous Linear Contextual Bandits",
+        "year": 2023,
+        "authors": [
+          "Raman Arora",
+          "Anh Do",
+          "Thanh Nguyen-Tang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "vershynin2018high",
+      "raw": {
+        "title": "High-dimensional probability: An introduction with applications in data science",
+        "authors": [
+          "Vershynin, Roman"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2787248994",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "High-Dimensional Probability: An Introduction with Applications in Data Science",
+        "year": 2018,
+        "authors": [
+          "Roman Vershynin"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "qu2021exploiting",
+      "raw": {
+        "title": "Exploiting linear models for model-free nonlinear control: A provably convergent policy gradient approach",
+        "authors": [
+          "Qu, Guannan",
+          "Yu, Chenkai",
+          "Low, Steven",
+          "Wierman, Adam"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4210300701",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Exploiting Linear Models for Model-Free Nonlinear Control: A Provably Convergent Policy Gradient Approach",
+        "year": 2021,
+        "authors": [
+          "Guannan Qu",
+          "Chenkai Yu",
+          "Steven H. Low",
+          "Adam Wierman"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "409cf137-dbb5-3eb1-8cfe-0743c3dc925f",
+      "raw": {
+        "title": "Probability Inequalities for Sums of Bounded Random Variables",
+        "authors": [
+          "Wassily Hoeffding"
+        ],
+        "year": 1963,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4233413206",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Probability Inequalities for Sums of Bounded Random Variables",
+        "year": 1963,
+        "authors": [
+          "Wassily Hoeffding"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "faaf16cc-812f-3d2c-9158-610f115420d7",
+      "raw": {
+        "title": "Probability Inequalities for the Sum in Sampling without Replacement",
+        "authors": [
+          "R. J. Serfling"
+        ],
+        "year": 1974,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Kakade+Langford:2002",
+      "raw": {
+        "title": "Approximately Optimal Approximate Reinforcement Learning",
+        "authors": [
+          "Kakade, Sham",
+          "Langford, John"
+        ],
+        "year": 2002,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W1575592356",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Approximately Optimal Approximate Reinforcement Learning",
+        "year": 2002,
+        "authors": [
+          "Sham M. Kakade",
+          "John Langford"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "DBLP:journals/corr/abs-2006-06555",
+      "raw": {
+        "title": "Distributed Reinforcement Learning in Multi-Agent Networked Systems",
+        "authors": [
+          "Yiheng Lin",
+          "Guannan Qu",
+          "Longbo Huang",
+          "Adam Wierman"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": "2006.06555"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3034039613",
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/efb579ee27ba1ddc4b4403623d52a94a389e2818",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Multi-Agent Reinforcement Learning in Stochastic Networked Systems",
+        "year": 2020,
+        "authors": [
+          "Yiheng Lin",
+          "Guannan Qu",
+          "Longbo Huang",
+          "A. Wierman"
+        ]
+      },
+      "title_similarity": 0.9090909090909091,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "diaconis1999iterated",
+      "raw": {
+        "title": "Iterated random functions",
+        "authors": [
+          "Diaconis, Persi",
+          "Freedman, David"
+        ],
+        "year": 1999,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4293282250",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Iterated Random Functions",
+        "year": 1999,
+        "authors": [
+          "Persi Diaconis",
+          "David A. Freedman"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "10.5555/1522486",
+      "raw": {
+        "title": "Introduction to Nonparametric Estimation",
+        "authors": [
+          "Tsybakov, Alexandre B."
+        ],
+        "year": 2008,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W1511694993",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Introduction to Nonparametric Estimation",
+        "year": 2008,
+        "authors": [
+          "Alexandre B. Tsybakov"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "doan2020finite",
+      "raw": {
+        "title": "Finite-time analysis of stochastic gradient descent under markov randomness",
+        "authors": [
+          "Doan, Thinh T",
+          "Nguyen, Lam M",
+          "Pham, Nhan H",
+          "Romberg, Justin"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3012953956",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Finite-Time Analysis of Stochastic Gradient Descent under Markov Randomness",
+        "year": 2020,
+        "authors": [
+          "Thinh T. Doan",
+          "Lam M. Nguyen",
+          "Nhan H. Pham",
+          "Justin Romberg"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "karimi2016linear",
+      "raw": {
+        "title": "Linear Convergence of Gradient and Proximal-Gradient Methods Under the Polyak-\\L ojasiewicz Condition",
+        "authors": [
+          "Hamed Karimi",
+          "Julie Nutini",
+          "Mark Schmidt"
+        ],
+        "year": 2016,
+        "doi": "10.1007/978-3-319-46128-1\\_50",
+        "arxiv_id": null
+      },
+      "status": "not_found",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "mulvaneykemp2022dynamic",
+      "raw": {
+        "title": "Dynamic Regret Bounds for Constrained Online Nonconvex Optimization Based on Polyak-\\L ojasiewicz Regions",
+        "authors": [
+          "Mulvaney-Kemp, Julie",
+          "Park, SangWoo",
+          "Jin, Ming",
+          "Lavaei, Javad"
+        ],
+        "year": 2022,
+        "doi": "10.1109/TCNS.2022.3203798",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4294310895",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Dynamic Regret Bounds for Constrained Online Nonconvex Optimization Based on Polyak–Lojasiewicz Regions",
+        "year": 2022,
+        "authors": [
+          "Julie Mulvaney-Kemp",
+          "SangWoo Park",
+          "Ming Jin",
+          "Javad Lavaei"
+        ]
+      },
+      "title_similarity": 0.9134615384615384,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "qu2021scalable",
+      "raw": {
+        "title": "Scalable Reinforcement Learning for Multi-Agent Networked Systems",
+        "authors": [
+          "Guannan Qu",
+          "Adam Wierman",
+          "Na Li"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": "1912.02906"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3034741641",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Distributed Reinforcement Learning in Multi-Agent Networked Systems",
+        "year": 2020,
+        "authors": [
+          "Yiheng Lin",
+          "Guannan Qu",
+          "Longbo Huang",
+          "Adam Wierman"
+        ]
+      },
+      "title_similarity": 0.8888888888888888,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "lin2021multiagent",
+      "raw": {
+        "title": "Multi-Agent Reinforcement Learning in Stochastic Networked Systems",
+        "authors": [
+          "Yiheng Lin",
+          "Guannan Qu",
+          "Longbo Huang",
+          "Adam Wierman"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3208941461",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Multi-Agent Reinforcement Learning in Stochastic Networked Systems",
+        "year": 2020,
+        "authors": [
+          "Yiheng Lin",
+          "Guannan Qu",
+          "Longbo Huang",
+          "Adam Wierman"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "xu2023decentralized",
+      "raw": {
+        "title": "Decentralized Randomly Distributed Multi-agent Multi-armed Bandit with Heterogeneous Rewards",
+        "authors": [
+          "Mengfan Xu",
+          "Diego Klabjan"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4380353698",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Decentralized Randomly Distributed Multi-agent Multi-armed Bandit with Heterogeneous Rewards",
+        "year": 2023,
+        "authors": [
+          "Mengfan Xu",
+          "Diego Klabjan"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "min2023cooperative",
+      "raw": {
+        "title": "Cooperative Multi-Agent Reinforcement Learning: Asynchronous Communication and Linear Function Approximation",
+        "authors": [
+          "Min, Yifei",
+          "He, Jiafan",
+          "Wang, Tianhao",
+          "Gu, Quanquan"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "zhao2023local",
+      "raw": {
+        "title": "Local Optimization Achieves Global Optimality in Multi-Agent Reinforcement Learning",
+        "authors": [
+          "Yulai Zhao",
+          "Zhuoran Yang",
+          "Zhaoran Wang",
+          "Jason D. Lee"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": "2305.04819"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4404311663",
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/c96bbf91d8b8d57a58061a95a47c1cf2e5d28608",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Local Optimization Achieves Global Optimality in Multi-Agent Reinforcement Learning",
+        "year": 2023,
+        "authors": [
+          "Yulai Zhao",
+          "Zhuoran Yang",
+          "Zhaoran Wang",
+          "Jason D. Lee"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "littman",
+      "raw": {
+        "title": "Markov games as a framework for multi-agent reinforcement learning",
+        "authors": [
+          "Michael L. Littman"
+        ],
+        "year": 1994,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W1542941925",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Markov games as a framework for multi-agent reinforcement learning",
+        "year": 1994,
+        "authors": [
+          "Michael L. Littman"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "doi:10.1073/pnas.39.10.1095",
+      "raw": {
+        "title": "Stochastic Games*",
+        "authors": [
+          "L. S. Shapley"
+        ],
+        "year": 1953,
+        "doi": "10.1073/pnas.39.10.1095",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2575731723",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Stochastic Games",
+        "year": 1953,
+        "authors": [
+          "Lloyd S. Shapley"
+        ]
+      },
+      "title_similarity": 0.9696969696969697,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "7989376",
+      "raw": {
+        "title": "Crazyswarm: A large nano-quadcopter swarm",
+        "authors": [
+          "Preiss, James A.",
+          "Honig, Wolfgang",
+          "Sukhatme, Gaurav S.",
+          "Ayanian, Nora"
+        ],
+        "year": 2017,
+        "doi": "10.1109/ICRA.2017.7989376",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2600080636",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Crazyswarm: A large nano-quadcopter swarm",
+        "year": 2017,
+        "authors": [
+          "James A. Preiss",
+          "Wolfgang Hönig",
+          "Gaurav S. Sukhatme",
+          "Nora Ayanian"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "pmlr-v125-jin20a",
+      "raw": {
+        "title": "Provably efficient reinforcement learning with linear function approximation",
+        "authors": [
+          "Jin, Chi",
+          "Yang, Zhuoran",
+          "Wang, Zhaoran",
+          "Jordan, Michael I"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3046395471",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Provably Efficient Reinforcement Learning with Linear Function Approximation",
+        "year": 2019,
+        "authors": [
+          "Chi Jin",
+          "Zhuoran Yang",
+          "Zhaoran Wang",
+          "Michael I. Jordan"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "ren2024scalablespectralrepresentationsnetwork",
+      "raw": {
+        "title": "Scalable spectral representations for network multiagent control",
+        "authors": [
+          "Zhaolin Ren",
+          "Runyu",
+          "Zhang",
+          "Bo Dai",
+          "Na Li"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2410.17221"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4405033429",
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/8b4d884a8da69f5a8519091fdfcc749404c43905",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Scalable spectral representations for multiagent reinforcement learning in network MDPs",
+        "year": 2024,
+        "authors": [
+          "Zhaolin Ren",
+          "Runyu Zhang",
+          "Bo Dai",
+          "Na Li"
+        ]
+      },
+      "title_similarity": 0.9333333333333332,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "dann2015sample",
+      "raw": {
+        "title": "Sample complexity of episodic fixed-horizon reinforcement learning",
+        "authors": [
+          "Dann, Christoph",
+          "Brunskill, Emma"
+        ],
+        "year": 2015,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2964299116",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Sample complexity of episodic fixed-horizon reinforcement learning",
+        "year": 2015,
+        "authors": [
+          "Christoph Dann",
+          "Emma Brunskill"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "chen2022sample",
+      "raw": {
+        "title": "Sample complexity of policy-based methods under off-policy sampling and linear function approximation",
+        "authors": [
+          "Chen, Zaiwei",
+          "Maguluri, Siva Theja"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "not_found",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "anand2026graphonmeanfieldsubsamplingcooperative",
+      "raw": {
+        "title": "Graphon Mean-Field Subsampling for Cooperative Heterogeneous Multi-Agent Reinforcement Learning",
+        "authors": [
+          "Emile Anand",
+          "Richard Hoffmann",
+          "Sarah Liaw",
+          "Adam Wierman"
+        ],
+        "year": 2026,
+        "doi": null,
+        "arxiv_id": "2602.16196"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W7130617520",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Graphon Mean-Field Subsampling for Cooperative Heterogeneous Multi-Agent Reinforcement Learning",
+        "year": 2026,
+        "authors": [
+          "Emile Anand",
+          "Richard Hoffmann",
+          "Sarah Liaw",
+          "Adam Wierman"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "pmlr-v19-abernethy11b",
+      "raw": {
+        "title": "Blackwell Approachability and No-Regret Learning are Equivalent",
+        "authors": [
+          "Abernethy, Jacob",
+          "Bartlett, Peter L.",
+          "Hazan, Elad"
+        ],
+        "year": 2011,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W1871300696",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Blackwell Approachability and No-Regret Learning are Equivalent",
+        "year": 2011,
+        "authors": [
+          "Jacob Abernethy",
+          "Peter L. Bartlett",
+          "Elad Hazan"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "lin2023online2",
+      "raw": {
+        "title": "Learning-augmented Control via Online Adaptive Policy Selection: No Regret via Contractive Perturbations",
+        "authors": [
+          "Yiheng Lin",
+          "James A Preiss",
+          "Emile Timothy Anand",
+          "Yingying Li",
+          "Yisong Yue",
+          "Adam Wierman"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "not_found",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "wang2026unsuperviseddecompositionrecombinationdiscriminatordriven",
+      "raw": {
+        "title": "Unsupervised Decomposition and Recombination with Discriminator-Driven Diffusion Models",
+        "authors": [
+          "Archer Wang",
+          "Emile Anand",
+          "Yilun Du",
+          "Marin Soljačić"
+        ],
+        "year": 2026,
+        "doi": null,
+        "arxiv_id": "2601.22057"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W7126281362",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Unsupervised Decomposition and Recombination with Discriminator-Driven Diffusion Models",
+        "year": 2026,
+        "authors": [
+          "Archer Wang",
+          "Emile Anand",
+          "Yilun Du",
+          "Marin Soljačić"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "10.5555/1070432.1070519",
+      "raw": {
+        "title": "A multiple-choice secretary algorithm with applications to online auctions",
+        "authors": [
+          "Kleinberg, Robert"
+        ],
+        "year": 2005,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2061418963",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "A multiple-choice secretary algorithm with applications to online auctions",
+        "year": 2005,
+        "authors": [
+          "Robert Kleinberg"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "wainwright2019variance",
+      "raw": {
+        "title": "Variance-reduced Q-learning is minimax optimal",
+        "authors": [
+          "Wainwright, Martin J"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2949578685",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Variance-reduced $Q$-learning is minimax optimal",
+        "year": 2019,
+        "authors": [
+          "Martin J. Wainwright"
+        ]
+      },
+      "title_similarity": 0.9787234042553191,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "sidford2018near",
+      "raw": {
+        "title": "Near-Optimal Time and Sample Complexities for Solving Discounted Markov Decision Process with a Generative Model",
+        "authors": [
+          "Sidford, Aaron",
+          "Wang, Mengdi",
+          "Wu, Xian",
+          "Yang, Lin F.",
+          "Ye, Yinyu"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2805861379",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Near-Optimal Time and Sample Complexities for Solving Discounted Markov Decision Process with a Generative Model",
+        "year": 2018,
+        "authors": [
+          "Aaron Sidford",
+          "Mengdi Wang",
+          "Xian Wu",
+          "Lin F. Yang",
+          "Yinyu Ye"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Sidford2018VarianceRV",
+      "raw": {
+        "title": "Variance Reduced Value Iteration and Faster Algorithms for Solving Markov Decision Processes",
+        "authors": [
+          "Aaron Sidford",
+          "Mengdi Wang",
+          "Xian Wu",
+          "Yinyu Ye"
+        ],
+        "year": 2018,
+        "doi": "10.1137/1.9781611975031.116",
+        "arxiv_id": null
+      },
+      "status": "metadata_mismatch",
+      "openalex_id": "https://openalex.org/W2963672880",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "The Complexity of Counting Surjective Homomorphisms and Compactions",
+        "year": 2018,
+        "authors": [
+          "Jacob Focke",
+          "Leslie Ann Goldberg",
+          "Stanislav Živný"
+        ]
+      },
+      "title_similarity": 0.41509433962264153,
+      "mismatches": [
+        "authors"
+      ],
+      "error": null
+    },
+    {
+      "key": "10.5555/3586589.3586718",
+      "raw": {
+        "title": "On the Approximation of Cooperative Heterogeneous Multi-Agent Reinforcement Learning (MARL) Using Mean Field Control (MFC)",
+        "authors": [
+          "Mondal, Washim Uddin",
+          "Agarwal, Mridul",
+          "Aggarwal, Vaneet",
+          "Ukkusuri, Satish V."
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3198701155",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "On the Approximation of Cooperative Heterogeneous Multi-Agent Reinforcement Learning (MARL) using Mean Field Control (MFC)",
+        "year": 2021,
+        "authors": [
+          "Washim Uddin Mondal",
+          "Mridul Agarwal",
+          "Vaneet Aggarwal",
+          "Satish V. Ukkusuri"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "cui2022learning",
+      "raw": {
+        "title": "Learning Graphon Mean Field Games and Approximate Nash Equilibria",
+        "authors": [
+          "Kai Cui",
+          "Heinz Koeppl"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3216416298",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Learning Graphon Mean Field Games and Approximate Nash Equilibria",
+        "year": 2021,
+        "authors": [
+          "Kai Cui",
+          "Heinz Koeppl"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "anand2025pseudorandomnessexpanderrandomwalks",
+      "raw": {
+        "title": "Towards the Pseudorandomness of Expander Random Walks for Read-Once ACC0 circuits",
+        "authors": [
+          "Emile Anand"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2501.07752"
+      },
+      "status": "metadata_mismatch",
+      "openalex_id": "https://openalex.org/W4385208591",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Pseudorandomness of the Sticky Random Walk",
+        "year": 2023,
+        "authors": [
+          "Emile Anand",
+          "Chris Umans"
+        ]
+      },
+      "title_similarity": 0.8333333333333333,
+      "mismatches": [
+        "year"
+      ],
+      "error": null
+    },
+    {
+      "key": "anand2023pseudorandomness",
+      "raw": {
+        "title": "Pseudorandomness of the Sticky Random Walk",
+        "authors": [
+          "Emile Anand",
+          "Chris Umans"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": "2307.11104"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4392426034",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Efficient Reinforcement Learning for Global Decision Making in the Presence of Local Agents at Scale",
+        "year": 2024,
+        "authors": [
+          "Emile Anand",
+          "Guannan Qu"
+        ]
+      },
+      "title_similarity": 0.39436619718309857,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Hu_Wei_Yan_Zhang_2023",
+      "raw": {
+        "title": "Graphon Mean-Field Control for Cooperative Multi-Agent Reinforcement Learning",
+        "authors": [
+          "Hu, Yuanquan",
+          "Wei, Xiaoli",
+          "Yan, Junji",
+          "Zhang, Hengxi"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4386511453",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Graphon mean-field control for cooperative multi-agent reinforcement learning",
+        "year": 2023,
+        "authors": [
+          "Yuanquan Hu",
+          "Xiaoli Wei",
+          "Junji Yan",
+          "Hengxi Zhang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "jin2024truncated",
+      "raw": {
+        "title": "Truncated Variance Reduced Value Iteration",
+        "authors": [
+          "Jin, Yujia",
+          "Karmarkar, Ishani",
+          "Sidford, Aaron",
+          "Wang, Jiayi"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4415795526",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Truncated Variance Reduced Value Iteration",
+        "year": 2024,
+        "authors": [
+          "Yujia Jin",
+          "Ishani Karmarkar",
+          "Aaron Sidford",
+          "Jiayi Wang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "bruckner2011stackelberg",
+      "raw": {
+        "title": "Stackelberg games for adversarial prediction problems",
+        "authors": [
+          "Br{\\\"u}ckner, Michael",
+          "Scheffer, Tobias"
+        ],
+        "year": 2011,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W1966912382",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Stackelberg games for adversarial prediction problems",
+        "year": 2011,
+        "authors": [
+          "Michael Brückner",
+          "Tobias Scheffer"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "gan2025robust",
+      "raw": {
+        "title": "Robust Stackelberg equilibria",
+        "authors": [
+          "Gan, Jiarui",
+          "Han, Minbiao",
+          "Wu, Jibang",
+          "Xu, Haifeng"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "ambiguous",
+      "openalex_id": "https://openalex.org/W4383533535",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Robust Stackelberg Equilibria",
+        "year": 2023,
+        "authors": [
+          "Jiarui Gan",
+          "Minbiao Han",
+          "Jibang Wu",
+          "Haifeng Xu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "10.1007/s00182-023-00837-4",
+      "raw": {
+        "title": "Best-response dynamics, playing sequences, and convergence to equilibrium in random games",
+        "authors": [
+          "Heinrich, Torsten",
+          "Jang, Yoojin",
+          "Mungo, Luca",
+          "Pangallo, Marco",
+          "Scott, Alex",
+          "Tarbush, Bassel",
+          "Wiese, Samuel"
+        ],
+        "year": 2023,
+        "doi": "10.1007/s00182-023-00837-4",
+        "arxiv_id": null
+      },
+      "status": "metadata_mismatch",
+      "openalex_id": "https://openalex.org/W3118593726",
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/1b8f579c2ee2e69ef9cc82a08774aa2f843332d6",
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Best-response dynamics, playing sequences, and convergence to equilibrium in random games",
+        "year": 2021,
+        "authors": [
+          "Torsten Heinrich",
+          "Yoojin Jang",
+          "Luca Mungo",
+          "Marco Pangallo",
+          "Alex Scott",
+          "Bassel Tarbush",
+          "Samuel C. Wiese"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [
+        "year"
+      ],
+      "error": null
+    },
+    {
+      "key": "giannou2021rate",
+      "raw": {
+        "title": "On the rate of convergence of regularized learning in games: From bandits and uncertainty to optimism and beyond",
+        "authors": [
+          "Giannou, Angeliki",
+          "Vlatakis-Gkaragkounis, Emmanouil-Vasileios",
+          "Mertikopoulos, Panayotis"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3211865003",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "On the Rate of Convergence of Regularized Learning in Games: From Bandits and Uncertainty to Optimism and Beyond",
+        "year": 2021,
+        "authors": [
+          "Angeliki Giannou",
+          "Emmanouil-Vasileios Vlatakis-Gkaragkounis",
+          "Panayotis Mertikopoulos"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "yu2022learningcorrelatedstackelbergequilibrium",
+      "raw": {
+        "title": "Learning Correlated Stackelberg Equilibrium in General-Sum Multi-Leader-Single-Follower Games",
+        "authors": [
+          "Yaolong Yu",
+          "Haifeng Xu",
+          "Haipeng Chen"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": "2210.12470"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4409896675",
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/625183af180aec84922877961024fe65eb5a9527",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Learning Correlated Stackelberg Equilibrium in General-Sum Multi-Leader-Single-Follower Games",
+        "year": 2022,
+        "authors": [
+          "Yaolong Yu",
+          "Haifeng Xu",
+          "Haipeng Chen"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "4597505",
+      "raw": {
+        "title": "A note on Stackelberg games",
+        "authors": [
+          "Nie, Pu-yan",
+          "Zhang, Pei-ai"
+        ],
+        "year": 2008,
+        "doi": "10.1109/CCDC.2008.4597505",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2152205842",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "A note on Stackelberg games",
+        "year": 2008,
+        "authors": [
+          "Pu‐yan Nie",
+          "Pei-ai Zhang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "10310098",
+      "raw": {
+        "title": "No-Regret Learning in Dynamic Stackelberg Games",
+        "authors": [
+          "Lauffer, Niklas",
+          "Ghasemi, Mahsa",
+          "Hashemi, Abolfazl",
+          "Savas, Yagiz",
+          "Topcu, Ufuk"
+        ],
+        "year": 2024,
+        "doi": "10.1109/TAC.2023.3330797",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4388430627",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "No-Regret Learning in Dynamic Stackelberg Games",
+        "year": 2023,
+        "authors": [
+          "Niklas Lauffer",
+          "Mahsa Ghasemi",
+          "Abolfazl Hashemi",
+          "Yagiz Savas",
+          "Ufuk Topcu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "bacchiocchi2024samplecomplexitystackelberggames",
+      "raw": {
+        "title": "The Sample Complexity of Stackelberg Games",
+        "authors": [
+          "Francesco Bacchiocchi",
+          "Matteo Bollini",
+          "Matteo Castiglioni",
+          "Alberto Marchesi",
+          "Nicola Gatti"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2405.06977"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4407123333",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Nearly-Optimal Bandit Learning in Stackelberg Games with Side Information",
+        "year": 2025,
+        "authors": [
+          "Maria-Florina Balcan",
+          "Martino Bernasconi",
+          "Matteo Castiglioni",
+          "Andrea Celli",
+          "Keegan Harris",
+          "Zhiwei Steven Wu"
+        ]
+      },
+      "title_similarity": 0.576271186440678,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "gu2021meanfieldcontrolsqlearningcooperative",
+      "raw": {
+        "title": "Mean-Field Controls with Q-Learning for Cooperative MARL: Convergence and Complexity Analysis",
+        "authors": [
+          "Gu, Haotian",
+          "Guo, Xin",
+          "Wei, Xiaoli",
+          "Xu, Renyuan"
+        ],
+        "year": 2021,
+        "doi": "10.1137/20M1360700",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3208215078",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Mean-Field Controls with Q-Learning for Cooperative MARL: Convergence and Complexity Analysis",
+        "year": 2021,
+        "authors": [
+          "Haotian Gu",
+          "Xin Guo",
+          "Xiaoli Wei",
+          "Renyuan Xu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "yang2020meanfieldmultiagentreinforcement",
+      "raw": {
+        "title": "Mean Field Multi-Agent Reinforcement Learning",
+        "authors": [
+          "Yang, Yaodong",
+          "Luo, Rui",
+          "Li, Minne",
+          "Zhou, Ming",
+          "Zhang, Weinan",
+          "Wang, Jun"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2785315072",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Mean Field Multi-Agent Reinforcement Learning",
+        "year": 2018,
+        "authors": [
+          "Yaodong Yang",
+          "Rui Luo",
+          "Minne Li",
+          "Ming Zhou",
+          "Weinan Zhang",
+          "Jun Wang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "10.1145/3308558.3313433",
+      "raw": {
+        "title": "Efficient Ridesharing Order Dispatching with Mean Field Multi-Agent Reinforcement Learning",
+        "authors": [
+          "Li, Minne",
+          "Qin, Zhiwei",
+          "Jiao, Yan",
+          "Yang, Yaodong",
+          "Wang, Jun",
+          "Wang, Chenxi",
+          "Wu, Guobin",
+          "Ye, Jieping"
+        ],
+        "year": 2019,
+        "doi": "10.1145/3308558.3313433",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2914154006",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Efficient Ridesharing Order Dispatching with Mean Field Multi-Agent Reinforcement Learning",
+        "year": 2019,
+        "authors": [
+          "Minne Li",
+          "Zhiwei Qin",
+          "Yan Jiao",
+          "Yaodong Yang",
+          "Jun Wang",
+          "Chenxi Wang",
+          "Guobin Wu",
+          "Jieping Ye"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "10.1145/1391289.1391291",
+      "raw": {
+        "title": "Undirected Connectivity in Log-Space",
+        "authors": [
+          "Reingold, Omer"
+        ],
+        "year": 2008,
+        "doi": "10.1145/1391289.1391291",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2049516232",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Undirected connectivity in log-space",
+        "year": 2008,
+        "authors": [
+          "Omer Reingold"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "oliehoek2016concise",
+      "raw": {
+        "title": "A concise introduction to decentralized POMDPs",
+        "authors": [
+          "Oliehoek, Frans A",
+          "Amato, Christopher",
+          "others"
+        ],
+        "year": 2016,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2747213132",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "A Concise Introduction to Decentralized POMDPs",
+        "year": 2016,
+        "authors": [
+          "Frans A. Oliehoek",
+          "Christopher Amato"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "hespanha2007survey",
+      "raw": {
+        "title": "A survey of recent results in networked control systems",
+        "authors": [
+          "Hespanha, Joo P",
+          "Naghshtabrizi, Payam",
+          "Xu, Yonggang"
+        ],
+        "year": 2007,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2052334067",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "A Survey of Recent Results in Networked Control Systems",
+        "year": 2007,
+        "authors": [
+          "J.P. Hespanha",
+          "Payam Naghshtabrizi",
+          "Yonggang Xu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "li2021permutationinvariantpolicyoptimization",
+      "raw": {
+        "title": "Permutation Invariant Policy Optimization for Mean-Field Multi-Agent Reinforcement Learning: A Principled Approach",
+        "authors": [
+          "Yan Li",
+          "Lingxiao Wang",
+          "Jiachen Yang",
+          "Ethan Wang",
+          "Zhaoran Wang",
+          "Tuo Zhao",
+          "Hongyuan Zha"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": "2105.08268"
+      },
+      "status": "metadata_mismatch",
+      "openalex_id": "https://openalex.org/W4387796699",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Robust Multi-Agent Reinforcement Learning via Adversarial Regularization: Theoretical Foundation and Stable Algorithms",
+        "year": 2023,
+        "authors": [
+          "Alexander Bukharin",
+          "Yan Li",
+          "Yue Yu",
+          "Qingru Zhang",
+          "Zhehui Chen",
+          "Simiao Zuo",
+          "Chao Zhang",
+          "Songan Zhang",
+          "Tuo Zhao"
+        ]
+      },
+      "title_similarity": 0.5862068965517241,
+      "mismatches": [
+        "year"
+      ],
+      "error": null
+    },
+    {
+      "key": "pmlr-v151-jin22a",
+      "raw": {
+        "title": "Federated Reinforcement Learning with Environment Heterogeneity",
+        "authors": [
+          "Jin, Hao",
+          "Peng, Yang",
+          "Yang, Wenhao",
+          "Wang, Shusen",
+          "Zhang, Zhihua"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "golowich2024the",
+      "raw": {
+        "title": "The Role of Inherent Bellman Error in Offline Reinforcement Learning with Linear Function Approximation",
+        "authors": [
+          "Noah Golowich",
+          "Ankur Moitra"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4399836512",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "The Role of Inherent Bellman Error in Offline Reinforcement Learning with Linear Function Approximation",
+        "year": 2024,
+        "authors": [
+          "Noah Golowich",
+          "Ankur Moitra"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "10.5555/3600270.3600377",
+      "raw": {
+        "title": "Learning in observable POMDPs, without computationally intractable oracles",
+        "authors": [
+          "Golowich, Noah",
+          "Moitra, Ankur",
+          "Rohatgi, Dhruv"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4281734303",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Learning in Observable POMDPs, without Computationally Intractable Oracles",
+        "year": 2022,
+        "authors": [
+          "Noah Golowich",
+          "Ankur Moitra",
+          "Dhruv Rohatgi"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "golowich2024linear",
+      "raw": {
+        "title": "Linear bellman completeness suffices for efficient online reinforcement learning with few actions",
+        "authors": [
+          "Golowich, Noah",
+          "Moitra, Ankur"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4399836499",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Linear Bellman Completeness Suffices for Efficient Online Reinforcement Learning with Few Actions",
+        "year": 2024,
+        "authors": [
+          "Noah Golowich",
+          "Ankur Moitra"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "xu2023tale",
+      "raw": {
+        "title": "A tale of two efficient value iteration algorithms for solving linear MDPs with large action space",
+        "authors": [
+          "Xu, Zhaozhuo",
+          "Song, Zhao",
+          "Shrivastava, Anshumali"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "not_found",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "pmlr-v206-fabian23a",
+      "raw": {
+        "title": "Learning Sparse Graphon Mean Field Games",
+        "authors": [
+          "Fabian, Christian",
+          "Cui, Kai",
+          "Koeppl, Heinz"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "10.1145/1516512.1516516",
+      "raw": {
+        "title": "Settling the complexity of computing two-player Nash equilibria",
+        "authors": [
+          "Chen, Xi",
+          "Deng, Xiaotie",
+          "Teng, Shang-Hua"
+        ],
+        "year": 2009,
+        "doi": "10.1145/1516512.1516516",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2057913812",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Settling the complexity of computing two-player Nash equilibria",
+        "year": 2009,
+        "authors": [
+          "Xi Chen",
+          "Xiaotie Deng",
+          "Shang‐Hua Teng"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "daskalakis2007computing",
+      "raw": {
+        "title": "Computing equilibria in anonymous games",
+        "authors": [
+          "Daskalakis, Constantinos",
+          "Papadimitriou, Christos"
+        ],
+        "year": 2007,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2145266030",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Computing Equilibria in Anonymous Games",
+        "year": 2007,
+        "authors": [
+          "Constantinos Daskalakis",
+          "Christos H. Papadimitriou"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "chaudhari2025peer",
+      "raw": {
+        "title": "Peer-to-peer learning dynamics of wide neural networks",
+        "authors": [
+          "Chaudhari, Shreyas",
+          "Pranav, Srinivasa",
+          "Anand, Emile",
+          "Moura, Jos{\\'e} MF"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4408352508",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Peer-to-Peer Learning Dynamics of Wide Neural Networks",
+        "year": 2025,
+        "authors": [
+          "Shreyas Chaudhari",
+          "Srinivasa Pranav",
+          "Emile Anand",
+          "José M. F. Moura"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "gu2022meanfieldmultiagentreinforcementlearning",
+      "raw": {
+        "title": "Mean-Field Multiagent Reinforcement Learning: A Decentralized Network Approach",
+        "authors": [
+          "Gu, Haotian",
+          "Guo, Xin",
+          "Wei, Xiaoli",
+          "Xu, Renyuan"
+        ],
+        "year": 2025,
+        "doi": "10.1287/moor.2022.0055",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4392762590",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Mean-Field Multiagent Reinforcement Learning: A Decentralized Network Approach",
+        "year": 2024,
+        "authors": [
+          "Haotian Gu",
+          "Xin Guo",
+          "Xiaoli Wei",
+          "Renyuan Xu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "lasry2018mean",
+      "raw": {
+        "title": "Mean-field games with a major player",
+        "authors": [
+          "Lasry, Jean-Michel",
+          "Lions, Pierre-Louis"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2809007641",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Mean-field games with a major player",
+        "year": 2018,
+        "authors": [
+          "Jean‐Michel Lasry",
+          "Pierre‐Louis Lions"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Yang_2023",
+      "raw": {
+        "title": "Partially Observable Mean Field Multi-Agent Reinforcement Learning Based on Graph Attention Network for UAV Swarms",
+        "authors": [
+          "Yang, Min",
+          "Liu, Guanjun",
+          "Zhou, Ziyuan",
+          "Wang, Jiacun"
+        ],
+        "year": 2023,
+        "doi": "10.3390/drones7070476",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4385068279",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Partially Observable Mean Field Multi-Agent Reinforcement Learning Based on Graph Attention Network for UAV Swarms",
+        "year": 2023,
+        "authors": [
+          "Min Yang",
+          "Guanjun Liu",
+          "Ziyuan Zhou",
+          "Jiacun Wang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "pmlr-v247-lin24a",
+      "raw": {
+        "title": "Online Policy Optimization in Unknown Nonlinear Systems",
+        "authors": [
+          "Lin, Yiheng",
+          "Preiss, James A.",
+          "Xie, Fengze",
+          "Anand, Emile",
+          "Chung, Soon-Jo",
+          "Yue, Yisong",
+          "Wierman, Adam"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4395022801",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Online Policy Optimization in Unknown Nonlinear Systems",
+        "year": 2024,
+        "authors": [
+          "Yiheng Lin",
+          "James A. Preiss",
+          "Fengze Xie",
+          "Emile Anand",
+          "Soon‐Jo Chung",
+          "Yisong Yue",
+          "Adam Wierman"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "subramanian2022decentralized",
+      "raw": {
+        "title": "Decentralized mean field games",
+        "authors": [
+          "Subramanian, Sriram Ganapathi",
+          "Taylor, Matthew E",
+          "Crowley, Mark",
+          "Poupart, Pascal"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4283802714",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Decentralized Mean Field Games",
+        "year": 2022,
+        "authors": [
+          "Sriram Ganapathi Subramanian",
+          "Matthew E. Taylor",
+          "Mark Crowley",
+          "Pascal Poupart"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "cui2024majorminormeanfieldmultiagent",
+      "raw": {
+        "title": "Major-Minor Mean Field Multi-Agent Reinforcement Learning",
+        "authors": [
+          "Kai Cui",
+          "Christian Fabian",
+          "Anam Tahir",
+          "Heinz Koeppl"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2303.10665"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4393156297",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Learning Discrete-Time Major-Minor Mean Field Games",
+        "year": 2024,
+        "authors": [
+          "Kai Cui",
+          "Gökçe Dayanıklı",
+          "Mathieu Laurière",
+          "Matthieu Geist",
+          "Olivier Pietquin",
+          "Heinz Koeppl"
+        ]
+      },
+      "title_similarity": 0.7560975609756098,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "NIPS1999_464d828b",
+      "raw": {
+        "title": "Policy Gradient Methods for Reinforcement Learning with Function Approximation",
+        "authors": [
+          "Sutton, Richard S",
+          "McAllester, David",
+          "Singh, Satinder",
+          "Mansour, Yishay"
+        ],
+        "year": 1999,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2155027007",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Policy Gradient Methods for Reinforcement Learning with Function Approximation",
+        "year": 1999,
+        "authors": [
+          "Richard S. Sutton",
+          "David McAllester",
+          "Satinder Singh",
+          "Yishay Mansour"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "xie2021learning",
+      "raw": {
+        "title": "Learning while playing in mean-field games: Convergence and optimality",
+        "authors": [
+          "Xie, Qiaomin",
+          "Yang, Zhuoran",
+          "Wang, Zhaoran",
+          "Minca, Andreea"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3169544492",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Learning While Playing in Mean-Field Games: Convergence and Optimality",
+        "year": 2021,
+        "authors": [
+          "Qiaomin Xie",
+          "Zhuoran Yang",
+          "Zhaoran Wang",
+          "Andreea Minca"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "carmona2013probabilistic",
+      "raw": {
+        "title": "Probabilistic analysis of mean-field games",
+        "authors": [
+          "Carmona, Ren{\\'e}",
+          "Delarue, Fran{\\c{c}}ois"
+        ],
+        "year": 2013,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W1973258650",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Probabilistic Analysis of Mean-Field Games",
+        "year": 2013,
+        "authors": [
+          "René Carmona",
+          "François Delarue"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "anand_et_al:LIPIcs.ICALP.2024.10",
+      "raw": {
+        "title": "The Bit Complexity of Dynamic Algebraic Formulas and Their Determinants",
+        "authors": [
+          "Anand, Emile",
+          "van den Brand, Jan",
+          "Ghadiri, Mehrdad",
+          "Zhang, Daniel J."
+        ],
+        "year": 2024,
+        "doi": "10.4230/LIPIcs.ICALP.2024.10",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4391211820",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "The Bit Complexity of Dynamic Algebraic Formulas and Their Determinants",
+        "year": 2024,
+        "authors": [
+          "Emile Anand",
+          "Jan van den Brand",
+          "Mehrdad Ghadiri",
+          "Daniel Zhang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "anand2025the",
+      "raw": {
+        "title": "The Structural Complexity of Matrix-Vector Multiplication",
+        "authors": [
+          "Emile Timothy Anand",
+          "Jan van den Brand",
+          "Rose McCarty"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "not_found",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    }
+  ]
+}

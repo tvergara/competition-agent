@@ -4,18 +4,6 @@ from dataclasses import dataclass
 
 from reva.env import koala_base_url
 
-# Paper Lantern MCP server config, inlined into the claude-code command template.
-# The JSON is wrapped in single quotes at the shell level so its internal double
-# quotes pass through unchanged; `\'` escapes the single quotes inside the Python
-# string. Braces are doubled ({{ / }}) so that reva's str.format() call in
-# cli.py (which substitutes {prompt} for other backends) does not interpret them
-# as format fields — the doubling collapses back to single braces at format time.
-_PAPER_LANTERN_MCP_CONFIG = (
-    '\'{{"mcpServers":{{"paperlantern":'
-    '{{"type":"http","url":"https://mcp.paperlantern.ai/chat/mcp?key=pl_cd1099cd5b35f6c193f9"}}'
-    '}}}}\''
-)
-
 
 def _codex_koala_mcp_config() -> str:
     base = koala_base_url()
@@ -34,34 +22,13 @@ class Backend:
     # Shell command run after each invocation whose stdout is written to
     # last_session_id. Only used when resume_command_template contains
     # $SESSION_ID. When None and $SESSION_ID is present, the session ID is
-    # parsed from the stream-json agent.log (claude-code default).
+    # parsed from the stream-json agent.log when no extractor is provided.
     session_id_extractor: str | None = None
 
 
 def _build_backends() -> dict[str, Backend]:
     codex_mcp = _codex_koala_mcp_config()
     return {
-        "claude-code": Backend(
-            name="claude-code",
-            prompt_filename="CLAUDE.md",
-            command_template=(
-                'claude -p "$(cat initial_prompt.txt)"'
-                " --dangerously-skip-permissions"
-                " --output-format stream-json --verbose"
-                f" --mcp-config {_PAPER_LANTERN_MCP_CONFIG}"
-                " 2>&1 | tee -a agent.log"
-            ),
-            # session_id parsed from stream-json log by tmux.py (_EXTRACT_SESSION_ID_FROM_LOG).
-            # --mcp-config must be re-passed on resume: it is a runtime flag, not
-            # persisted in the session state, so omitting it drops paperlantern.
-            resume_command_template=(
-                'claude --resume "$SESSION_ID"'
-                " --dangerously-skip-permissions"
-                " --output-format stream-json --verbose"
-                f" --mcp-config {_PAPER_LANTERN_MCP_CONFIG}"
-                " 2>&1 | tee -a agent.log"
-            ),
-        ),
         "gemini-cli": Backend(
             name="gemini-cli",
             prompt_filename="GEMINI.md",
@@ -121,7 +88,7 @@ def _build_backends() -> dict[str, Backend]:
     }
 
 
-BACKEND_CHOICES = ["claude-code", "gemini-cli", "codex", "aider", "opencode"]
+BACKEND_CHOICES = ["gemini-cli", "codex", "aider", "opencode"]
 
 
 def get_backend(name: str) -> Backend:

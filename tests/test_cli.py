@@ -102,7 +102,7 @@ def test_create_help_does_not_mention_removed_flags():
 def test_create_help_lists_all_backends():
     result = _invoke("create", "--help")
     assert result.exit_code == 0
-    for backend in ("claude-code", "gemini-cli", "codex", "aider", "opencode"):
+    for backend in ("gemini-cli", "codex", "aider", "opencode"):
         assert backend in result.output
 
 
@@ -186,7 +186,7 @@ def test_create_generates_system_prompt_and_config(tmp_path):
 
     cfg_data = json.loads((agent_dir / "config.json").read_text())
     assert cfg_data["name"] == "foo"
-    assert cfg_data["backend"] == "claude-code"  # default
+    assert cfg_data["backend"] == "codex"  # default
 
 
 def test_create_system_prompt_uses_default_template(tmp_path):
@@ -264,7 +264,7 @@ def test_launch_fails_when_api_key_missing(tmp_path):
     agent_dir = agents_dir / "foo"
     agent_dir.mkdir(parents=True)
     (agent_dir / "config.json").write_text(
-        json.dumps({"name": "foo", "backend": "claude-code"}),
+        json.dumps({"name": "foo", "backend": "codex"}),
         encoding="utf-8",
     )
     (agent_dir / "system_prompt.md").write_text("hi", encoding="utf-8")
@@ -287,7 +287,7 @@ def test_launch_fails_when_api_key_empty(tmp_path):
     agent_dir = agents_dir / "foo"
     agent_dir.mkdir(parents=True)
     (agent_dir / "config.json").write_text(
-        json.dumps({"name": "foo", "backend": "claude-code"}),
+        json.dumps({"name": "foo", "backend": "codex"}),
         encoding="utf-8",
     )
     (agent_dir / "system_prompt.md").write_text("hi", encoding="utf-8")
@@ -303,62 +303,6 @@ def test_launch_fails_when_api_key_empty(tmp_path):
         result = _invoke("launch", "--name", "foo")
         assert result.exit_code != 0
         assert ".api_key" in result.output
-
-
-def test_launch_claude_code_resume_collapses_mcp_config_braces(tmp_path):
-    """Regression: _PAPER_LANTERN_MCP_CONFIG in backends.py intentionally
-    doubles its braces ({{ / }}) so that str.format() in cli.launch() collapses
-    them back to single braces. If cli.py applies .format() only to
-    command_template and not to resume_command_template, the doubled braces
-    leak into the generated bash script and `claude --mcp-config` receives
-    `'{{"mcpServers":...}}}}'`. Since that string does not start with `{` +
-    JSON whitespace, the claude CLI treats it as a file path, resolves it
-    relative to the agent cwd, and aborts with "MCP config file not found".
-    """
-    agents_dir = tmp_path / "agents"
-    agent_dir = agents_dir / "foo"
-    agent_dir.mkdir(parents=True)
-    (agent_dir / "config.json").write_text(
-        json.dumps({"name": "foo", "backend": "claude-code"}),
-        encoding="utf-8",
-    )
-    (agent_dir / "system_prompt.md").write_text("hi", encoding="utf-8")
-    (agent_dir / ".api_key").write_text("KEY", encoding="utf-8")
-
-    global_rules = tmp_path / "GLOBAL_RULES.md"
-    global_rules.write_text("R\n", encoding="utf-8")
-    platform_skills = tmp_path / "platform_skills.md"
-    platform_skills.write_text("S\n", encoding="utf-8")
-
-    mock_cfg = MagicMock()
-    mock_cfg.agents_dir = agents_dir
-    mock_cfg.global_rules_path = global_rules
-    mock_cfg.platform_skills_path = platform_skills
-    mock_cfg.github_repo = "https://github.com/test-owner/my-fork"
-    mock_cfg.koala_base_url = "https://koala.science"
-
-    captured = {}
-
-    def fake_create_session(name, cwd, script):
-        captured["script"] = script
-
-    with patch("reva.cli._get_config", return_value=mock_cfg), \
-         patch("reva.cli.create_session", side_effect=fake_create_session):
-        result = _invoke("launch", "--name", "foo")
-        assert result.exit_code == 0, result.output
-
-    script = captured["script"]
-    assert "claude --resume" in script
-    assert "'{\"mcpServers\"" in script, (
-        "resume --mcp-config JSON must collapse to a single leading brace; "
-        "cli.py must run .format() on resume_command_template so the "
-        "intentionally-doubled braces in _PAPER_LANTERN_MCP_CONFIG collapse."
-    )
-    assert "'{{\"mcpServers\"" not in script, (
-        "doubled braces leaked into the resume command — cli.py is missing "
-        ".format() on resume_command_template. The claude CLI will treat the "
-        "--mcp-config argument as a file path and abort at resume time."
-    )
 
 
 # ── prompt assembly ──────────────────────────────────────────────────
@@ -442,7 +386,7 @@ def test_archive_and_unarchive_functional():
         agent_dir = agents_dir / agent_name
         agent_dir.mkdir()
         (agent_dir / "config.json").write_text(
-            json.dumps({"name": agent_name, "backend": "claude-code"}),
+            json.dumps({"name": agent_name, "backend": "codex"}),
             encoding="utf-8",
         )
 
@@ -543,7 +487,7 @@ def _make_agent_dir(tmp_path, name="foo", *, api_key="KEY"):
     agent_dir = agents_dir / name
     agent_dir.mkdir(parents=True)
     (agent_dir / "config.json").write_text(
-        json.dumps({"name": name, "backend": "claude-code"}),
+        json.dumps({"name": name, "backend": "codex"}),
         encoding="utf-8",
     )
     (agent_dir / "system_prompt.md").write_text("hi", encoding="utf-8")
@@ -740,8 +684,8 @@ def test_launch_cluster_generates_identical_launch_sh_as_tmux(tmp_path):
 
     cluster_launch = (agent_dir_cluster / ".reva_launch.sh").read_text()
 
-    assert "claude" in tmux_launch
-    assert "claude" in cluster_launch
+    assert "codex" in tmux_launch
+    assert "codex" in cluster_launch
 
     def _strip_prelude(s):
         lines = s.splitlines(keepends=True)

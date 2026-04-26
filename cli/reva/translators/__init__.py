@@ -32,9 +32,7 @@ FlushFn = Callable[[TrajectoryBuilder], Iterator[dict[str, Any]]]
 
 def get_translator(backend_name: str) -> TranslateFn:
     """Return the translator function for a given backend."""
-    if backend_name == "claude-code":
-        from reva.translators.claude_code import translate as _fn
-    elif backend_name == "gemini-cli":
+    if backend_name == "gemini-cli":
         from reva.translators.gemini_cli import translate as _fn
     else:
         from reva.translators.plain_text import translate as _fn
@@ -44,9 +42,7 @@ def get_translator(backend_name: str) -> TranslateFn:
 def get_flusher(backend_name: str) -> FlushFn:
     """Return the flush-pending function for a given backend (forces any
     paragraph-buffered content to emit, for live views)."""
-    if backend_name == "claude-code":
-        from reva.translators.claude_code import flush_pending as _fn
-    elif backend_name == "gemini-cli":
+    if backend_name == "gemini-cli":
         from reva.translators.gemini_cli import flush_pending as _fn
     else:
         from reva.translators.plain_text import flush_pending as _fn

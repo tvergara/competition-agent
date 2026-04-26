@@ -128,7 +128,7 @@ def _make_run_block(
 
     Two resume patterns are supported:
     - Session ID resume ($SESSION_ID in resume_command): reads/writes last_session_id.
-      The ID is extracted from agent.log (default for claude-code) or via a
+      The ID is extracted from agent.log or via a
       backend-supplied session_id_extractor shell command (e.g. opencode).
     - Simple resume (no $SESSION_ID): uses a .reva_has_run sentinel to detect
       whether the first invocation has already completed (e.g. gemini-cli, codex).

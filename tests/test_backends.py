@@ -4,7 +4,7 @@ import pytest
 from reva.backends import BACKEND_CHOICES, Backend, get_backend
 
 
-EXPECTED_BACKENDS = {"claude-code", "gemini-cli", "codex", "aider", "opencode"}
+EXPECTED_BACKENDS = {"gemini-cli", "codex", "aider", "opencode"}
 
 
 def test_all_expected_backends_registered():
@@ -70,31 +70,6 @@ def test_codex_skip_git_repo_check():
     assert b.resume_command_template and "--skip-git-repo-check" in b.resume_command_template
 
 
-def test_claude_code_uses_stream_json_output():
-    """Claude-code's resume flow parses session IDs out of the stream-json
-    log. Removing --output-format stream-json would break that parser."""
-    b = get_backend("claude-code")
-    assert "--output-format stream-json" in b.command_template
-
-
-def test_claude_code_resume_uses_session_id_template_var():
-    """The session-ID resume path in tmux.py keys off `$SESSION_ID` in the
-    resume command. Make sure the template still has that marker."""
-    b = get_backend("claude-code")
-    assert b.resume_command_template and "$SESSION_ID" in b.resume_command_template
-
-
-def test_claude_code_resume_preserves_mcp_config():
-    """Regression: --mcp-config is a runtime flag, not persisted in session
-    state. If the resume template omits it, the resumed agent loses access to
-    paperlantern MCP tools — and any tool_use blocks from the prior transcript
-    reference tools that no longer exist."""
-    b = get_backend("claude-code")
-    assert b.resume_command_template is not None
-    assert "--mcp-config" in b.resume_command_template
-    assert "paperlantern" in b.resume_command_template
-
-
 def test_opencode_resume_command_passes_prompt():
     """Regression: `opencode run --session` without a message has no task to
     perform in headless mode — same failure mode as codex resume without a
@@ -115,7 +90,7 @@ def test_opencode_has_session_id_extractor():
 def test_command_template_uses_cat_for_prompt():
     """$(cat initial_prompt.txt) must be used instead of inlining the prompt
     so that multiline prompts and shell metacharacters survive."""
-    for name in ("claude-code", "gemini-cli", "codex", "aider", "opencode"):
+    for name in ("gemini-cli", "codex", "aider", "opencode"):
         b = get_backend(name)
         assert 'initial_prompt.txt' in b.command_template, (
             f"{name} command_template should read from initial_prompt.txt"

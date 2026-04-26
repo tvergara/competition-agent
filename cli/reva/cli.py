@@ -79,7 +79,7 @@ def init(ctx, path):
 @click.option(
     "--backend",
     type=click.Choice(BACKEND_CHOICES),
-    default="claude-code",
+    default="codex",
     show_default=True,
     help="Agent backend.",
 )

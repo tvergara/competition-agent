@@ -41,7 +41,7 @@ class SessionContext:
                 cfg_data = {}
 
         agent_name = cfg_data.get("name") or agent_dir.name
-        backend_name = cfg_data.get("backend") or "claude-code"
+        backend_name = cfg_data.get("backend") or "codex"
 
         # Reuse an existing trajectory's session_id when present so we append
         # steps to a stable session when the user re-runs reva log.

@@ -1,0 +1,2700 @@
+{
+  "paper_id": "0c22ee3a-ddc5-4306-b6f7-15e65974b28e",
+  "total": 55,
+  "verified": 42,
+  "mismatch": 5,
+  "missing": 6,
+  "ambiguous": 2,
+  "error": 0,
+  "skipped": 0,
+  "s2_consulted": 55,
+  "s2_lifted": 0,
+  "key_style_outliers": [
+    "openai_gpt4o_mini"
+  ],
+  "entries": [
+    {
+      "key": "petersen2019deep",
+      "raw": {
+        "title": "Deep symbolic regression: Recovering mathematical expressions from data via risk-seeking policy gradients",
+        "authors": [
+          "Petersen, Brenden K",
+          "Landajuela, Mikel",
+          "Mundhenk, T Nathan",
+          "Santiago, Claudio P",
+          "Kim, Soo K",
+          "Kim, Joanne T"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/3ee45877f7f14c8ee4872a7249f74eef7dc2255f",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Deep symbolic regression: Recovering mathematical expressions from data via risk-seeking policy gradients",
+        "year": 2019,
+        "authors": [
+          "Brenden K. Petersen",
+          "Mikel Landajuela"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "cranmer2023interpretable",
+      "raw": {
+        "title": "Interpretable machine learning for science with PySR and SymbolicRegression. jl",
+        "authors": [
+          "Cranmer, Miles"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "not_found",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "landajuela2022unified",
+      "raw": {
+        "title": "A unified framework for deep symbolic regression",
+        "authors": [
+          "Landajuela, Mikel",
+          "Lee, Chak Shing",
+          "Yang, Jiachen",
+          "Glatt, Ruben",
+          "Santiago, Claudio P",
+          "Aravena, Ignacio",
+          "Mundhenk, Terrell",
+          "Mulcahy, Garrett",
+          "Petersen, Brenden K"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/f43c148c6b85c10c276c06ca3eae117582b6f9b0",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "A Unified Framework for Deep Symbolic Regression",
+        "year": 2022,
+        "authors": [
+          "Mikel Landajuela",
+          "C. S. Lee",
+          "Jiachen Yang",
+          "R. Glatt",
+          "Cláudio P. Santiago",
+          "Ignacio Aravena",
+          "T. Mundhenk",
+          "Garrett Mulcahy",
+          "Brenden K. Petersen"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "virgolin2021improving",
+      "raw": {
+        "title": "Improving model-based genetic programming for symbolic regression of small expressions",
+        "authors": [
+          "Virgolin, Marco",
+          "Alderliesten, Tanja",
+          "Witteveen, Cees",
+          "Bosman, Peter AN"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "ambiguous",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/22c742aad1210ad8f298f81de7edf41dc9814fca",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Improving Model-Based Genetic Programming for Symbolic Regression of Small Expressions",
+        "year": 2019,
+        "authors": [
+          "M. Virgolin",
+          "T. Alderliesten",
+          "C. Witteveen",
+          "P. Bosman"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "mccormick2019gplearn",
+      "raw": {
+        "title": "gplearn: Genetic Programming in Python",
+        "authors": [
+          "McCormick, Trevor"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "not_found",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "burlacu2020operon",
+      "raw": {
+        "title": "Operon C++ an efficient genetic programming framework for symbolic regression",
+        "authors": [
+          "Burlacu, Bogdan",
+          "Kronberger, Gabriel",
+          "Kommenda, Michael"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/0698065b4d92e422b4541168b6e6f6a6a7cabb42",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Operon C++: an efficient genetic programming framework for symbolic regression",
+        "year": 2020,
+        "authors": [
+          "Bogdan Burlacu",
+          "G. Kronberger",
+          "M. Kommenda"
+        ]
+      },
+      "title_similarity": 0.9935483870967743,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "shojaee2023transformer",
+      "raw": {
+        "title": "Transformer-based planning for symbolic regression",
+        "authors": [
+          "Shojaee, Parshin",
+          "Meidani, Kazem",
+          "Barati Farimani, Amir",
+          "Reddy, Chandan"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/b7016f306bb22ed98036c218c30f1c4d301d034c",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Transformer-based Planning for Symbolic Regression",
+        "year": 2023,
+        "authors": [
+          "P. Shojaee",
+          "Kazem Meidani",
+          "A. Farimani",
+          "Chandan K. Reddy"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "kamienny2022end",
+      "raw": {
+        "title": "End-to-end symbolic regression with transformers",
+        "authors": [
+          "Kamienny, Pierre-Alexandre",
+          "d'Ascoli, St{\\'e}phane",
+          "Lample, Guillaume",
+          "Charton, Fran{\\c{c}}ois"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/aee15eb44604f4ad04d0c8ca7d41c87d03db5a39",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "End-to-end symbolic regression with transformers",
+        "year": 2022,
+        "authors": [
+          "Pierre-Alexandre Kamienny",
+          "Stéphane d'Ascoli",
+          "Guillaume Lample",
+          "Franccois Charton"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "biggio2021neural",
+      "raw": {
+        "title": "Neural symbolic regression that scales",
+        "authors": [
+          "Biggio, Luca",
+          "Bendinelli, Tommaso",
+          "Neitz, Alexander",
+          "Lucchi, Aurelien",
+          "Parascandolo, Giambattista"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/d103f20f0a30eb055d0ae44b3b5b8ab44b0c7913",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Neural Symbolic Regression that Scales",
+        "year": 2021,
+        "authors": [
+          "Luca Biggio",
+          "Tommaso Bendinelli",
+          "Alexander Neitz",
+          "Aurélien Lucchi",
+          "Giambattista Parascandolo"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "grayeli2024symbolic",
+      "raw": {
+        "title": "Symbolic regression with a learned concept library",
+        "authors": [
+          "Grayeli, Arya",
+          "Sehgal, Atharva",
+          "Costilla Reyes, Omar",
+          "Cranmer, Miles",
+          "Chaudhuri, Swarat"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/47cab9b4f16c5dcb34c109a60281df0138f885b8",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Symbolic Regression with a Learned Concept Library",
+        "year": 2024,
+        "authors": [
+          "Arya Grayeli",
+          "Atharva Sehgal",
+          "Omar Costilla-Reyes",
+          "Miles D. Cranmer",
+          "Swarat Chaudhuri"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "shojaee2024llm",
+      "raw": {
+        "title": "Llm-sr: Scientific equation discovery via programming with large language models",
+        "authors": [
+          "Shojaee, Parshin",
+          "Meidani, Kazem",
+          "Gupta, Shashank",
+          "Farimani, Amir Barati",
+          "Reddy, Chandan K"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/860ba78f9789bbfc99c299b18558ca19430d8fea",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "LLM-SR: Scientific Equation Discovery via Programming with Large Language Models",
+        "year": 2024,
+        "authors": [
+          "P. Shojaee",
+          "Kazem Meidani",
+          "Shashank Gupta",
+          "A. Farimani",
+          "Chandan K. Reddy"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "wang2025drsr",
+      "raw": {
+        "title": "DrSR: LLM based Scientific Equation Discovery with Dual Reasoning from Data and Experience",
+        "authors": [
+          "Wang, Runxiang",
+          "Wang, Boxiao",
+          "Li, Kai",
+          "Zhang, Yifan",
+          "Cheng, Jian"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/65c108d3b9cb2aa3b72fe19ff4adedfa383c2cb8",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "DrSR: LLM based Scientific Equation Discovery with Dual Reasoning from Data and Experience",
+        "year": 2025,
+        "authors": [
+          "Runxian Wang",
+          "Boxiao Wang",
+          "Kai Li",
+          "Yifan Zhang",
+          "Jian Cheng"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "ying2025neural",
+      "raw": {
+        "title": "A neural symbolic model for space physics",
+        "authors": [
+          "Ying, Jie",
+          "Lin, Haowei",
+          "Yue, Chao",
+          "Chen, Yajie",
+          "Xiao, Chao",
+          "Shi, Quanqi",
+          "Liang, Yitao",
+          "Yau, Shing-Tung",
+          "Zhou, Yuan",
+          "Ma, Jianzhu"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/e473b99cb46d6bf0af84bf5624053c367a867a52",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "A neural symbolic model for space physics",
+        "year": 2025,
+        "authors": [
+          "Jie Ying",
+          "Haowei Lin",
+          "C. Yue",
+          "Yajie Chen",
+          "C. Xiao",
+          "Q. Shi",
+          "Yitao Liang",
+          "S. Yau",
+          "Yuan Zhou",
+          "Jianzhu Ma"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "virgolin2022symbolic",
+      "raw": {
+        "title": "Symbolic regression is NP-hard",
+        "authors": [
+          "Virgolin, Marco",
+          "Pissis, Solon P"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/c703a193a48befe47b4c62cfbec8ae9d1a243fdf",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Symbolic Regression is NP-hard",
+        "year": 2022,
+        "authors": [
+          "M. Virgolin",
+          "S. Pissis"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "koza1994genetic",
+      "raw": {
+        "title": "Genetic programming as a means for programming computers by natural selection",
+        "authors": [
+          "Koza, John R"
+        ],
+        "year": 1994,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/79dbd8d9859ffae752ab332ee8a8e3a0bd298ee1",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Genetic programming as a means for programming computers by natural selection",
+        "year": 1994,
+        "authors": [
+          "J. Koza"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "liu2024exploring",
+      "raw": {
+        "title": "Exploring and evaluating hallucinations in llm-powered code generation",
+        "authors": [
+          "Liu, Fang",
+          "Liu, Yang",
+          "Shi, Lin",
+          "Huang, Houkun",
+          "Wang, Ruifeng",
+          "Yang, Zhen",
+          "Zhang, Li",
+          "Li, Zhongqi",
+          "Ma, Yuchi"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "not_found",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "makke2024interpretable",
+      "raw": {
+        "title": "Interpretable scientific discovery with symbolic regression: a review",
+        "authors": [
+          "Makke, Nour",
+          "Chawla, Sanjay"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "metadata_mismatch",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/020f363fb9419903c5a4c9618b6c25718a7c6b97",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Interpretable scientific discovery with symbolic regression: a review",
+        "year": 2022,
+        "authors": [
+          "N. Makke",
+          "S. Chawla"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [
+        "year"
+      ],
+      "error": null
+    },
+    {
+      "key": "vapnik2013nature",
+      "raw": {
+        "title": "The nature of statistical learning theory",
+        "authors": [
+          "Vapnik, Vladimir"
+        ],
+        "year": 2013,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "metadata_mismatch",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/15cbb7b85622db0d17ade1d24fa7cfa321d16bd6",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "The Nature of Statistical Learning Theory, Second Edition",
+        "year": 2000,
+        "authors": [
+          "V. Vapnik"
+        ]
+      },
+      "title_similarity": 0.9066666666666667,
+      "mismatches": [
+        "year"
+      ],
+      "error": null
+    },
+    {
+      "key": "rudin2019stop",
+      "raw": {
+        "title": "Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead",
+        "authors": [
+          "Rudin, Cynthia"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/bc00ff34ec7772080c7039b17f7069a2f7df0889",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead",
+        "year": 2018,
+        "authors": [
+          "C. Rudin"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "bongard2007automated",
+      "raw": {
+        "title": "Automated reverse engineering of nonlinear dynamical systems",
+        "authors": [
+          "Bongard, Josh",
+          "Lipson, Hod"
+        ],
+        "year": 2007,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/b9b36a61bcac98777a0ac06e4eb36b2959bef511",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Automated reverse engineering of nonlinear dynamical systems",
+        "year": 2007,
+        "authors": [
+          "J. Bongard",
+          "Hod Lipson"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "hierons1999machine",
+      "raw": {
+        "title": "Machine learning. Tom M. Mitchell. Published by McGraw-Hill, Maidenhead, UK, International Student Edition, 1997. ISBN: 0-07-115467-1, 414 pages. Price: UK\\pounds 22.99, soft cover.",
+        "authors": [
+          "Hierons, Rob"
+        ],
+        "year": 1999,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/650d789bfcc64479541b8de67d05ff9f5620ea48",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Machine learning. Tom M. Mitchell. Published by McGraw-Hill, Maidenhead, U.K., International Student Edition, 1997. ISBN: 0-07-115467-1, 414 pages. Price: U.K. £22.99, soft cover.",
+        "year": 1999,
+        "authors": [
+          "R. Hierons"
+        ]
+      },
+      "title_similarity": 0.9442815249266862,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "scholkopf2021toward",
+      "raw": {
+        "title": "Toward causal representation learning",
+        "authors": [
+          "Sch{\\\"o}lkopf, Bernhard",
+          "Locatello, Francesco",
+          "Bauer, Stefan",
+          "Ke, Nan Rosemary",
+          "Kalchbrenner, Nal",
+          "Goyal, Anirudh",
+          "Bengio, Yoshua"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/3803ea42e1fc773db3b1d0fa05f41b5ebf0a61d1",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Toward Causal Representation Learning",
+        "year": 2021,
+        "authors": [
+          "Bernhard Schölkopf",
+          "Francesco Locatello",
+          "Stefan Bauer",
+          "Nan Rosemary Ke",
+          "Nal Kalchbrenner",
+          "Anirudh Goyal",
+          "Y. Bengio"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "tomassini1999parallel",
+      "raw": {
+        "title": "Parallel and Distributed Evolutionary Algorithms: A Review.",
+        "authors": [
+          "Tomassini, Marco"
+        ],
+        "year": 1999,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "not_found",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "lundberg2017unified",
+      "raw": {
+        "title": "A unified approach to interpreting model predictions",
+        "authors": [
+          "Lundberg, Scott M",
+          "Lee, Su-In"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/442e10a3c6640ded9408622005e3c2a8906ce4c2",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "A Unified Approach to Interpreting Model Predictions",
+        "year": 2017,
+        "authors": [
+          "Scott M. Lundberg",
+          "Su-In Lee"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "shojaee2025llm",
+      "raw": {
+        "title": "LLM-SRBench: A New Benchmark for Scientific Equation Discovery with Large Language Models",
+        "authors": [
+          "Shojaee, Parshin",
+          "Nguyen, Ngoc-Hieu",
+          "Meidani, Kazem",
+          "Farimani, Amir Barati",
+          "Doan, Khoa D",
+          "Reddy, Chandan K"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/79d455c55401734971aba42a76204f973980ed04",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "LLM-SRBench: A New Benchmark for Scientific Equation Discovery with Large Language Models",
+        "year": 2025,
+        "authors": [
+          "P. Shojaee",
+          "Ngoc-Hieu Nguyen",
+          "Kazem Meidani",
+          "A. Farimani",
+          "Khoa D. Doan",
+          "Chandan K. Reddy"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "lu2025ovis25technicalreport",
+      "raw": {
+        "title": "Ovis2.5 Technical Report",
+        "authors": [
+          "Shiyin Lu",
+          "Yang Li",
+          "Yu Xia",
+          "Yuwei Hu",
+          "Shanshan Zhao",
+          "Yanqing Ma",
+          "Zhichao Wei",
+          "Yinglun Li",
+          "Lunhao Duan",
+          "Jianshan Zhao",
+          "Yuxuan Han",
+          "Haijun Li",
+          "Wanying Chen",
+          "Junke Tang",
+          "Chengkun Hou",
+          "Zhixing Du",
+          "Tianli Zhou",
+          "Wenjie Zhang",
+          "Huping Ding",
+          "Jiahe Li",
+          "Wen Li",
+          "Gui Hu",
+          "Yiliang Gu",
+          "Siran Yang",
+          "Jiamang Wang",
+          "Hailong Sun",
+          "Yibo Wang",
+          "Hui Sun",
+          "Jinlong Huang",
+          "Yuping He",
+          "Shengze Shi",
+          "Weihong Zhang",
+          "Guodong Zheng",
+          "Junpeng Jiang",
+          "Sensen Gao",
+          "Yi-Feng Wu",
+          "Sijia Chen",
+          "Yuhui Chen",
+          "Qing-Guo Chen",
+          "Zhao Xu",
+          "Weihua Luo",
+          "Kaifu Zhang"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/64b396d5d247f65b69d59385c9e5f9b1511869e9",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Ovis2.5 Technical Report",
+        "year": 2025,
+        "authors": [
+          "Shiyin Lu",
+          "Yang Li",
+          "Yu Xia",
+          "Yuwei Hu",
+          "Shanshan Zhao",
+          "Yanqing Ma",
+          "Zhichao Wei",
+          "Yinglun Li",
+          "Lunhao Duan",
+          "Jianshan Zhao",
+          "Yuxuan Han",
+          "Haijun Li",
+          "Wanyi Chen",
+          "Jun Tang",
+          "Chengkun Hou",
+          "Z. Du",
+          "T. Zhou",
+          "Wenjie Zhang",
+          "H. Ding",
+          "Jiahe Li",
+          "Wen Li",
+          "G. Hu",
+          "Yiliang Gu",
+          "Si-Yu Yang",
+          "Jiamang Wang",
+          "Hailong Sun",
+          "Yibo Wang",
+          "Hui Sun",
+          "Jinlong Huang",
+          "Yuping He",
+          "Shengze Shi",
+          "Weihong Zhang",
+          "Guodong Zheng",
+          "Junpeng Jiang",
+          "Sensen Gao",
+          "Yifan Wu",
+          "Sijia Chen",
+          "Yuhui Chen",
+          "Qingbin Chen",
+          "Zhaoyue Xu",
+          "Wei Luo",
+          "Kaifu Zhang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "lu2024ovis",
+      "raw": {
+        "title": "Ovis: Structural Embedding Alignment for Multimodal Large Language Model",
+        "authors": [
+          "Shiyin Lu",
+          "Yang Li",
+          "Qing-Guo Chen",
+          "Zhao Xu",
+          "Weihua Luo",
+          "Kaifu Zhang",
+          "Han-Jia Ye"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/821796e724c06772da9a66c9d13d75d749c850fe",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Ovis: Structural Embedding Alignment for Multimodal Large Language Model",
+        "year": 2024,
+        "authors": [
+          "Shiyin Lu",
+          "Yang Li",
+          "Qing-Guo Chen",
+          "Zhao Xu",
+          "Weihua Luo",
+          "Kaifu Zhang",
+          "Han-Jia Ye"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "mohri2018foundations",
+      "raw": {
+        "title": "Foundations of machine learning",
+        "authors": [
+          "Mohri, Mehryar",
+          "Rostamizadeh, Afshin",
+          "Talwalkar, Ameet"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "ambiguous",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/9f5b82d9915d0752957602224c5056be7e749c83",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Foundations of Machine Learning",
+        "year": 2021,
+        "authors": [
+          "N. Nathani",
+          "Abhishek Singh"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "kocsis2006bandit",
+      "raw": {
+        "title": "Bandit based monte-carlo planning",
+        "authors": [
+          "Kocsis, Levente",
+          "Szepesv{\\'a}ri, Csaba"
+        ],
+        "year": 2006,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/e635d81a617d1239232a9c9a11a196c53dab8240",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Bandit Based Monte-Carlo Planning",
+        "year": 2006,
+        "authors": [
+          "Levente Kocsis",
+          "Csaba Szepesvari"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "vaswani2017attention",
+      "raw": {
+        "title": "Attention is all you need",
+        "authors": [
+          "Vaswani, Ashish",
+          "Shazeer, Noam",
+          "Parmar, Niki",
+          "Uszkoreit, Jakob",
+          "Jones, Llion",
+          "Gomez, Aidan N",
+          "Kaiser, {\\L}ukasz",
+          "Polosukhin, Illia"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Attention is All you Need",
+        "year": 2017,
+        "authors": [
+          "Ashish Vaswani",
+          "Noam Shazeer",
+          "Niki Parmar",
+          "Jakob Uszkoreit",
+          "Llion Jones",
+          "Aidan N. Gomez",
+          "Lukasz Kaiser",
+          "I. Polosukhin"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "brown2020language",
+      "raw": {
+        "title": "Language models are few-shot learners",
+        "authors": [
+          "Brown, Tom",
+          "Mann, Benjamin",
+          "Ryder, Nick",
+          "Subbiah, Melanie",
+          "Kaplan, Jared D",
+          "Dhariwal, Prafulla",
+          "Neelakantan, Arvind",
+          "Shyam, Pranav",
+          "Sastry, Girish",
+          "Askell, Amanda",
+          "others"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/90abbc2cf38462b954ae1b772fac9532e2ccd8b0",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Language Models are Few-Shot Learners",
+        "year": 2020,
+        "authors": [
+          "Tom B. Brown",
+          "Benjamin Mann",
+          "Nick Ryder",
+          "Melanie Subbiah",
+          "J. Kaplan",
+          "Prafulla Dhariwal",
+          "Arvind Neelakantan",
+          "Pranav Shyam",
+          "G. Sastry",
+          "Amanda Askell",
+          "S. Agarwal",
+          "Ariel Herbert-Voss",
+          "Gretchen Krueger",
+          "T. Henighan",
+          "R. Child",
+          "A. Ramesh",
+          "Daniel M. Ziegler",
+          "Jeff Wu",
+          "Clemens Winter",
+          "Christopher Hesse",
+          "Mark Chen",
+          "Eric Sigler",
+          "Ma-teusz Litwin",
+          "Scott Gray",
+          "Benjamin Chess",
+          "Jack Clark",
+          "Christopher Berner",
+          "Sam McCandlish",
+          "Alec Radford",
+          "I. Sutskever",
+          "Dario Amodei"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "arjovsky2019invariant",
+      "raw": {
+        "title": "Invariant risk minimization",
+        "authors": [
+          "Arjovsky, Martin",
+          "Bottou, L{\\'e}on",
+          "Gulrajani, Ishaan",
+          "Lopez-Paz, David"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/753b7a701adc1b6072378bd048cfa8567885d9c7",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Invariant Risk Minimization",
+        "year": 2019,
+        "authors": [
+          "Martín Arjovsky",
+          "L. Bottou",
+          "Ishaan Gulrajani",
+          "David Lopez-Paz"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "karniadakis2021physics",
+      "raw": {
+        "title": "Physics-informed machine learning",
+        "authors": [
+          "Karniadakis, George Em",
+          "Kevrekidis, Ioannis G",
+          "Lu, Lu",
+          "Perdikaris, Paris",
+          "Wang, Sifan",
+          "Yang, Liu"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/53c9f3c34d8481adaf24df3b25581ccf1bc53f5c",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Physics-informed machine learning",
+        "year": 2021,
+        "authors": [
+          "G. Karniadakis",
+          "I. Kevrekidis",
+          "Lu Lu",
+          "P. Perdikaris",
+          "Sifan Wang",
+          "Liu Yang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "schmidt2009distilling",
+      "raw": {
+        "title": "Distilling free-form natural laws from experimental data",
+        "authors": [
+          "Schmidt, Michael",
+          "Lipson, Hod"
+        ],
+        "year": 2009,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/164157672985407454f5edfd92a1da287445445d",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Distilling Free-Form Natural Laws from Experimental Data",
+        "year": 2009,
+        "authors": [
+          "Michael D. Schmidt",
+          "Hod Lipson"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "udrescu2020ai",
+      "raw": {
+        "title": "AI Feynman: A physics-inspired method for symbolic regression",
+        "authors": [
+          "Udrescu, Silviu-Marian",
+          "Tegmark, Max"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/3e9af4289e4bbd3fb912a68ac8430fd2d9a8ab4d",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "AI Feynman: A physics-inspired method for symbolic regression",
+        "year": 2019,
+        "authors": [
+          "S. Udrescu",
+          "Max Tegmark"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "brunton2016discovering",
+      "raw": {
+        "title": "Discovering governing equations from data by sparse identification of nonlinear dynamical systems",
+        "authors": [
+          "Brunton, Steven L",
+          "Proctor, Joshua L",
+          "Kutz, J Nathan"
+        ],
+        "year": 2016,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/5d150cec2775f9bc863760448f14104cc8f42368",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Discovering governing equations from data by sparse identification of nonlinear dynamical systems",
+        "year": 2015,
+        "authors": [
+          "S. Brunton",
+          "J. Proctor",
+          "J. Kutz"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "wang2019symbolic",
+      "raw": {
+        "title": "Symbolic regression in materials science",
+        "authors": [
+          "Wang, Yiqun",
+          "Wagner, Nicholas",
+          "Rondinelli, James M"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/b35410d025fd7caebbbf94d5c249043553dc79bb",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Symbolic regression in materials science",
+        "year": 2019,
+        "authors": [
+          "Yiqun Wang",
+          "Nicholas Wagner",
+          "J. Rondinelli"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "cranmer2020discovering",
+      "raw": {
+        "title": "Discovering symbolic models from deep learning with inductive biases",
+        "authors": [
+          "Cranmer, Miles",
+          "Sanchez Gonzalez, Alvaro",
+          "Battaglia, Peter",
+          "Xu, Rui",
+          "Cranmer, Kyle",
+          "Spergel, David",
+          "Ho, Shirley"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/643ac3ef063c77eb02a3d52637c11fe028bfae28",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Discovering Symbolic Models from Deep Learning with Inductive Biases",
+        "year": 2020,
+        "authors": [
+          "Miles Cranmer",
+          "Alvaro Sanchez-Gonzalez",
+          "P. Battaglia",
+          "Rui Xu",
+          "K. Cranmer",
+          "D. Spergel",
+          "S. Ho"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "vastl2024symformer",
+      "raw": {
+        "title": "Symformer: End-to-end symbolic regression using transformer-based architecture",
+        "authors": [
+          "Vastl, Martin",
+          "Kulh{\\'a}nek, Jon{\\'a}{\\v{s}}",
+          "Kubal{\\'\\i}k, Ji{\\v{r}}{\\'\\i}",
+          "Derner, Erik",
+          "Babu{\\v{s}}ka, Robert"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "metadata_mismatch",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/a904c9840f29d0fe5d1b9c882b88f10637562ff1",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "SymFormer: End-to-End Symbolic Regression Using Transformer-Based Architecture",
+        "year": 2022,
+        "authors": [
+          "Martin Vastl",
+          "Jonáš Kulhánek",
+          "Jiří Kubalík",
+          "Erik Derner",
+          "R. Babuška"
+        ]
+      },
+      "title_similarity": 0.9554140127388535,
+      "mismatches": [
+        "year"
+      ],
+      "error": null
+    },
+    {
+      "key": "romera2024mathematical",
+      "raw": {
+        "title": "Mathematical discoveries from program search with large language models",
+        "authors": [
+          "Romera-Paredes, Bernardino",
+          "Barekatain, Mohammadamin",
+          "Novikov, Alexander",
+          "Balog, Matej",
+          "Kumar, M Pawan",
+          "Dupont, Emilien",
+          "Ruiz, Francisco JR",
+          "Ellenberg, Jordan S",
+          "Wang, Pengming",
+          "Fawzi, Omar",
+          "others"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/d32ba88571141ed0ebe7aeefbaa4ccaf8cda7be3",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Mathematical discoveries from program search with large language models",
+        "year": 2023,
+        "authors": [
+          "Bernardino Romera-Paredes",
+          "M. Barekatain",
+          "Alexander Novikov",
+          "Matej Balog",
+          "M. P. Kumar",
+          "Emilien Dupont",
+          "Francisco J. R. Ruiz",
+          "J. Ellenberg",
+          "Pengming Wang",
+          "Omar Fawzi",
+          "Pushmeet Kohli",
+          "Alhussein Fawzi",
+          "Josh Grochow",
+          "Andrea Lodi",
+          "Jean-Baptiste Mouret",
+          "Talia Ringer",
+          "Tao Yu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "ji2023survey",
+      "raw": {
+        "title": "Survey of hallucination in natural language generation",
+        "authors": [
+          "Ji, Ziwei",
+          "Lee, Nayeon",
+          "Frieske, Rita",
+          "Yu, Tiezheng",
+          "Su, Dan",
+          "Xu, Yan",
+          "Ishii, Etsuko",
+          "Bang, Ye Jin",
+          "Madotto, Andrea",
+          "Fung, Pascale"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/3def68bd0f856886d34272840a7f81588f2bc082",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Survey of Hallucination in Natural Language Generation",
+        "year": 2022,
+        "authors": [
+          "Ziwei Ji",
+          "Nayeon Lee",
+          "Rita Frieske",
+          "Tiezheng Yu",
+          "D. Su",
+          "Yan Xu",
+          "Etsuko Ishii",
+          "Yejin Bang",
+          "Delong Chen",
+          "Wenliang Dai",
+          "Andrea Madotto",
+          "Pascale Fung"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "la2021contemporary",
+      "raw": {
+        "title": "Contemporary symbolic regression methods and their relative performance",
+        "authors": [
+          "La Cava, William",
+          "Burlacu, Bogdan",
+          "Virgolin, Marco",
+          "Kommenda, Michael",
+          "Orzechowski, Patryk",
+          "de Fran{\\c{c}}a, Fabr{\\'\\i}cio Olivetti",
+          "Jin, Ying",
+          "Moore, Jason H"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/c363daecea401d86737b2d88c0e63fe36f4b30ab",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Contemporary Symbolic Regression Methods and their Relative Performance",
+        "year": 2021,
+        "authors": [
+          "W. L. Cava",
+          "P. Orzechowski",
+          "Bogdan Burlacu",
+          "Fabr'icio Olivetti de Francca",
+          "M. Virgolin",
+          "Ying Jin",
+          "M. Kommenda",
+          "J. Moore"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "lample2019deep",
+      "raw": {
+        "title": "Deep learning for symbolic mathematics",
+        "authors": [
+          "Lample, Guillaume",
+          "Charton, Fran{\\c{c}}ois"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/b39eed03d345f5c244eac12fd1315d26eba77d62",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Deep Learning for Symbolic Mathematics",
+        "year": 2019,
+        "authors": [
+          "Guillaume Lample",
+          "François Charton"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "chen2021evaluating",
+      "raw": {
+        "title": "Evaluating large language models trained on code",
+        "authors": [
+          "Chen, Mark"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/acbdbf49f9bc3f151b93d9ca9a06009f4f6eb269",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Evaluating Large Language Models Trained on Code",
+        "year": 2021,
+        "authors": [
+          "Mark Chen",
+          "Jerry Tworek",
+          "Heewoo Jun",
+          "Qiming Yuan",
+          "Henrique Pondé",
+          "Jared Kaplan",
+          "Harrison Edwards",
+          "Yura Burda",
+          "Nicholas Joseph",
+          "Greg Brockman",
+          "Alex Ray",
+          "Raul Puri",
+          "Gretchen Krueger",
+          "Michael Petrov",
+          "Heidy Khlaaf",
+          "G. Sastry",
+          "Pamela Mishkin",
+          "Brooke Chan",
+          "Scott Gray",
+          "Nick Ryder",
+          "Mikhail Pavlov",
+          "Alethea Power",
+          "Lukasz Kaiser",
+          "Mo Bavarian",
+          "Clemens Winter",
+          "P. Tillet",
+          "F. Such",
+          "D. Cummings",
+          "Matthias Plappert",
+          "Fotios Chantzis",
+          "Elizabeth Barnes",
+          "Ariel Herbert-Voss",
+          "William H. Guss",
+          "Alex Nichol",
+          "Igor Babuschkin",
+          "S. Balaji",
+          "Shantanu Jain",
+          "A. Carr",
+          "Jan Leike",
+          "Josh Achiam",
+          "Vedant Misra",
+          "Evan Morikawa",
+          "Alec Radford",
+          "M. Knight",
+          "Miles Brundage",
+          "M. Murati",
+          "Katie Mayer",
+          "Peter Welinder",
+          "Bob McGrew",
+          "Dario Amodei",
+          "Sam McCandlish",
+          "I. Sutskever",
+          "Wojciech Zaremba"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "dubey2024llama",
+      "raw": {
+        "title": "The llama 3 herd of models",
+        "authors": [
+          "Dubey, Abhimanyu",
+          "Jauhri, Abhinav",
+          "Pandey, Abhinav",
+          "Kadian, Abhishek",
+          "Al-Dahle, Ahmad",
+          "Letman, Aiesha",
+          "Mathur, Akhil",
+          "Schelten, Alan",
+          "Yang, Amy",
+          "Fan, Angela",
+          "others"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/40e8af970329135ec95057d73e239dab805ad128",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "The Llama 3 Herd of Models",
+        "year": 2024,
+        "authors": [
+          "Abhimanyu Dubey",
+          "Abhinav Jauhri",
+          "Abhinav Pandey",
+          "Abhishek Kadian",
+          "Ahmad Al-Dahle",
+          "Aiesha Letman",
+          "Akhil Mathur",
+          "A. Schelten",
+          "Amy Yang",
+          "Angela Fan",
+          "Anirudh Goyal",
+          "Anthony S. Hartshorn",
+          "Aobo Yang",
+          "A. Mitra",
+          "A. Sravankumar",
+          "A. Korenev",
+          "Arthur Hinsvark",
+          "Arun Rao",
+          "Aston Zhang",
+          "Aur'elien Rodriguez",
+          "Austen Gregerson",
+          "Ava Spataru",
+          "Baptiste Rozière",
+          "B. Biron",
+          "Binh Tang",
+          "Bobbie Chern",
+          "Charlotte Caucheteux",
+          "Chaya Nayak",
+          "Chloe Bi",
+          "Chris Marra",
+          "Chris McConnell",
+          "Christian Keller",
+          "C. Touret",
+          "Chunyang Wu",
+          "C. Wong",
+          "Cristian Canton Ferrer",
+          "Cyrus Nikolaidis",
+          "Damien Allonsius",
+          "D. Song",
+          "D. Pintz",
+          "D. Livshits",
+          "David Esiobu",
+          "Dhruv Choudhary",
+          "Dhruv Mahajan",
+          "Diego Garcia-Olano",
+          "Diego Perino",
+          "Dieuwke Hupkes",
+          "Egor Lakomkin",
+          "Ehab A. AlBadawy",
+          "E. Lobanova",
+          "Emily Dinan",
+          "E. Smith",
+          "Filip Radenovic",
+          "Frank Zhang",
+          "Gabriel Synnaeve",
+          "Gabrielle Lee",
+          "Georgia Lewis Anderson",
+          "G. Nail",
+          "G. Mialon",
+          "Guanglong Pang",
+          "Guillem Cucurell",
+          "Hailey Nguyen",
+          "Hannah Korevaar",
+          "Hu Xu",
+          "Hugo Touvron",
+          "Iliyan Zarov",
+          "Imanol Arrieta Ibarra",
+          "Isabel M. Kloumann",
+          "Ishan Misra",
+          "Ivan Evtimov",
+          "Jade Copet",
+          "Jaewon Lee",
+          "Jan Geffert",
+          "Jana Vranes",
+          "Jason Park",
+          "Jay Mahadeokar",
+          "Jeet Shah",
+          "J. V. D. Linde",
+          "J. Billock",
+          "Jenny Hong",
+          "Jenya Lee",
+          "Jeremy Fu",
+          "Jianfeng Chi",
+          "Jianyu Huang",
+          "Jiawen Liu",
+          "Jie Wang",
+          "Jiecao Yu",
+          "Joanna Bitton",
+          "Joe Spisak",
+          "Jongsoo Park",
+          "Joseph Rocca",
+          "J. Johnstun",
+          "Joshua Saxe",
+          "Ju-Qing Jia",
+          "Kalyan Vasuden Alwala",
+          "K. Upasani",
+          "Kate Plawiak",
+          "Keqian Li",
+          "Kenneth Heafield",
+          "Kevin R. Stone",
+          "Khalid El-Arini",
+          "Krithika Iyer",
+          "Kshitiz Malik",
+          "Kuen-ley Chiu",
+          "Kunal Bhalla",
+          "Lauren Rantala-Yeary",
+          "L. Maaten",
+          "Lawrence Chen",
+          "Liang Tan",
+          "Liz Jenkins",
+          "Louis Martin",
+          "Lovish Madaan",
+          "Lubo Malo",
+          "Lukas Blecher",
+          "Lukas Landzaat",
+          "Luke de Oliveira",
+          "M. Muzzi",
+          "Ma-hesh Pasupuleti",
+          "Mannat Singh",
+          "Manohar Paluri",
+          "Marcin Kardas",
+          "Mathew Oldham",
+          "Mathieu Rita",
+          "Maya Pavlova",
+          "M. Kambadur",
+          "Mike Lewis",
+          "Min Si",
+          "Mitesh Kumar Singh",
+          "Mona Hassan",
+          "Naman Goyal",
+          "Narjes Torabi",
+          "Niko-lay Bashlykov",
+          "Nikolay Bogoychev",
+          "Niladri S. Chatterji",
+          "Olivier Duchenne",
+          "Onur cCelebi",
+          "Patrick Alrassy",
+          "Pengchuan Zhang",
+          "Pengwei Li",
+          "Petar Vasić",
+          "Peter Weng",
+          "Prajjwal Bhargava",
+          "P. Dubal",
+          "Praveen Krishnan",
+          "Punit Singh Koura",
+          "Puxin Xu",
+          "Q. He",
+          "Qingxiao Dong",
+          "Ragavan Srinivasan",
+          "R. Ganapathy",
+          "Ramon Calderer",
+          "Ricardo Silveira Cabral",
+          "Robert Stojnic",
+          "R. Raileanu",
+          "Rohit Girdhar",
+          "Rohit Patel",
+          "Romain Sauvestre",
+          "Ron-nie Polidoro",
+          "Roshan Sumbaly",
+          "Ross Taylor",
+          "Ruan Silva",
+          "Rui Hou",
+          "Rui Wang",
+          "S. Hosseini",
+          "Sa-hana Chennabasappa",
+          "Sanjay Singh",
+          "Sean Bell",
+          "S. Kim",
+          "Sergey Edunov",
+          "Shaoliang Nie",
+          "Sharan Narang",
+          "S. Raparthy",
+          "Sheng Shen",
+          "Shengye Wan",
+          "Shruti Bhosale",
+          "Shun Zhang",
+          "Simon Vandenhende",
+          "Soumya Batra",
+          "Spencer Whitman",
+          "Sten Sootla",
+          "S. Collot",
+          "Suchin Gururangan",
+          "S. Borodinsky",
+          "Tamar Herman",
+          "T. Fowler",
+          "Tarek Sheasha",
+          "Thomas Georgiou",
+          "Thomas Scialom",
+          "Tobias Speckbacher",
+          "Todor Mihaylov",
+          "Tong Xiao",
+          "Ujjwal Karn",
+          "Vedanuj Goswami",
+          "Vibhor Gupta",
+          "Vignesh Ramanathan",
+          "Viktor Kerkez",
+          "Vincent Gonguet",
+          "Virginie Do",
+          "Vish Vogeti",
+          "Vladan Petrovic",
+          "Weiwei Chu",
+          "Wenhan Xiong",
+          "Wenyin Fu",
+          "Whit-ney Meers",
+          "X. Martinet",
+          "Xiaodong Wang",
+          "X. Tan",
+          "Xinfeng Xie",
+          "Xuchao Jia",
+          "Xuewei Wang",
+          "Yaelle Goldschlag",
+          "Yashesh Gaur",
+          "Yasmine Babaei",
+          "Yiqian Wen",
+          "Yiwen Song",
+          "Yuchen Zhang",
+          "Yue Li",
+          "Yuning Mao",
+          "Zacharie Delpierre Coudert",
+          "Zhengxu Yan",
+          "Zhengxing Chen",
+          "Zoe Papakipos",
+          "Aaditya K. Singh",
+          "Aaron Grattafiori",
+          "Abha Jain",
+          "A. Kelsey",
+          "Adam Shajnfeld",
+          "Adi Gangidi",
+          "Adolfo Victoria",
+          "Ahuva Goldstand",
+          "A. Menon",
+          "Ajay Sharma",
+          "Alex Boesenberg",
+          "Alex Vaughan",
+          "Alexei Baevski",
+          "Allie Feinstein",
+          "Amanda Kallet",
+          "Amit Sangani",
+          "Anam Yunus",
+          "Andrei Lupu",
+          "Andres Alvarado",
+          "A. Caples",
+          "Andrew Gu",
+          "Andrew Ho",
+          "Andrew Poulton",
+          "Andrew Ryan",
+          "Ankit Ramchandani",
+          "Annie Franco",
+          "Aparajita Saraf",
+          "Arkabandhu Chowdhury",
+          "Ashley Gabriel",
+          "Ashwin Bharambe",
+          "Assaf Eisenman",
+          "Azadeh Yazdan",
+          "Beau James",
+          "Ben Maurer",
+          "B. Leonhardi",
+          "Po-Yao (Bernie) Huang",
+          "Beth Loyd",
+          "Beto de Paola",
+          "Bhargavi Paranjape",
+          "Bing Liu",
+          "Bo Wu",
+          "B. Ni",
+          "Braden Hancock",
+          "Bram Wasti",
+          "Brandon Spence",
+          "B. Stojkovic",
+          "Brian Gamido",
+          "Britt Montalvo",
+          "Carl Parker",
+          "Carly Burton",
+          "Catalina Mejia",
+          "Changhan Wang",
+          "Changkyu Kim",
+          "Chao Zhou",
+          "Chester Hu",
+          "Ching-Hsiang Chu",
+          "Chris Cai",
+          "Chris Tindal",
+          "Christoph Feichtenhofer",
+          "Damon Civin",
+          "D. Beaty",
+          "Daniel Kreymer",
+          "Shang-Wen Li",
+          "Danny Wyatt",
+          "David Adkins",
+          "David Xu",
+          "Davide Testuggine",
+          "Delia David",
+          "Devi Parikh",
+          "Diana Liskovich",
+          "Didem Foss",
+          "Dingkang Wang",
+          "Duc Le",
+          "Dustin Holland",
+          "Edward Dowling",
+          "Eissa Jamil",
+          "Elaine Montgomery",
+          "Eleonora Presani",
+          "Emily Hahn",
+          "Emily Wood",
+          "Erik Brinkman",
+          "E. Arcaute",
+          "Evan Dunbar",
+          "Evan Smothers",
+          "Fei Sun",
+          "F. Kreuk",
+          "Feng Tian",
+          "Firat Ozgenel",
+          "Francesco Caggioni",
+          "Francisco (Paco) Guzmán",
+          "Frank J. Kanayet",
+          "Frank Seide",
+          "Gabriela Medina Florez",
+          "Gabriella Schwarz",
+          "Gada Badeer",
+          "Georgia Swee",
+          "Gil Halpern",
+          "Govind Thattai",
+          "Grant Herman",
+          "Grigory Sizov",
+          "Guangyi Zhang",
+          "G. Lakshminarayanan",
+          "Hamid Shojanazeri",
+          "Han Zou",
+          "Hannah Wang",
+          "Han Zha",
+          "Haroun Habeeb",
+          "Harrison Rudolph",
+          "Helen Suk",
+          "Henry Aspegren",
+          "Hunter Goldman",
+          "Igor Molybog",
+          "Igor Tufanov",
+          "Irina-Elena Veliche",
+          "Itai Gat",
+          "J. Weissman",
+          "James Geboski",
+          "James Kohli",
+          "Japhet Asher",
+          "Jean-Baptiste Gaya",
+          "Jeff Marcus",
+          "Jeff Tang",
+          "J. Chan",
+          "Jenny Zhen",
+          "J. Reizenstein",
+          "J. Teboul",
+          "J. Zhong",
+          "Jian Jin",
+          "Jingyi Yang",
+          "Joe Cummings",
+          "J. Carvill",
+          "Jon Shepard",
+          "J. McPhie",
+          "J. Torres",
+          "Josh Ginsburg",
+          "Junjie Wang",
+          "Kaixing(Kai) Wu",
+          "U. KamHou",
+          "Karan Saxena",
+          "Karthik Prasad",
+          "Kartikay Khandelwal",
+          "Katayoun Zand",
+          "Kathy Matosich",
+          "K. Veeraraghavan",
+          "Kelly Michelena",
+          "Keqian Li",
+          "Kun Huang",
+          "Kunal Chawla",
+          "Kushal Lakhotia",
+          "Kyle Huang",
+          "Lailin Chen",
+          "Lakshya Garg",
+          "A. Lavender",
+          "Leandro Silva",
+          "Lee Bell",
+          "Lei Zhang",
+          "Liangpeng Guo",
+          "Licheng Yu",
+          "Liron Moshkovich",
+          "Luca Wehrstedt",
+          "Madian Khabsa",
+          "Manav Avalani",
+          "M. Bhatt",
+          "M. Tsimpoukelli",
+          "Martynas Mankus",
+          "Matan Hasson",
+          "M. Lennie",
+          "Matthias Reso",
+          "M. Groshev",
+          "M. Naumov",
+          "Maya Lathi",
+          "Meghan Keneally",
+          "M. Seltzer",
+          "Michal Valko",
+          "Michelle Restrepo",
+          "M. Patel",
+          "Mik Vyatskov",
+          "Mikayel Samvelyan",
+          "Mike Clark",
+          "M. Macey",
+          "Mike Wang",
+          "Miquel Jubert Hermoso",
+          "Mo Metanat",
+          "Mohammad Rastegari",
+          "Mun-ish Bansal",
+          "N. Santhanam",
+          "Natascha Parks",
+          "Natasha White",
+          "Navy-ata Bawa",
+          "Nayan Singhal",
+          "Nick Egebo",
+          "Nicolas Usunier",
+          "Nikolay Pavlovich Laptev",
+          "Ning Dong",
+          "Ning Zhang",
+          "Norman Cheng",
+          "Oleg Chernoguz",
+          "O. Hart",
+          "Omkar Salpekar",
+          "Ozlem Kalinli",
+          "Parkin Kent",
+          "Parth Parekh",
+          "Paul Saab",
+          "Pavan Balaji",
+          "Pe-dro Rittner",
+          "Philip Bontrager",
+          "Pierre Roux",
+          "Piotr Dollár",
+          "Polina Zvyagina",
+          "Prashant Ratanchandani",
+          "P. Yuvraj",
+          "Qian Liang",
+          "Rachad Alao",
+          "R. Rodriguez",
+          "Rafi Ayub",
+          "Raghotham Murthy",
+          "Raghu Nayani",
+          "Rahul Mitra",
+          "Raymond Li",
+          "Rebekkah Hogan",
+          "Robin Battey",
+          "Rocky Wang",
+          "R. Maheswari",
+          "Russ Howes",
+          "Ruty Rinott",
+          "Sai Jayesh Bondu",
+          "Samyak Datta",
+          "Sara Chugh",
+          "Sara Hunt",
+          "Sargun Dhillon",
+          "S. Sidorov",
+          "S. Pan",
+          "Saurabh Verma",
+          "Seiji Yamamoto",
+          "Sharadh Ramaswamy",
+          "Shaun Lindsay",
+          "Sheng Feng",
+          "Shenghao Lin",
+          "Shengxin Zha",
+          "S. Shankar",
+          "Shuqiang Zhang",
+          "Sinong Wang",
+          "Sneha Agarwal",
+          "Soji Sajuyigbe",
+          "Soumith Chintala",
+          "Stephanie Max",
+          "Stephen Chen",
+          "Steve Kehoe",
+          "Steve Satterfield",
+          "Sudarshan Govindaprasad",
+          "S. Gupta",
+          "Sung-Bae Cho",
+          "Sunny Virk",
+          "Suraj Subramanian",
+          "Sy Choudhury",
+          "Sydney Goldman",
+          "Tal Remez",
+          "Tamar Glaser",
+          "Tamara Best",
+          "Thilo Kohler",
+          "Thomas Robinson",
+          "Tianhe Li",
+          "Tianjun Zhang",
+          "Tim Matthews",
+          "Timothy Chou",
+          "Tzook Shaked",
+          "Varun Vontimitta",
+          "Victoria O Ajayi",
+          "Victoria Montanez",
+          "Vijai Mohan",
+          "Vinay Kumar",
+          "Vishal Mangla",
+          "Vlad Ionescu",
+          "V. Poenaru",
+          "Vlad T. Mihailescu",
+          "V. Ivanov",
+          "Wei Li",
+          "Wenchen Wang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "openai_gpt4o_mini",
+      "raw": {
+        "title": "GPT‑4o mini: advancing cost‑efficient intelligence",
+        "authors": [
+          "{OpenAI}"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "not_found",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "de2024ai",
+      "raw": {
+        "title": "AI-Lorenz: A physics-data-driven framework for Black-Box and Gray-Box identification of chaotic systems with symbolic regression",
+        "authors": [
+          "De Florio, Mario",
+          "Kevrekidis, Ioannis G",
+          "Karniadakis, George Em"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/f5cccd316e70bd2366e67260e1f691761bd512d3",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "AI-Lorenz: A physics-data-driven framework for black-box and gray-box identification of chaotic systems with symbolic regression",
+        "year": 2023,
+        "authors": [
+          "Mario De Florio",
+          "I. Kevrekidis",
+          "G. Karniadakis"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "achiam2023gpt",
+      "raw": {
+        "title": "Gpt-4 technical report",
+        "authors": [
+          "Achiam, Josh",
+          "Adler, Steven",
+          "Agarwal, Sandhini",
+          "Ahmad, Lama",
+          "Akkaya, Ilge",
+          "Aleman, Florencia Leoni",
+          "Almeida, Diogo",
+          "Altenschmidt, Janko",
+          "Altman, Sam",
+          "Anadkat, Shyamal",
+          "others"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/163b4d6a79a5b19af88b8585456363340d9efd04",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "GPT-4 Technical Report",
+        "year": 2023,
+        "authors": [
+          "OpenAI Josh Achiam",
+          "Steven Adler",
+          "S. Agarwal",
+          "L. Ahmad",
+          "Ilge Akkaya",
+          "Florencia Leoni Aleman",
+          "D. Almeida",
+          "Janko Altenschmidt",
+          "S. Altman",
+          "Shyamal Anadkat",
+          "Red Avila",
+          "Igor Babuschkin",
+          "S. Balaji",
+          "Valerie Balcom",
+          "Paul Baltescu",
+          "Haim-ing Bao",
+          "Mo Bavarian",
+          "Jeff Belgum",
+          "Irwan Bello",
+          "Jake Berdine",
+          "Gabriel Bernadett-Shapiro",
+          "Christopher Berner",
+          "Lenny Bogdonoff",
+          "O. Boiko",
+          "Made-laine Boyd",
+          "Anna-Luisa Brakman",
+          "Greg Brockman",
+          "Tim Brooks",
+          "Miles Brundage",
+          "Kevin Button",
+          "Trevor Cai",
+          "Rosie Campbell",
+          "Andrew Cann",
+          "Brittany Carey",
+          "Chelsea Carlson",
+          "Rory Carmichael",
+          "Brooke Chan",
+          "Che Chang",
+          "Fotis Chantzis",
+          "Derek Chen",
+          "Sully Chen",
+          "Ruby Chen",
+          "Jason Chen",
+          "Mark Chen",
+          "Benjamin Chess",
+          "Chester Cho",
+          "Casey Chu",
+          "Hyung Won Chung",
+          "Dave Cummings",
+          "Jeremiah Currier",
+          "Yunxing Dai",
+          "Cory Decareaux",
+          "Thomas Degry",
+          "Noah Deutsch",
+          "Damien Deville",
+          "Arka Dhar",
+          "David Dohan",
+          "Steve Dowling",
+          "Sheila Dunning",
+          "Adrien Ecoffet",
+          "Atty Eleti",
+          "Tyna Eloundou",
+          "David Farhi",
+          "L. Fedus",
+          "Niko Felix",
+          "S. Fishman",
+          "Juston Forte",
+          "Is-abella Fulford",
+          "Leo Gao",
+          "Elie Georges",
+          "C. Gibson",
+          "Vik Goel",
+          "Tarun Gogineni",
+          "Gabriel Goh",
+          "Raphael Gontijo-Lopes",
+          "J. Gordon",
+          "Morgan Grafstein",
+          "Scott Gray",
+          "Ryan Greene",
+          "Joshua Gross",
+          "S. Gu",
+          "Yufei Guo",
+          "Chris Hallacy",
+          "Jesse Han",
+          "J. Harris",
+          "Yuchen He",
+          "Mike Heaton",
+          "Johannes Heidecke",
+          "Chris Hesse",
+          "Alan Hickey",
+          "W. Hickey",
+          "P. Hoeschele",
+          "Brandon Houghton",
+          "Kenny Hsu",
+          "Shengli Hu",
+          "Xin Hu",
+          "Joost Huizinga",
+          "Shantanu Jain",
+          "Shawn Jain",
+          "Joanne Jang",
+          "Angela Jiang",
+          "R. Jiang",
+          "Haozhun Jin",
+          "Denny Jin",
+          "Shino Jomoto",
+          "Billie Jonn",
+          "Heewoo Jun",
+          "Tomer Kaftan",
+          "Lukasz Kaiser",
+          "Ali Kamali",
+          "I. Kanitscheider",
+          "N. Keskar",
+          "Tabarak Khan",
+          "Logan Kilpatrick",
+          "Jong Wook Kim",
+          "Christina Kim",
+          "Yongjik Kim",
+          "Hendrik Kirchner",
+          "J. Kiros",
+          "Matthew Knight",
+          "Daniel Kokotajlo",
+          "Lukasz Kondraciuk",
+          "Andrew Kondrich",
+          "Aris Konstantinidis",
+          "Kyle Kosic",
+          "Gretchen Krueger",
+          "Vishal Kuo",
+          "Michael Lampe",
+          "Ikai Lan",
+          "Teddy Lee",
+          "Jan Leike",
+          "Jade Leung",
+          "Daniel Levy",
+          "Chak Li",
+          "Rachel Lim",
+          "Molly Lin",
+          "Stephanie L. Lin",
+          "Ma-teusz Litwin",
+          "Theresa Lopez",
+          "Ryan Lowe",
+          "Patricia Lue",
+          "A. Makanju",
+          "Kim Malfacini",
+          "Sam Manning",
+          "Todor Markov",
+          "Yaniv Markovski",
+          "Bianca Martin",
+          "Katie Mayer",
+          "Andrew Mayne",
+          "Bob McGrew",
+          "S. McKinney",
+          "Christine McLeavey",
+          "Paul McMillan",
+          "Jake McNeil",
+          "David Medina",
+          "Aalok Mehta",
+          "Jacob Menick",
+          "Luke Metz",
+          "Andrey Mishchenko",
+          "Pamela Mishkin",
+          "Vinnie Monaco",
+          "Evan Morikawa",
+          "Daniel P. Mossing",
+          "Tong Mu",
+          "M. Murati",
+          "O. Murk",
+          "David M'ely",
+          "Ashvin Nair",
+          "Reiichiro Nakano",
+          "Rajeev Nayak",
+          "Arvind Neelakantan",
+          "R. Ngo",
+          "Hyeonwoo Noh",
+          "Ouyang Long",
+          "Cullen O'Keefe",
+          "J. Pachocki",
+          "A. Paino",
+          "Joe Palermo",
+          "Ashley Pantuliano",
+          "Giambattista Parascandolo",
+          "J. Parish",
+          "Emy Parparita",
+          "Alexandre Passos",
+          "Mikhail Pavlov",
+          "Andrew Peng",
+          "Adam Perelman",
+          "Filipe de Avila Belbute Peres",
+          "Michael Petrov",
+          "Henrique Pondé de Oliveira Pinto",
+          "Michael Pokorny",
+          "Michelle Pokrass",
+          "Vitchyr H. Pong",
+          "Tolly Powell",
+          "Alethea Power",
+          "Boris Power",
+          "Elizabeth Proehl",
+          "Raul Puri",
+          "Alec Radford",
+          "Jack W. Rae",
+          "Aditya Ramesh",
+          "Cameron Raymond",
+          "F. Real",
+          "Kendra Rimbach",
+          "Carl Ross",
+          "Bob Rotsted",
+          "Henri Roussez",
+          "N. Ryder",
+          "M. Saltarelli",
+          "Ted Sanders",
+          "Shibani Santurkar",
+          "G. Sastry",
+          "Heather Schmidt",
+          "David Schnurr",
+          "John Schulman",
+          "Daniel Selsam",
+          "Kyla Sheppard",
+          "T. Sherbakov",
+          "Jessica Shieh",
+          "S. Shoker",
+          "Pranav Shyam",
+          "Szymon Sidor",
+          "Eric Sigler",
+          "M. Simens",
+          "Jordan Sitkin",
+          "Katarina Slama",
+          "Ian Sohl",
+          "Benjamin Sokolowsky",
+          "Yang Song",
+          "N. Staudacher",
+          "F. Such",
+          "Natalie Summers",
+          "I. Sutskever",
+          "Jie Tang",
+          "N. Tezak",
+          "Madeleine Thompson",
+          "P. Tillet",
+          "Amin Tootoonchian",
+          "Elizabeth Tseng",
+          "Preston Tuggle",
+          "Nick Turley",
+          "Jerry Tworek",
+          "Juan Felipe Cer'on Uribe",
+          "Andrea Vallone",
+          "Arun Vijayvergiya",
+          "Chelsea Voss",
+          "Carroll L. Wainwright",
+          "Justin Wang",
+          "Alvin Wang",
+          "Ben Wang",
+          "Jonathan Ward",
+          "Jason Wei",
+          "CJ Weinmann",
+          "Akila Welihinda",
+          "Peter Welinder",
+          "Jiayi Weng",
+          "Lilian Weng",
+          "Matt Wiethoff",
+          "Dave Willner",
+          "Clemens Winter",
+          "Samuel Wolrich",
+          "Hannah Wong",
+          "Lauren Workman",
+          "Sherwin Wu",
+          "Jeff Wu",
+          "Michael Wu",
+          "Kai Xiao",
+          "Tao Xu",
+          "Sarah Yoo",
+          "Kevin Yu",
+          "Qim-ing Yuan",
+          "Wojciech Zaremba",
+          "Rowan Zellers",
+          "Chong Zhang",
+          "Marvin Zhang",
+          "Shengjia Zhao",
+          "Tianhao Zheng",
+          "Juntang Zhuang",
+          "William Zhuk",
+          "Barret Zoph"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "team2023gemini",
+      "raw": {
+        "title": "Gemini: a family of highly capable multimodal models",
+        "authors": [
+          "Team, Gemini",
+          "Anil, Rohan",
+          "Borgeaud, Sebastian",
+          "Alayrac, Jean-Baptiste",
+          "Yu, Jiahui",
+          "Soricut, Radu",
+          "Schalkwyk, Johan",
+          "Dai, Andrew M",
+          "Hauth, Anja",
+          "Millican, Katie",
+          "others"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "not_found",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "whitley1999island",
+      "raw": {
+        "title": "The island model genetic algorithm: On separability, population size and convergence",
+        "authors": [
+          "Whitley, Darrell",
+          "Rana, Soraya",
+          "Heckendorn, Robert B"
+        ],
+        "year": 1999,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "metadata_mismatch",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/056a9920f71b1c50ea22af1c7ca490c9d9241d5b",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "The Island Model Genetic Algorithm: On Separability, Population Size and Convergence",
+        "year": 2015,
+        "authors": [
+          "L. D. Whitley",
+          "Soraya B. Rana",
+          "Robert B. Heckendorn"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [
+        "year"
+      ],
+      "error": null
+    },
+    {
+      "key": "byrd1995limited",
+      "raw": {
+        "title": "A limited memory algorithm for bound constrained optimization",
+        "authors": [
+          "Byrd, Richard H",
+          "Lu, Peihuang",
+          "Nocedal, Jorge",
+          "Zhu, Ciyou"
+        ],
+        "year": 1995,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/47a9ab6f97ab05fcd49aaf2864c97538b55e6268",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "A Limited Memory Algorithm for Bound Constrained Optimization",
+        "year": 1995,
+        "authors": [
+          "R. Byrd",
+          "P. Lu",
+          "J. Nocedal",
+          "C. Zhu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "uc2023survey",
+      "raw": {
+        "title": "Survey on reinforcement learning for language processing",
+        "authors": [
+          "Uc-Cetina, Victor",
+          "Navarro-Guerrero, Nicol{\\'a}s",
+          "Martin-Gonzalez, Anabel",
+          "Weber, Cornelius",
+          "Wermter, Stefan"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "metadata_mismatch",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/a0c40c5bf41c7bbb95014132d25f99ac15b2d0d9",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Survey on reinforcement learning for language processing",
+        "year": 2021,
+        "authors": [
+          "Víctor Uc Cetina",
+          "Nicolás Navarro-Guerrero",
+          "A. Martín-González",
+          "C. Weber",
+          "Stefan Wermter"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [
+        "year"
+      ],
+      "error": null
+    },
+    {
+      "key": "talagrand1996new",
+      "raw": {
+        "title": "New concentration inequalities in product spaces",
+        "authors": [
+          "Talagrand, Michel"
+        ],
+        "year": 1996,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/6bb387d6510ac41bc5a150f673210a2e635bae59",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "New concentration inequalities in product spaces",
+        "year": 1996,
+        "authors": [
+          "M. Talagrand"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "bartlett2002rademacher",
+      "raw": {
+        "title": "Rademacher and gaussian complexities: Risk bounds and structural results",
+        "authors": [
+          "Bartlett, Peter L",
+          "Mendelson, Shahar"
+        ],
+        "year": 2002,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/009f35c0e453f2435efd8d8ef8086b76b294967a",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Rademacher and Gaussian Complexities: Risk Bounds and Structural Results",
+        "year": 2003,
+        "authors": [
+          "P. Bartlett",
+          "S. Mendelson"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "mcdiarmid1989method",
+      "raw": {
+        "title": "On the method of bounded differences",
+        "authors": [
+          "McDiarmid, Colin",
+          "others"
+        ],
+        "year": 1989,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/6bbb79cc026ecca4264d95c4551fc58205b09533",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Surveys in Combinatorics, 1989: On the method of bounded differences",
+        "year": 1989,
+        "authors": [
+          "C. McDiarmid"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    }
+  ]
+}

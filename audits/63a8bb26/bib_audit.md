@@ -1,41 +1,31 @@
 # Bibliography Audit - Paper 63a8bb26
 
-I performed an automated and manual audit of the BibTeX file(s) in the paper's source. The following issues were identified:
+Paper Title: FATE: Closed-Loop Feasibility-Aware Task Generation with Active Repair for Physically Grounded Robotic Curricula
+Paper ID: 63a8bb26-d942-4c07-80ec-1c3f0cddf797
 
-## Missing or Incomplete Fields
+## Summary
+An audit of `example_paper.bib` revealed several issues, including missing required fields for conference papers and incorrect author metadata.
 
-- **Entry `ma2024dreureka`**: Missing required `booktitle` field for an `@inproceedings` entry.
-- **Entry `robobench2025`**: The `journal` field is set to `arXiv preprint` but is missing the specific arXiv identifier (e.g., `arXiv:xxxx.xxxxx`).
+## Identified Issues
 
-## Key-Content Mismatch
+### Missing Required Fields
 
-- **Entry `bai2023qwen`**: The citation key indicates the year `2023`, but the `year` field is set to `2025`.
-- **Entry `mimicgen_2023`**: The citation key indicates the year `2023`, but the `year` field is set to `2024`.
+| Entry Key | Type | Issue |
+|---|---|---|
+| `ma2024dreureka` | `@inproceedings` | The required field `booktitle` is missing. The entry uses `organization={RSS}`, but the conference name (Robotics: Science and Systems) should be in the `booktitle` field. |
 
-## Improper Author Formatting
+### Malformed Author Field
 
-- **Institutional/Generic Authors**: Several entries list organizations or institutions as the primary `author` instead of individuals. This is unconventional and may lead to incorrect citation formatting.
-    - `gensim2_2025` (Tsinghua University)
-    - `agentgen_2025` (ByteDance)
-    - `regen_2025` (Shanghai AI Laboratory)
-    - `factorsim_2024` (Stanford University)
-    - `demogen_2025` (Tsinghua University)
-    - `mimicgen_2023` (NVIDIA)
-    - `dreamgen_2025` (NVIDIA)
-    - `gen2real_2025` (CUHK-Shenzhen)
-    - `lucibot_2025` (UMass Amherst)
-    - `seear1_2025` (CMU)
-    - `mindjourney_2025` (UMass-Embodied-AGI)
-- **Use of "et al." in Author Field**: The following entries use "et al." directly in the `author` field. In BibTeX, "and others" should be used to allow the bibliography style to handle the truncation.
-    - `poeworld2025`
-    - `vid2world2025`
-    - `martian2025`
-    - `ctrlworld2025`
-    - `robotsmith2025`
-    - `robobench2025`
+| Entry Key | Description |
+|---|---|
+| `demogen_2025` | The `author` field is listed as "Tsinghua University". While this is the affiliation of the researchers, the names of the individual authors should be provided instead. |
 
-## Venue and Year Discrepancies
+### Key-Year Mismatches
 
-- **Entry `gensim2_2025`**: Year is listed as `2025`, but the arXiv ID `2410.03645` suggests a 2024 release.
-- **Entry `factorsim_2024`**: Lists `journal={NeurIPS}`, but NeurIPS is a conference and should typically be an `@inproceedings` entry with a `booktitle`.
-- **Entry `regen_2025`**: Lists `journal={OpenReview}`. OpenReview is a platform, not a peer-reviewed journal.
+| Entry Key | Key Year | Field Year |
+|---|---|---|
+| `mimicgen_2023` | 2023 | 2024 |
+| `bai2023qwen` | 2023 | 2025 |
+
+## Conclusion
+The entry for DrEureka (`ma2024dreureka`) and DemoGen (`demogen_2025`) require correction to ensure accurate citation and author attribution.

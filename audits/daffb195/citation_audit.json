@@ -1,0 +1,1379 @@
+{
+  "paper_id": "daffb195-27bd-4b96-9236-b01d6fc210d2",
+  "total": 58,
+  "verified": 0,
+  "mismatch": 0,
+  "missing": 0,
+  "ambiguous": 0,
+  "error": 46,
+  "skipped": 12,
+  "s2_consulted": 0,
+  "s2_lifted": 0,
+  "key_style_outliers": [],
+  "entries": [
+    {
+      "key": "MMLU-PRO1",
+      "raw": {
+        "title": "MMLU-Pro: A More Robust and Challenging Multi-Task Language Understanding Benchmark",
+        "authors": [
+          "Wang, Yubo",
+          "Ma, Xueguang",
+          "Zhang, Ge",
+          "Ni, Yuansheng",
+          "Chandra, Abhranil et al."
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=MMLU-Pro%3A+A+More+Robust+and+Challenging+Multi-Task+Language+Understanding+Benchmark&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "math2",
+      "raw": {
+        "title": "MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models",
+        "authors": [
+          "Yu, Longhui",
+          "Jiang, Weisen",
+          "Shi, Han",
+          "Yu, Jincheng",
+          "Liu, Zhengying",
+          "Zhang, Yu",
+          "Kwok, James T",
+          "Li, Zhenguo",
+          "Weller, Adrian",
+          "Liu, Weiyang"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=MetaMath%3A+Bootstrap+Your+Own+Mathematical+Questions+for+Large+Language+Models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "VQA3",
+      "raw": {
+        "title": "VQA: Visual Question Answering",
+        "authors": [
+          "Antol, Stanislaw",
+          "Agrawal, Aishwarya",
+          "Lu, Jiasen",
+          "Mitchell, Margaret",
+          "Batra, Dhruv",
+          "Zitnick, C. Lawrence",
+          "Parikh, Devi"
+        ],
+        "year": 2015,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=VQA%3A+Visual+Question+Answering&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "videogamebench4",
+      "raw": {
+        "title": "VideoGameBench: Can Vision-Language Models complete popular video games?",
+        "authors": [
+          "Alex L. Zhang",
+          "Thomas L. Griffiths",
+          "Karthik R. Narasimhan",
+          "Ofir Press"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=VideoGameBench%3A+Can+Vision-Language+Models+complete+popular+video+games%3F&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "oark5",
+      "raw": {
+        "title": "Orak: A Foundational Benchmark for Training and Evaluating LLM Agents on Diverse Video Games",
+        "authors": [
+          "Dongmin Park",
+          "Minkyu Kim",
+          "Beongjun Choi",
+          "Junhyuck Kim",
+          "etc."
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Orak%3A+A+Foundational+Benchmark+for+Training+and+Evaluating+LLM+Agents+on+Diverse+Video+Games&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "flashadventure6",
+      "raw": {
+        "title": "FlashAdventure: A Benchmark for GUI Agents Solving Full Story Arcs in Diverse Adventure Games",
+        "authors": [
+          "Ahn, Jaewoo",
+          "Kim, Junseo",
+          "Yun, Heeseung",
+          "Son, Jaehyeon",
+          "Park, Dongmin",
+          "Cho, Jaewoong",
+          "Kim, Gunhee"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=FlashAdventure%3A+A+Benchmark+for+GUI+Agents+Solving+Full+Story+Arcs+in+Diverse+Adventure+Games&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "vmage7",
+      "raw": {
+        "title": "V-MAGE: A Game Evaluation Framework for Assessing Vision-Centric Capabilities in Multimodal Large Language Models",
+        "authors": [
+          "Xiangxi Zheng",
+          "Linjie Li",
+          "Zhengyuan Yang",
+          "Ping Yu",
+          "Alex Jinpeng Wang",
+          "Rui Yan",
+          "Yuan Yao",
+          "Lijuan Wang"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=V-MAGE%3A+A+Game+Evaluation+Framework+for+Assessing+Vision-Centric+Capabilities+in+Multimodal+Large+Language+Models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "voyager8",
+      "raw": {
+        "title": "Voyager: An Open-Ended Embodied Agent with Large Language Models",
+        "authors": [
+          "Guanzhi Wang",
+          "Yuqi Xie",
+          "Yunfan Jiang",
+          "Ajay Mandlekar",
+          "Chaowei Xiao",
+          "Yuke Zhu",
+          "Linxi Fan",
+          "Anima Anandkumar"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Voyager%3A+An+Open-Ended+Embodied+Agent+with+Large+Language+Models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "lmgbench9",
+      "raw": {
+        "title": "lmgame-Bench: How Good are LLMs at Playing Games?",
+        "authors": [
+          "Hu, Lanxiang",
+          "Huo, Mingjia",
+          "Zhang, Yuxuan",
+          "Yu, Haoyang",
+          "Xing, Eric P",
+          "Stoica, Ion",
+          "Rosing, Tajana",
+          "Jin, Haojian",
+          "Zhang, Hao"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=lmgame-Bench%3A+How+Good+are+LLMs+at+Playing+Games%3F&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "LVLM10",
+      "raw": {
+        "title": "Are Large Vision Language Models Good Game Players?",
+        "authors": [
+          "Xinyu Wang",
+          "Bohan Zhuang",
+          "Qi Wu"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Are+Large+Vision+Language+Models+Good+Game+Players%3F&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "stardojo11",
+      "raw": {
+        "title": "StarDojo: Benchmarking Open-Ended Behaviors of Agentic Multimodal LLMs in Production-Living Simulations with Stardew Valley",
+        "authors": [
+          "Weihao Tan",
+          "Changjiu Jiang",
+          "Yu Duan",
+          "Mingcong Lei",
+          "Jiageng Li",
+          "Yitian Hong",
+          "Xinrun Wang",
+          "Bo An"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=StarDojo%3A+Benchmarking+Open-Ended+Behaviors+of+Agentic+Multimodal+LLMs+in+Production-Living+Simulations+with+Stardew+Valley&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "pollution12",
+      "raw": {
+        "title": "An Open-Source Data Contamination Report for Large Language Models",
+        "authors": [
+          "Li, Yucheng",
+          "Guo, Yunhao",
+          "Guerin, Frank",
+          "Lin, Chenghua"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=An+Open-Source+Data+Contamination+Report+for+Large+Language+Models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "balrog13",
+      "raw": {
+        "title": "BALROG: Benchmarking Agentic LLM and VLM Reasoning On Games",
+        "authors": [
+          "Davide Paglieri",
+          "Bart{\\l}omiej Cupia{\\l}",
+          "Samuel Coward",
+          "Ulyana Piterbarg et al."
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=BALROG%3A+Benchmarking+Agentic+LLM+and+VLM+Reasoning+On+Games&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "cradle14",
+      "raw": {
+        "title": "Cradle: Empowering Foundation Agents towards General Computer Control",
+        "authors": [
+          "Weihao Tan",
+          "Wentao Zhang",
+          "Xinrun Xu",
+          "Haochong Xia",
+          "Ziluo Ding",
+          "etc."
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Cradle%3A+Empowering+Foundation+Agents+towards+General+Computer+Control&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "geminipokemon15",
+      "raw": {
+        "title": "Gemini Plays Pokemon Twitch Stream",
+        "authors": [
+          "Z. Joel"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "combatvla16",
+      "raw": {
+        "title": "CombatVLA: An Efficient Vision-Language-Action Model for Combat Tasks in 3D Action Role-Playing Games",
+        "authors": [
+          "Chen, Peng",
+          "Bu, Pi",
+          "Wang, Yingyao",
+          "Wang, Xinyi et al."
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=CombatVLA%3A+An+Efficient+Vision-Language-Action+Model+for+Combat+Tasks+in+3D+Action+Role-Playing+Games&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "jarvis17",
+      "raw": {
+        "title": "JARVIS-VLA: Post-Training Large-Scale Vision Language Models to Play Visual Games with Keyboards and Mouse",
+        "authors": [
+          "Li, Muyao",
+          "Wang, Zihao",
+          "He, Kaichen",
+          "Ma, Xiaojian",
+          "Liang, Yitao"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=JARVIS-VLA%3A+Post-Training+Large-Scale+Vision+Language+Models+to+Play+Visual+Games+with+Keyboards+and+Mouse&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "UITARS118",
+      "raw": {
+        "title": "UI-TARS: Pioneering Automated GUI Interaction with Native Agents",
+        "authors": [
+          "Yujia Qin",
+          "Yining Ye",
+          "Junjie Fang",
+          "Haoming Wang et al."
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=UI-TARS%3A+Pioneering+Automated+GUI+Interaction+with+Native+Agents&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "uitars119",
+      "raw": {
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+        "authors": [
+          "Haoming Wang",
+          "Haoyang Zou",
+          "Huatong Song",
+          "Jiazhan Feng et al."
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=UI-TARS-2+Technical+Report%3A+Advancing+GUI+Agent+with+Multi-Turn+Reinforcement+Learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "gametars20",
+      "raw": {
+        "title": "Game-TARS: Pretrained Foundation Models for Scalable Generalist Multimodal Game Agents",
+        "authors": [
+          "Zihao Wang",
+          "Xujing Li",
+          "Yining Ye",
+          "Junjie Fang",
+          "Haoming Wang et al."
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Game-TARS%3A+Pretrained+Foundation+Models+for+Scalable+Generalist+Multimodal+Game+Agents&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "lumine21",
+      "raw": {
+        "title": "Lumine: An Open Recipe for Building Generalist Agents in 3D Open Worlds",
+        "authors": [
+          "Weihao Tan",
+          "Xiangyang Li",
+          "Yunhao Fang",
+          "Heyuan Yao",
+          "Shi Yan et al."
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Lumine%3A+An+Open+Recipe+for+Building+Generalist+Agents+in+3D+Open+Worlds&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "gym22",
+      "raw": {
+        "title": "Gymnasium: A Standard Interface for Reinforcement Learning Environments",
+        "authors": [
+          "Mark Towers",
+          "Ariel Kwiatkowski",
+          "Jordan Terry",
+          "John U. Balis et al."
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Gymnasium%3A+A+Standard+Interface+for+Reinforcement+Learning+Environments&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "atari23",
+      "raw": {
+        "title": "The Arcade Learning Environment: An Evaluation Platform for General Agents",
+        "authors": [
+          "Bellemare, M. G.",
+          "Naddaf, Y.",
+          "Veness, J.",
+          "Bowling, M."
+        ],
+        "year": 2013,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=The+Arcade+Learning+Environment%3A+An+Evaluation+Platform+for+General+Agents&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "qwen3vl24",
+      "raw": {
+        "title": "Qwen3-VL Technical Report",
+        "authors": [
+          "Shuai Bai",
+          "Yuxuan Cai",
+          "Ruizhe Chen",
+          "Keqin Chen et al."
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Qwen3-VL+Technical+Report&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "gpt4o25",
+      "raw": {
+        "title": "GPT-4o System Card",
+        "authors": [
+          "OpenAI",
+          ":",
+          "Aaron Hurst",
+          "Adam Lerer",
+          "Adam P. Goucher",
+          "Adam Perelman et al."
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=GPT-4o+System+Card&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "gemini2.526",
+      "raw": {
+        "title": "Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities",
+        "authors": [
+          "Gheorghe Comanici",
+          "Eric Bieber",
+          "Mike Schaekermann",
+          "Ice Pasupat",
+          "Noveen Sachdeva et al."
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Gemini+2.5%3A+Pushing+the+Frontier+with+Advanced+Reasoning%2C+Multimodality%2C+Long+Context%2C+and+Next+Generation+Agentic+Capabilities&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "gamearena27",
+      "raw": {
+        "title": "GameArena: Evaluating LLM Reasoning through Live Computer Games",
+        "authors": [
+          "Lanxiang Hu",
+          "Qiyu Li",
+          "Anze Xie",
+          "Nan Jiang",
+          "Ion Stoica",
+          "Haojian Jin",
+          "Hao Zhang"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=GameArena%3A+Evaluating+LLM+Reasoning+through+Live+Computer+Games&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "deepphy28",
+      "raw": {
+        "title": "DeepPHY: Benchmarking Agentic VLMs on Physical Reasoning",
+        "authors": [
+          "Xu, Xinrun",
+          "Bu, Pi",
+          "Wang, Ye",
+          "Karlsson, B{\\\"o}rje F.",
+          "Wang, Ziming",
+          "Song, Tengtao",
+          "Zhu, Qi",
+          "Song, Jun",
+          "Ding, Zhiming",
+          "Zheng, Bo"
+        ],
+        "year": 2026,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=DeepPHY%3A+Benchmarking+Agentic+VLMs+on+Physical+Reasoning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "game1def29",
+      "raw": {
+        "title": "Half-Real: Video Games between Real Rules and Fictional Worlds.",
+        "authors": [
+          "Jesper Juul"
+        ],
+        "year": 2011,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Half-Real%3A+Video+Games+between+Real+Rules+and+Fictional+Worlds.&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "game2def30",
+      "raw": {
+        "title": "Rules of Play: Game Design Fundamentals.",
+        "authors": [
+          "Eric Zimmerman",
+          "Katie Salen"
+        ],
+        "year": 2003,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Rules+of+Play%3A+Game+Design+Fundamentals.&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "screenspot-pro31",
+      "raw": {
+        "title": "ScreenSpot-Pro: GUI Grounding for Professional High-Resolution Computer Use",
+        "authors": [
+          "Kaixin Li",
+          "Meng Ziyang",
+          "Hongzhan Lin",
+          "Ziyang Luo",
+          "etc."
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=ScreenSpot-Pro%3A+GUI+Grounding+for+Professional+High-Resolution+Computer+Use&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "OSWorld32",
+      "raw": {
+        "title": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
+        "authors": [
+          "Tianbao Xie",
+          "Danyang Zhang",
+          "Jixuan Chen",
+          "Xiaochuan Li",
+          "etc."
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=OSWorld%3A+Benchmarking+Multimodal+Agents+for+Open-Ended+Tasks+in+Real+Computer+Environments&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "seed1.8-33",
+      "raw": {
+        "title": "Seed1.8 Model Card: Towards Generalized Real-World Agency",
+        "authors": [
+          "{Bytedance Seed Team}"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Seed1.8+Model+Card%3A+Towards+Generalized+Real-World+Agency&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "nitrogen34",
+      "raw": {
+        "title": "NitroGen: An Open Foundation Model for Generalist Gaming Agents",
+        "authors": [
+          "Loïc Magne",
+          "Anas Awadalla",
+          "Guanzhi Wang",
+          "Yinzhen Xu",
+          "etc."
+        ],
+        "year": 2026,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=NitroGen%3A+An+Open+Foundation+Model+for+Generalist+Gaming+Agents&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "RDR235",
+      "raw": {
+        "title": "Red Dead Redemption 2",
+        "authors": [
+          "{Rockstar Games}"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Genshin36",
+      "raw": {
+        "title": "Genshin Impact",
+        "authors": [
+          "{Mihoyo}"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "minimetro37",
+      "raw": {
+        "title": "Mini Metro",
+        "authors": [
+          "{Dubisayr Polo Club}"
+        ],
+        "year": 2015,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "horizon38",
+      "raw": {
+        "title": "Forza Horizon VI",
+        "authors": [
+          "{Playground Games}"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "PvZ39",
+      "raw": {
+        "title": "Plants vs. Zombies",
+        "authors": [
+          "{PopCap Games, Inc.}"
+        ],
+        "year": 2009,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "snake40",
+      "raw": {
+        "title": "Real-Time Reasoning Agents in Evolving Environments",
+        "authors": [
+          "Yule Wen",
+          "Yixin Ye",
+          "Yanzhe Zhang",
+          "Diyi Yang",
+          "Hao Zhu"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Real-Time+Reasoning+Agents+in+Evolving+Environments&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Scene41",
+      "raw": {
+        "title": "Scene Investigators",
+        "authors": [
+          "{EQ Studios}"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "civil42",
+      "raw": {
+        "title": "Sid Meier’s Civilization® VI",
+        "authors": [
+          "{Firaxis Games}"
+        ],
+        "year": 2016,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "ace43",
+      "raw": {
+        "title": "Phoenix Wright: Ace Attorney Trilogy",
+        "authors": [
+          "{CAPCOM}"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "slaythespire44",
+      "raw": {
+        "title": "Slay the Spire",
+        "authors": [
+          "{Mega Crit}"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "angrybirds45",
+      "raw": {
+        "title": "Angry Birds",
+        "authors": [
+          "{Rovio}"
+        ],
+        "year": 2009,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "babaisyou46",
+      "raw": {
+        "title": "Baba is you",
+        "authors": [
+          "{Hempuli Oy}"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Relexion47",
+      "raw": {
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "authors": [
+          "Shinn, Noah",
+          "Cassano, Federico",
+          "Gopinath, Ashwin",
+          "Narasimhan, Karthik",
+          "Yao, Shunyu"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Reflexion%3A+language+agents+with+verbal+reinforcement+learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Self-Refine48",
+      "raw": {
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "authors": [
+          "Madaan, Aman",
+          "Tandon, Niket",
+          "Gupta, Prakhar",
+          "Hallinan, Skyler",
+          "Gao, Luyu",
+          "etc."
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Self-Refine%3A+Iterative+Refinement+with+Self-Feedback&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "R3V49",
+      "raw": {
+        "title": "Vision-Language Models Can Self-Improve Reasoning via Reflection",
+        "authors": [
+          "Cheng, Kanzhi",
+          "YanTao, Li",
+          "Xu, Fangzhi",
+          "Zhang, Jianbing",
+          "Zhou, Hao",
+          "Liu, Yang"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Vision-Language+Models+Can+Self-Improve+Reasoning+via+Reflection&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ROE50",
+      "raw": {
+        "title": "Reflection of Episodes: Learning to Play Game from Expert and Self Experiences",
+        "authors": [
+          "Xiaojie Xu",
+          "Zongyuan Li",
+          "Chang Lu",
+          "Runnan Qi",
+          "etc."
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Reflection+of+Episodes%3A+Learning+to+Play+Game+from+Expert+and+Self+Experiences&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "groot51",
+      "raw": {
+        "title": "GROOT: Learning to Follow Instructions by Watching Gameplay Videos",
+        "authors": [
+          "Shaofei Cai",
+          "Bowei Zhang",
+          "Zihao Wang",
+          "Xiaojian Ma",
+          "Anji Liu",
+          "Yitao Liang"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=GROOT%3A+Learning+to+Follow+Instructions+by+Watching+Gameplay+Videos&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "minedojo52",
+      "raw": {
+        "title": "MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge",
+        "authors": [
+          "Linxi Fan",
+          "Guanzhi Wang",
+          "Yunfan Jiang",
+          "Ajay Mandlekar",
+          "Yuncong Yang",
+          "etc."
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=MineDojo%3A+Building+Open-Ended+Embodied+Agents+with+Internet-Scale+Knowledge&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "minmax53",
+      "raw": {
+        "title": "Artificial Intelligence: A Modern Approach",
+        "authors": [
+          "Russell, Stuart",
+          "Norvig, Peter"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Artificial+Intelligence%3A+A+Modern+Approach&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "turing54",
+      "raw": {
+        "title": "Digital computers applied to games",
+        "authors": [
+          "Turing, Alan M."
+        ],
+        "year": 1953,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Digital+computers+applied+to+games&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "wukong55",
+      "raw": {
+        "title": "Can VLMs Play Action Role-Playing Games? Take Black Myth Wukong as a Study Case",
+        "authors": [
+          "Peng Chen",
+          "Pi Bu",
+          "Jun Song",
+          "Yuan Gao",
+          "Bo Zheng"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Can+VLMs+Play+Action+Role-Playing+Games%3F+Take+Black+Myth+Wukong+as+a+Study+Case&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "pmlr-v267-chu25c",
+      "raw": {
+        "title": "SFT Memorizes, RL Generalizes: A Comparative Study of Foundation Model Post-training",
+        "authors": [
+          "Chu, Tianzhe",
+          "Zhai, Yuexiang",
+          "Yang, Jihan",
+          "Tong, Shengbang",
+          "Xie, Saining",
+          "Schuurmans, Dale",
+          "Le, Quoc V",
+          "Levine, Sergey",
+          "Ma, Yi"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=SFT+Memorizes%2C+RL+Generalizes%3A+A+Comparative+Study+of+Foundation+Model+Post-training&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "aigamescore57",
+      "raw": {
+        "title": "AI Gamestore: Scalable, Open-Ended Evaluation of Machine General Intelligence with Human Games",
+        "authors": [
+          "Lance Ying",
+          "Ryan Truong",
+          "Prafull Sharma",
+          "Kaiya Ivy Zhao",
+          "Nathan Cloos",
+          "Kelsey R. Allen",
+          "Thomas L. Griffiths",
+          "Katherine M. Collins",
+          "José Hernández-Orallo",
+          "Phillip Isola",
+          "Samuel J. Gershman",
+          "Joshua B. Tenenbaum"
+        ],
+        "year": 2026,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=AI+Gamestore%3A+Scalable%2C+Open-Ended+Evaluation+of+Machine+General+Intelligence+with+Human+Games&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ido58",
+      "raw": {
+        "title": "Handling Label Noise via Instance-Level Difficulty Modeling and Dynamic Optimization",
+        "authors": [
+          "Zhang, Kuan",
+          "Chai, Chengliang",
+          "Xu, Jingzhe",
+          "Zhang, Chi",
+          "Han, Han",
+          "Yuan, Ye",
+          "Wang, Guoren",
+          "Cao, Lei"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Handling+Label+Noise+via+Instance-Level+Difficulty+Modeling+and+Dynamic+Optimization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    }
+  ]
+}

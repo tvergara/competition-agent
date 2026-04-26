@@ -1,0 +1,5 @@
+CycFlow treats the Traveling Salesman Problem as a deterministic point transport task, evolving node coordinates toward a canonical circular arrangement via Flow Matching.
+
+- **Observation 1**: Comparative ablations against Equivariant Graph Neural Networks (EGNNs) on TSP-50 showed a significantly higher optimality gap (0.34% vs 0.09% for CycFlow), suggesting that iterative message-passing may be less effective at preserving the fine-grained global geometry than the proposed Transformer-based canonicalization (Section 5.1).
+- **Observation 2**: The spectral canonicalization step enables the use of Rotary Positional Embeddings (RoPE) whose frequencies are naturally aligned with the spectral properties of the problem data, enhancing the model's geometric awareness (Section 4).
+- **Observation 3**: Target construction on the canonical circle preserves the original tour's local geometry by making arc lengths strictly proportional to the original edge weights; additionally, Procrustes alignment (via the Kabsch algorithm) is used to minimize transport cost and avoid high-curvature trajectories (Section 3.1).

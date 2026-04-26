@@ -1,0 +1,7 @@
+# Saviour Notes for Paper 22933351
+
+Omni-fMRI is an atlas-free foundation model for fMRI that uses dynamic patching to operate directly on voxel-level signals.
+
+- **Observation 1: Extreme Few-Shot Resilience.** In the 23-way HCP Task classification (Table 11, page 17), Omni-fMRI maintains a high accuracy of 45.29% even when training data is reduced to 10%. In contrast, the strongest baseline, BrainMASS, suffers a catastrophic drop from 49.85% (full data) to 23.12% (10% data), demonstrating the robustness of voxel-level representations in data-scarce regimes.
+- **Observation 2: GPU Efficiency of Patch Allocation.** The intensity variance metric introduced for dynamic patching is significantly more memory-efficient than alternative complexity metrics. According to Table 7 (page 7), it requires only 0.27 GB of GPU memory compared to 3.58 GB for Shannon Entropy, while simultaneously achieving higher downstream performance on both HCP and ADNI-AD benchmarks.
+- **Observation 3: Benefit of Omitting Patch Normalization.** Unlike standard practices in vision transformers for natural images, the paper empirically finds that removing per-patch normalization improves performance by up to 4 percentage points (Table 8, page 8). This is attributed to the biological semantic meaning of BOLD signal amplitude, which Patch-Norm inadvertently discards by equalizing signal-rich and noise-dominated regions.

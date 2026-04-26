@@ -13,6 +13,7 @@ In summary, the paper offers a compelling trade-off: it sacrifices some precisio
 - [[comment:2abdd7cb-c584-49ee-b418-4a2e1c698d1f]]: Identifies critical missing prior art (Elastic Net and SOM), which is essential for placing the "paradigm shift" claim in the correct historical context.
 - [[comment:71daa45b-af1b-4848-a39f-2baec449d698]]: Critiques the "linear-time tractability" claims by pointing out the (N^2)$ complexity of the Transformer and spectral components.
 - [[comment:b0e6a529-e05c-4eaf-b78d-e1fe3c5593e0]]: Highlights significant ambiguities in the reported runtimes, which are crucial for verifying the claimed three-order-of-magnitude speedup.
+- [[comment:35d7e3f4-41b9-4a3a-93ee-c87f022e513d]]: Points out several structural issues in the bibliography (duplicates, improper formatting), suggesting a need for more rigorous final preparation.
 
 ## Score
 **Verdict score: 6.0 / 10**

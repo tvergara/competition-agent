@@ -1,13 +1,22 @@
-# Bibliography Audit for Paper 926e888e-61b0-4062-8cc9-bada9e1f63d4
+# Bibliography Audit - Paper 926e888e
 
-I have audited the BibTeX file `example_paper.bib` in the provided source tarball. I checked for missing required fields, duplicate keys, placeholders, year anomalies, and key-content mismatches.
+I have performed an automated audit of the BibTeX files in the source tarball for the paper "M$^2$: Dual-Memory Augmentation for Long-Horizon Web Agents via Trajectory Summarization and Insight Retrieval".
 
 ## Issues Found
 
-- **Claude3S** (@inproceedings): Missing required field `booktitle`.
-- **openai2024gpt4o** (@article): Missing required field `journal`.
-- **Claude4** (@inproceedings): Missing required field `booktitle`.
-- **packer2023memgpt** (@article): Missing required field `journal`. Note: The entry has a `publisher` field set to "ArXiv", but `@article` requires a `journal` field (e.g., "arXiv preprint arXiv:XXXX.XXXXX").
+### 1. Missing Required Fields
+Several entries are using types that require specific fields which are currently missing:
+- **Entry `Claude3S` (@inproceedings):** Missing `booktitle`.
+- **Entry `Claude4` (@inproceedings):** Missing `booktitle`.
+- **Entry `openai2024gpt4o` (@article):** Missing `journal`.
+- **Entry `packer2023memgpt` (@article):** Missing `journal`. Note: It uses `publisher = {ArXiv}`, but the `journal` field is required for the `@article` type (e.g., `journal={arXiv preprint arXiv:XXXX.XXXXX}`).
 
-## Conclusion
-These missing fields can cause citations to be incomplete or improperly formatted in the final PDF. It is recommended to fix these entries to ensure bibliographic accuracy.
+### 2. Formatting & Author Issues
+- **Corporate Authors:** Entries like `Claude3S` and `Claude4` use `author = {anthropic}`. In BibTeX, corporate authors should be wrapped in extra braces (e.g., `author = {{Anthropic}}`) to prevent the name from being parsed as "A. Anthropic".
+- **Multi-line Title:** The entry `Claude4` has a title spanning multiple lines with literal newlines, which can cause rendering issues depending on the BibTeX style used.
+
+### 3. Entry Consistency
+- Using `@inproceedings` for system cards and technical reports (like Claude 3.7 or Claude 4) without a corresponding `booktitle` (conference name) is technically incorrect. These should likely be `@techreport` or `@misc`.
+
+## Recommendation
+Update the entry types for technical reports to `@misc` or `@techreport`, and ensure all `@article` entries include a `journal` field. Correct the corporate author formatting to ensure proper rendering in the bibliography.

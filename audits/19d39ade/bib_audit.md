@@ -1,21 +1,57 @@
 # Bibliography Audit - Paper 19d39ade
 
-I performed an audit of the BibTeX file `icml2026_conference.bib` and found several structural issues, primarily related to duplicate entries for the same work.
+Paper Title: Test-time Generalization for Physics through Neural Operator Splitting
+Paper ID: 19d39ade-4e50-45d4-9f8c-5fe2de51f458
 
-## Duplicate Entries
-The following works are cited using multiple distinct BibTeX keys, which can lead to an inconsistent and cluttered bibliography:
+## Summary
+An audit of `icml2026_conference.bib` revealed several structural issues, including missing required fields for `@article` and `@inproceedings` entries, as well as key-year mismatches. These issues can hinder citation tracking and bibliographic accuracy.
 
-- **"Why Can GPT Learn In-Context? Language Models Implicitly Perform Gradient Descent as Meta-Optimizers"**
-  - Keys: `dai2022can` (arXiv) and `Dai2023` (ACL 2023)
-- **"Data-Efficient Operator Learning via Unsupervised Pretraining and In-Context Learning"**
-  - Keys: `chen2024data` (arXiv) and `Chen2024` (NeurIPS 2024)
-- **"Neural Context Flows for Meta-Learning of Dynamical Systems"**
-  - Keys: `nzoyem2025neural` (ICLR 2025) and `nzoyem2024neural` (arXiv 2024)
-- **"In-context operator learning with data prompts for differential equation problems"**
-  - Keys: `yang2023context` and `icon`. These two entries are identical, both citing the PNAS 2023 publication.
+## Identified Issues
 
-## Formatting Issues
-- There is loose text outside of BibTeX entries that is not commented out (e.g., "etraining models" before the `serrano2023coral` entry). While many parsers will ignore this, it is non-standard and can cause issues with some BibTeX tools.
+### Missing Required Fields
 
-## Recommendation
-Consolidate duplicate entries to ensure each work has a single, authoritative BibTeX key. For works that have been formally published (e.g., ACL, NeurIPS, PNAS), prefer the conference/journal version over the arXiv preprint.
+| Entry Key | Type | Missing Field | Note |
+|---|---|---|---|
+| `Holden2010SplittingMF` | `@inproceedings` | `booktitle` | Appears to be a book or monograph, but incorrectly typed. |
+| `Prasthofer2022` | `@article` | `journal` | |
+| `Kovachki2022` | `@article` | `journal` | |
+| `Allen2022` | `@article` | `journal` | arXiv paper missing journal/note. |
+| `Hamilton2017` | `@inproceedings` | `booktitle` | Uses `journal` field instead of `booktitle`. |
+| `Velickovic` | `@inproceedings` | `booktitle` | Uses `journal` field instead of `booktitle`. |
+| `Tran2023` | `@inproceedings` | `booktitle` | |
+| `Ronneberger2015` | `@inproceedings` | `booktitle` | |
+| `Long2018` | `@inproceedings` | `booktitle` | |
+| `herde2024poseidon` | `@article` | `journal` | |
+| `radford2018improving` | `@article` | `journal` | |
+| `park2023firstorder` | `@article` | `journal` | |
+| `liu2024` | `@inproceedings` | `booktitle` | |
+| `Cao2024` | `@inproceedings` | `booktitle` | |
+| `Couairon2024` | `@inproceedings` | `booktitle` | |
+| `Price2024` | `@article` | `journal` | |
+| `Morton2005` | `@book` | `publisher` | |
+
+### Key-Year Mismatches
+
+| Entry Key | Key Year | Field Year |
+|---|---|---| 
+| `Li2021` | 2021 | 2022 |
+| `Lu2019` | 2019 | 2021 |
+| `Lindell2021` | 2021 | 2022 |
+| `Li2020` | 2020 | 2021 |
+| `Dosovitskiy2020` | 2020 | 2021 |
+| `bezenac2017` | 2017 | 2019 |
+| `ames2014numerical` | 2014 | 1970 |
+| `Ayed2019` | 2019 | 2020 |
+| `chen2018` | 2018 | 2019 |
+| `Ha2016` | 2016 | 2017 |
+| `He2015` | 2015 | 2016 |
+| `Krizhevsky2012` | 2012 | 2017 |
+| `mescheder2018` | 2018 | 2019 |
+| `perez2017` | 2017 | 2018 |
+| `pfaff2020` | 2020 | 2021 |
+| `Yin2020` | 2020 | 2021 |
+| `Zintgraf2018` | 2018 | 2019 |
+| `Price2024` | 2024 | 2023 |
+
+## Conclusion
+The bibliography requires significant cleanup to ensure all entries conform to standard BibTeX requirements and that citation keys are consistent with the provided metadata.

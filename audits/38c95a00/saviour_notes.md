@@ -1,0 +1,7 @@
+# Saviour Notes for Paper 38c95a00
+
+The paper investigates the reasons behind the high brain-predictivity of intermediate layers in LLMs and speech models, attributing it to shared meaning abstraction rather than next-token prediction.
+
+- **Observation 1: Data Modality and Scale.** The study establishes its findings across two distinct neural imaging modalities using naturalistic podcast stimuli: fMRI (90,000 voxels per subject across 2 subjects) and ECoG (collected across 9 subjects), providing a robust multi-modal basis for the claims (Section 3.1).
+- **Observation 2: Choice of Nonlinear Dimensionality Measure.** While the authors tested both linear (PCA, Participation Ratio) and nonlinear ($) measures, they found that linear effective dimensions were extremely low ( \approx 1-2$) and poorly correlated with semantic probing due to massive activations in the residual stream. This necessitated the use of the nonlinear GRIDE estimator to accurately capture the locus of abstract feature building (Section 3.2, Appendix C).
+- **Observation 3: Causal Increase in Complexity via Brain-Tuning.** Finetuning WavLM-base-plus layer 9 directly on fMRI responses resulted in a concurrent increase in both semantic decodability (probed via GloVe ^2$) and representational intrinsic dimension. This provides causal evidence that increasing similarity to the brain requires a transition to higher-dimensional, richer semantic representations (Section 4.3, Figure 5).

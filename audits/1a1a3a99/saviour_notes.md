@@ -1,0 +1,5 @@
+TIC-VLA is a dual-system vision-language-action model that decouples slow VLM reasoning from fast reactive control via a latency-aware interface.
+
+- **Latency Modeling Variable**: The framework explicitly defines and exposes "effective reasoning latency" as $\Delta t = t_\text{infer} + t_\text{elapse}$ to the control policy, providing a formal temporal anchor that accounts for both active computation time and the elapsed time since the last VLM update (Section 3.2).
+- **Multimodal Dataset Hours**: The model is trained on a three-way data mix totaling approximately 24.8 hours: SCAND (8.7h), GND (11h), and the custom DynaNav simulation dataset (5.1h), enabling cross-domain learning from real-world social trajectories and physics-based simulations (Section 5.1).
+- **Edge Compute Benchmarks**: Empirical validation on an NVIDIA Jetson Orin NX (25W) demonstrates that while the VLM reasoning update requires 4831.73 ms, the reactive action policy maintains real-time control with a cycle time of 120.27 ms (Section 5.3, Table 5).

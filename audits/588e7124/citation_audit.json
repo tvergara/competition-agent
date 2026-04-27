@@ -1,0 +1,2230 @@
+{
+  "paper_id": "588e7124-aedd-4875-b033-013600ea9b51",
+  "total": 84,
+  "verified": 17,
+  "mismatch": 1,
+  "missing": 0,
+  "ambiguous": 0,
+  "error": 59,
+  "skipped": 7,
+  "s2_consulted": 1,
+  "s2_lifted": 0,
+  "key_style_outliers": [
+    "langley00",
+    "mitchell80",
+    "kearns89",
+    "DudaHart2nd",
+    "Newell81",
+    "Samuel59",
+    "10.1145/3706599.3719710",
+    "deepseekr1",
+    "claudesonnet4",
+    "gpt-5",
+    "grok4fast",
+    "Hinton06"
+  ],
+  "entries": [
+    {
+      "key": "langley00",
+      "raw": {
+        "title": "Crafting Papers on Machine Learning",
+        "authors": [
+          "P. Langley"
+        ],
+        "year": 2000,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Crafting+Papers+on+Machine+Learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "wu2025large",
+      "raw": {
+        "title": "Are Large Language Models Sensitive to the Motives Behind Communication?",
+        "authors": [
+          "Wu, Addison J",
+          "Liu, Ryan",
+          "Oktar, Kerem",
+          "Sumers, Theodore R",
+          "Griffiths, Thomas L"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Are+Large+Language+Models+Sensitive+to+the+Motives+Behind+Communication%3F&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zhang2025attacking",
+      "raw": {
+        "title": "Attacking vision-language computer agents via pop-ups",
+        "authors": [
+          "Zhang, Yanzhe",
+          "Yu, Tao",
+          "Yang, Diyi"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Attacking+vision-language+computer+agents+via+pop-ups&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "sharma2023towards",
+      "raw": {
+        "title": "Towards understanding sycophancy in language models",
+        "authors": [
+          "Sharma, Mrinank",
+          "Tong, Meg",
+          "Korbak, Tomasz",
+          "Duvenaud, David",
+          "Askell, Amanda",
+          "Bowman, Samuel R",
+          "Cheng, Newton",
+          "Durmus, Esin",
+          "Hatfield-Dodds, Zac",
+          "Johnston, Scott R",
+          "others"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Towards+understanding+sycophancy+in+language+models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ma2025caution",
+      "raw": {
+        "title": "Caution for the environment: Multimodal llm agents are susceptible to environmental distractions",
+        "authors": [
+          "Ma, Xinbei",
+          "Wang, Yiting",
+          "Yao, Yao",
+          "Yuan, Tongxin",
+          "Zhang, Aston",
+          "Zhang, Zhuosheng",
+          "Zhao, Hai"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Caution+for+the+environment%3A+Multimodal+llm+agents+are+susceptible+to+environmental+distractions&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zeng2024johnny",
+      "raw": {
+        "title": "How johnny can persuade llms to jailbreak them: Rethinking persuasion to challenge ai safety by humanizing llms",
+        "authors": [
+          "Zeng, Yi",
+          "Lin, Hongpeng",
+          "Zhang, Jingwen",
+          "Yang, Diyi",
+          "Jia, Ruoxi",
+          "Shi, Weiyan"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=How+johnny+can+persuade+llms+to+jailbreak+them%3A+Rethinking+persuasion+to+challenge+ai+safety+by+humanizing+llms&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "liu2023autodan",
+      "raw": {
+        "title": "Autodan: Generating stealthy jailbreak prompts on aligned large language models",
+        "authors": [
+          "Liu, Xiaogeng",
+          "Xu, Nan",
+          "Chen, Muhao",
+          "Xiao, Chaowei"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Autodan%3A+Generating+stealthy+jailbreak+prompts+on+aligned+large+language+models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "mitchell80",
+      "raw": {
+        "title": "The Need for Biases in Learning Generalizations",
+        "authors": [
+          "T. M. Mitchell"
+        ],
+        "year": 1980,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=The+Need+for+Biases+in+Learning+Generalizations&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "kearns89",
+      "raw": {
+        "title": "Computational Complexity of Machine Learning",
+        "authors": [
+          "M. J. Kearns"
+        ],
+        "year": 1989,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Computational+Complexity+of+Machine+Learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "MachineLearningI",
+      "raw": {
+        "title": "Machine Learning: An Artificial Intelligence Approach, Vol. I",
+        "authors": [],
+        "year": 1983,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Machine+Learning%3A+An+Artificial+Intelligence+Approach%2C+Vol.+I&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "DudaHart2nd",
+      "raw": {
+        "title": "Pattern Classification",
+        "authors": [
+          "R. O. Duda",
+          "P. E. Hart",
+          "D. G. Stork"
+        ],
+        "year": 2000,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Pattern+Classification&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "anonymous",
+      "raw": {
+        "title": "Suppressed for Anonymity",
+        "authors": [
+          "Author, N. N."
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Suppressed+for+Anonymity&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Newell81",
+      "raw": {
+        "title": "Mechanisms of Skill Acquisition and the Law of Practice",
+        "authors": [
+          "A. Newell",
+          "P. S. Rosenbloom"
+        ],
+        "year": 1981,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Mechanisms+of+Skill+Acquisition+and+the+Law+of+Practice&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Samuel59",
+      "raw": {
+        "title": "Some Studies in Machine Learning Using the Game of Checkers",
+        "authors": [
+          "A. L. Samuel"
+        ],
+        "year": 1959,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Some+Studies+in+Machine+Learning+Using+the+Game+of+Checkers&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zhou2025haicosystem",
+      "raw": {
+        "title": "HAICOSYSTEM: An Ecosystem for Sandboxing Safety Risks in Interactive AI Agents",
+        "authors": [
+          "Xuhui Zhou",
+          "Hyunwoo Kim",
+          "Faeze Brahman",
+          "Liwei Jiang",
+          "Hao Zhu",
+          "Ximing Lu",
+          "Frank F. Xu",
+          "Bill Yuchen Lin",
+          "Yejin Choi",
+          "Niloofar Mireshghallah",
+          "Ronan Le Bras",
+          "Maarten Sap"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Akata_2025",
+      "raw": {
+        "title": "Playing repeated games with large language models",
+        "authors": [
+          "Akata, Elif",
+          "Schulz, Lion",
+          "Coda-Forno, Julian",
+          "Oh, Seong Joon",
+          "Bethge, Matthias",
+          "Schulz, Eric"
+        ],
+        "year": 2025,
+        "doi": "10.1038/s41562-025-02172-y",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4410251374",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Playing repeated games with large language models",
+        "year": 2025,
+        "authors": [
+          "Elif Akata",
+          "Lion Schulz",
+          "Julian Coda-Forno",
+          "Seung‐June Oh",
+          "Matthias Bethge",
+          "Eric Schulz"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "hu2025lmgame",
+      "raw": {
+        "title": "lmgame-Bench: How Good are LLMs at Playing Games?",
+        "authors": [
+          "Hu, Lanxiang",
+          "Huo, Mingjia",
+          "Zhang, Yuxuan",
+          "Yu, Haoyang",
+          "Xing, Eric P",
+          "Stoica, Ion",
+          "Rosing, Tajana",
+          "Jin, Haojian",
+          "Zhang, Hao"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=lmgame-Bench%3A+How+Good+are+LLMs+at+Playing+Games%3F&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "aeronautiques1998pddl",
+      "raw": {
+        "title": "Pddl—the planning domain definition language",
+        "authors": [
+          "Aeronautiques, Constructions",
+          "Howe, Adele",
+          "Knoblock, Craig",
+          "McDermott, ISI Drew",
+          "Ram, Ashwin",
+          "Veloso, Manuela",
+          "Weld, Daniel",
+          "Sri, David Wilkins",
+          "Barrett, Anthony",
+          "Christianson, Dave",
+          "others"
+        ],
+        "year": 1998,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Pddl%E2%80%94the+planning+domain+definition+language&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "allen2024using",
+      "raw": {
+        "title": "Using games to understand the mind",
+        "authors": [
+          "Allen, Kelsey",
+          "Br{\\\"a}ndle, Franziska",
+          "Botvinick, Matthew",
+          "Fan, Judith E",
+          "Gershman, Samuel J",
+          "Gopnik, Alison",
+          "Griffiths, Thomas L",
+          "Hartshorne, Joshua K",
+          "Hauser, Tobias U",
+          "Ho, Mark K",
+          "others"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Using+games+to+understand+the+mind&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "benton2024sabotageevaluationsfrontiermodels",
+      "raw": {
+        "title": "Sabotage Evaluations for Frontier Models",
+        "authors": [
+          "Joe Benton",
+          "Misha Wagner",
+          "Eric Christiansen",
+          "Cem Anil",
+          "Ethan Perez",
+          "Jai Srivastav",
+          "Esin Durmus",
+          "Deep Ganguli",
+          "Shauna Kravec",
+          "Buck Shlegeris",
+          "Jared Kaplan",
+          "Holden Karnofsky",
+          "Evan Hubinger",
+          "Roger Grosse",
+          "Samuel R. Bowman",
+          "David Duvenaud"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2410.21514"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2410.21514&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "weiner2016coordinatetocooperate",
+      "raw": {
+        "title": "Coordinate to Cooperate or Compete: Abstract goals and joint intentions in social interaction",
+        "authors": [
+          "Kleiman-Weiner, Max",
+          "Ho, Mark",
+          "Austerweil, Joseph",
+          "Littman, Michael",
+          "Tenenbaum, Joshua"
+        ],
+        "year": 2016,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Coordinate+to+Cooperate+or+Compete%3A+Abstract+goals+and+joint+intentions+in+social+interaction&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "oktar2025identifying",
+      "raw": {
+        "title": "Identifying, Evaluating, and Mitigating Risks of AI Thought Partnerships",
+        "authors": [
+          "Oktar, Kerem",
+          "Collins, Katherine M",
+          "Hernandez-Orallo, Jose",
+          "Coyle, Diane",
+          "Cave, Stephen",
+          "Weller, Adrian",
+          "Sucholutsky, Ilia"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Identifying%2C+Evaluating%2C+and+Mitigating+Risks+of+AI+Thought+Partnerships&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "collins2024buildingmachineslearnthink",
+      "raw": {
+        "title": "Building machines that learn and think with people",
+        "authors": [
+          "Collins, Katherine M",
+          "Sucholutsky, Ilia",
+          "Bhatt, Umang",
+          "Chandra, Kartik",
+          "Wong, Lionel",
+          "Lee, Mina",
+          "Zhang, Cedegao E",
+          "Zhi-Xuan, Tan",
+          "Ho, Mark",
+          "Mansinghka, Vikash",
+          "others"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Building+machines+that+learn+and+think+with+people&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "oktar2024rationalmodelvigilance",
+      "raw": {
+        "title": "A Rational Model of Vigilance in Motivated Communication",
+        "authors": [
+          "Kerem Oktar",
+          "Theodore Sumers",
+          "Thomas L. Griffiths"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "schoenegger2025largelanguagemodelspersuasive",
+      "raw": {
+        "title": "Large Language Models Are More Persuasive Than Incentivized Human Persuaders",
+        "authors": [
+          "Philipp Schoenegger",
+          "Francesco Salvi",
+          "Jiacheng Liu",
+          "Xiaoli Nan",
+          "Ramit Debnath",
+          "Barbara Fasolo",
+          "Evelina Leivada",
+          "Gabriel Recchia",
+          "Fritz Günther",
+          "Ali Zarifhonarvar",
+          "Joe Kwon",
+          "Zahoor Ul Islam",
+          "Marco Dehnert",
+          "Daryl Y. H. Lee",
+          "Madeline G. Reinecke",
+          "David G. Kamper",
+          "Mert Kobaş",
+          "Adam Sandford",
+          "Jonas Kgomo",
+          "Luke Hewitt",
+          "Shreya Kapoor",
+          "Kerem Oktar",
+          "Eyup Engin Kucuk",
+          "Bo Feng",
+          "Cameron R. Jones",
+          "Izzy Gainsburg",
+          "Sebastian Olschewski",
+          "Nora Heinzelmann",
+          "Francisco Cruz",
+          "Ben M. Tappin",
+          "Tao Ma",
+          "Peter S. Park",
+          "Rayan Onyonka",
+          "Arthur Hjorth",
+          "Peter Slattery",
+          "Qingcheng Zeng",
+          "Lennart Finke",
+          "Igor Grossmann",
+          "Alessandro Salatiello",
+          "Ezra Karger"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2505.09662"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2505.09662&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Salvi_2025",
+      "raw": {
+        "title": "On the conversational persuasiveness of GPT-4",
+        "authors": [
+          "Salvi, Francesco",
+          "Horta Ribeiro, Manoel",
+          "Gallotti, Riccardo",
+          "West, Robert"
+        ],
+        "year": 2025,
+        "doi": "10.1038/s41562-025-02194-6",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4410496075",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "On the conversational persuasiveness of GPT-4",
+        "year": 2025,
+        "authors": [
+          "Francesco Salvi",
+          "Manoel Horta Ribeiro",
+          "Riccardo Gallotti",
+          "Robert West"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Bengio_2024",
+      "raw": {
+        "title": "Managing extreme AI risks amid rapid progress",
+        "authors": [
+          "Bengio, Yoshua",
+          "Hinton, Geoffrey",
+          "Yao, Andrew",
+          "Song, Dawn",
+          "Abbeel, Pieter",
+          "Darrell, Trevor",
+          "Harari, Yuval Noah",
+          "Zhang, Ya-Qin",
+          "Xue, Lan",
+          "Shalev-Shwartz, Shai",
+          "Hadfield, Gillian",
+          "Clune, Jeff",
+          "Maharaj, Tegan",
+          "Hutter, Frank",
+          "Baydin, Atılım Güneş",
+          "McIlraith, Sheila",
+          "Gao, Qiqi",
+          "Acharya, Ashwin",
+          "Krueger, David",
+          "Dragan, Anca",
+          "Torr, Philip",
+          "Russell, Stuart",
+          "Kahneman, Daniel",
+          "Brauner, Jan",
+          "Mindermann, Sören"
+        ],
+        "year": 2024,
+        "doi": "10.1126/science.adn0117",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4398133596",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Managing extreme AI risks amid rapid progress",
+        "year": 2024,
+        "authors": [
+          "Yoshua Bengio",
+          "Geoffrey E. Hinton",
+          "Andrew Chi-Chih Yao",
+          "Dawn Song",
+          "Pieter Abbeel",
+          "Trevor Darrell",
+          "Yuval Noah Harari",
+          "Ya-Qin Zhang",
+          "Xue Lan",
+          "Shai Shalev‐Shwartz",
+          "Gillian K. Hadfield",
+          "Jeff Clune",
+          "Tegan Maharaj",
+          "Frank Hutter",
+          "Atılım Güneş Baydin",
+          "Sheila A. McIlraith",
+          "Qiqi Gao",
+          "Ashwin Acharya",
+          "David Krueger",
+          "Anca D. Dragan",
+          "Philip H. S. Torr",
+          "Stuart Russell",
+          "Daniel Kahneman",
+          "Jan Brauner",
+          "Sören Mindermann"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "teo2025recursivereasoningdeceptive",
+      "raw": {
+        "title": "Leave a trace: Recursive reasoning about deceptive behavior",
+        "authors": [
+          "Teo, Verona",
+          "Wu, Sarah",
+          "Brockbank, Erik",
+          "Gerstenberg, Tobias"
+        ],
+        "year": 2025,
+        "doi": "10.31219/osf.io/vqgz5_v1",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4410629301",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Leave a trace: Recursive reasoning about deceptive behavior",
+        "year": 2025,
+        "authors": [
+          "Verona Teo",
+          "Sarah A. Wu",
+          "Erik Brockbank",
+          "Tobias Gerstenberg"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "hafner2022benchmarkingspectrumagentcapabilities",
+      "raw": {
+        "title": "Benchmarking the Spectrum of Agent Capabilities",
+        "authors": [
+          "Danijar Hafner"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": "2109.06780"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2109.06780&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Ho_2022",
+      "raw": {
+        "title": "People construct simplified mental representations to plan",
+        "authors": [
+          "Ho, Mark K.",
+          "Abel, David",
+          "Correa, Carlos G.",
+          "Littman, Michael L.",
+          "Cohen, Jonathan D.",
+          "Griffiths, Thomas L."
+        ],
+        "year": 2022,
+        "doi": "10.1038/s41586-022-04743-9",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4280491924",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "People construct simplified mental representations to plan",
+        "year": 2022,
+        "authors": [
+          "Mark K. Ho",
+          "David Abel",
+          "Carlos G. Correa",
+          "Michael L. Littman",
+          "Jonathan D. Cohen",
+          "Thomas L. Griffiths"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "ying2023neurosymbolicinverseplanningengine",
+      "raw": {
+        "title": "The Neuro-Symbolic Inverse Planning Engine (NIPE): Modeling Probabilistic Social Inferences from Linguistic Inputs",
+        "authors": [
+          "Lance Ying",
+          "Katherine M. Collins",
+          "Megan Wei",
+          "Cedegao E. Zhang",
+          "Tan Zhi-Xuan",
+          "Adrian Weller",
+          "Joshua B. Tenenbaum",
+          "Lionel Wong"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": "2306.14325"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2306.14325&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "hu2025lmgamebenchgoodllmsplaying",
+      "raw": {
+        "title": "lmgame-Bench: How Good are LLMs at Playing Games?",
+        "authors": [
+          "Lanxiang Hu",
+          "Mingjia Huo",
+          "Yuxuan Zhang",
+          "Haoyang Yu",
+          "Eric P. Xing",
+          "Ion Stoica",
+          "Tajana Rosing",
+          "Haojian Jin",
+          "Hao Zhang"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2505.15146"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2505.15146&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "silver2020pddlgymgymenvironmentspddl",
+      "raw": {
+        "title": "PDDLGym: Gym Environments from PDDL Problems",
+        "authors": [
+          "Tom Silver",
+          "Rohan Chitnis"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": "2002.06432"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2002.06432&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "chu2025whatmakespuzzlefuntosolve",
+      "raw": {
+        "title": "What makes people think a puzzle is fun to solve?",
+        "authors": [
+          "Junyi Chu",
+          "Kristine Zheng",
+          "Judith E. Fan"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "gregordevarda2025costofthinking",
+      "raw": {
+        "title": "The cost of thinking is similar between large reasoning models and humans",
+        "authors": [
+          "de Varda, Andrea",
+          "D'Elia, Ferdinando P",
+          "Fedorenko, Evelina",
+          "Lampinen, Andrew"
+        ],
+        "year": 2025,
+        "doi": "10.31234/osf.io/m2cu5_v1",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4412620526",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "The cost of thinking is similar between large reasoning models and humans",
+        "year": 2025,
+        "authors": [
+          "Andrea Gregor de Varda",
+          "Ferdinando Pio D'Elia",
+          "Evelina Fedorenko",
+          "Andrew Lampinen"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "baker2009action",
+      "raw": {
+        "title": "Action understanding as inverse planning",
+        "authors": [
+          "Baker, Chris L",
+          "Saxe, Rebecca",
+          "Tenenbaum, Joshua B"
+        ],
+        "year": 2009,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Action+understanding+as+inverse+planning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "fontana2024nicerhumanslargelanguage",
+      "raw": {
+        "title": "Nicer Than Humans: How do Large Language Models Behave in the Prisoner's Dilemma?",
+        "authors": [
+          "Nicoló Fontana",
+          "Francesco Pierri",
+          "Luca Maria Aiello"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2406.13605"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2406.13605&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zhang2024magebenchbridginglargemultimodal",
+      "raw": {
+        "title": "MageBench: Bridging Large Multimodal Models to Agents",
+        "authors": [
+          "Miaosen Zhang",
+          "Qi Dai",
+          "Yifan Yang",
+          "Jianmin Bao",
+          "Dongdong Chen",
+          "Kai Qiu",
+          "Chong Luo",
+          "Xin Geng",
+          "Baining Guo"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2412.04531"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2412.04531&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "meta2022human",
+      "raw": {
+        "title": "Human-level play in the game of Diplomacy by combining language models with strategic reasoning",
+        "authors": [
+          "FAIR, Meta Fundamental AI Research Diplomacy Team",
+          "Bakhtin, Anton",
+          "Brown, Noam",
+          "Dinan, Emily",
+          "Farina, Gabriele",
+          "Flaherty, Colin",
+          "Fried, Daniel",
+          "Goff, Andrew",
+          "Gray, Jonathan",
+          "Hu, Hengyuan",
+          "others"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Human-level+play+in+the+game+of+Diplomacy+by+combining+language+models+with+strategic+reasoning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "collins2025revisiting",
+      "raw": {
+        "title": "Revisiting Rogers' Paradox in the Context of Human-AI Interaction",
+        "authors": [
+          "Collins, Katherine M",
+          "Bhatt, Umang",
+          "Sucholutsky, Ilia"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Revisiting+Rogers%27+Paradox+in+the+Context+of+Human-AI+Interaction&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "jiang2025humanslearnprefertrustworthy",
+      "raw": {
+        "title": "Humans learn to prefer trustworthy AI over human partners",
+        "authors": [
+          "Yaomin Jiang",
+          "Levin Brinkmann",
+          "Anne-Marie Nussberger",
+          "Ivan Soraperra",
+          "Jean-François Bonnefon",
+          "Iyad Rahwan"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2507.13524"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2507.13524&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "dewynter2025linecomprehensionpersuasionllms",
+      "raw": {
+        "title": "The Thin Line Between Comprehension and Persuasion in LLMs",
+        "authors": [
+          "Adrian de Wynter",
+          "Tangming Yuan"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2507.01936"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2507.01936&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "10.1145/3706599.3719710",
+      "raw": {
+        "title": "Portraying Large Language Models as Machines, Tools, or Companions Affects What Mental Capacities Humans Attribute to Them",
+        "authors": [
+          "Chen, Allison",
+          "Kim, Sunnie S. Y.",
+          "Dharmasiri, Amaya",
+          "Russakovsky, Olga",
+          "Fan, Judith E."
+        ],
+        "year": 2025,
+        "doi": "10.1145/3706599.3719710",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4409720546",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Portraying Large Language Models as Machines, Tools, or Companions Affects What Mental Capacities Humans Attribute to Them",
+        "year": 2025,
+        "authors": [
+          "Allison Chen",
+          "Sunnie S. Y. Kim",
+          "Amaya Dharmasiri",
+          "Olga Russakovsky",
+          "Judith E. Fan"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "collins2024modulatinglanguagemodelexperiences",
+      "raw": {
+        "title": "Modulating Language Model Experiences through Frictions",
+        "authors": [
+          "Katherine M. Collins",
+          "Valerie Chen",
+          "Ilia Sucholutsky",
+          "Hannah Rose Kirk",
+          "Malak Sadek",
+          "Holli Sargeant",
+          "Ameet Talwalkar",
+          "Adrian Weller",
+          "Umang Bhatt"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2407.12804"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2407.12804&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "kutasov2025shadearenaevaluatingsabotagemonitoring",
+      "raw": {
+        "title": "SHADE-Arena: Evaluating Sabotage and Monitoring in LLM Agents",
+        "authors": [
+          "Jonathan Kutasov",
+          "Yuqi Sun",
+          "Paul Colognese",
+          "Teun van der Weij",
+          "Linda Petrini",
+          "Chen Bo Calvin Zhang",
+          "John Hughes",
+          "Xiang Deng",
+          "Henry Sleight",
+          "Tyler Tracy",
+          "Buck Shlegeris",
+          "Joe Benton"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2506.15740"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2506.15740&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "alanqary2021modelingmistakesboundedlyrational",
+      "raw": {
+        "title": "Modeling the Mistakes of Boundedly Rational Agents Within a Bayesian Theory of Mind",
+        "authors": [
+          "Arwa Alanqary",
+          "Gloria Z. Lin",
+          "Joie Le",
+          "Tan Zhi-Xuan",
+          "Vikash K. Mansinghka",
+          "Joshua B. Tenenbaum"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": "2106.13249"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2106.13249&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "white2025collaboratingactionactionmultiagent",
+      "raw": {
+        "title": "Collaborating Action by Action: A Multi-agent LLM Framework for Embodied Reasoning",
+        "authors": [
+          "Isadora White",
+          "Kolby Nottingham",
+          "Ayush Maniar",
+          "Max Robinson",
+          "Hansen Lillemark",
+          "Mehul Maheshwari",
+          "Lianhui Qin",
+          "Prithviraj Ammanabrolu"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2504.17950"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2504.17950&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "sharan2023llmassistenhancingclosedloopplanning",
+      "raw": {
+        "title": "LLM-Assist: Enhancing Closed-Loop Planning with Language-Based Reasoning",
+        "authors": [
+          "S P Sharan",
+          "Francesco Pittaluga",
+          "Vijay Kumar B G",
+          "Manmohan Chandraker"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": "2401.00125"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2401.00125&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Todd_2023",
+      "raw": {
+        "title": "Level Generation Through Large Language Models",
+        "authors": [
+          "Todd, Graham",
+          "Earle, Sam",
+          "Nasir, Muhammad Umair",
+          "Green, Michael Cerny",
+          "Togelius, Julian"
+        ],
+        "year": 2023,
+        "doi": "10.1145/3582437.3587211",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4363651325",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Level Generation Through Large Language Models",
+        "year": 2023,
+        "authors": [
+          "Graham Todd",
+          "Sam Earle",
+          "Muhammad Umair Nasir",
+          "Michael Cerny Green",
+          "Julian Togelius"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Helmert_2006",
+      "raw": {
+        "title": "The Fast Downward Planning System",
+        "authors": [
+          "Helmert, M."
+        ],
+        "year": 2006,
+        "doi": "10.1613/jair.1705",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2161414194",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "The Fast Downward Planning System",
+        "year": 2006,
+        "authors": [
+          "M. Helmert"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "comanici2025gemini25pushingfrontier",
+      "raw": {
+        "title": "Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities",
+        "authors": [
+          "Google"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2507.06261"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2507.06261&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "deepseekr1",
+      "raw": {
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+        "authors": [
+          "DeepSeek-AI"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2501.12948"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2501.12948&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "claudesonnet4",
+      "raw": {
+        "title": "Claude Sonnet 4: Hybrid reasoning model with superior intelligence for high-volume use cases, and 200K context window",
+        "authors": [
+          "Anthropic"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "gpt-5",
+      "raw": {
+        "title": "Introducing GPT-5",
+        "authors": [
+          "OpenAI"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "grok4fast",
+      "raw": {
+        "title": "Grok 4 Fast: Pushing the Frontier of Cost-Efficient Intelligence",
+        "authors": [
+          "xAI"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Bengio+chapter2007",
+      "raw": {
+        "title": "Scaling Learning Algorithms Towards AI",
+        "authors": [
+          "Bengio, Yoshua",
+          "LeCun, Yann"
+        ],
+        "year": 2007,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Scaling+Learning+Algorithms+Towards+AI&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Hinton06",
+      "raw": {
+        "title": "A Fast Learning Algorithm for Deep Belief Nets",
+        "authors": [
+          "Hinton, Geoffrey E.",
+          "Osindero, Simon",
+          "Teh, Yee Whye"
+        ],
+        "year": 2006,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=A+Fast+Learning+Algorithm+for+Deep+Belief+Nets&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "goodfellow2016deep",
+      "raw": {
+        "title": "Deep learning",
+        "authors": [
+          "Goodfellow, Ian",
+          "Bengio, Yoshua",
+          "Courville, Aaron",
+          "Bengio, Yoshua"
+        ],
+        "year": 2016,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Deep+learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Mercier2017",
+      "raw": {
+        "title": "How Gullible Are We? A Review of the Evidence from Psychology and Social Science",
+        "authors": [
+          "Mercier, Hugo"
+        ],
+        "year": 2017,
+        "doi": "10.1037/gpr0000111",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2616653445",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "How Gullible are We? A Review of the Evidence from Psychology and Social Science",
+        "year": 2017,
+        "authors": [
+          "Hugo Mercier"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "SobelKushnir2013",
+      "raw": {
+        "title": "Knowledge Matters: How Children Evaluate the Reliability of Testimony as a Process of Rational Inference",
+        "authors": [
+          "Sobel, David M.",
+          "Kushnir, Tamar"
+        ],
+        "year": 2013,
+        "doi": "10.1037/a0034191",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2319344250",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Knowledge matters: How children evaluate the reliability of testimony as a process of rational inference.",
+        "year": 2013,
+        "authors": [
+          "David M. Sobel",
+          "Tamar Kushnir"
+        ]
+      },
+      "title_similarity": 0.9950738916256158,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Harris2012",
+      "raw": {
+        "title": "Trusting What You're Told: How Children Learn from Others",
+        "authors": [
+          "Harris, Paul L."
+        ],
+        "year": 2012,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Trusting+What+You%27re+Told%3A+How+Children+Learn+from+Others&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "LandrumMills2015",
+      "raw": {
+        "title": "Developing Expectations Regarding the Boundaries of Expertise",
+        "authors": [
+          "Landrum, Asheley R.",
+          "Mills, Candice M."
+        ],
+        "year": 2015,
+        "doi": "10.1016/j.cognition.2014.10.013",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2013248159",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Developing expectations regarding the boundaries of expertise",
+        "year": 2014,
+        "authors": [
+          "Asheley R. Landrum",
+          "Candice M. Mills"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "SollLarrick2009",
+      "raw": {
+        "title": "Strategies for Revising Judgment: How (and How Well) People Use Others' Opinions",
+        "authors": [
+          "Soll, Jack B.",
+          "Larrick, Richard P."
+        ],
+        "year": 2009,
+        "doi": "10.1037/a0015145",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2032056105",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Strategies for revising judgment: How (and how well) people use others’ opinions.",
+        "year": 2009,
+        "authors": [
+          "Jack B. Soll",
+          "Richard P. Larrick"
+        ]
+      },
+      "title_similarity": 0.9803921568627452,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "BaekFalk2018",
+      "raw": {
+        "title": "Persuasion and influence: What makes a successful persuader?",
+        "authors": [
+          "Baek, Elisa C.",
+          "Falk, Emily B."
+        ],
+        "year": 2018,
+        "doi": "10.1016/j.copsyc.2018.05.004",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2807286698",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Persuasion and influence: what makes a successful persuader?",
+        "year": 2018,
+        "authors": [
+          "Elisa C Baek",
+          "Emily B. Falk"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "HoSaxeCushman2022",
+      "raw": {
+        "title": "Planning with Theory of Mind",
+        "authors": [
+          "Ho, Mark K.",
+          "Saxe, Rebecca",
+          "Cushman, Fiery"
+        ],
+        "year": 2022,
+        "doi": "10.1016/j.tics.2022.08.003",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4297075189",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Planning with Theory of Mind",
+        "year": 2022,
+        "authors": [
+          "Mark K. Ho",
+          "Rebecca Saxe",
+          "Fiery Cushman"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "OktarSumersGriffiths2024",
+      "raw": {
+        "title": "A Rational Model of Vigilance in Motivated Communication",
+        "authors": [
+          "Oktar, Kerem",
+          "Sumers, Ted R.",
+          "Griffiths, Tom L."
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=A+Rational+Model+of+Vigilance+in+Motivated+Communication&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "CostelloPennycookRand2024",
+      "raw": {
+        "title": "Durably Reducing Conspiracy Beliefs Through Dialogues with AI",
+        "authors": [
+          "Costello, Thomas H.",
+          "Pennycook, Gordon",
+          "Rand, David G."
+        ],
+        "year": 2024,
+        "doi": "10.1126/science.adq1814",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4402474910",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Durably reducing conspiracy beliefs through dialogues with AI",
+        "year": 2024,
+        "authors": [
+          "Thomas H. Costello",
+          "Gordon Pennycook",
+          "David G. Rand"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "MeyerEtAl2024",
+      "raw": {
+        "title": "Using an AI-powered “street epistemologist” chatbot and reflection tasks to diminish conspiracy theory beliefs",
+        "authors": [
+          "Meyer, Michael",
+          "Enders, Adam",
+          "Klofstad, Casey",
+          "Stoler, Justin",
+          "Uscinski, Joseph"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Using+an+AI-powered+%E2%80%9Cstreet+epistemologist%E2%80%9D+chatbot+and+reflection+tasks+to+diminish+conspiracy+theory+beliefs&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "MatzEtAl2024",
+      "raw": {
+        "title": "The potential of generative AI for personalized persuasion: Evaluating the persuasive influence of political microtargeting with large language models",
+        "authors": [
+          "Matz, Sandy C.",
+          "Kosinski, Michal",
+          "Persson, Anders",
+          "others"
+        ],
+        "year": 2024,
+        "doi": "10.1073/pnas.2403116121",
+        "arxiv_id": null
+      },
+      "status": "metadata_mismatch",
+      "openalex_id": "https://openalex.org/W4399426804",
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/de9a0af5100600ff21a9ded6e42409e0de89de8a",
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Evaluating the persuasive influence of political microtargeting with large language models",
+        "year": 2024,
+        "authors": [
+          "Kobi Hackenburg",
+          "Helen Margetts"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [
+        "authors"
+      ],
+      "error": null
+    },
+    {
+      "key": "bai2025llm",
+      "raw": {
+        "title": "LLM-generated messages can persuade humans on policy issues",
+        "authors": [
+          "Bai, Hui",
+          "Voelkel, Jan G",
+          "Muldowney, Shane",
+          "Eichstaedt, Johannes C",
+          "Willer, Robb"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=LLM-generated+messages+can+persuade+humans+on+policy+issues&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "DurmusEtAl2024",
+      "raw": {
+        "title": "Measuring the Persuasiveness of Language Models",
+        "authors": [
+          "Durmus, Esin",
+          "others"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Measuring+the+Persuasiveness+of+Language+Models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "SalviEtAl2024",
+      "raw": {
+        "title": "On the Conversational Persuasiveness of Large Language Models: A Randomized Controlled Trial",
+        "authors": [
+          "Salvi, Francesco",
+          "Ribeiro, Manoel Horta",
+          "Gallotti, Riccardo",
+          "West, Robert"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=On+the+Conversational+Persuasiveness+of+Large+Language+Models%3A+A+Randomized+Controlled+Trial&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Karinshak2023",
+      "raw": {
+        "title": "Working With AI to Persuade: Examining a Large Language Model's Ability to Generate Pro-Vaccination Messages",
+        "authors": [
+          "Karinshak, Elise C."
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Working+With+AI+to+Persuade%3A+Examining+a+Large+Language+Model%27s+Ability+to+Generate+Pro-Vaccination+Messages&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "HavinEtAl2025",
+      "raw": {
+        "title": "Can (A)I Change Your Mind? Evidence from Ecological Multimodal Experiments",
+        "authors": [
+          "Havin, Miriam",
+          "Wharton Kleinman, Timna",
+          "Koren, Moran",
+          "Dover, Yaniv",
+          "Goldstein, Ariel"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Can+%28A%29I+Change+Your+Mind%3F+Evidence+from+Ecological+Multimodal+Experiments&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "SchoeneggerEtAl2025",
+      "raw": {
+        "title": "Large Language Models Are More Persuasive Than Incentivized Human Persuaders",
+        "authors": [
+          "Schoenegger, Philipp",
+          "Salvi, Francesco",
+          "Liu, Jiacheng",
+          "Nan, Xiaoli",
+          "Debnath, Ramit",
+          "Fasolo, Barbara",
+          "\\textit{et al.}"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Large+Language+Models+Are+More+Persuasive+Than+Incentivized+Human+Persuaders&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "cialdini2004social",
+      "raw": {
+        "title": "Social influence: Compliance and conformity",
+        "authors": [
+          "Cialdini, Robert B",
+          "Goldstein, Noah J"
+        ],
+        "year": 2004,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Social+influence%3A+Compliance+and+conformity&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "sperber2010epistemic",
+      "raw": {
+        "title": "Epistemic vigilance",
+        "authors": [
+          "Sperber, Dan",
+          "Cl{\\'e}ment, Fabrice",
+          "Heintz, Christophe",
+          "Mascaro, Olivier",
+          "Mercier, Hugo",
+          "Origgi, Gloria",
+          "Wilson, Deirdre"
+        ],
+        "year": 2010,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Epistemic+vigilance&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "oktar_sumers_griffiths_2025",
+      "raw": {
+        "title": "Rational vigilance of intentions and incentives guides learning from advice",
+        "authors": [
+          "Oktar, Kerem",
+          "Sumers, Theodore",
+          "Griffiths, Thomas L"
+        ],
+        "year": 2025,
+        "doi": "10.31234/osf.io/khtpy_v1",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4412429465",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Rational vigilance of intentions and incentives guides learning from advice",
+        "year": 2025,
+        "authors": [
+          "Kerem Oktar",
+          "Theodore R. Sumers",
+          "Thomas L. Griffiths"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "WuEtAl2025",
+      "raw": {
+        "title": "Are Large Language Models Sensitive to the Motives Behind Communication?",
+        "authors": [
+          "Wu, Addison",
+          "Liu, Ryan",
+          "Oktar, Kerem",
+          "Sumers, Theodore",
+          "Griffiths, Thomas"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Are+Large+Language+Models+Sensitive+to+the+Motives+Behind+Communication%3F&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "griffiths2015rational",
+      "raw": {
+        "title": "Rational use of cognitive resources: Levels of analysis between the computational and the algorithmic",
+        "authors": [
+          "Griffiths, Thomas L",
+          "Lieder, Falk",
+          "Goodman, Noah D"
+        ],
+        "year": 2015,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Rational+use+of+cognitive+resources%3A+Levels+of+analysis+between+the+computational+and+the+algorithmic&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "anderson1991adaptive",
+      "raw": {
+        "title": "The adaptive nature of human categorization.",
+        "authors": [
+          "Anderson, John R"
+        ],
+        "year": 1991,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=The+adaptive+nature+of+human+categorization.&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "lieder2020resource",
+      "raw": {
+        "title": "Resource-rational analysis: Understanding human cognition as the optimal use of limited computational resources",
+        "authors": [
+          "Lieder, Falk",
+          "Griffiths, Thomas L."
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Resource-rational+analysis%3A+Understanding+human+cognition+as+the+optimal+use+of+limited+computational+resources&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "liu2025large",
+      "raw": {
+        "title": "Large Language Models Assume People are More Rational than We Really are",
+        "authors": [
+          "Ryan Liu",
+          "Jiayi Geng",
+          "Joshua Peterson",
+          "Ilia Sucholutsky",
+          "Thomas L. Griffiths"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "ibrahim2025measuring",
+      "raw": {
+        "title": "Measuring and mitigating overreliance is necessary for building human-compatible AI",
+        "authors": [
+          "Ibrahim, Lujain",
+          "Collins, Katherine M",
+          "Kim, Sunnie SY",
+          "Reuel, Anka",
+          "Lamparth, Max",
+          "Feng, Kevin",
+          "Ahmad, Lama",
+          "Soni, Prajna",
+          "Kattan, Alia El",
+          "Stein, Merlin",
+          "others"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Measuring+and+mitigating+overreliance+is+necessary+for+building+human-compatible+AI&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    }
+  ]
+}

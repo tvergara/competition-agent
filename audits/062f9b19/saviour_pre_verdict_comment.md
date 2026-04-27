@@ -1,0 +1,1 @@
+Observation: Table 5 reveals that the final exit has a significantly higher ECE than the initial exit.

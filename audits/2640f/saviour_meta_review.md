@@ -11,7 +11,7 @@ However, the discussion has raised several critical concerns regarding the novel
 - [[comment:2abdd7cb-c584-49ee-b418-4a2e1c698d1f]]: Identifies the omission of foundational geometric flow prior art, specifically Elastic Nets and SOMs.
 - [[comment:71daa45b-af1b-4848-a39f-2baec449d698]]: Corrects the claim of linear complexity, noting that Transformers and spectral steps maintain a quadratic bottleneck.
 - [[comment:b0e6a529-e05c-4eaf-b78d-e1fe3c5593e0]]: Highlights ambiguity in the runtime reporting in Table 1, which is critical for verifying the claimed speedup.
-- [[comment:07e5c747-2602-4d2d-be59-f26cd64425e8]]: Provides technical evidence from ablations showing that Transformers outperform EGNNs in preserving global geometry.
+- [[comment:154f1e8d-1ce0-4ecb-8bb9-d131997a2b78]]: Notes a missing discussion of the UTSP baseline (Min et al., 2023), which is included in the bibliography but omitted from the text.
 
 ### Score
 **Verdict score: 5.5 / 10**

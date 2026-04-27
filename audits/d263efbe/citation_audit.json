@@ -1,0 +1,1812 @@
+{
+  "paper_id": "d263efbe-b41a-4d55-932c-6ea58c4c9e32",
+  "total": 74,
+  "verified": 6,
+  "mismatch": 0,
+  "missing": 0,
+  "ambiguous": 0,
+  "error": 39,
+  "skipped": 29,
+  "s2_consulted": 0,
+  "s2_lifted": 0,
+  "key_style_outliers": [
+    "Hinton06",
+    "o1sc2024"
+  ],
+  "entries": [
+    {
+      "key": "Bengio+chapter2007",
+      "raw": {
+        "title": "Scaling Learning Algorithms Towards AI",
+        "authors": [
+          "Bengio, Yoshua",
+          "LeCun, Yann"
+        ],
+        "year": 2007,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Scaling+Learning+Algorithms+Towards+AI&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Hinton06",
+      "raw": {
+        "title": "A Fast Learning Algorithm for Deep Belief Nets",
+        "authors": [
+          "Hinton, Geoffrey E.",
+          "Osindero, Simon",
+          "Teh, Yee Whye"
+        ],
+        "year": 2006,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=A+Fast+Learning+Algorithm+for+Deep+Belief+Nets&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "goodfellow2016deep",
+      "raw": {
+        "title": "Deep learning",
+        "authors": [
+          "Goodfellow, Ian",
+          "Bengio, Yoshua",
+          "Courville, Aaron",
+          "Bengio, Yoshua"
+        ],
+        "year": 2016,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Deep+learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "nyuctf2024",
+      "raw": {
+        "title": "NYU CTF Bench: A Scalable Open-Source Benchmark for Evaluating LLMs on Capture-the-Flag Challenges",
+        "authors": [
+          "Shao, M.",
+          "others"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "cvebench2025",
+      "raw": {
+        "title": "CVE-Bench: A Benchmark for AI Agents' Ability to Exploit Real-World Web Application Vulnerabilities",
+        "authors": [
+          "Zhu, Y.",
+          "Kellermann, A.",
+          "Bowman, D.",
+          "Li, P.",
+          "others"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2503.17332"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2503.17332&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "o1sc2024",
+      "raw": {
+        "title": "o1 System Card",
+        "authors": [
+          "{OpenAI}"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "odin2024",
+      "raw": {
+        "title": "Prompt Injecting Your Way to Shell: OpenAI's Containerized ChatGPT Environment",
+        "authors": [
+          "{0din.ai}"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "positive2023",
+      "raw": {
+        "title": "Hacking Auto-GPT and Escaping Its Docker Container",
+        "authors": [
+          "{Positive Security}"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "cncf2024",
+      "raw": {
+        "title": "Cloud Native 2024: Approaching a Decade of Code, Cloud, and Change (Annual Survey)",
+        "authors": [
+          "{Cloud Native Computing Foundation}"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "redhat2022",
+      "raw": {
+        "title": "Kubernetes security risks that keep developers up at night",
+        "authors": [
+          "{Red Hat}"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "lamehug2025",
+      "raw": {
+        "title": "IBM X-Force OSINT Advisory: LameHug malware uses AI LLM",
+        "authors": [
+          "{IBM Security X-Force}"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "dockerbreakoutrepo",
+      "raw": {
+        "title": "Inspect evaluation: Docker sandbox breakout",
+        "authors": [
+          "{UKGovernmentBEIS}"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "containersurvey2025",
+      "raw": {
+        "title": "A Container Security Survey: Exploits, Attacks, and Defenses",
+        "authors": [
+          "Jarkas, Omar",
+          "Ko, Ryan",
+          "Dong, Naipeng",
+          "Mahmud, Redowan"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "zhang2025cybenchframeworkevaluatingcybersecurity",
+      "raw": {
+        "title": "Cybench: A Framework for Evaluating Cybersecurity Capabilities and Risks of Language Models",
+        "authors": [
+          "Andy K. Zhang",
+          "Neil Perry",
+          "Riya Dulepet",
+          "Joey Ji",
+          "Celeste Menders",
+          "Justin W. Lin",
+          "Eliot Jones",
+          "Gashon Hussein",
+          "Samantha Liu",
+          "Donovan Jasper",
+          "Pura Peetathawatchai",
+          "Ari Glenn",
+          "Vikram Sivashankar",
+          "Daniel Zamoshchin",
+          "Leo Glikbarg",
+          "Derek Askaryar",
+          "Mike Yang",
+          "Teddy Zhang",
+          "Rishi Alluri",
+          "Nathan Tran",
+          "Rinnara Sangpisit",
+          "Polycarpos Yiorkadjis",
+          "Kenny Osele",
+          "Gautham Raghupathi",
+          "Dan Boneh",
+          "Daniel E. Ho",
+          "Percy Liang"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2408.08926"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2408.08926&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "UK_AI_Security_Institute_Inspect_AI_Framework_2024",
+      "raw": {
+        "title": "Inspect AI: Framework for Large Language Model Evaluations",
+        "authors": [
+          "AI Security Institute, UK"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "metr2025longtasks",
+      "raw": {
+        "title": "Measuring AI Ability to Complete Long Tasks",
+        "authors": [
+          "{METR}"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "anthropic2024alignmentfaking",
+      "raw": {
+        "title": "Alignment Faking in Large Language Models",
+        "authors": [
+          "Greenblatt, Ryan",
+          "Denison, Carson",
+          "others"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2412.14093"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2412.14093&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "agache2020firecracker",
+      "raw": {
+        "title": "Firecracker: Lightweight Virtualization for Serverless Applications",
+        "authors": [
+          "Agache, Alexandru",
+          "Brooker, Marc",
+          "Florescu, Andreea",
+          "Iordache, Alexandra",
+          "Liguori, Anthony",
+          "Neugebauer, Rolf",
+          "Piwonka, Phil",
+          "Popa, Diana-Maria"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Firecracker%3A+Lightweight+Virtualization+for+Serverless+Applications&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "young2019gvisor",
+      "raw": {
+        "title": "The True Cost of Containing: A gVisor Case Study",
+        "authors": [
+          "Young, Ethan G.",
+          "Zhu, Pengfei",
+          "Caraza-Harter, Tyler",
+          "Arpaci-Dusseau, Andrea C.",
+          "Arpaci-Dusseau, Remzi H."
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=The+True+Cost+of+Containing%3A+A+gVisor+Case+Study&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "leakyvessels2024",
+      "raw": {
+        "title": "Leaky Vessels: Docker and runc Container Breakout Vulnerabilities",
+        "authors": [
+          "{Snyk Security Labs}"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "cybergym2025",
+      "raw": {
+        "title": "CyberGym: Evaluating AI Agents' Real-World Cybersecurity Capabilities at Scale",
+        "authors": [
+          "Wang, Zhun",
+          "Shi, Tianneng",
+          "He, Jingxuan",
+          "Cai, Matthew",
+          "Zhang, Jialin",
+          "Song, Dawn"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2506.02548"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2506.02548&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "aiagentsunderthreat2024",
+      "raw": {
+        "title": "AI Agents Under Threat: A Survey of Key Security Challenges and Future Pathways",
+        "authors": [
+          "He, Zijian",
+          "others"
+        ],
+        "year": 2024,
+        "doi": "10.1145/3716628",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4407236106",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "AI Agents Under Threat: A Survey of Key Security Challenges and Future Pathways",
+        "year": 2025,
+        "authors": [
+          "Zehang Deng",
+          "Yongjian Guo",
+          "Changzhou Han",
+          "Wanlun Ma",
+          "Junwu Xiong",
+          "Sheng Wen",
+          "Yang Xiang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "hackerone2025",
+      "raw": {
+        "title": "Hacker-Powered Security Report: The Rise of the Bionic Hacker",
+        "authors": [
+          "{HackerOne}"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "deepmindcyber2025",
+      "raw": {
+        "title": "Evaluating potential cybersecurity threats of advanced AI",
+        "authors": [
+          "Flynn, Four",
+          "Rodriguez, Mikel",
+          "Popa, Raluca Ada"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "containermeasurement2018",
+      "raw": {
+        "title": "A Measurement Study on Linux Container Security: Attacks and Countermeasures",
+        "authors": [
+          "Lin, Xin",
+          "Lei, Lingguang",
+          "Wang, Yuewu",
+          "Jing, Jiwu",
+          "Sun, Kun",
+          "Zhou, Quan"
+        ],
+        "year": 2018,
+        "doi": "10.1145/3274694.3274720",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2902718458",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "A Measurement Study on Linux Container Security",
+        "year": 2018,
+        "authors": [
+          "Xin Lin",
+          "Lingguang Lei",
+          "Yuewu Wang",
+          "Jiwu Jing",
+          "Kun Sun",
+          "Quan Zhou"
+        ]
+      },
+      "title_similarity": 0.8941176470588235,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "containerleaks2017",
+      "raw": {
+        "title": "ContainerLeaks: Emerging Security Threats of Information Leakages in Container Clouds",
+        "authors": [
+          "Gao, Xing",
+          "Gu, Zhongshu",
+          "Kayaalp, Mehmet",
+          "Pendarakis, Dimitrios",
+          "Wang, Haining"
+        ],
+        "year": 2017,
+        "doi": "10.1109/DSN.2017.49",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2753365392",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "ContainerLeaks: Emerging Security Threats of Information Leakages in Container Clouds",
+        "year": 2017,
+        "authors": [
+          "Xing Gao",
+          "Zhongshu Gu",
+          "Mehmet Kayaalp",
+          "Dimitrios Pendarakis",
+          "Haining Wang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "ebpfcrosscontainer2023",
+      "raw": {
+        "title": "Cross Container Attacks: The Bewildered eBPF on Clouds",
+        "authors": [
+          "He, Yi",
+          "others"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "attacksforwarded2023",
+      "raw": {
+        "title": "Attacks are Forwarded: Breaking the Isolation of MicroVM-based Containers Through Operation Forwarding",
+        "authors": [
+          "Xiao, Jietao",
+          "others"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "temporalsyscall2020",
+      "raw": {
+        "title": "Temporal System Call Specialization for Attack Surface Reduction",
+        "authors": [
+          "Ghavamnia, Seyedhamed",
+          "Palit, Tapti",
+          "Mishra, Shachee",
+          "Polychronakis, Michalis"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "confine2020",
+      "raw": {
+        "title": "Confine: Automated System Call Policy Generation for Container Attack Surface Reduction",
+        "authors": [
+          "Ghavamnia, Seyedhamed",
+          "Palit, Tapti",
+          "Beber, Azzedine",
+          "Polychronakis, Michalis"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "dirtycred2022",
+      "raw": {
+        "title": "DirtyCred: Escalating Privilege in Linux Kernel",
+        "authors": [
+          "Lin, Zhenpeng",
+          "Wu, Yuhang",
+          "Xing, Xinyu"
+        ],
+        "year": 2022,
+        "doi": "10.1145/3548606.3560585",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4308642904",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "DirtyCred",
+        "year": 2022,
+        "authors": [
+          "Zhenpeng Lin",
+          "Yuhang Wu",
+          "Xinyu Xing"
+        ]
+      },
+      "title_similarity": 0.6666666666666665,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "kheaps2022",
+      "raw": {
+        "title": "Playing for K(H)eaps: Understanding and Improving Linux Kernel Exploit Reliability",
+        "authors": [
+          "Zeng, Kyle",
+          "Chen, Yueqi",
+          "Cho, Haehyun",
+          "Xing, Xinyu",
+          "Doup{\\'e}, Adam",
+          "Shoshitaishvili, Yan",
+          "Bao, Tiffany"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "koobe2020",
+      "raw": {
+        "title": "KOOBE: Towards Facilitating Exploit Generation of Kernel Out-Of-Bounds Write Vulnerabilities",
+        "authors": [
+          "Chen, Weiteng",
+          "Zou, Xiaochen",
+          "Li, Guoren",
+          "Qian, Zhiyun"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "babcock2017containment",
+      "raw": {
+        "title": "Guidelines for Artificial Intelligence Containment",
+        "authors": [
+          "Babcock, James",
+          "Kram{\\'a}r, J{\\'a}nos",
+          "Yampolskiy, Roman V."
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": "1707.08476"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1707.08476&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "denison2024sycophancy",
+      "raw": {
+        "title": "Sycophancy to Subterfuge: Investigating Reward-Tampering in Large Language Models",
+        "authors": [
+          "Denison, Carson",
+          "MacDiarmid, Monte",
+          "Barez, Fazl",
+          "others"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2406.10162"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2406.10162&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "secretcollusion2024",
+      "raw": {
+        "title": "Secret Collusion among AI Agents: Multi-Agent Deception via Steganography",
+        "authors": [
+          "Motwani, Sumeet",
+          "others"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "controlarena2025",
+      "raw": {
+        "title": "ControlArena: A Library for Running AI Control Experiments",
+        "authors": [
+          "{UK AI Safety Institute}",
+          "{Redwood Research}"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "metr2024replication",
+      "raw": {
+        "title": "The Rogue Replication Threat Model",
+        "authors": [
+          "Clymer, Josh",
+          "Wijk, Hjalmar",
+          "Barnes, Beth"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "AISI2025FrontierAITrends",
+      "raw": {
+        "title": "Frontier AI Trends Report",
+        "authors": [
+          "{AI Security Institute}"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "inglis2025controlarena",
+      "raw": {
+        "title": "ControlArena",
+        "authors": [
+          "Inglis, Rogan",
+          "Matthews, Ollie",
+          "Tracy, Tyler",
+          "Makins, Oliver",
+          "Catling, Tom",
+          "Cooper Stickland, Asa",
+          "Faber-Espensen, Rasmus",
+          "O'Connell, Daniel",
+          "Heller, Myles",
+          "Brandao, Miguel",
+          "Hanson, Adam",
+          "Mani, Arathi",
+          "Korbak, Tomek",
+          "Michelfeit, Jan",
+          "Bansal, Dishank",
+          "Bark, Tomas",
+          "Canal, Chris",
+          "Griffin, Charlie",
+          "Stehlik, Mojmir",
+          "Wang, Jasmine",
+          "Cooney, Alan"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Zhu2025Establishing",
+      "raw": {
+        "title": "Establishing Best Practices in Building Rigorous Agentic Benchmarks",
+        "authors": [
+          "Yuxuan Zhu",
+          "Tengjun Jin",
+          "Yada Pruksachatkun",
+          "Andy Zhang",
+          "Shu Liu",
+          "Sasha Cui",
+          "Sayash Kapoor",
+          "Shayne Longpre",
+          "Kevin Meng",
+          "Rebecca Weiss",
+          "Fazl Barez",
+          "Rahul Gupta",
+          "Jwala Dhamala",
+          "Jacob Merizian",
+          "Mario Giulianelli",
+          "Harry Coppock",
+          "Cozmin Ududec",
+          "Antony Kellermann",
+          "Jasjeet Sekhon",
+          "Jacob Steinhardt",
+          "Sarah Schwettmann",
+          "Arvind Narayanan",
+          "Matei A. Zaharia",
+          "Ion Stoica",
+          "Percy Liang",
+          "Daniel Kang"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "yao2023reactsynergizingreasoningacting",
+      "raw": {
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "authors": [
+          "Shunyu Yao",
+          "Jeffrey Zhao",
+          "Dian Yu",
+          "Nan Du",
+          "Izhak Shafran",
+          "Karthik Narasimhan",
+          "Yuan Cao"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": "2210.03629"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2210.03629&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "edwards2019compendium",
+      "raw": {
+        "title": "A Compendium of Container Escapes",
+        "authors": [
+          "Edwards, Brandon",
+          "Freeman, Nick"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "taubench2024",
+      "raw": {
+        "title": "$\\tau$-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains",
+        "authors": [
+          "Yao, Shunyu",
+          "Song, Hao",
+          "Pyatkin, Valentina",
+          "Elgohary, Ahmed",
+          "Chen, Xiang Lorraine",
+          "Raghunathan, Aditi",
+          "Narasimhan, Karthik"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=%24%5Ctau%24-bench%3A+A+Benchmark+for+Tool-Agent-User+Interaction+in+Real-World+Domains&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Hubert2025",
+      "raw": {
+        "title": "Olympiad-level formal mathematical reasoning with reinforcement learning",
+        "authors": [
+          "Hubert, Thomas",
+          "Mehta, Rishi",
+          "Sartran, Laurent",
+          "Horváth, Miklós Z.",
+          "Žužić, Goran",
+          "Wieser, Eric",
+          "Huang, Aja",
+          "Schrittwieser, Julian",
+          "Schroecker, Yannick",
+          "Masoom, Hussain",
+          "Bertolli, Ottavia",
+          "Zahavy, Tom",
+          "Mandhane, Amol",
+          "Yung, Jessica",
+          "Beloshapka, Iuliya",
+          "Ibarz, Borja",
+          "Veeriah, Vivek",
+          "Yu, Lei",
+          "Nash, Oliver",
+          "Lezeau, Paul",
+          "Mercuri, Salvatore",
+          "Sönne, Calle",
+          "Mehta, Bhavik",
+          "Davies, Alex",
+          "Zheng, Daniel",
+          "Pedregosa, Fabian",
+          "Li, Yin",
+          "von Glehn, Ingrid",
+          "Rowland, Mark",
+          "Albanie, Samuel",
+          "Velingker, Ameya",
+          "Schmitt, Simon",
+          "Lockhart, Edward",
+          "Hughes, Edward",
+          "Michalewski, Henryk",
+          "Sonnerat, Nicolas",
+          "Hassabis, Demis",
+          "Kohli, Pushmeet",
+          "Silver, David"
+        ],
+        "year": 2025,
+        "doi": "10.1038/s41586-025-09833-y",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4416186944",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Olympiad-level formal mathematical reasoning with reinforcement learning",
+        "year": 2025,
+        "authors": [
+          "Thomas Hubert",
+          "Rishi Mehta",
+          "Laurent Sartran",
+          "Miklós Z. Horváth",
+          "Goran Žužić",
+          "Eric Wieser",
+          "Aja Huang",
+          "Julian Schrittwieser",
+          "Yannick Schroecker",
+          "Hussain Masoom",
+          "Ottavia Bertolli",
+          "Tom Zahavy",
+          "Amol Mandhane",
+          "J.‐Y. Yung",
+          "Iuliya Beloshapka",
+          "Borja Ibarz",
+          "Vivek Veeriah",
+          "Lei Yu",
+          "Oliver Nash",
+          "Paul Lezeau",
+          "Salvatore Mercuri",
+          "Calle Sönne",
+          "Bhavik Mehta",
+          "Alex Davies",
+          "Daniel Zheng",
+          "Fabián Pedregosa",
+          "Yin Li",
+          "Ingrid von Glehn",
+          "Mark Rowland",
+          "Samuel Albanie",
+          "Ameya Velingker",
+          "Simon Schmitt",
+          "Edward Lockhart",
+          "Edward Hughes",
+          "Henryk Michalewski",
+          "Nicolas Sonnerat",
+          "Demis Hassabis",
+          "Pushmeet Kohli",
+          "David Silver"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Brown2024LLMMonkeys",
+      "raw": {
+        "title": "Large Language Monkeys: Scaling Inference Compute with Repeated Sampling",
+        "authors": [
+          "Brown, Bradley",
+          "Juravsky, Jordan",
+          "Ehrlich, Ryan",
+          "Clark, Ronald",
+          "Le, Quoc V.",
+          "R\\'e, Christopher",
+          "Mirhoseini, Azalia"
+        ],
+        "year": 2024,
+        "doi": "10.48550/arXiv.2407.21787",
+        "arxiv_id": "2407.21787"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4402733601",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Large Language Monkeys: Scaling Inference Compute with Repeated Sampling",
+        "year": 2024,
+        "authors": [
+          "Bradley Brown",
+          "Jordan Juravsky",
+          "Ryan Ehrlich",
+          "Ronald Clark",
+          "Quoc V. Le",
+          "Christopher Ré",
+          "Azalia Mirhoseini"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "dirtycow2016",
+      "raw": {
+        "title": "CVE-2016-5195: Dirty COW -- Linux Kernel Local Privilege Escalation",
+        "authors": [
+          "Oester, Phil"
+        ],
+        "year": 2016,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=CVE-2016-5195%3A+Dirty+COW+--+Linux+Kernel+Local+Privilege+Escalation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "dirtypipe2022",
+      "raw": {
+        "title": "CVE-2022-0847: The Dirty Pipe Vulnerability",
+        "authors": [
+          "Kellermann, Max"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=CVE-2022-0847%3A+The+Dirty+Pipe+Vulnerability&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "dirtypipez2022",
+      "raw": {
+        "title": "dirtypipez.c: SUID binary hijacking variant of Dirty Pipe",
+        "authors": [
+          "blasty (Peter)"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=dirtypipez.c%3A+SUID+binary+hijacking+variant+of+Dirty+Pipe&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "bpfprivesc2017",
+      "raw": {
+        "title": "CVE-2017-16995: eBPF Sign Extension Local Privilege Escalation",
+        "authors": [
+          "Horn, Jann",
+          "bleidl",
+          "vnik"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=CVE-2017-16995%3A+eBPF+Sign+Extension+Local+Privilege+Escalation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "packetsocket2017",
+      "raw": {
+        "title": "CVE-2017-7308: Exploiting the Linux kernel via packet sockets",
+        "authors": [
+          "Konovalov, Andrey"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=CVE-2017-7308%3A+Exploiting+the+Linux+kernel+via+packet+sockets&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "runcoverwrite2019",
+      "raw": {
+        "title": "CVE-2019-5736: Escape from Docker and Kubernetes containers to root on host",
+        "authors": [
+          "Iwaniuk, Adam",
+          "Pop{\\l}awski, Borys"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=CVE-2019-5736%3A+Escape+from+Docker+and+Kubernetes+containers+to+root+on+host&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "runcoverwritepoc2019",
+      "raw": {
+        "title": "CVE-2019-5736-PoC: Proof of Concept for runc container escape",
+        "authors": [
+          "Frichette, Nick"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=CVE-2019-5736-PoC%3A+Proof+of+Concept+for+runc+container+escape&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "crioescape2022",
+      "raw": {
+        "title": "cr8escape: New Vulnerability in CRI-O Container Engine (CVE-2022-0811)",
+        "authors": [
+          "{CrowdStrike Cloud Threat Research Team}"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=cr8escape%3A+New+Vulnerability+in+CRI-O+Container+Engine+%28CVE-2022-0811%29&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "shocker2014",
+      "raw": {
+        "title": "shocker: Docker 0.11 VMM-Container Breakout",
+        "authors": [
+          "Krahmer, Sebastian"
+        ],
+        "year": 2014,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=shocker%3A+Docker+0.11+VMM-Container+Breakout&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "cgroupescape2019",
+      "raw": {
+        "title": "Privileged Container Escape via cgroup release\\_agent",
+        "authors": [
+          "Wilhelm, Felix"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Privileged+Container+Escape+via+cgroup+release%5C_agent&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "cgroupcve2022",
+      "raw": {
+        "title": "CVE-2022-0492: New Linux Vulnerability Affecting Cgroups",
+        "authors": [
+          "Avrahami, Yuval"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=CVE-2022-0492%3A+New+Linux+Vulnerability+Affecting+Cgroups&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "kubectlcp2019",
+      "raw": {
+        "title": "CVE-2019-1002101: Directory Traversal Vulnerability in Kubernetes kubectl cp",
+        "authors": [
+          "Zelivansky, Ariel"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=CVE-2019-1002101%3A+Directory+Traversal+Vulnerability+in+Kubernetes+kubectl+cp&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "routelocalnet2020",
+      "raw": {
+        "title": "CVE-2020-8558: Node setting allows neighboring hosts to bypass localhost boundary",
+        "authors": [
+          "{Kubernetes Security Team}"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=CVE-2020-8558%3A+Node+setting+allows+neighboring+hosts+to+bypass+localhost+boundary&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "routelocalnetpoc2020",
+      "raw": {
+        "title": "POC-2020-8558: Proof of Concept for Kubernetes CVE-2020-8558",
+        "authors": [
+          "tabbysable"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=POC-2020-8558%3A+Proof+of+Concept+for+Kubernetes+CVE-2020-8558&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "dockersocket",
+      "raw": {
+        "title": "Docker Socket Exposure Security Risk",
+        "authors": [
+          "{Docker Documentation}"
+        ],
+        "year": null,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Docker+Socket+Exposure+Security+Risk&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "privilegedcontainer",
+      "raw": {
+        "title": "Privileged Container Security Implications",
+        "authors": [
+          "{Open Container Initiative}"
+        ],
+        "year": null,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Privileged+Container+Security+Implications&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "pidnamespace",
+      "raw": {
+        "title": "pid\\_namespaces(7) -- Linux Programmer's Manual",
+        "authors": [
+          "{Linux man-pages}"
+        ],
+        "year": null,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=pid%5C_namespaces%287%29+--+Linux+Programmer%27s+Manual&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "corepattern",
+      "raw": {
+        "title": "core(5) -- Linux core dump configuration",
+        "authors": [
+          "{Linux Kernel Documentation}"
+        ],
+        "year": null,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=core%285%29+--+Linux+core+dump+configuration&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "sysmodule",
+      "raw": {
+        "title": "capabilities(7) -- CAP\\_SYS\\_MODULE",
+        "authors": [
+          "{Linux Kernel Documentation}"
+        ],
+        "year": null,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=capabilities%287%29+--+CAP%5C_SYS%5C_MODULE&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "hostpath",
+      "raw": {
+        "title": "hostPath Volume Security Considerations",
+        "authors": [
+          "{Kubernetes Documentation}"
+        ],
+        "year": null,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=hostPath+Volume+Security+Considerations&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "rbacprivesc",
+      "raw": {
+        "title": "RBAC Privilege Escalation Risks",
+        "authors": [
+          "{Kubernetes Documentation}"
+        ],
+        "year": null,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=RBAC+Privilege+Escalation+Risks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "aisi2025inspect_sandboxing",
+      "raw": {
+        "title": "The Inspect Sandboxing Toolkit: Scalable and Secure AI Agent Evaluations",
+        "authors": [
+          "{AI Security Institute}"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=The+Inspect+Sandboxing+Toolkit%3A+Scalable+and+Secure+AI+Agent+Evaluations&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "inspect_scout",
+      "raw": {
+        "title": "Inspect Scout: A Library for Analyzing AI Agent Transcripts",
+        "authors": [
+          "{Meridian Labs}"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "ncsc2024cyberrisk",
+      "raw": {
+        "title": "The Fundamentals and Basics of Cyber Risk",
+        "authors": [
+          "{National Cyber Security Centre}"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=The+Fundamentals+and+Basics+of+Cyber+Risk&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "deepsleep2024",
+      "raw": {
+        "title": "From Naptime to Big Sleep: Using Large Language Models To Catch Vulnerabilities In Real-World Code",
+        "authors": [
+          "{Google Project Zero}"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=From+Naptime+to+Big+Sleep%3A+Using+Large+Language+Models+To+Catch+Vulnerabilities+In+Real-World+Code&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "fang2024",
+      "raw": {
+        "title": "LLM Agents can Autonomously Exploit One-day Vulnerabilities",
+        "authors": [
+          "Fang, Richard",
+          "Bindu, Rohan",
+          "Gupta, Akul",
+          "Zhan, Qiusi",
+          "Kang, Daniel"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2404.08144"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2404.08144&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "wang2025openhands_sdk",
+      "raw": {
+        "title": "The OpenHands Software Agent SDK: A Composable and Extensible Foundation for Production Agents",
+        "authors": [
+          "Wang, Xingyao",
+          "Rosenberg, Simon",
+          "Michelini, Juan",
+          "Smith, Calvin",
+          "Tran, Hoang",
+          "Nyst, Engel",
+          "Malhotra, Rohit",
+          "Zhou, Xuhui",
+          "Chen, Valerie",
+          "Brennan, Robert",
+          "Neubig, Graham"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=The+OpenHands+Software+Agent+SDK%3A+A+Composable+and+Extensible+Foundation+for+Production+Agents&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "openclaw_sandboxing_docs",
+      "raw": {
+        "title": "OpenClaw",
+        "authors": [
+          "{OpenClaw}"
+        ],
+        "year": null,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    }
+  ]
+}

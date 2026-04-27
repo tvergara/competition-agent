@@ -1,0 +1,903 @@
+{
+  "paper_id": "63a8bb26-d942-4c07-80ec-1c3f0cddf797",
+  "total": 38,
+  "verified": 0,
+  "mismatch": 0,
+  "missing": 0,
+  "ambiguous": 0,
+  "error": 38,
+  "skipped": 0,
+  "s2_consulted": 0,
+  "s2_lifted": 0,
+  "key_style_outliers": [
+    "vid2world2025",
+    "gensim2_2025",
+    "gen2real_2025",
+    "seear1_2025"
+  ],
+  "entries": [
+    {
+      "key": "wang2023gensim",
+      "raw": {
+        "title": "Gensim: Generating robotic simulation tasks via large language models",
+        "authors": [
+          "Wang, Lirui",
+          "Ling, Yiyang",
+          "Yuan, Zhecheng",
+          "Shridhar, Mohit",
+          "Bao, Chen",
+          "Qin, Yuzhe",
+          "Wang, Bailin",
+          "Xu, Huazhe",
+          "Wang, Xiaolong"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Gensim%3A+Generating+robotic+simulation+tasks+via+large+language+models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "wang2023robogen",
+      "raw": {
+        "title": "Robogen: Towards unleashing infinite data for automated robot learning via generative simulation",
+        "authors": [
+          "Wang, Yufei",
+          "Xian, Zhou",
+          "Chen, Feng",
+          "Wang, Tsun-Hsuan",
+          "Wang, Yian",
+          "Fragkiadaki, Katerina",
+          "Erickson, Zackory",
+          "Held, David",
+          "Gan, Chuang"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Robogen%3A+Towards+unleashing+infinite+data+for+automated+robot+learning+via+generative+simulation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "poeworld2025",
+      "raw": {
+        "title": "PoE-World: Compositional World Modeling with Products of Programmatic Experts",
+        "authors": [
+          "Topwasu, et al."
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=PoE-World%3A+Compositional+World+Modeling+with+Products+of+Programmatic+Experts&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "vid2world2025",
+      "raw": {
+        "title": "Vid2World: Crafting Video Diffusion Models to Interactive World Models",
+        "authors": [
+          "Knightnemo, et al."
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Vid2World%3A+Crafting+Video+Diffusion+Models+to+Interactive+World+Models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "martian2025",
+      "raw": {
+        "title": "Martian World Models: Controllable Video Synthesis with Physically Accurate 3D Reconstructions",
+        "authors": [
+          "WorldModelBenchTeam, et al."
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Martian+World+Models%3A+Controllable+Video+Synthesis+with+Physically+Accurate+3D+Reconstructions&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ctrlworld2025",
+      "raw": {
+        "title": "Ctrl-world: A Controllable Generative World Model for Robot Manipulation",
+        "authors": [
+          "Robert-gyj, et al."
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Ctrl-world%3A+A+Controllable+Generative+World+Model+for+Robot+Manipulation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "robotsmith2025",
+      "raw": {
+        "title": "RobotSmith: Generative Robotic Tool Design for Acquisition of Complex Manipulation Skills",
+        "authors": [
+          "UMass-Embodied-AGI, et al."
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=RobotSmith%3A+Generative+Robotic+Tool+Design+for+Acquisition+of+Complex+Manipulation+Skills&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "robobench2025",
+      "raw": {
+        "title": "RoboBench: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models as Embodied Brain",
+        "authors": [
+          "Chen, et al."
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=RoboBench%3A+A+Comprehensive+Evaluation+Benchmark+for+Multimodal+Large+Language+Models+as+Embodied+Brain&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "metarobogen2025",
+      "raw": {
+        "title": "Meta-Skill Learning for Generative Simulation",
+        "authors": [
+          "Wang, et al."
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Meta-Skill+Learning+for+Generative+Simulation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "topogen2025",
+      "raw": {
+        "title": "Topology-Aware Task Generation in Unstructured Environments",
+        "authors": [
+          "Wang, et al."
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Topology-Aware+Task+Generation+in+Unstructured+Environments&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ahn2024autort",
+      "raw": {
+        "title": "AutoRT: Embodied Foundation Models for Large Scale Robot Learning",
+        "authors": [
+          "Ahn, Michael",
+          "et al."
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=AutoRT%3A+Embodied+Foundation+Models+for+Large+Scale+Robot+Learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "gensim2_2025",
+      "raw": {
+        "title": "GenSim2: Scaling Robot Data Generation with Multi-modal and Reasoning LLMs",
+        "authors": [
+          "Tsinghua University"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=GenSim2%3A+Scaling+Robot+Data+Generation+with+Multi-modal+and+Reasoning+LLMs&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "agentgen_2025",
+      "raw": {
+        "title": "AgentGen: Enhancing Planning Abilities for Large Language Model based Agent via Environment and Task Generation",
+        "authors": [
+          "ByteDance"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=AgentGen%3A+Enhancing+Planning+Abilities+for+Large+Language+Model+based+Agent+via+Environment+and+Task+Generation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "regen_2025",
+      "raw": {
+        "title": "ReGen: Generative Robot Simulation via Inverse Design",
+        "authors": [
+          "Shanghai AI Laboratory"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=ReGen%3A+Generative+Robot+Simulation+via+Inverse+Design&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "factorsim_2024",
+      "raw": {
+        "title": "Factorsim: Generative simulation via factorized representation",
+        "authors": [
+          "Stanford University"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Factorsim%3A+Generative+simulation+via+factorized+representation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ma2024dreureka",
+      "raw": {
+        "title": "Dreureka: Language model guided sim-to-real transfer",
+        "authors": [
+          "Ma, Jason",
+          "Liang, William",
+          "Wang, Hung-Ju",
+          "Zhu, Yuke",
+          "Fan, Linxi",
+          "Bastani, Osbert",
+          "Jayaraman, Dinesh"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Dreureka%3A+Language+model+guided+sim-to-real+transfer&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "demogen_2025",
+      "raw": {
+        "title": "DemoGen: Synthetic Demonstration Generation for Data-Efficient Visuomotor Policy Learning",
+        "authors": [
+          "Tsinghua University"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=DemoGen%3A+Synthetic+Demonstration+Generation+for+Data-Efficient+Visuomotor+Policy+Learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "garrett2024skillmimicgen",
+      "raw": {
+        "title": "Skillmimicgen: Automated demonstration generation for efficient skill learning and deployment",
+        "authors": [
+          "Garrett, Caelan",
+          "Mandlekar, Ajay",
+          "Wen, Bowen",
+          "Fox, Dieter"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Skillmimicgen%3A+Automated+demonstration+generation+for+efficient+skill+learning+and+deployment&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "mimicgen_2023",
+      "raw": {
+        "title": "MimicGen: A Data Generation System for Scalable Robot Learning using Human Demonstrations",
+        "authors": [
+          "NVIDIA"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=MimicGen%3A+A+Data+Generation+System+for+Scalable+Robot+Learning+using+Human+Demonstrations&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "jiang2025dexmimicgen",
+      "raw": {
+        "title": "Dexmimicgen: Automated data generation for bimanual dexterous manipulation via imitation learning",
+        "authors": [
+          "Jiang, Zhenyu",
+          "Xie, Yuqi",
+          "Lin, Kevin",
+          "Xu, Zhenjia",
+          "Wan, Weikang",
+          "Mandlekar, Ajay",
+          "Fan, Linxi Jim",
+          "Zhu, Yuke"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Dexmimicgen%3A+Automated+data+generation+for+bimanual+dexterous+manipulation+via+imitation+learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "dreamgen_2025",
+      "raw": {
+        "title": "DREAMGEN: Unlocking Generalization in Robot Learning through Video World Models",
+        "authors": [
+          "NVIDIA"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=DREAMGEN%3A+Unlocking+Generalization+in+Robot+Learning+through+Video+World+Models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "gen2real_2025",
+      "raw": {
+        "title": "GEN2REAL: Towards Demo-Free Dexterous Manipulation by Harnessing Generated Video",
+        "authors": [
+          "CUHK-Shenzhen"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=GEN2REAL%3A+Towards+Demo-Free+Dexterous+Manipulation+by+Harnessing+Generated+Video&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "lucibot_2025",
+      "raw": {
+        "title": "LuciBot: Automated Robot Policy Learning from Generated Videos",
+        "authors": [
+          "UMass Amherst"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=LuciBot%3A+Automated+Robot+Policy+Learning+from+Generated+Videos&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zhu2025irasim",
+      "raw": {
+        "title": "Irasim: A fine-grained world model for robot manipulation",
+        "authors": [
+          "Zhu, Fangqi",
+          "Wu, Hongtao",
+          "Guo, Song",
+          "Liu, Yuxiao",
+          "Cheang, Chilam",
+          "Kong, Tao"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Irasim%3A+A+fine-grained+world+model+for+robot+manipulation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "seear1_2025",
+      "raw": {
+        "title": "SEEA-R1: Tree-Structured Reinforcement Fine-Tuning for Self-Evolving Embodied Agents",
+        "authors": [
+          "CMU"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=SEEA-R1%3A+Tree-Structured+Reinforcement+Fine-Tuning+for+Self-Evolving+Embodied+Agents&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "mindjourney_2025",
+      "raw": {
+        "title": "Test-Time Scaling with World Models for Spatial Reasoning",
+        "authors": [
+          "UMass-Embodied-AGI"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Test-Time+Scaling+with+World+Models+for+Spatial+Reasoning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "deitke2023objaverse",
+      "raw": {
+        "title": "Objaverse: A universe of annotated 3d objects",
+        "authors": [
+          "Deitke, Matt",
+          "Schwenk, Dustin",
+          "Salvador, Jordi",
+          "Weihs, Luca",
+          "Michel, Oscar",
+          "VanderBilt, Eli",
+          "Schmidt, Ludwig",
+          "Ehsani, Kiana",
+          "Kembhavi, Aniruddha",
+          "Farhadi, Ali"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Objaverse%3A+A+universe+of+annotated+3d+objects&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Mo_2019_CVPR",
+      "raw": {
+        "title": "PartNet: A Large-Scale Benchmark for Fine-Grained and Hierarchical Part-Level 3D Object Understanding",
+        "authors": [
+          "Mo, Kaichun",
+          "Zhu, Shilin",
+          "Chang, Angel X.",
+          "Yi, Li",
+          "Tripathi, Subarna",
+          "Guibas, Leonidas J.",
+          "Su, Hao"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=PartNet%3A+A+Large-Scale+Benchmark+for+Fine-Grained+and+Hierarchical+Part-Level+3D+Object+Understanding&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "team2025robobrain",
+      "raw": {
+        "title": "Robobrain 2.0 technical report",
+        "authors": [
+          "Team, BAAI RoboBrain",
+          "Cao, Mingyu",
+          "Tan, Huajie",
+          "Ji, Yuheng",
+          "Chen, Xiansheng",
+          "Lin, Minglan",
+          "Li, Zhiyu",
+          "Cao, Zhou",
+          "Wang, Pengwei",
+          "Zhou, Enshen",
+          "others"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Robobrain+2.0+technical+report&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "bai2023qwen",
+      "raw": {
+        "title": "Qwen2. 5-vl technical report",
+        "authors": [
+          "Bai, Shuai",
+          "Chen, Keqin",
+          "Liu, Xuejing",
+          "Wang, Jialin",
+          "Ge, Wenbin",
+          "Song, Sibo",
+          "Dang, Kai",
+          "Wang, Peng",
+          "Wang, Shijie",
+          "Tang, Jun",
+          "others"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Qwen2.+5-vl+technical+report&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "robobench",
+      "raw": {
+        "title": "Robobench: Towards sustainable robotics system benchmarking",
+        "authors": [
+          "Weisz, Jonathan",
+          "Huang, Yipeng",
+          "Lier, Florian",
+          "Sethumadhavan, Simha",
+          "Allen, Peter"
+        ],
+        "year": 2016,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Robobench%3A+Towards+sustainable+robotics+system+benchmarking&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "egoplan",
+      "raw": {
+        "title": "Egoplan-bench2: A benchmark for multimodal large language model planning in real-world scenarios",
+        "authors": [
+          "Qiu, Lu",
+          "Chen, Yi",
+          "Ge, Yuying",
+          "Ge, Yixiao",
+          "Shan, Ying",
+          "Liu, Xihui"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Egoplan-bench2%3A+A+benchmark+for+multimodal+large+language+model+planning+in+real-world+scenarios&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "robospatial",
+      "raw": {
+        "title": "Robospatial: Teaching spatial understanding to 2d and 3d vision-language models for robotics",
+        "authors": [
+          "Song, Chan Hee",
+          "Blukis, Valts",
+          "Tremblay, Jonathan",
+          "Tyree, Stephen",
+          "Su, Yu",
+          "Birchfield, Stan"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Robospatial%3A+Teaching+spatial+understanding+to+2d+and+3d+vision-language+models+for+robotics&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "blink",
+      "raw": {
+        "title": "Blink: Multimodal large language models can see but not perceive",
+        "authors": [
+          "Fu, Xingyu",
+          "Hu, Yushi",
+          "Li, Bangzheng",
+          "Feng, Yu",
+          "Wang, Haoyu",
+          "Lin, Xudong",
+          "Roth, Dan",
+          "Smith, Noah A",
+          "Ma, Wei-Chiu",
+          "Krishna, Ranjay"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Blink%3A+Multimodal+large+language+models+can+see+but+not+perceive&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "omnispatial",
+      "raw": {
+        "title": "OmniSpatial: Towards Comprehensive Spatial Reasoning Benchmark for Vision Language Models",
+        "authors": [
+          "Jia, Mengdi",
+          "Qi, Zekun",
+          "Zhang, Shaochen",
+          "Zhang, Wenyao",
+          "Yu, Xinqiang",
+          "He, Jiawei",
+          "Wang, He",
+          "Yi, Li"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=OmniSpatial%3A+Towards+Comprehensive+Spatial+Reasoning+Benchmark+for+Vision+Language+Models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "cvbench",
+      "raw": {
+        "title": "Cvbench: Evaluating cross-video synergies for complex multimodal understanding and reasoning",
+        "authors": [
+          "Zhu, Nannan",
+          "Dong, Yonghao",
+          "Wang, Teng",
+          "Li, Xueqian",
+          "Deng, Shengjun",
+          "Wang, Yijia",
+          "Hong, Zheng",
+          "Geng, Tiantian",
+          "Niu, Guo",
+          "Huang, Hanyan",
+          "others"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Cvbench%3A+Evaluating+cross-video+synergies+for+complex+multimodal+understanding+and+reasoning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "erqa",
+      "raw": {
+        "title": "ERQA: Edge-restoration quality assessment for video super-resolution",
+        "authors": [
+          "Kirillova, Anastasia",
+          "Lyapustin, Eugene",
+          "Antsiferova, Anastasia",
+          "Vatolin, Dmitry"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=ERQA%3A+Edge-restoration+quality+assessment+for+video+super-resolution&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "he2025flagevalmm",
+      "raw": {
+        "title": "Flagevalmm: A flexible framework for comprehensive multimodal model evaluation",
+        "authors": [
+          "He, Zheqi",
+          "Liu, Yesheng",
+          "Zheng, Jing-shu",
+          "Li, Xuejing",
+          "Yao, Jin-Ge",
+          "Qin, Bowen",
+          "Xuan, Richeng",
+          "Yang, Xi"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Flagevalmm%3A+A+flexible+framework+for+comprehensive+multimodal+model+evaluation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    }
+  ]
+}

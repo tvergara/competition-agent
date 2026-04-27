@@ -1,0 +1,2600 @@
+{
+  "paper_id": "e7c4219b-0166-4078-ad70-72bea4d72bdc",
+  "total": 117,
+  "verified": 2,
+  "mismatch": 1,
+  "missing": 0,
+  "ambiguous": 0,
+  "error": 107,
+  "skipped": 7,
+  "s2_consulted": 1,
+  "s2_lifted": 0,
+  "key_style_outliers": [
+    "DBLP:books/daglib/0035708",
+    "DBLP:books/cu/20/Balcan20",
+    "BalcanSV18",
+    "GSW21",
+    "DBLP:journals/jcss/LiLS01",
+    "ccdh24",
+    "CastiglioniCLXS25",
+    "bcmg23",
+    "BCM24",
+    "JinABJ18",
+    "AlonDT21",
+    "DEFK24",
+    "PaesLeme17",
+    "Bertelsen05",
+    "CastiglioniM023",
+    "ZhuBYWJJ23",
+    "CastiglioniM021",
+    "GuruganeshSW023",
+    "DBLP:conf/ec/CorreaDFS19",
+    "AlonDLT23",
+    "DuettingGuruganeshSchneiderWang23",
+    "DBLP:conf/focs/DuttingKLR024",
+    "HartlineR09",
+    "DuttingFP23",
+    "ColeR14",
+    "BalcanDDKSV21",
+    "frazier14",
+    "scheid24incentivizedLearning",
+    "balcan16",
+    "DBLP:conf/sigecom/DhangwatnotaiRY10",
+    "DuettingFTC24",
+    "RademacherMendelson03"
+  ],
+  "entries": [
+    {
+      "key": "duetting2025pseudodimensioncontracts",
+      "raw": {
+        "title": "The Pseudo-Dimension of Contracts",
+        "authors": [
+          "Paul D{\\\"{u}}tting",
+          "Michal Feldman",
+          "Tomasz Ponitka",
+          "Ermis Soumalias"
+        ],
+        "year": 2025,
+        "doi": "10.1145/3736252.3742585",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4411946056",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "The Pseudo-Dimension of Contracts",
+        "year": 2025,
+        "authors": [
+          "Paul Dütting",
+          "Michal Feldman",
+          "Tomasz Ponitka",
+          "Ermis Soumalias"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "patrick",
+      "raw": {
+        "title": "Covering Numbers Bounds for Rademacher Complexity. Chaining",
+        "authors": [
+          "Patrick Rebeschini"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Dtting2021CombinatorialC",
+      "raw": {
+        "title": "Combinatorial Contracts",
+        "authors": [
+          "Paul Dütting",
+          "Tomer Ezra",
+          "Michal Feldman",
+          "Thomas Kesselheim"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "holmstrom1979moral",
+      "raw": {
+        "title": "Moral Hazard and Observability",
+        "authors": [
+          "Bengt Holmström"
+        ],
+        "year": 1979,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "AnthonyBartlett1999",
+      "raw": {
+        "title": "Neural Network Learning: Theoretical Foundations",
+        "authors": [
+          "Anthony, Martin",
+          "Bartlett, Peter L."
+        ],
+        "year": 2009,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Neural+Network+Learning%3A+Theoretical+Foundations&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "DBLP:books/daglib/0035708",
+      "raw": {
+        "title": "Introduction to Nonparametric Estimation",
+        "authors": [
+          "Alexandre B. Tsybakov"
+        ],
+        "year": 2009,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Introduction+to+Nonparametric+Estimation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "DBLP:books/cu/20/Balcan20",
+      "raw": {
+        "title": "Data-Driven Algorithm Design",
+        "authors": [
+          "Maria{-}Florina Balcan"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Data-Driven+Algorithm+Design&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "BalcanSV18",
+      "raw": {
+        "title": "A General Theory of Sample Complexity for Multi-Item Profit Maximization",
+        "authors": [
+          "Maria{-}Florina Balcan",
+          "Tuomas Sandholm",
+          "Ellen Vitercik"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=A+General+Theory+of+Sample+Complexity+for+Multi-Item+Profit+Maximization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "GSW21",
+      "raw": {
+        "title": "Contracts under Moral Hazard and Adverse Selection",
+        "authors": [
+          "Guru Guruganesh",
+          "Jon Schneider",
+          "Joshua R. Wang"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Contracts+under+Moral+Hazard+and+Adverse+Selection&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "DBLP:journals/jcss/LiLS01",
+      "raw": {
+        "title": "Improved Bounds on the Sample Complexity of Learning",
+        "authors": [
+          "Yi Li",
+          "Philip M. Long",
+          "Aravind Srinivasan"
+        ],
+        "year": 2001,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Improved+Bounds+on+the+Sample+Complexity+of+Learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ccdh24",
+      "raw": {
+        "title": "Are Bounded Contracts Learnable and Approximately Optimal?",
+        "authors": [
+          "Yurong Chen",
+          "Zhaohua Chen",
+          "Xiaotie Deng",
+          "Zhiyi Huang"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Are+Bounded+Contracts+Learnable+and+Approximately+Optimal%3F&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "morgenstern2015pseudodimension",
+      "raw": {
+        "title": "The Pseudo-Dimension of Near-Optimal Auctions",
+        "authors": [
+          "Jamie Morgenstern",
+          "Tim Roughgarden"
+        ],
+        "year": 2015,
+        "doi": null,
+        "arxiv_id": "1506.03684"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1506.03684&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "CastiglioniCLXS25",
+      "raw": {
+        "title": "A Reduction from Multi-Parameter to Single-Parameter Bayesian Contract Design",
+        "authors": [
+          "Matteo Castiglioni",
+          "Junjie Chen",
+          "Minming Li",
+          "Haifeng Xu",
+          "Song Zuo"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=A+Reduction+from+Multi-Parameter+to+Single-Parameter+Bayesian+Contract+Design&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Paes2017",
+      "raw": {
+        "title": "Gross substitutability: An algorithmic survey",
+        "authors": [
+          "Renato {Paes Leme}"
+        ],
+        "year": 2017,
+        "doi": "https://doi.org/10.1016/j.geb.2017.10.016",
+        "arxiv_id": null
+      },
+      "status": "metadata_mismatch",
+      "openalex_id": "https://openalex.org/W2770911772",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Gross substitutability: An algorithmic survey",
+        "year": 2017,
+        "authors": [
+          "Renato Paes Leme"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [
+        "authors"
+      ],
+      "error": null
+    },
+    {
+      "key": "bcmg23",
+      "raw": {
+        "title": "Learning Optimal Contracts: How to Exploit Small Action Spaces",
+        "authors": [
+          "Francesco Bacchiocchi",
+          "Matteo Castiglioni",
+          "Alberto Marchesi",
+          "Nicola Gatti"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Learning+Optimal+Contracts%3A+How+to+Exploit+Small+Action+Spaces&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "BCM24",
+      "raw": {
+        "title": "Regret-Minimizing Contracts: Agency Under Uncertainty",
+        "authors": [
+          "Martino Bernasconi",
+          "Matteo Castiglioni",
+          "Alberto Marchesi"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Regret-Minimizing+Contracts%3A+Agency+Under+Uncertainty&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "JinABJ18",
+      "raw": {
+        "title": "Is Q-Learning Provably Efficient?",
+        "authors": [
+          "Chi Jin",
+          "Zeyuan Allen{-}Zhu",
+          "S{\\'{e}}bastien Bubeck",
+          "Michael I. Jordan"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Is+Q-Learning+Provably+Efficient%3F&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "AlonDT21",
+      "raw": {
+        "title": "Contracts with Private Cost per Unit-of-Effort",
+        "authors": [
+          "Tal Alon",
+          "Paul Dütting",
+          "Inbal Talgam{-}Cohen"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Contracts+with+Private+Cost+per+Unit-of-Effort&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "caroll2015",
+      "raw": {
+        "title": "Robustness and Linear Contracts",
+        "authors": [
+          "Gabriel Carroll"
+        ],
+        "year": 2015,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Robustness+and+Linear+Contracts&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "holmstrom1979",
+      "raw": {
+        "title": "Moral Hazard and Observability",
+        "authors": [
+          "Bengt Holmström"
+        ],
+        "year": 1979,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Moral+Hazard+and+Observability&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "grossman1983",
+      "raw": {
+        "title": "An Analysis of the Principal-Agent Problem",
+        "authors": [
+          "Sanford J. Grossman",
+          "Oliver D. Hart"
+        ],
+        "year": 1983,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=An+Analysis+of+the+Principal-Agent+Problem&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Kabatiansky1978",
+      "raw": {
+        "title": "On bounds for packings on a sphere and in space",
+        "authors": [
+          "G. A. Kabatiansky",
+          "V. I. Levenshtein"
+        ],
+        "year": 1978,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=On+bounds+for+packings+on+a+sphere+and+in+space&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "DBLP:journals/corr/abs-2403-09794",
+      "raw": {
+        "title": "The Query Complexity of Contracts",
+        "authors": [
+          "Paul Dütting",
+          "Michal Feldman",
+          "Yoav Gal Tzur",
+          "Aviad Rubinstein"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "DEFK24",
+      "raw": {
+        "title": "Multi-Agent Combinatorial Contracts",
+        "authors": [
+          "Paul Dütting",
+          "Tomer Ezra",
+          "Michal Feldman",
+          "Thomas Kesselheim"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Multi-Agent+Combinatorial+Contracts&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "roughgarden2010algorithmic",
+      "raw": {
+        "title": "Algorithmic game theory",
+        "authors": [
+          "Roughgarden, Tim"
+        ],
+        "year": 2010,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Algorithmic+game+theory&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "gul1999walrasian",
+      "raw": {
+        "title": "Walrasian equilibrium with gross substitutes",
+        "authors": [
+          "Gul, Faruk",
+          "Stacchetti, Ennio"
+        ],
+        "year": 1999,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Walrasian+equilibrium+with+gross+substitutes&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "leme2017gross",
+      "raw": {
+        "title": "Gross substitutability: An algorithmic survey",
+        "authors": [
+          "Leme, Renato Paes"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Gross+substitutability%3A+An+algorithmic+survey&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "iwata2001combinatorial",
+      "raw": {
+        "title": "A combinatorial strongly polynomial algorithm for minimizing submodular functions",
+        "authors": [
+          "Iwata, Satoru",
+          "Fleischer, Lisa",
+          "Fujishige, Satoru"
+        ],
+        "year": 2001,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=A+combinatorial+strongly+polynomial+algorithm+for+minimizing+submodular+functions&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "kelso1982job",
+      "raw": {
+        "title": "Job matching, coalition formation, and gross substitutes",
+        "authors": [
+          "Kelso Jr, Alexander S",
+          "Crawford, Vincent P"
+        ],
+        "year": 1982,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Job+matching%2C+coalition+formation%2C+and+gross+substitutes&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "reijnierse2002verifying",
+      "raw": {
+        "title": "Verifying gross substitutability",
+        "authors": [
+          "Reijnierse, Hans",
+          "van Gellekom, Anita",
+          "Potters, Jos AM"
+        ],
+        "year": 2002,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Verifying+gross+substitutability&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "schrijver2000combinatorial",
+      "raw": {
+        "title": "A combinatorial algorithm minimizing submodular functions in strongly polynomial time",
+        "authors": [
+          "Schrijver, Alexander"
+        ],
+        "year": 2000,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=A+combinatorial+algorithm+minimizing+submodular+functions+in+strongly+polynomial+time&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "iwata2008submodular",
+      "raw": {
+        "title": "Submodular function minimization",
+        "authors": [
+          "Iwata, Satoru"
+        ],
+        "year": 2008,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Submodular+function+minimization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "edmonds2003submodular",
+      "raw": {
+        "title": "Submodular functions, matroids, and certain polyhedra",
+        "authors": [
+          "Edmonds, Jack"
+        ],
+        "year": 2003,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Submodular+functions%2C+matroids%2C+and+certain+polyhedra&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "shapley1971cores",
+      "raw": {
+        "title": "Cores of convex games",
+        "authors": [
+          "Shapley, Lloyd S"
+        ],
+        "year": 1971,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Cores+of+convex+games&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "mccormick2005submodular",
+      "raw": {
+        "title": "Submodular function minimization",
+        "authors": [
+          "McCormick, S Thomas"
+        ],
+        "year": 2005,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Submodular+function+minimization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "fleischer2003push",
+      "raw": {
+        "title": "A push-relabel framework for submodular function minimization and applications to parametric optimization",
+        "authors": [
+          "Fleischer, Lisa",
+          "Iwata, Satoru"
+        ],
+        "year": 2003,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=A+push-relabel+framework+for+submodular+function+minimization+and+applications+to+parametric+optimization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "goldberg1988new",
+      "raw": {
+        "title": "A new approach to the maximum-flow problem",
+        "authors": [
+          "Goldberg, Andrew V",
+          "Tarjan, Robert E"
+        ],
+        "year": 1988,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=A+new+approach+to+the+maximum-flow+problem&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "gusfield1992fast",
+      "raw": {
+        "title": "A fast algorithm for the generalized parametric minimum cut problem and applications",
+        "authors": [
+          "Gusfield, Dan",
+          "Martel, Charles"
+        ],
+        "year": 1992,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=A+fast+algorithm+for+the+generalized+parametric+minimum+cut+problem+and+applications&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "granot2012structural",
+      "raw": {
+        "title": "Structural and algorithmic properties for parametric minimum cuts",
+        "authors": [
+          "Granot, Frieda",
+          "McCormick, S Thomas",
+          "Queyranne, Maurice",
+          "Tardella, Fabio"
+        ],
+        "year": 2012,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Structural+and+algorithmic+properties+for+parametric+minimum+cuts&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "gallo1989fast",
+      "raw": {
+        "title": "A fast parametric maximum flow algorithm and applications",
+        "authors": [
+          "Gallo, Giorgio",
+          "Grigoriadis, Michael D",
+          "Tarjan, Robert E"
+        ],
+        "year": 1989,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=A+fast+parametric+maximum+flow+algorithm+and+applications&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "topkis1978minimizing",
+      "raw": {
+        "title": "Minimizing a submodular function on a lattice",
+        "authors": [
+          "Topkis, Donald M"
+        ],
+        "year": 1978,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Minimizing+a+submodular+function+on+a+lattice&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "iwata1997fast",
+      "raw": {
+        "title": "A fast parametric submodular intersection algorithm for strong map sequences",
+        "authors": [
+          "Iwata, Satoru",
+          "Murota, Kazuo",
+          "Shigeno, Maiko"
+        ],
+        "year": 1997,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=A+fast+parametric+submodular+intersection+algorithm+for+strong+map+sequences&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "feige2015unifying",
+      "raw": {
+        "title": "A unifying hierarchy of valuations with complements and substitutes",
+        "authors": [
+          "Feige, Uriel",
+          "Feldman, Michal",
+          "Immorlica, Nicole",
+          "Izsak, Rani",
+          "Lucier, Brendan",
+          "Syrgkanis, Vasilis"
+        ],
+        "year": 2015,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=A+unifying+hierarchy+of+valuations+with+complements+and+substitutes&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "abraham2012combinatorial",
+      "raw": {
+        "title": "Combinatorial auctions with restricted complements",
+        "authors": [
+          "Abraham, Ittai",
+          "Babaioff, Moshe",
+          "Dughmi, Shaddin",
+          "Roughgarden, Tim"
+        ],
+        "year": 2012,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Combinatorial+auctions+with+restricted+complements&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "nagano2007strongly",
+      "raw": {
+        "title": "A strongly polynomial algorithm for line search in submodular polyhedra",
+        "authors": [
+          "Nagano, Kiyohito"
+        ],
+        "year": 2007,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=A+strongly+polynomial+algorithm+for+line+search+in+submodular+polyhedra&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "jain2007eisenberg",
+      "raw": {
+        "title": "Eisenberg-gale markets: Algorithms and structural properties",
+        "authors": [
+          "Jain, Kamal",
+          "Vazirani, Vijay V"
+        ],
+        "year": 2007,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Eisenberg-gale+markets%3A+Algorithms+and+structural+properties&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "PaesLeme17",
+      "raw": {
+        "title": "Gross substitutability: An algorithmic survey",
+        "authors": [
+          "Renato {Paes Leme}"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Gross+substitutability%3A+An+algorithmic+survey&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Bertelsen05",
+      "raw": {
+        "title": "Substitutes Valuations and m-concavity",
+        "authors": [
+          "A. Bertelsen"
+        ],
+        "year": 2005,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Substitutes+Valuations+and+m-concavity&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "megiddo1978combinatorial",
+      "raw": {
+        "title": "Combinatorial optimization with rational objective functions",
+        "authors": [
+          "Megiddo, Nimrod"
+        ],
+        "year": 1978,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Combinatorial+optimization+with+rational+objective+functions&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "megiddo1983applying",
+      "raw": {
+        "title": "Applying parallel computation algorithms in the design of serial algorithms",
+        "authors": [
+          "Megiddo, Nimrod"
+        ],
+        "year": 1983,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Applying+parallel+computation+algorithms+in+the+design+of+serial+algorithms&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "iwata2002fully",
+      "raw": {
+        "title": "A fully combinatorial algorithm for submodular function minimization",
+        "authors": [
+          "Iwata, Satoru"
+        ],
+        "year": 2002,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=A+fully+combinatorial+algorithm+for+submodular+function+minimization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "iwata2009simple",
+      "raw": {
+        "title": "A simple combinatorial algorithm for submodular function minimization",
+        "authors": [
+          "Iwata, Satoru",
+          "Orlin, James B"
+        ],
+        "year": 2009,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=A+simple+combinatorial+algorithm+for+submodular+function+minimization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "lawler1975matroid",
+      "raw": {
+        "title": "Matroid intersection algorithms",
+        "authors": [
+          "Lawler, Eugene L"
+        ],
+        "year": 1975,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Matroid+intersection+algorithms&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "duetting2022multi",
+      "raw": {
+        "title": "Multi-Agent Contracts",
+        "authors": [
+          "Paul Dütting",
+          "Tomer Ezra",
+          "Michal Feldman",
+          "Thomas Kesselheim"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Multi-Agent+Contracts&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "kuhn1955hungarian",
+      "raw": {
+        "title": "The Hungarian Method for the assignment problem",
+        "authors": [
+          "Kuhn, Harold W"
+        ],
+        "year": 1955,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=The+Hungarian+Method+for+the+assignment+problem&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "schrijver2003combinatorial",
+      "raw": {
+        "title": "Combinatorial optimization: Polyhedra and efficiency",
+        "authors": [
+          "Schrijver, Alexander",
+          "others"
+        ],
+        "year": 2003,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Combinatorial+optimization%3A+Polyhedra+and+efficiency&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "lehmann2001combinatorial",
+      "raw": {
+        "title": "Combinatorial auctions with decreasing marginal utilities",
+        "authors": [
+          "Lehmann, Benny",
+          "Lehmann, Daniel",
+          "Nisan, Noam"
+        ],
+        "year": 2001,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Combinatorial+auctions+with+decreasing+marginal+utilities&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "grossman1992analysis",
+      "raw": {
+        "title": "An analysis of the principal-agent problem",
+        "authors": [
+          "Grossman, Sanford J",
+          "Hart, Oliver D"
+        ],
+        "year": 1992,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=An+analysis+of+the+principal-agent+problem&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "carroll2015robustness",
+      "raw": {
+        "title": "Robustness and linear contracts",
+        "authors": [
+          "Carroll, Gabriel"
+        ],
+        "year": 2015,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Robustness+and+linear+contracts&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "dutting2019simple",
+      "raw": {
+        "title": "Simple versus optimal contracts",
+        "authors": [
+          "Dütting, Paul",
+          "Roughgarden, Tim",
+          "{Talgam-Cohen}, Inbal"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Simple+versus+optimal+contracts&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "babaioff2006combinatorial",
+      "raw": {
+        "title": "Combinatorial agency",
+        "authors": [
+          "Babaioff, Moshe",
+          "Feldman, Michal",
+          "Nisan, Noam"
+        ],
+        "year": 2006,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Combinatorial+agency&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "babaioff2009free",
+      "raw": {
+        "title": "Free-Riding and Free-Labor in Combinatorial Agency",
+        "authors": [
+          "Babaioff, Moshe",
+          "Feldman, Michal",
+          "Nisan, Noam"
+        ],
+        "year": 2009,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Free-Riding+and+Free-Labor+in+Combinatorial+Agency&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "CastiglioniM023",
+      "raw": {
+        "title": "Multi-Agent Contract Design: How to Commission Multiple Agents with Individual Outcomes",
+        "authors": [
+          "Matteo Castiglioni",
+          "Alberto Marchesi",
+          "Nicola Gatti"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Multi-Agent+Contract+Design%3A+How+to+Commission+Multiple+Agents+with+Individual+Outcomes&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ZhuBYWJJ23",
+      "raw": {
+        "title": "The Sample Complexity of Online Contract Design",
+        "authors": [
+          "Banghua Zhu",
+          "Stephen Bates",
+          "Zhuoran Yang",
+          "Yixin Wang",
+          "Jiantao Jiao",
+          "Michael I. Jordan"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=The+Sample+Complexity+of+Online+Contract+Design&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "CastiglioniM021",
+      "raw": {
+        "title": "Bayesian Agency: Linear versus Tractable Contracts",
+        "authors": [
+          "Matteo Castiglioni",
+          "Alberto Marchesi",
+          "Nicola Gatti"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Bayesian+Agency%3A+Linear+versus+Tractable+Contracts&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "GuruganeshSW023",
+      "raw": {
+        "title": "The Power of Menus in Contract Design",
+        "authors": [
+          "Guru Guruganesh",
+          "Jon Schneider",
+          "Joshua R. Wang",
+          "Junyao Zhao"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=The+Power+of+Menus+in+Contract+Design&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "DBLP:conf/ec/CorreaDFS19",
+      "raw": {
+        "title": "Prophet Inequalities for I.I.D. Random Variables from an Unknown Distribution",
+        "authors": [
+          "Jos{\\'{e}} Correa",
+          "Paul Dütting",
+          "Felix A. Fischer",
+          "Kevin Schewior"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Prophet+Inequalities+for+I.I.D.+Random+Variables+from+an+Unknown+Distribution&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "AlonDLT23",
+      "raw": {
+        "title": "Bayesian Analysis of Linear Contracts",
+        "authors": [
+          "Tal Alon",
+          "Paul Dütting",
+          "Yingkai Li",
+          "Inbal {Talgam{-}Cohen}"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Bayesian+Analysis+of+Linear+Contracts&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "DuettingGuruganeshSchneiderWang23",
+      "raw": {
+        "title": "Optimal No-Regret Learning for One-Side Lipschitz Functions",
+        "authors": [
+          "Paul Dütting",
+          "Guru Guruganesh",
+          "Jon Schneider",
+          "Joshua Wang"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Optimal+No-Regret+Learning+for+One-Side+Lipschitz+Functions&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "babaioff2006mixed",
+      "raw": {
+        "title": "Mixed strategies in combinatorial agency",
+        "authors": [
+          "Babaioff, Moshe",
+          "Feldman, Michal",
+          "Nisan, Noam"
+        ],
+        "year": 2006,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Mixed+strategies+in+combinatorial+agency&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "dutting2021complexity",
+      "raw": {
+        "title": "The complexity of contracts",
+        "authors": [
+          "Dütting, Paul",
+          "Roughgarden, Tim",
+          "{Talgam-Cohen}, Inbal"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=The+complexity+of+contracts&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "emek2012computing",
+      "raw": {
+        "title": "Computing optimal contracts in combinatorial agencies",
+        "authors": [
+          "Emek, Yuval",
+          "Feldman, Michal"
+        ],
+        "year": 2012,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Computing+optimal+contracts+in+combinatorial+agencies&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "holmstrom1991multitask",
+      "raw": {
+        "title": "Multitask principal--agent analyses: Incentive contracts, asset ownership, and job design",
+        "authors": [
+          "Holmstrom, Bengt",
+          "Milgrom, Paul"
+        ],
+        "year": 1991,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Multitask+principal--agent+analyses%3A+Incentive+contracts%2C+asset+ownership%2C+and+job+design&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "DBLP:conf/focs/DuttingKLR024",
+      "raw": {
+        "title": "Online Combinatorial Allocations and Auctions with Few Samples",
+        "authors": [
+          "Paul Dütting",
+          "Thomas Kesselheim",
+          "Brendan Lucier",
+          "Rebecca Reiffenh{\\\"{a}}user",
+          "Sahil Singla"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Online+Combinatorial+Allocations+and+Auctions+with+Few+Samples&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ho2014adaptive",
+      "raw": {
+        "title": "Adaptive contract design for crowdsourcing markets: Bandit algorithms for repeated principal-agent problems",
+        "authors": [
+          "Ho, Chien-Ju",
+          "Slivkins, Aleksandrs",
+          "Vaughan, Jennifer Wortman"
+        ],
+        "year": 2014,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Adaptive+contract+design+for+crowdsourcing+markets%3A+Bandit+algorithms+for+repeated+principal-agent+problems&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "kleinberg2018delegated",
+      "raw": {
+        "title": "Delegated search approximates efficient search",
+        "authors": [
+          "Kleinberg, Jon",
+          "Kleinberg, Robert"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Delegated+search+approximates+efficient+search&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "kleinberg2020classifiers",
+      "raw": {
+        "title": "How do classifiers induce agents to invest effort strategically?",
+        "authors": [
+          "Kleinberg, Jon",
+          "Raghavan, Manish"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=How+do+classifiers+induce+agents+to+invest+effort+strategically%3F&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "alon2021contracts",
+      "raw": {
+        "title": "Contracts with private cost per unit-of-effort",
+        "authors": [
+          "Alon, Tal",
+          "Dütting, Paul",
+          "{Talgam-Cohen}, Inbal"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Contracts+with+private+cost+per+unit-of-effort&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "castiglioni2022designing",
+      "raw": {
+        "title": "Designing menus of contracts efficiently: the power of randomization",
+        "authors": [
+          "Castiglioni, Matteo",
+          "Marchesi, Alberto",
+          "Gatti, Nicola"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Designing+menus+of+contracts+efficiently%3A+the+power+of+randomization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "carstensen1983complexity",
+      "raw": {
+        "title": "Complexity of some parametric integer and network programming problems",
+        "authors": [
+          "Carstensen, Patricia J"
+        ],
+        "year": 1983,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Complexity+of+some+parametric+integer+and+network+programming+problems&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "mulmuley2000lower",
+      "raw": {
+        "title": "A lower bound for the shortest path problem",
+        "authors": [
+          "Mulmuley, Ketan",
+          "Shah, Pradyut"
+        ],
+        "year": 2000,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=A+lower+bound+for+the+shortest+path+problem&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "breugem2017analysis",
+      "raw": {
+        "title": "Analysis of FPTASes for the multi-objective shortest path problem",
+        "authors": [
+          "Breugem, Thomas",
+          "Dollevoet, Twan",
+          "van den Heuvel, Wilco"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Analysis+of+FPTASes+for+the+multi-objective+shortest+path+problem&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "eisner1976mathematical",
+      "raw": {
+        "title": "Mathematical techniques for efficient record segmentation in large shared databases",
+        "authors": [
+          "Eisner, Mark J",
+          "Severance, Dennis G"
+        ],
+        "year": 1976,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Mathematical+techniques+for+efficient+record+segmentation+in+large+shared+databases&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "gusfield1980sensitivity",
+      "raw": {
+        "title": "Sensitivity analysis for combinatorial optimization",
+        "authors": [
+          "Gusfield, Daniel Mier"
+        ],
+        "year": 1980,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Sensitivity+analysis+for+combinatorial+optimization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "iwata2003faster",
+      "raw": {
+        "title": "A faster scaling algorithm for minimizing submodular functions",
+        "authors": [
+          "Iwata, Satoru"
+        ],
+        "year": 2003,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=A+faster+scaling+algorithm+for+minimizing+submodular+functions&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "karp1981parametric",
+      "raw": {
+        "title": "Parametric shortest path algorithms with an application to cyclic staffing",
+        "authors": [
+          "Karp, Richard M",
+          "Orlin, James B"
+        ],
+        "year": 1981,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Parametric+shortest+path+algorithms+with+an+application+to+cyclic+staffing&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "stanley2011enumerative",
+      "raw": {
+        "title": "Enumerative Combinatorics Volume 1 second edition",
+        "authors": [
+          "Stanley, Richard P"
+        ],
+        "year": 2011,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Enumerative+Combinatorics+Volume+1+second+edition&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Nobel2016",
+      "raw": {
+        "title": "Scientific background on the 2016 Nobel Prize in Economic",
+        "authors": [
+          "{Royal Swedish Academy of Sciences}"
+        ],
+        "year": 2016,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "HartlineR09",
+      "raw": {
+        "title": "Simple versus optimal mechanisms",
+        "authors": [
+          "Jason D. Hartline",
+          "Tim Roughgarden"
+        ],
+        "year": 2009,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Simple+versus+optimal+mechanisms&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "DuttingFP23",
+      "raw": {
+        "title": "Ambiguous Contracts",
+        "authors": [
+          "Paul Dütting",
+          "Michal Feldman",
+          "Daniel Peretz"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Ambiguous+Contracts&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "dutting2024combinatorial",
+      "raw": {
+        "title": "Combinatorial Contracts Beyond Gross Substitutes",
+        "authors": [
+          "Dütting, Paul",
+          "Feldman, Michal",
+          "{Gal-Tzur}, Yoav"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Combinatorial+Contracts+Beyond+Gross+Substitutes&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "deo2024supermodular",
+      "raw": {
+        "title": "On Supermodular Contracts and Dense Subgraphs",
+        "authors": [
+          "{Deo-Campo Vuong}, Ramiro",
+          "Dughmi, Shaddin",
+          "Patel, Neel",
+          "Prasad, Aditya"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=On+Supermodular+Contracts+and+Dense+Subgraphs&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ChenEtAl2024",
+      "raw": {
+        "title": "Are Bounded Contracts Learnable and Approximately Optimal?",
+        "authors": [
+          "Yurong Chen",
+          "Zhaohua Chen",
+          "Xiaotie Deng",
+          "Zhiyi Huang"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Are+Bounded+Contracts+Learnable+and+Approximately+Optimal%3F&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ColeR14",
+      "raw": {
+        "title": "The sample complexity of revenue maximization",
+        "authors": [
+          "Richard Cole",
+          "Tim Roughgarden"
+        ],
+        "year": 2014,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=The+sample+complexity+of+revenue+maximization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "BalcanDDKSV21",
+      "raw": {
+        "title": "How much data is sufficient to learn high-performing algorithms? generalization guarantees for data-driven algorithm design",
+        "authors": [
+          "Maria{-}Florina Balcan",
+          "Dan F. DeBlasio",
+          "Travis Dick",
+          "Carl Kingsford",
+          "Tuomas Sandholm",
+          "Ellen Vitercik"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=How+much+data+is+sufficient+to+learn+high-performing+algorithms%3F+generalization+guarantees+for+data-driven+algorithm+design&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ezra2023Inapproximability",
+      "raw": {
+        "title": "On the (In)approximability of Combinatorial Contracts",
+        "authors": [
+          "Ezra, Tomer",
+          "Feldman, Michal",
+          "Schlesinger, Maya"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=On+the+%28In%29approximability+of+Combinatorial+Contracts&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "alon2022bayesian",
+      "raw": {
+        "title": "Bayesian analysis of linear contracts",
+        "authors": [
+          "Alon, Tal",
+          "Dütting, Paul",
+          "Li, Yingkai",
+          "{Talgam-Cohen}, Inbal"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Bayesian+analysis+of+linear+contracts&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "blumrosen2005computational",
+      "raw": {
+        "title": "On the computational power of iterative auctions I: demand queries",
+        "authors": [
+          "Blumrosen, Liad",
+          "Nisan, Noam"
+        ],
+        "year": 2005,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=On+the+computational+power+of+iterative+auctions+I%3A+demand+queries&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "frazier14",
+      "raw": {
+        "title": "Incentivizing exploration",
+        "authors": [
+          "Frazier, Peter",
+          "Kempe, David",
+          "Kleinberg, Jon",
+          "Kleinberg, Robert"
+        ],
+        "year": 2014,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Incentivizing+exploration&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "bates2022",
+      "raw": {
+        "title": "Principal-Agent Hypothesis Testing",
+        "authors": [
+          "Stephen Bates",
+          "Michael I. Jordan",
+          "Michael Sklar",
+          "Jake A. Soloff"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2205.06812"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2205.06812&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "cohen2022",
+      "raw": {
+        "title": "Learning Approximately Optimal Contracts",
+        "authors": [
+          "Cohen, Alon",
+          "Deligkas, Argyrios",
+          "Koren, Moran"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Learning+Approximately+Optimal+Contracts&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "schorfheide2012",
+      "raw": {
+        "title": "On the Use of Holdout Samples for Model Selection",
+        "authors": [
+          "Schorfheide, Frank",
+          "Wolpin, Kenneth I."
+        ],
+        "year": 2012,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=On+the+Use+of+Holdout+Samples+for+Model+Selection&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "schorfheide2016",
+      "raw": {
+        "title": "To hold out or not to hold out",
+        "authors": [
+          "Frank Schorfheide",
+          "Kenneth I. Wolpin"
+        ],
+        "year": 2016,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=To+hold+out+or+not+to+hold+out&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "diakonikolas2019lecture4",
+      "raw": {
+        "title": "Lecture 4: Concentration Inequalities",
+        "authors": [
+          "Ilias Diakonikolas"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Tsybakov2009",
+      "raw": {
+        "title": "Introduction to Nonparametric Estimation",
+        "authors": [
+          "Tsybakov, Alexandre B."
+        ],
+        "year": 2009,
+        "doi": "10.1007/b13794",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W1511694993",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Introduction to Nonparametric Estimation",
+        "year": 2008,
+        "authors": [
+          "Alexandre B. Tsybakov"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "scheid24incentivizedLearning",
+      "raw": {
+        "title": "Incentivized Learning in Principal-Agent Bandit Games",
+        "authors": [
+          "Scheid, Antoine",
+          "Tiapkin, Daniil",
+          "Boursier, Etienne",
+          "Capitaine, Aymeric",
+          "Moulines, Eric",
+          "Jordan, Michael",
+          "El-Mhamdi, El-Mahdi",
+          "Oliviero Durmus, Alain"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Incentivized+Learning+in+Principal-Agent+Bandit+Games&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "goldmansachs2022creatorEconomy",
+      "raw": {
+        "title": "The Creator Economy Could Approach Half a Trillion Dollars by 2027",
+        "authors": [
+          "{Goldman Sachs}"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "balcan16",
+      "raw": {
+        "title": "Sample complexity of automated mechanism design",
+        "authors": [
+          "Balcan, Maria-Florina",
+          "Sandholm, Tuomas",
+          "Vitercik, Ellen"
+        ],
+        "year": 2016,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Sample+complexity+of+automated+mechanism+design&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "curry2024automateddesignaffinemaximizer",
+      "raw": {
+        "title": "Automated Design of Affine Maximizer Mechanisms in Dynamic Settings",
+        "authors": [
+          "Michael Curry",
+          "Vinzenz Thoma",
+          "Darshan Chakrabarti",
+          "Stephen McAleer",
+          "Christian Kroer",
+          "Tuomas Sandholm",
+          "Niao He",
+          "Sven Seuken"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Automated+Design+of+Affine+Maximizer+Mechanisms+in+Dynamic+Settings&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "burkett2024",
+      "raw": {
+        "title": "Data-driven contract design",
+        "authors": [
+          "Justin Burkett",
+          "Maxwell Rosenthal"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Data-driven+contract+design&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "DBLP:conf/sigecom/DhangwatnotaiRY10",
+      "raw": {
+        "title": "Revenue maximization with a single sample",
+        "authors": [
+          "Peerapong Dhangwatnotai",
+          "Tim Roughgarden",
+          "Qiqi Yan"
+        ],
+        "year": 2010,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Revenue+maximization+with+a+single+sample&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "soumalias2024machinelearningpoweredcourseallocation",
+      "raw": {
+        "title": "Machine Learning-Powered Course Allocation",
+        "authors": [
+          "Ermis Soumalias",
+          "Behnoosh Zamanlooy",
+          "Jakob Weissteiner",
+          "Sven Seuken"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Machine+Learning-Powered+Course+Allocation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "soumalias2024pricesbidsvalueseverything",
+      "raw": {
+        "title": "Prices, Bids, Values: Everything, Everywhere, All at Once",
+        "authors": [
+          "Ermis Soumalias",
+          "Jakob Heiss",
+          "Jakob Weissteiner",
+          "Sven Seuken"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2411.09355"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2411.09355&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Soumalias_2024",
+      "raw": {
+        "title": "Machine Learning-Powered Combinatorial Clock Auction",
+        "authors": [
+          "Soumalias, Ermis Nikiforos",
+          "Weissteiner, Jakob",
+          "Heiss, Jakob",
+          "Seuken, Sven"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Machine+Learning-Powered+Combinatorial+Clock+Auction&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "brero2021machinelearningpowerediterativecombinatorial",
+      "raw": {
+        "title": "iMLCA: Machine Learning-powered Iterative Combinatorial Auctions with Interval Bidding",
+        "authors": [
+          "Manuel Beyeler",
+          "Gianluca Brero",
+          "Benjamin Lubin",
+          "Sven Seuken"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=iMLCA%3A+Machine+Learning-powered+Iterative+Combinatorial+Auctions+with+Interval+Bidding&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "DuettingFTC24",
+      "raw": {
+        "title": "Algorithmic Contract Theory: A Survey",
+        "authors": [
+          "Paul Dütting",
+          "Michal Feldman",
+          "Inbal Talgam-Cohen"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Algorithmic+Contract+Theory%3A+A+Survey&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "RademacherMendelson03",
+      "raw": {
+        "title": "Rademacher and gaussian complexities: risk bounds and structural results",
+        "authors": [
+          "Bartlett, Peter L.",
+          "Mendelson, Shahar"
+        ],
+        "year": 2003,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Rademacher+and+gaussian+complexities%3A+risk+bounds+and+structural+results&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    }
+  ]
+}

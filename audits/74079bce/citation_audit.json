@@ -1,0 +1,802 @@
+{
+  "paper_id": "74079bce-489d-4b1c-aa84-5db3de85db9b",
+  "total": 30,
+  "verified": 6,
+  "mismatch": 1,
+  "missing": 1,
+  "ambiguous": 0,
+  "error": 21,
+  "skipped": 1,
+  "s2_consulted": 2,
+  "s2_lifted": 0,
+  "key_style_outliers": [],
+  "entries": [
+    {
+      "key": "radford2021learning",
+      "raw": {
+        "title": "Learning Transferable Visual Models From Natural Language Supervision",
+        "authors": [
+          "Radford, Alec",
+          "Kim, Jong Wook",
+          "Hallacy, Chris",
+          "Ramesh, Aditya",
+          "Goh, Gabriel",
+          "Agarwal, Sandhya",
+          "Sastry, Girish",
+          "Askell, Amanda",
+          "Mishkin, Pamela",
+          "Clark, Jack",
+          "others"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Learning+Transferable+Visual+Models+From+Natural+Language+Supervision&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "liu2023visual",
+      "raw": {
+        "title": "Visual Instruction Tuning",
+        "authors": [
+          "Liu, Haotian",
+          "Li, Chunyuan",
+          "Wu, Qingyang",
+          "Lee, Yong Jae"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Visual+Instruction+Tuning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "benmelech2024lvmlinterpret",
+      "raw": {
+        "title": "LVLM-Interpret: An Interpretability Tool for Large Vision-Language Models",
+        "authors": [
+          "Ben Melech Stan, Gabriela",
+          "Aflalo, Estelle",
+          "Rohekar, Raanan Yehezkel",
+          "Bhiwandiwalla, Anahita",
+          "Tseng, Shao-Yen",
+          "Olson, Matthew Lyle",
+          "Gurwicz, Yaniv",
+          "Wu, Chenfei",
+          "Duan, Nan",
+          "Lal, Vasudev"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2404.03118"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2404.03118&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "bi2025unveiling",
+      "raw": {
+        "title": "Unveiling Visual Perception in Language Models: An Attention Head Analysis Approach",
+        "authors": [
+          "Bi, Jing",
+          "Guo, Junjia",
+          "Tang, Yunlong",
+          "Wen, Lianggong Bruce",
+          "Liu, Zhang",
+          "Xu, Chenliang"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Unveiling+Visual+Perception+in+Language+Models%3A+An+Attention+Head+Analysis+Approach&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "chefer2021transformer",
+      "raw": {
+        "title": "Transformer Interpretability Beyond Attention Visualization",
+        "authors": [
+          "Chefer, Hila",
+          "Gur, Shir",
+          "Wolf, Lior"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Transformer+Interpretability+Beyond+Attention+Visualization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "clark2019does",
+      "raw": {
+        "title": "What Does BERT Look At? An Analysis of BERT's Attention",
+        "authors": [
+          "Clark, Kevin",
+          "Khandelwal, Urvashi",
+          "Levy, Omer",
+          "Manning, Christopher D."
+        ],
+        "year": 2019,
+        "doi": "10.18653/v1/w19-4828",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2953337107",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "What Does BERT Look at? An Analysis of BERT’s Attention",
+        "year": 2019,
+        "authors": [
+          "Kevin B. Clark",
+          "Urvashi Khandelwal",
+          "Omer Levy",
+          "Christopher D. Manning"
+        ]
+      },
+      "title_similarity": 0.9818181818181819,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "jain2019attention",
+      "raw": {
+        "title": "Attention is not Explanation",
+        "authors": [
+          "Jain, Sarthak",
+          "Wallace, Byron C."
+        ],
+        "year": 2019,
+        "doi": "10.18653/v1/D19-1002",
+        "arxiv_id": null
+      },
+      "status": "metadata_mismatch",
+      "openalex_id": "https://openalex.org/W2968210605",
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/ce177672b00ddf46e4906157a7e997ca9338b8b9",
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Attention is not not Explanation",
+        "year": 2019,
+        "authors": [
+          "Sarah Wiegreffe",
+          "Yuval Pinter"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [
+        "authors"
+      ],
+      "error": null
+    },
+    {
+      "key": "pimentel2020information",
+      "raw": {
+        "title": "Information-theoretic probing for linguistic structure",
+        "authors": [
+          "Pimentel, Tiago",
+          "Valvoda, Josef",
+          "Hall Maudslay, Rowan",
+          "Zmigrod, Ran",
+          "Williams, Adina",
+          "Cotterell, Ryan"
+        ],
+        "year": 2020,
+        "doi": "10.18653/v1/2020.acl-main.420",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3015449890",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Information-Theoretic Probing for Linguistic Structure",
+        "year": 2020,
+        "authors": [
+          "Tiago Pimentel",
+          "Josef Valvoda",
+          "Rowan Hall Maudslay",
+          "Ran Zmigrod",
+          "Adina Williams",
+          "Ryan Cotterell"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "pimentel2021bayesian",
+      "raw": {
+        "title": "A Bayesian Framework for Information-Theoretic Probing",
+        "authors": [
+          "Pimentel, Tiago",
+          "Cotterell, Ryan"
+        ],
+        "year": 2021,
+        "doi": "10.18653/v1/2021.emnlp-main.229",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3196649867",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "A Bayesian Framework for Information-Theoretic Probing",
+        "year": 2021,
+        "authors": [
+          "Tiago Pimentel",
+          "Ryan Cotterell"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "alain2016linear",
+      "raw": {
+        "title": "Understanding intermediate layers using linear classifier probes",
+        "authors": [
+          "Alain, Guillaume",
+          "Bengio, Yoshua"
+        ],
+        "year": 2016,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "hewitt2019structural",
+      "raw": {
+        "title": "A structural probe for finding syntax in word representations",
+        "authors": [
+          "Hewitt, John",
+          "Manning, Christopher D"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=A+structural+probe+for+finding+syntax+in+word+representations&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "tenney2019what",
+      "raw": {
+        "title": "What do you learn from context? Probing for sentence structure in contextualized word representations",
+        "authors": [
+          "Tenney, Ian",
+          "Xia, Patrick",
+          "Chen, Berlin",
+          "Wang, Alex",
+          "Poliak, Adam",
+          "McCoy, R. Thomas",
+          "Kim, Najoung",
+          "Van Durme, Benjamin",
+          "Bowman, Samuel R.",
+          "Das, Dipanjan",
+          "Pavlick, Ellie"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=What+do+you+learn+from+context%3F+Probing+for+sentence+structure+in+contextualized+word+representations&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "bertschinger2014quantifying",
+      "raw": {
+        "title": "Quantifying Unique Information",
+        "authors": [
+          "Bertschinger, Nils",
+          "Rauh, Johannes",
+          "Olbrich, Eckehard",
+          "Jost, Jürgen",
+          "Ay, Nihat"
+        ],
+        "year": 2014,
+        "doi": "10.3390/e16042161",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2081988641",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Quantifying Unique Information",
+        "year": 2014,
+        "authors": [
+          "Nils Bertschinger",
+          "Johannes Rauh",
+          "Eckehard Olbrich",
+          "Jürgen Jost",
+          "Nihat Ay"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "venkatesh2023gaussian",
+      "raw": {
+        "title": "Gaussian Partial Information Decomposition: Bias Correction and Application to High-dimensional Data",
+        "authors": [
+          "Venkatesh, Praveen",
+          "Bennett, Corbett",
+          "Gale, Sam",
+          "Ramirez, Tamina K.",
+          "Heller, Greggory",
+          "Durand, Severine",
+          "Olsen, Shawn",
+          "Mihalas, Stefan"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Gaussian+Partial+Information+Decomposition%3A+Bias+Correction+and+Application+to+High-dimensional+Data&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zhao2025partial",
+      "raw": {
+        "title": "Partial Information Decomposition via Normalizing Flows in Latent Gaussian Distributions",
+        "authors": [
+          "Zhao, Wenyuan",
+          "Balachandran, Adithya",
+          "Tian, Chao",
+          "Liang, Paul Pu"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Partial+Information+Decomposition+via+Normalizing+Flows+in+Latent+Gaussian+Distributions&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "faes2025partial",
+      "raw": {
+        "title": "Partial Information Rate Decomposition",
+        "authors": [
+          "Faes, Luca",
+          "Sparacino, Laura",
+          "Mijatovic, Gorana",
+          "Antonacci, Yuri",
+          "Ricci, Leonardo",
+          "Marinazzo, Daniele",
+          "Stramaglia, Sebastiano"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2502.04550"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2502.04550&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "kunert2020partial",
+      "raw": {
+        "title": "Partial Information Decomposition and the Information Delta: A Geometric Unification",
+        "authors": [
+          "Kunert-Graf, James",
+          "Sakhanenko, Nikita",
+          "Galas, David"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Partial+Information+Decomposition+and+the+Information+Delta%3A+A+Geometric+Unification&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "lyu2024explicit",
+      "raw": {
+        "title": "Explicit Formula for Partial Information Decomposition",
+        "authors": [
+          "Lyu, Aobo",
+          "Clark, Andrew",
+          "Raviv, Netanel"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2402.03554"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2402.03554&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "murphy2024information",
+      "raw": {
+        "title": "Information decomposition in complex systems via machine learning",
+        "authors": [
+          "Murphy, Kieran A",
+          "Bassett, Dani S"
+        ],
+        "year": 2024,
+        "doi": "10.1073/pnas.2312988121",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4392910533",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Information decomposition in complex systems via machine learning",
+        "year": 2024,
+        "authors": [
+          "Kieran A. Murphy",
+          "Dani S. Bassett"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "williams2010nonnegative",
+      "raw": {
+        "title": "Nonnegative Decomposition of Multivariate Information",
+        "authors": [
+          "Williams, Paul L.",
+          "Beer, Randall D."
+        ],
+        "year": 2010,
+        "doi": null,
+        "arxiv_id": "1004.2515"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1004.2515&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "liang2023quantifying",
+      "raw": {
+        "title": "Quantifying \\& Modeling Multimodal Interactions: An Information Decomposition Framework",
+        "authors": [
+          "Liang, Paul Pu",
+          "Cheng, Yun",
+          "Fan, Xiang",
+          "Ling, Chun Kai",
+          "Nie, Suzanne",
+          "Chen, Richard J.",
+          "Deng, Zihao",
+          "Allen, Nicholas",
+          "Auerbach, Randy",
+          "Mahmood, Faisal",
+          "Salakhutdinov, Ruslan",
+          "Morency, Louis-Philippe"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Quantifying+%5C%26+Modeling+Multimodal+Interactions%3A+An+Information+Decomposition+Framework&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zawar2024diffusionpid",
+      "raw": {
+        "title": "Interpreting Diffusion via Partial Information Decomposition",
+        "authors": [
+          "Dewan, Shaurya",
+          "Zawar, Rushikesh",
+          "Saxena, Prakanshul",
+          "Chang, Yingshan",
+          "Luo, Andrew",
+          "Bisk, Yonatan"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Interpreting+Diffusion+via+Partial+Information+Decomposition&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "yang2025efficient",
+      "raw": {
+        "title": "Efficient Quantification of Multimodal Interaction at Sample Level",
+        "authors": [
+          "Yang, Zequn",
+          "Wang, Hongfa",
+          "Hu, Di"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Efficient+Quantification+of+Multimodal+Interaction+at+Sample+Level&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "dissanayake2025quantifying",
+      "raw": {
+        "title": "Quantifying Knowledge Distillation Using Partial Information Decomposition",
+        "authors": [
+          "Dissanayake, Pasan",
+          "Hamman, Faisal",
+          "Halder, Barproda",
+          "Sucholutsky, Ilia",
+          "Zhang, Qiuyi",
+          "Dutta, Sanghamitra"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Quantifying+Knowledge+Distillation+Using+Partial+Information+Decomposition&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "xin2025I2MoE",
+      "raw": {
+        "title": "I2MoE: Interpretable Multimodal Interaction-aware Mixture-of-Experts",
+        "authors": [
+          "Xin, Jiayi",
+          "Yun, Sukwon",
+          "Peng, Jie",
+          "Choi, Inyoung",
+          "Ballard, Jenna",
+          "Chen, Tianlong",
+          "Long, Qi"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=I2MoE%3A+Interpretable+Multimodal+Interaction-aware+Mixture-of-Experts&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "hudson2019gqa",
+      "raw": {
+        "title": "GQA: A New Dataset for Real-World Visual Reasoning and Compositional Question Answering",
+        "authors": [
+          "Hudson, Drew A.",
+          "Manning, Christopher D."
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=GQA%3A+A+New+Dataset+for+Real-World+Visual+Reasoning+and+Compositional+Question+Answering&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "geva2023dissecting",
+      "raw": {
+        "title": "Dissecting Recall of Factual Associations in Auto-Regressive Language Models",
+        "authors": [
+          "Geva, Mor",
+          "Bastings, Jasmijn",
+          "Filippova, Katja",
+          "Globerson, Amir"
+        ],
+        "year": 2023,
+        "doi": "10.18653/v1/2023.emnlp-main.751",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4389520380",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Dissecting Recall of Factual Associations in Auto-Regressive Language Models",
+        "year": 2023,
+        "authors": [
+          "Mor Geva",
+          "Jasmijn Bastings",
+          "Katja Filippova",
+          "Amir Globerson"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "krishna2017visual",
+      "raw": {
+        "title": "Visual Genome: Connecting Language and Vision Using Crowdsourced Dense Image Annotations",
+        "authors": [
+          "Krishna, Ranjay",
+          "Zhu, Yuke",
+          "Groth, Oliver",
+          "Johnson, Justin",
+          "Hata, Kenji",
+          "Kravitz, Joshua",
+          "Chen, Stephanie",
+          "Kalantidis, Yannis",
+          "Li, Li-Jia",
+          "Shamma, David A.",
+          "others"
+        ],
+        "year": 2016,
+        "doi": "10.1007/s11263-016-0981-9",
+        "arxiv_id": null
+      },
+      "status": "not_found",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "lou2025saev",
+      "raw": {
+        "title": "SAE-V: Interpreting Multimodal Models for Enhanced Alignment",
+        "authors": [
+          "Lou, Hantao",
+          "Li, Changye",
+          "Ji, Jiaming",
+          "Yang, Yaodong"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=SAE-V%3A+Interpreting+Multimodal+Models+for+Enhanced+Alignment&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "jo2025gmar",
+      "raw": {
+        "title": "GMAR: Gradient-Driven Multi-Head Attention Rollout for Vision Transformer Interpretability",
+        "authors": [
+          "Jo, Sehyeong",
+          "Jang, Gangjae",
+          "Park, Haesol"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=GMAR%3A+Gradient-Driven+Multi-Head+Attention+Rollout+for+Vision+Transformer+Interpretability&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    }
+  ]
+}

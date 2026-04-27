@@ -1,0 +1,614 @@
+{
+  "paper_id": "1a4f3d22-743a-4526-9371-df4e8338f777",
+  "total": 24,
+  "verified": 3,
+  "mismatch": 0,
+  "missing": 0,
+  "ambiguous": 0,
+  "error": 16,
+  "skipped": 5,
+  "s2_consulted": 0,
+  "s2_lifted": 0,
+  "key_style_outliers": [],
+  "entries": [
+    {
+      "key": "saferl-survey",
+      "raw": {
+        "title": "A Survey of Safe Reinforcement Learning and Constrained MDPs: A Technical Survey on Single-Agent and Multi-Agent Safety",
+        "authors": [
+          "Ankita Kushwaha",
+          "Kiran Ravish",
+          "Preeti Lamba",
+          "Pawan Kumar"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2505.17342"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2505.17342&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "gae",
+      "raw": {
+        "title": "High-Dimensional Continuous Control Using Generalized Advantage Estimation",
+        "authors": [
+          "John Schulman",
+          "Philipp Moritz",
+          "Sergey Levine",
+          "Michael Jordan",
+          "Pieter Abbeel"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": "1506.02438"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1506.02438&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "rldriving-survey",
+      "raw": {
+        "title": "Deep Reinforcement Learning for Autonomous Driving: A Survey",
+        "authors": [
+          "B Ravi Kiran",
+          "Ibrahim Sobh",
+          "Victor Talpaert",
+          "Patrick Mannion",
+          "Ahmad A. Al Sallab",
+          "Senthil Yogamani",
+          "Patrick Pérez"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": "2002.00444"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2002.00444&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "rlfin-survey",
+      "raw": {
+        "title": "Recent Advances in Reinforcement Learning in Finance",
+        "authors": [
+          "Ben Hambly",
+          "Renyuan Xu",
+          "Huining Yang"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": "2112.04553"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2112.04553&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "var-cheb",
+      "raw": {
+        "title": "Multivariate Chebyshev Inequality With Estimated Mean and Variance",
+        "authors": [
+          "Stellato, Bartolomeo",
+          "Van Parys, Bart P. G.",
+          "Goulart, Paul J."
+        ],
+        "year": 2017,
+        "doi": "10.1080/00031305.2016.1186559",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2244831119",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Multivariate Chebyshev Inequality With Estimated Mean and Variance",
+        "year": 2016,
+        "authors": [
+          "Bartolomeo Stellato",
+          "Bart P. G. Van Parys",
+          "Paul J. Goulart"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "trpo",
+      "raw": {
+        "title": "Trust Region Policy Optimization",
+        "authors": [
+          "John Schulman",
+          "Sergey Levine",
+          "Philipp Moritz",
+          "Michael I. Jordan",
+          "Pieter Abbeel"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": "1502.05477"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1502.05477&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "cmdp",
+      "raw": {
+        "title": "Constrained Markov Decision Processes",
+        "authors": [
+          "Erik Altman"
+        ],
+        "year": 1999,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Constrained+Markov+Decision+Processes&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "lagrange-constrained",
+      "raw": {
+        "title": "Reward Constrained Policy Optimization",
+        "authors": [
+          "Chen Tessler",
+          "Daniel J. Mankowitz",
+          "Shie Mannor"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": "1805.11074"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1805.11074&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "cpo",
+      "raw": {
+        "title": "Constrained Policy Optimization",
+        "authors": [
+          "Joshua Achiam",
+          "David Held",
+          "Aviv Tamar",
+          "Pieter Abbeel"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": "1705.10528"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1705.10528&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "lyapunov",
+      "raw": {
+        "title": "A Lyapunov-based Approach to Safe Reinforcement Learning",
+        "authors": [
+          "Chow, Yinlam",
+          "Nachum, Ofir",
+          "Duenez-Guzman, Edgar",
+          "Ghavamzadeh, Mohammad"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "cvar-cpo",
+      "raw": {
+        "title": "CVaR-Constrained Policy Optimization for Safe Reinforcement Learning",
+        "authors": [
+          "Zhang, Qiyuan",
+          "Leng, Shu",
+          "Ma, Xiaoteng",
+          "Liu, Qihan",
+          "Wang, Xueqian",
+          "Liang, Bin",
+          "Liu, Yu",
+          "Yang, Jun"
+        ],
+        "year": 2025,
+        "doi": "10.1109/TNNLS.2023.3331304",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4392114294",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "CVaR-Constrained Policy Optimization for Safe Reinforcement Learning",
+        "year": 2024,
+        "authors": [
+          "Qiyuan Zhang",
+          "Shu Leng",
+          "Xiaoteng Ma",
+          "Qihan Liu",
+          "Xueqian Wang",
+          "Bin Liang",
+          "Yu Liu",
+          "Jun Yang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "distrl",
+      "raw": {
+        "title": "Distributional Reinforcement Learning for Risk-Sensitive Policies",
+        "authors": [
+          "Lim, Shiau Hong",
+          "Malik, Ilyas"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Distributional+Reinforcement+Learning+for+Risk-Sensitive+Policies&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "var-lagrange",
+      "raw": {
+        "title": "Risk-constrained reinforcement learning with percentile risk criteria",
+        "authors": [
+          "Chow, Yinlam",
+          "Ghavamzadeh, Mohammad",
+          "Janson, Lucas",
+          "Pavone, Marco"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Risk-constrained+reinforcement+learning+with+percentile+risk+criteria&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "cvar-ppo",
+      "raw": {
+        "title": "Towards Safe Reinforcement Learning via Constraining Conditional Value-at-Risk",
+        "authors": [
+          "Chengyang Ying",
+          "Xinning Zhou",
+          "Hang Su",
+          "Dong Yan",
+          "Ning Chen",
+          "Jun Zhu"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": "2206.04436"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2206.04436&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ppo",
+      "raw": {
+        "title": "Proximal Policy Optimization Algorithms",
+        "authors": [
+          "John Schulman",
+          "Filip Wolski",
+          "Prafulla Dhariwal",
+          "Alec Radford",
+          "Oleg Klimov"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": "1707.06347"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1707.06347&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "rl-hft",
+      "raw": {
+        "title": "Deep Reinforcement Learning for Active High Frequency Trading",
+        "authors": [
+          "Antonio Briola",
+          "Jeremy Turiel",
+          "Riccardo Marcaccioli",
+          "Alvaro Cauderan",
+          "Tomaso Aste"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": "2101.07107"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2101.07107&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "tagawa",
+      "raw": {
+        "title": "Chebyshev Inequality based Approach to Chance Constrained Portfolio Optimization",
+        "authors": [
+          "Koyoharu Tagawa"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "cvar1",
+      "raw": {
+        "title": "Optimization of conditional value-at risk",
+        "authors": [
+          "R. Tyrrell Rockafellar",
+          "Stanislav Uryasev"
+        ],
+        "year": 2000,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "cvar2",
+      "raw": {
+        "title": "Conditional value-at-risk for general loss distributions",
+        "authors": [
+          "R.Tyrrell Rockafellar",
+          "Stanislav Uryasev"
+        ],
+        "year": 2002,
+        "doi": "https://doi.org/10.1016/S0378-4266(02)00271-6",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3124407081",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Conditional value-at-risk for general loss distributions",
+        "year": 2002,
+        "authors": [
+          "R. T. Rockafellar",
+          "Stan Uryasev"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "gymnasium",
+      "raw": {
+        "title": "Gymnasium: A Standard Interface for Reinforcement Learning Environments",
+        "authors": [
+          "Towers, Mark",
+          "Kwiatkowski, Ariel",
+          "Terry, Jordan",
+          "Balis, John U",
+          "De Cola, Gianluca",
+          "Deleu, Tristan",
+          "Goul{\\~a}o, Manuel",
+          "Kallinteris, Andreas",
+          "Krimmel, Markus",
+          "KG, Arjun",
+          "others"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Gymnasium%3A+A+Standard+Interface+for+Reinforcement+Learning+Environments&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "brax",
+      "raw": {
+        "title": "Brax - A Differentiable Physics Engine for Large Scale Rigid Body Simulation",
+        "authors": [
+          "C. Daniel Freeman",
+          "Erik Frey",
+          "Anton Raichuk",
+          "Sertan Girgin",
+          "Igor Mordatch",
+          "Olivier Bachem"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "safety-gym",
+      "raw": {
+        "title": "Benchmarking Safe Exploration in Deep Reinforcement Learning",
+        "authors": [
+          "Ray, Alex",
+          "Achiam, Joshua",
+          "Amodei, Dario"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Benchmarking+Safe+Exploration+in+Deep+Reinforcement+Learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "jax",
+      "raw": {
+        "title": "JAX: composable transformations of Python+NumPy programs",
+        "authors": [
+          "James Bradbury",
+          "Roy Frostig",
+          "Peter Hawkins",
+          "Matthew James Johnson",
+          "Chris Leary",
+          "Dougal Maclaurin",
+          "George Necula",
+          "Adam Paszke",
+          "Jake Vander{P}las",
+          "Skye Wanderman-{M}ilne",
+          "Qiao Zhang"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "her",
+      "raw": {
+        "title": "Hindsight Experience Replay",
+        "authors": [
+          "Marcin Andrychowicz",
+          "Filip Wolski",
+          "Alex Ray",
+          "Jonas Schneider",
+          "Rachel Fong",
+          "Peter Welinder",
+          "Bob McGrew",
+          "Josh Tobin",
+          "Pieter Abbeel",
+          "Wojciech Zaremba"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": "1707.01495"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1707.01495&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    }
+  ]
+}

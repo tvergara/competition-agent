@@ -1,0 +1,5514 @@
+{
+  "paper_id": "bad2157b-e984-4a4f-88e3-95a1596264c4",
+  "total": 137,
+  "verified": 106,
+  "mismatch": 8,
+  "missing": 12,
+  "ambiguous": 4,
+  "error": 0,
+  "skipped": 7,
+  "s2_consulted": 129,
+  "s2_lifted": 0,
+  "key_style_outliers": [
+    "langley00",
+    "mitchell80",
+    "kearns89",
+    "DudaHart2nd",
+    "Newell81",
+    "Samuel59",
+    "openai_o1",
+    "deepseekr1",
+    "math500hendrycks2021measuringmathematicalproblemsolving",
+    "kimik2",
+    "openai_o3"
+  ],
+  "entries": [
+    {
+      "key": "langley00",
+      "raw": {
+        "title": "Crafting Papers on Machine Learning",
+        "authors": [
+          "P. Langley"
+        ],
+        "year": 2000,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/3efcb97c1de1c87832a7a1d99e91801992a938ec",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Crafting Papers on Machine Learning",
+        "year": 2000,
+        "authors": [
+          "P. Langley"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "mitchell80",
+      "raw": {
+        "title": "The Need for Biases in Learning Generalizations",
+        "authors": [
+          "T. M. Mitchell"
+        ],
+        "year": 1980,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "metadata_mismatch",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/6cf35ec34efa592f83e3a1b748aea14957fc784a",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "The Need for Biases in Learning Generalizations",
+        "year": 2007,
+        "authors": [
+          "Tom Michael Mitchell"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [
+        "year"
+      ],
+      "error": null
+    },
+    {
+      "key": "kearns89",
+      "raw": {
+        "title": "Computational Complexity of Machine Learning",
+        "authors": [
+          "M. J. Kearns"
+        ],
+        "year": 1989,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/a54657b8de38a18f30fd154d713f9522f705166c",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Computational complexity of machine learning",
+        "year": 1990,
+        "authors": [
+          "M. Kearns"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "MachineLearningI",
+      "raw": {
+        "title": "Machine Learning: An Artificial Intelligence Approach, Vol. I",
+        "authors": [],
+        "year": 1983,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "metadata_mismatch",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/b6df5c2ac2f91d71b1d08d76135e2a470ac1ad1e",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "MACHINE LEARNING An Artificial Intelligence Approach",
+        "year": 2009,
+        "authors": [
+          "R. Michalski",
+          "Tom M Mitchell",
+          "Jack Mostow",
+          "Bernard Nudel",
+          "Michael Rychener",
+          "R. Quinlan",
+          "H. Simon",
+          "D. Sleeman",
+          "Robert Stepp",
+          "P. Utgoff"
+        ]
+      },
+      "title_similarity": 0.9203539823008849,
+      "mismatches": [
+        "year",
+        "authors"
+      ],
+      "error": null
+    },
+    {
+      "key": "DudaHart2nd",
+      "raw": {
+        "title": "Pattern Classification",
+        "authors": [
+          "R. O. Duda",
+          "P. E. Hart",
+          "D. G. Stork"
+        ],
+        "year": 2000,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "ambiguous",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/b07ce649d6f6eb636872527104b0209d3edc8188",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Pattern classification and scene analysis",
+        "year": 1974,
+        "authors": [
+          "R. Duda",
+          "P. Hart"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "anonymous",
+      "raw": {
+        "title": "Suppressed for Anonymity",
+        "authors": [
+          "Author, N. N."
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "not_found",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Newell81",
+      "raw": {
+        "title": "Mechanisms of Skill Acquisition and the Law of Practice",
+        "authors": [
+          "A. Newell",
+          "P. S. Rosenbloom"
+        ],
+        "year": 1981,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "metadata_mismatch",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/8f410281861aae69abb29bda90497c86ca929823",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Mechanisms of Skill Acquisition and the Law of Practice",
+        "year": 1993,
+        "authors": [
+          "A. Newell"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [
+        "year"
+      ],
+      "error": null
+    },
+    {
+      "key": "Samuel59",
+      "raw": {
+        "title": "Some Studies in Machine Learning Using the Game of Checkers",
+        "authors": [
+          "A. L. Samuel"
+        ],
+        "year": 1959,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "ambiguous",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/e9e6bb5f2a04ae30d8ecc9287f8b702eedd7b772",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Some Studies in Machine Learning Using the Game of Checkers",
+        "year": 1995,
+        "authors": [
+          "A. Samuel"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "lin2025controlling",
+      "raw": {
+        "title": "Controlling thinking speed in reasoning models",
+        "authors": [
+          "Lin, Zhengkai",
+          "Fu, Zhihang",
+          "Chen, Ze",
+          "Chen, Chao",
+          "Xie, Liang",
+          "Wang, Wenxiao",
+          "Cai, Deng",
+          "Wang, Zheng",
+          "Ye, Jieping"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/b20b78c0ee66a6ed27f1e0038b66db9639d25e69",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Controlling Thinking Speed in Reasoning Models",
+        "year": 2025,
+        "authors": [
+          "Zhengkai Lin",
+          "Zhihang Fu",
+          "Ze Chen",
+          "Chao Chen",
+          "Liang Xie",
+          "Wenxiao Wang",
+          "Deng Cai",
+          "Zheng Wang",
+          "Jieping Ye"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "chen2025seal",
+      "raw": {
+        "title": "Seal: Steerable reasoning calibration of large language models for free",
+        "authors": [
+          "Chen, Runjin",
+          "Zhang, Zhenyu",
+          "Hong, Junyuan",
+          "Kundu, Souvik",
+          "Wang, Zhangyang"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/b5e43268320b197c1530daefe6cdfdf8b07d3857",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "SEAL: Steerable Reasoning Calibration of Large Language Models for Free",
+        "year": 2025,
+        "authors": [
+          "Runjin Chen",
+          "Zhenyu (Allen) Zhang",
+          "Junyuan Hong",
+          "Souvik Kundu",
+          "Zhangyang Wang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "meister2020best",
+      "raw": {
+        "title": "Best-first beam search",
+        "authors": [
+          "Meister, Clara",
+          "Vieira, Tim",
+          "Cotterell, Ryan"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/a6e6197fcbb5bbe7d332904f2624e7bf1687c024",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Best-First Beam Search",
+        "year": 2020,
+        "authors": [
+          "Clara Meister",
+          "Ryan Cotterell",
+          "Tim Vieira"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "stahlberg2019nmt",
+      "raw": {
+        "title": "On NMT Search Errors and Model Errors: Cat Got Your Tongue?",
+        "authors": [
+          "Stahlberg, Felix",
+          "Byrne, Bill"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/d3231772937a2182b2377d028417245c49868dd1",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "On NMT Search Errors and Model Errors: Cat Got Your Tongue?",
+        "year": 2019,
+        "authors": [
+          "Felix Stahlberg",
+          "B. Byrne"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "graves2012sequence",
+      "raw": {
+        "title": "Sequence transduction with recurrent neural networks",
+        "authors": [
+          "Graves, Alex"
+        ],
+        "year": 2012,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/7b4f3d0e4e2486a8d5d3f8e00549cf9a117bf88f",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Sequence Transduction with Recurrent Neural Networks",
+        "year": 2012,
+        "authors": [
+          "Alex Graves"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "wei2022chain",
+      "raw": {
+        "title": "Chain-of-thought prompting elicits reasoning in large language models",
+        "authors": [
+          "Wei, Jason",
+          "Wang, Xuezhi",
+          "Schuurmans, Dale",
+          "Bosma, Maarten",
+          "Xia, Fei",
+          "Chi, Ed",
+          "Le, Quoc V",
+          "Zhou, Denny",
+          "others"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/1b6e810ce0afd0dd093f789d2b2742d047e316d5",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Chain of Thought Prompting Elicits Reasoning in Large Language Models",
+        "year": 2022,
+        "authors": [
+          "Jason Wei",
+          "Xuezhi Wang",
+          "Dale Schuurmans",
+          "Maarten Bosma",
+          "Ed H. Chi",
+          "F. Xia",
+          "Quoc Le",
+          "Denny Zhou"
+        ]
+      },
+      "title_similarity": 0.9710144927536232,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "shao2024deepseekmath",
+      "raw": {
+        "title": "Deepseekmath: Pushing the limits of mathematical reasoning in open language models",
+        "authors": [
+          "Shao, Zhihong",
+          "Wang, Peiyi",
+          "Zhu, Qihao",
+          "Xu, Runxin",
+          "Song, Junxiao",
+          "Bi, Xiao",
+          "Zhang, Haowei",
+          "Zhang, Mingchuan",
+          "Li, YK",
+          "Wu, Yang",
+          "others"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/35b142ea69598e6241f0011312128031df55895c",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "year": 2024,
+        "authors": [
+          "Zhihong Shao",
+          "Peiyi Wang",
+          "Qihao Zhu",
+          "R. Xu",
+          "Jun-Mei Song",
+          "Mingchuan Zhang",
+          "Y. K. Li",
+          "Yu Wu",
+          "Daya Guo"
+        ]
+      },
+      "title_similarity": 0.9397590361445783,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "li2023remax",
+      "raw": {
+        "title": "Remax: A simple, effective, and efficient reinforcement learning method for aligning large language models",
+        "authors": [
+          "Li, Ziniu",
+          "Xu, Tian",
+          "Zhang, Yushun",
+          "Lin, Zhihang",
+          "Yu, Yang",
+          "Sun, Ruoyu",
+          "Luo, Zhi-Quan"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/d3f8d5a9c48ee9f338f25f1be5f3adc7fd5dd855",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "ReMax: A Simple, Effective, and Efficient Reinforcement Learning Method for Aligning Large Language Models",
+        "year": 2023,
+        "authors": [
+          "Ziniu Li",
+          "Tian Xu",
+          "Yushun Zhang",
+          "Yang Yu",
+          "Ruoyu Sun",
+          "Zhimin Luo"
+        ]
+      },
+      "title_similarity": 0.9765258215962441,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "ahmadian2024back",
+      "raw": {
+        "title": "Back to basics: Revisiting reinforce style optimization for learning from human feedback in llms",
+        "authors": [
+          "Ahmadian, Arash",
+          "Cremer, Chris",
+          "Gall{\\'e}, Matthias",
+          "Fadaee, Marzieh",
+          "Kreutzer, Julia",
+          "Pietquin, Olivier",
+          "{\\\"U}st{\\\"u}n, Ahmet",
+          "Hooker, Sara"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "not_found",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "dai2025s",
+      "raw": {
+        "title": "S-GRPO: Early Exit via Reinforcement Learning in Reasoning Models",
+        "authors": [
+          "Dai, Muzhi",
+          "Yang, Chenxu",
+          "Si, Qingyi"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/fc8e61f57d00f4232bcff211d9fd571ec052d044",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "S-GRPO: Early Exit via Reinforcement Learning in Reasoning Models",
+        "year": 2025,
+        "authors": [
+          "Muzhi Dai",
+          "Chenxu Yang",
+          "Qingyi Si"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "xia2025tokenskip",
+      "raw": {
+        "title": "Tokenskip: Controllable chain-of-thought compression in llms",
+        "authors": [
+          "Xia, Heming",
+          "Leong, Chak Tou",
+          "Wang, Wenjie",
+          "Li, Yongqi",
+          "Li, Wenjie"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/79be1c87f3b9e047e10912c5a707c87a69c5dc05",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "TokenSkip: Controllable Chain-of-Thought Compression in LLMs",
+        "year": 2025,
+        "authors": [
+          "Heming Xia",
+          "Yongqi Li",
+          "Chak Tou Leong",
+          "Wenjie Wang",
+          "Wenjie Li"
+        ]
+      },
+      "title_similarity": 0.9090909090909091,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "chen2025aware",
+      "raw": {
+        "title": "Aware First, Think Less: Dynamic Boundary Self-Awareness Drives Extreme Reasoning Efficiency in Large Language Models",
+        "authors": [
+          "Chen, Qiguang",
+          "Peng, Dengyun",
+          "Liu, Jinhao",
+          "Su, HuiKang",
+          "Guan, Jiannan",
+          "Qin, Libo",
+          "Che, Wanxiang"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/2e138f801a2f27b59f0c05e15e7c9a7a3ee94039",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Aware First, Think Less: Dynamic Boundary Self-Awareness Drives Extreme Reasoning Efficiency in Large Language Models",
+        "year": 2025,
+        "authors": [
+          "Qiguang Chen",
+          "Dengyun Peng",
+          "Jinhao Liu",
+          "Huikang Su",
+          "Jiannan Guan",
+          "Libo Qin",
+          "Wanxiang Che"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "luo2025o1",
+      "raw": {
+        "title": "O1-pruner: Length-harmonizing fine-tuning for o1-like reasoning pruning",
+        "authors": [
+          "Luo, Haotian",
+          "Shen, Li",
+          "He, Haiying",
+          "Wang, Yibo",
+          "Liu, Shiwei",
+          "Li, Wei",
+          "Tan, Naiqiang",
+          "Cao, Xiaochun",
+          "Tao, Dacheng"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/09cedd18546c334891df025aa3a4e21658affa23",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "O1-Pruner: Length-Harmonizing Fine-Tuning for O1-Like Reasoning Pruning",
+        "year": 2025,
+        "authors": [
+          "Haotian Luo",
+          "Li Shen",
+          "Haiying He",
+          "Yibo Wang",
+          "Shiwei Liu",
+          "Wei Li",
+          "Naiqiang Tan",
+          "Xiaochun Cao",
+          "Dacheng Tao"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "dai2025stable",
+      "raw": {
+        "title": "Stable Reinforcement Learning for Efficient Reasoning",
+        "authors": [
+          "Dai, Muzhi",
+          "Liu, Shixuan",
+          "Si, Qingyi"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/7f3aca76c17394e6fcf7f88186434255ae04f69a",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Stable Reinforcement Learning for Efficient Reasoning",
+        "year": 2025,
+        "authors": [
+          "Muzhi Dai",
+          "Shixuan Liu",
+          "Qingyi Si"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "shen2025dast",
+      "raw": {
+        "title": "Dast: Difficulty-adaptive slow-thinking for large reasoning models",
+        "authors": [
+          "Shen, Yi",
+          "Zhang, Jian",
+          "Huang, Jieyun",
+          "Shi, Shuming",
+          "Zhang, Wenjing",
+          "Yan, Jiangze",
+          "Wang, Ning",
+          "Wang, Kai",
+          "Liu, Zhaoxiang",
+          "Lian, Shiguo"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/488fe2687a3c737510308f3a37c1ade57dc86938",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "DAST: Difficulty-Adaptive Slow-Thinking for Large Reasoning Models",
+        "year": 2025,
+        "authors": [
+          "Yi Shen",
+          "Jian Zhang",
+          "Jie-fu Huang",
+          "Shuming Shi",
+          "Wenjing Zhang",
+          "Jiangze Yan",
+          "Ning Wang",
+          "Kai Wang",
+          "Shiguo Lian"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "ganesan2018rouge",
+      "raw": {
+        "title": "Rouge 2.0: Updated and improved measures for evaluation of summarization tasks",
+        "authors": [
+          "Ganesan, Kavita"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "metadata_mismatch",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/30feade758d15844a5746fd0de7983d5a0e4af02",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "ROUGE 2.0: Updated and Improved Measures for Evaluation of Summarization Tasks",
+        "year": 2015,
+        "authors": [
+          "Kavita A. Ganesan"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [
+        "year"
+      ],
+      "error": null
+    },
+    {
+      "key": "yue2025does",
+      "raw": {
+        "title": "Does reinforcement learning really incentivize reasoning capacity in llms beyond the base model?",
+        "authors": [
+          "Yue, Yang",
+          "Chen, Zhiqi",
+          "Lu, Rui",
+          "Zhao, Andrew",
+          "Wang, Zhaokai",
+          "Song, Shiji",
+          "Huang, Gao"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/143e18bfd7c356592e7c1439738a3525d3e16279",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?",
+        "year": 2025,
+        "authors": [
+          "Yang Yue",
+          "Zhiqin Chen",
+          "Rui Lu",
+          "Andrew Zhao",
+          "Zhaokai Wang",
+          "Shiji Song",
+          "Gao Huang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "liu2025thought",
+      "raw": {
+        "title": "Thought manipulation: External thought can be efficient for large reasoning models",
+        "authors": [
+          "Liu, Yule",
+          "Zheng, Jingyi",
+          "Sun, Zhen",
+          "Peng, Zifan",
+          "Dong, Wenhan",
+          "Sha, Zeyang",
+          "Cui, Shiwen",
+          "Wang, Weiqiang",
+          "He, Xinlei"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/92e24d0a8ce13f27f58b75b054ab346434529f7f",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Thought Manipulation: External Thought Can Be Efficient for Large Reasoning Models",
+        "year": 2025,
+        "authors": [
+          "Yule Liu",
+          "Jingyi Zheng",
+          "Zhen Sun",
+          "Zifan Peng",
+          "Wenhan Dong",
+          "Zeyang Sha",
+          "Shiwen Cui",
+          "Weiqiang Wang",
+          "Xinlei He"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "deepseekai2025deepseekr1incentivizingreasoningcapability",
+      "raw": {
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+        "authors": [
+          "DeepSeek-AI"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2501.12948"
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/2eed1fad9bbf887d4395de40f20144c4fafefd7f",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "DeepSeek-R1 incentivizes reasoning in LLMs through reinforcement learning",
+        "year": 2025,
+        "authors": [
+          "DeepSeek-AI",
+          "Daya Guo",
+          "Dejian Yang",
+          "Haowei Zhang",
+          "Jun-Mei Song",
+          "Ruoyu Zhang",
+          "R. Xu",
+          "Qihao Zhu",
+          "Shirong Ma",
+          "Peiyi Wang",
+          "Xiaoling Bi",
+          "Xiaokang Zhang",
+          "Xingkai Yu",
+          "Yu Wu",
+          "Z. F. Wu",
+          "Zhibin Gou",
+          "Zhihong Shao",
+          "Zhuoshu Li",
+          "Ziyi Gao",
+          "A. Liu",
+          "Bing Xue",
+          "Bing-Li Wang",
+          "Bochao Wu",
+          "B. Feng",
+          "Chengda Lu",
+          "Chenggang Zhao",
+          "C. Deng",
+          "Chenyu Zhang",
+          "C. Ruan",
+          "Damai Dai",
+          "Deli Chen",
+          "Dong-Li Ji",
+          "Erhang Li",
+          "Fangyun Lin",
+          "Fucong Dai",
+          "Fuli Luo",
+          "Guangbo Hao",
+          "Guanting Chen",
+          "Guowei Li",
+          "H. Zhang",
+          "Han Bao",
+          "Hanwei Xu",
+          "Haocheng Wang",
+          "Honghui Ding",
+          "Huajian Xin",
+          "Huazuo Gao",
+          "Hui Qu",
+          "Hui Li",
+          "Jianzhong Guo",
+          "Jiashi Li",
+          "Jiawei Wang",
+          "JingChang Chen",
+          "Jingyang Yuan",
+          "Junjie Qiu",
+          "Junlong Li",
+          "J. Cai",
+          "J. Ni",
+          "Jian Liang",
+          "Jin Chen",
+          "Kai Dong",
+          "Kai Hu",
+          "Kaige Gao",
+          "Kang Guan",
+          "Kexin Huang",
+          "K. Yu",
+          "Lean Wang",
+          "Lecong Zhang",
+          "Liang Zhao",
+          "Litong Wang",
+          "Liyue Zhang",
+          "Lei Xu",
+          "Leyi Xia",
+          "Mingchuan Zhang",
+          "Minghua Zhang",
+          "M. Tang",
+          "Meng Li",
+          "Miaojun Wang",
+          "Mingming Li",
+          "Ning Tian",
+          "Panpan Huang",
+          "Peng Zhang",
+          "Qiancheng Wang",
+          "Qinyu Chen",
+          "Qiushi Du",
+          "Ruiqi Ge",
+          "Ruisong Zhang",
+          "Ruizhe Pan",
+          "Runji Wang",
+          "R. J. Chen",
+          "R. Jin",
+          "Ruyi Chen",
+          "Shanghao Lu",
+          "Shangyan Zhou",
+          "Shanhuang Chen",
+          "Shengfeng Ye",
+          "Shiyu Wang",
+          "Shuiping Yu",
+          "Shunfeng Zhou",
+          "Shuting Pan",
+          "S. Li",
+          "Shuang Zhou",
+          "Shao-Kang Wu",
+          "Tao Yun",
+          "Tian Pei",
+          "T. Sun",
+          "T. Wang",
+          "Wangding Zeng",
+          "Wanjia Zhao",
+          "Wen Liu",
+          "W. Liang",
+          "Wenjun Gao",
+          "Wen-Xia Yu",
+          "Wentao Zhang",
+          "W. Xiao",
+          "Wei An",
+          "Xiaodong Liu",
+          "Xiaohan Wang",
+          "Xiaokang Chen",
+          "X. Nie",
+          "Xin Cheng",
+          "Xin Liu",
+          "Xin Xie",
+          "Xingchao Liu",
+          "Xinyu Yang",
+          "Xinyuan Li",
+          "Xuecheng Su",
+          "Xuheng Lin",
+          "X. Q. Li",
+          "Xiangyu Jin",
+          "Xi-Cheng Shen",
+          "Xiaosha Chen",
+          "Xiaowen Sun",
+          "Xiaoxiang Wang",
+          "Xinnan Song",
+          "Xinyi Zhou",
+          "Xianzu Wang",
+          "Xinxia Shan",
+          "Y. K. Li",
+          "Y. Q. Wang",
+          "Y. X. Wei",
+          "Yang Zhang",
+          "Yanhong Xu",
+          "Yao Li",
+          "Yao Zhao",
+          "Yaofeng Sun",
+          "Yaohui Wang",
+          "Yi Yu",
+          "Yichao Zhang",
+          "Yifan Shi",
+          "Yi Xiong",
+          "Ying He",
+          "Y. Piao",
+          "Yisong Wang",
+          "Yixuan Tan",
+          "Yiyang Ma",
+          "Yiyuan Liu",
+          "Yongqiang Guo",
+          "Y. Ou",
+          "Yuduan Wang",
+          "Yue Gong",
+          "Yu-Jing Zou",
+          "Yujia He",
+          "Yunfan Xiong",
+          "Yu-Wei Luo",
+          "Yu-mei You",
+          "Yuxuan Liu",
+          "Yuyang Zhou",
+          "Y. X. Zhu",
+          "Yanping Huang",
+          "Yao Li",
+          "Yi Zheng",
+          "Yuchen Zhu",
+          "Yunxiang Ma",
+          "Ying Tang",
+          "Y. Zha",
+          "Yuting Yan",
+          "Z. Ren",
+          "Z. Ren",
+          "Zhangli Sha",
+          "Zhe Fu",
+          "Zhean Xu",
+          "Zhenda Xie",
+          "Zhen-guo Zhang",
+          "Zhewen Hao",
+          "Zhicheng Ma",
+          "Zhigang Yan",
+          "Zhiyu Wu",
+          "Zihui Gu",
+          "Zijia Zhu",
+          "Zijun Liu",
+          "Zi-Long Li",
+          "Ziwei Xie",
+          "Ziyang Song",
+          "Zizheng Pan",
+          "Zhen Huang",
+          "Zhipeng Xu",
+          "Zhongyu Zhang",
+          "Zhen Zhang"
+        ]
+      },
+      "title_similarity": 0.8280254777070064,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "openai_o1",
+      "raw": {
+        "title": "OpenAI o1: Reasoning‑Enhanced Model",
+        "authors": [
+          "{OpenAI}"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "not_found",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "chen2025do",
+      "raw": {
+        "title": "Do NOT Think That Much for 2+3=? On the Overthinking of Long Reasoning Models",
+        "authors": [
+          "Xingyu Chen",
+          "Jiahao Xu",
+          "Tian Liang",
+          "Zhiwei He",
+          "Jianhui Pang",
+          "Dian Yu",
+          "Linfeng Song",
+          "Qiuzhi Liu",
+          "Mengfei Zhou",
+          "Zhuosheng Zhang",
+          "Rui Wang",
+          "Zhaopeng Tu",
+          "Haitao Mi",
+          "Dong Yu"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "wen2025reinforcement",
+      "raw": {
+        "title": "Reinforcement learning with verifiable rewards implicitly incentivizes correct reasoning in base llms",
+        "authors": [
+          "Wen, Xumeng",
+          "Liu, Zihan",
+          "Zheng, Shun",
+          "Ye, Shengyu",
+          "Wu, Zhirong",
+          "Wang, Yang",
+          "Xu, Zhijian",
+          "Liang, Xiao",
+          "Li, Junjie",
+          "Miao, Ziming",
+          "others"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/6aa55900c2bcf1860938520bdf1952f462ed37a1",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Reinforcement Learning with Verifiable Rewards Implicitly Incentivizes Correct Reasoning in Base LLMs",
+        "year": 2025,
+        "authors": [
+          "Xumeng Wen",
+          "Zihan Liu",
+          "Shun Zheng",
+          "Zhijian Xu",
+          "Shengyu Ye",
+          "Zhirong Wu",
+          "Xiao Liang",
+          "Yang Wang",
+          "Junjie Li",
+          "Ziming Miao",
+          "Jiang Bian",
+          "Mao Yang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "balachandran2025inference",
+      "raw": {
+        "title": "Inference-time scaling for complex tasks: Where we stand and what lies ahead",
+        "authors": [
+          "Balachandran, Vidhisha",
+          "Chen, Jingya",
+          "Chen, Lingjiao",
+          "Garg, Shivam",
+          "Joshi, Neel",
+          "Lara, Yash",
+          "Langford, John",
+          "Nushi, Besmira",
+          "Vineet, Vibhav",
+          "Wu, Yue",
+          "others"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/a231a99f0e6bbb63ad538bb6670ecf1fb3100c63",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Inference-Time Scaling for Complex Tasks: Where We Stand and What Lies Ahead",
+        "year": 2025,
+        "authors": [
+          "Vidhisha Balachandran",
+          "Jingya Chen",
+          "Lingjiao Chen",
+          "Shivam Garg",
+          "Neel Joshi",
+          "Yash Lara",
+          "J. Langford",
+          "Besmira Nushi",
+          "Vibhav Vineet",
+          "Yue Wu",
+          "Safoora Yousefi"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "schulman2017proximal",
+      "raw": {
+        "title": "Proximal Policy Optimization Algorithms",
+        "authors": [
+          "Schulman, John",
+          "Wolski, Filip",
+          "Dhariwal, Prafulla",
+          "Radford, Alec",
+          "Klimov, Oleg"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "openai2025o3o4mini",
+      "raw": {
+        "title": "Introducing OpenAI o3 and o4-mini",
+        "authors": [
+          "{OpenAI}"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "not_found",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "deepseekr1",
+      "raw": {
+        "title": "Deepseek-r1: Incentivizing reasoning capability in llms via reinforcement learning",
+        "authors": [
+          "Guo, Daya",
+          "Yang, Dejian",
+          "Zhang, Haowei",
+          "Song, Junxiao",
+          "Zhang, Ruoyu",
+          "Xu, Runxin",
+          "Zhu, Qihao",
+          "Ma, Shirong",
+          "Wang, Peiyi",
+          "Bi, Xiao",
+          "others"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/bf76cb3bd7a54c60138f9523ffb462a486c4807b",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+        "year": 2025,
+        "authors": [
+          "Adam Suma",
+          "Sam Dauncey"
+        ]
+      },
+      "title_similarity": 0.9939393939393939,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "hassid2025don",
+      "raw": {
+        "title": "Don't Overthink it. Preferring Shorter Thinking Chains for Improved LLM Reasoning",
+        "authors": [
+          "Hassid, Michael",
+          "Synnaeve, Gabriel",
+          "Adi, Yossi",
+          "Schwartz, Roy"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/6ef76fb79146538ced57fd127b3e1a073d532dd4",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Don't Overthink it. Preferring Shorter Thinking Chains for Improved LLM Reasoning",
+        "year": 2025,
+        "authors": [
+          "Michael Hassid",
+          "Gabriel Synnaeve",
+          "Yossi Adi",
+          "Roy Schwartz"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "shrivastava2025sample",
+      "raw": {
+        "title": "Sample more to think less: Group filtered policy optimization for concise reasoning",
+        "authors": [
+          "Shrivastava, Vaishnavi",
+          "Awadallah, Ahmed",
+          "Balachandran, Vidhisha",
+          "Garg, Shivam",
+          "Behl, Harkirat",
+          "Papailiopoulos, Dimitris"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/78e03fb22a051c82bfa9e2051cd66245eba0f2dc",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Sample More to Think Less: Group Filtered Policy Optimization for Concise Reasoning",
+        "year": 2025,
+        "authors": [
+          "Vaishnavi Shrivastava",
+          "Ahmed Awadallah",
+          "Vidhisha Balachandran",
+          "Shivam Garg",
+          "Harkirat Singh Behl",
+          "Dimitris Papailiopoulos"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "yue2025promoting",
+      "raw": {
+        "title": "Promoting efficient reasoning with verifiable stepwise reward",
+        "authors": [
+          "Yue, Chuhuai",
+          "Dong, Chengqi",
+          "Gao, Yinan",
+          "He, Hang",
+          "Chai, Jiajun",
+          "Yin, Guojun",
+          "Lin, Wei"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/9d5199546bfe6ec87eb58221e23d41be36b6d85c",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Promoting Efficient Reasoning with Verifiable Stepwise Reward",
+        "year": 2025,
+        "authors": [
+          "Chuhuai Yue",
+          "Chengqi Dong",
+          "Yinan Gao",
+          "Hang He",
+          "Jiajun Chai",
+          "Guojun Yin",
+          "Wei Lin"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "sheng2024hybridflow",
+      "raw": {
+        "title": "HybridFlow: A Flexible and Efficient RLHF Framework",
+        "authors": [
+          "Guangming Sheng",
+          "Chi Zhang",
+          "Zilingfeng Ye",
+          "Xibin Wu",
+          "Wang Zhang",
+          "Ru Zhang",
+          "Yanghua Peng",
+          "Haibin Lin",
+          "Chuan Wu"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/f2d0f3d47ae850f49a58f4977393bd0025af4bec",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "HybridFlow: A Flexible and Efficient RLHF Framework",
+        "year": 2024,
+        "authors": [
+          "Guangming Sheng",
+          "Chi Zhang",
+          "Zilingfeng Ye",
+          "Xibin Wu",
+          "Wang Zhang",
+          "Ru Zhang",
+          "Yanghua Peng",
+          "Haibin Lin",
+          "Chuan Wu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "MAA_AMC",
+      "raw": {
+        "title": "AMC Contests",
+        "authors": [
+          "{Mathematical Association of America}"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "not_found",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "AoPS_AIME",
+      "raw": {
+        "title": "American Invitational Mathematics Examination",
+        "authors": [
+          "{Art of Problem Solving}"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "not_found",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "he-etal-2024-olympiadbench",
+      "raw": {
+        "title": "OlympiadBench: A Challenging Benchmark for Promoting AGI with Olympiad-Level Bilingual Multimodal Scientific Problems",
+        "authors": [
+          "He Chaoqun",
+          "Luo Renjie",
+          "Bai Yuzhuo",
+          "Hu Shengding",
+          "Thai Zhen",
+          "Shen Junhao",
+          "Hu Jinyi",
+          "Han Xu",
+          "Huang Yujie",
+          "Zhang Yuxiang",
+          "Liu Jie",
+          "Qi Lei",
+          "Liu Zhiyuan",
+          "Sun Maosong\""
+        ],
+        "year": 2024,
+        "doi": "10.18653/v1/2024.acl-long.211",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4402671952",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "OlympiadBench: A Challenging Benchmark for Promoting AGI with Olympiad-Level Bilingual Multimodal Scientific Problems",
+        "year": 2024,
+        "authors": [
+          "Chaoqun He",
+          "Renjie Luo",
+          "Yuzhuo Bai",
+          "Shengding Hu",
+          "Zhen Leng Thai",
+          "Junhao Shen",
+          "Jinyi Hu",
+          "Xu Han",
+          "Yujie Huang",
+          "Yuxiang Zhang",
+          "Jie Liu",
+          "Lei Qi",
+          "Zhiyuan Liu",
+          "Maosong Sun"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "lewkowycz2022solving",
+      "raw": {
+        "title": "Solving Quantitative Reasoning Problems with Language Models",
+        "authors": [
+          "Aitor Lewkowycz",
+          "Anders Johan Andreassen",
+          "David Dohan",
+          "Ethan Dyer",
+          "Henryk Michalewski",
+          "Vinay Venkatesh Ramasesh",
+          "Ambrose Slone",
+          "Cem Anil",
+          "Imanol Schlag",
+          "Theo Gutman-Solo",
+          "Yuhuai Wu",
+          "Behnam Neyshabur",
+          "Guy Gur-Ari",
+          "Vedant Misra"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "cobbe2021trainingverifierssolvemathgsm8k",
+      "raw": {
+        "title": "Training Verifiers to Solve Math Word Problems",
+        "authors": [
+          "Karl Cobbe",
+          "Vineet Kosaraju",
+          "Mohammad Bavarian",
+          "Mark Chen",
+          "Heewoo Jun",
+          "Lukasz Kaiser",
+          "Matthias Plappert",
+          "Jerry Tworek",
+          "Jacob Hilton",
+          "Reiichiro Nakano",
+          "Christopher Hesse",
+          "John Schulman"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": "2110.14168"
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/d6045d2ccc9c09ca1671348de86d07da6bc28eea",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Training Verifiers to Solve Math Word Problems",
+        "year": 2021,
+        "authors": [
+          "K. Cobbe",
+          "Vineet Kosaraju",
+          "Mo Bavarian",
+          "Mark Chen",
+          "Heewoo Jun",
+          "Lukasz Kaiser",
+          "Matthias Plappert",
+          "Jerry Tworek",
+          "Jacob Hilton",
+          "Reiichiro Nakano",
+          "Christopher Hesse",
+          "John Schulman"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "aime",
+      "raw": {
+        "title": "AIME Problems and Solutions",
+        "authors": [
+          "\\mbox{MAA Committees}"
+        ],
+        "year": null,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "not_found",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "math500hendrycks2021measuringmathematicalproblemsolving",
+      "raw": {
+        "title": "Measuring Mathematical Problem Solving With the MATH Dataset",
+        "authors": [
+          "Dan Hendrycks",
+          "Collin Burns",
+          "Saurav Kadavath",
+          "Akul Arora",
+          "Steven Basart",
+          "Eric Tang",
+          "Dawn Song",
+          "Jacob Steinhardt"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": "2103.03874"
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/57d1e7ac339e783898f2c3b1af55737cbeee9fc5",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Measuring Mathematical Problem Solving With the MATH Dataset",
+        "year": 2021,
+        "authors": [
+          "Dan Hendrycks",
+          "Collin Burns",
+          "Saurav Kadavath",
+          "Akul Arora",
+          "Steven Basart",
+          "Eric Tang",
+          "D. Song",
+          "J. Steinhardt"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "AMC2023",
+      "raw": {
+        "title": "Amc 2023",
+        "authors": [
+          "AI-MO"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "lightman2023letsverifystepstep",
+      "raw": {
+        "title": "Let's Verify Step by Step",
+        "authors": [
+          "Hunter Lightman",
+          "Vineet Kosaraju",
+          "Yura Burda",
+          "Harri Edwards",
+          "Bowen Baker",
+          "Teddy Lee",
+          "Jan Leike",
+          "John Schulman",
+          "Ilya Sutskever",
+          "Karl Cobbe"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": "2305.20050"
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/be8db99310602d66bba64bcf41a572c45816fbfc",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Let's Verify Step by Step",
+        "year": 2023,
+        "authors": [
+          "H. Lightman",
+          "Vineet Kosaraju",
+          "Yura Burda",
+          "Harrison Edwards",
+          "Bowen Baker",
+          "Teddy Lee",
+          "Jan Leike",
+          "John Schulman",
+          "I. Sutskever",
+          "K. Cobbe"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "yu2025dapo",
+      "raw": {
+        "title": "Dapo: An open-source llm reinforcement learning system at scale",
+        "authors": [
+          "Yu, Qiying",
+          "Zhang, Zheng",
+          "Zhu, Ruofei",
+          "Yuan, Yufeng",
+          "Zuo, Xiaochen",
+          "Yue, Yu",
+          "Dai, Weinan",
+          "Fan, Tiantian",
+          "Liu, Gaohong",
+          "Liu, Lingjun",
+          "others"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/dd4cfde3e135f799a9a71b4f57e13a29de89f7e3",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "year": 2025,
+        "authors": [
+          "Qiying Yu",
+          "Zheng Zhang",
+          "Ruofei Zhu",
+          "Yufeng Yuan",
+          "Xiaochen Zuo",
+          "Yu Yue",
+          "Tiantian Fan",
+          "Gaohong Liu",
+          "Lingjun Liu",
+          "Xin Liu",
+          "Haibin Lin",
+          "Zhiqi Lin",
+          "Bole Ma",
+          "Guangming Sheng",
+          "Yuxuan Tong",
+          "Chi Zhang",
+          "Mofan Zhang",
+          "Wang Zhang",
+          "Hang Zhu",
+          "Jinhua Zhu",
+          "Jiaze Chen",
+          "Jiangjie Chen",
+          "Chengyi Wang",
+          "Honglin Yu",
+          "Weinan Dai",
+          "Yuxuan Song",
+          "Xiang Wei",
+          "Haodong Zhou",
+          "Jingjing Liu",
+          "Wei Ma",
+          "Ya-Qin Zhang",
+          "Lin Yan",
+          "Mu Qiao",
+          "Yong-Xu Wu",
+          "Mingxuan Wang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "hendrycks2021measuring",
+      "raw": {
+        "title": "Measuring mathematical problem solving with the math dataset",
+        "authors": [
+          "Hendrycks, Dan",
+          "Burns, Collin",
+          "Kadavath, Saurav",
+          "Arora, Akul",
+          "Basart, Steven",
+          "Tang, Eric",
+          "Song, Dawn",
+          "Steinhardt, Jacob"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/57d1e7ac339e783898f2c3b1af55737cbeee9fc5",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Measuring Mathematical Problem Solving With the MATH Dataset",
+        "year": 2021,
+        "authors": [
+          "Dan Hendrycks",
+          "Collin Burns",
+          "Saurav Kadavath",
+          "Akul Arora",
+          "Steven Basart",
+          "Eric Tang",
+          "D. Song",
+          "J. Steinhardt"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "zheng2025act",
+      "raw": {
+        "title": "Act Only When It Pays: Efficient Reinforcement Learning for LLM Reasoning via Selective Rollouts",
+        "authors": [
+          "Zheng, Haizhong",
+          "Zhou, Yang",
+          "Bartoldson, Brian R",
+          "Kailkhura, Bhavya",
+          "Lai, Fan",
+          "Zhao, Jiawei",
+          "Chen, Beidi"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/800dc9621a55d4334abe1807b26be9b907332967",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Act Only When It Pays: Efficient Reinforcement Learning for LLM Reasoning via Selective Rollouts",
+        "year": 2025,
+        "authors": [
+          "Haizhong Zheng",
+          "Yang Zhou",
+          "Brian R. Bartoldson",
+          "B. Kailkhura",
+          "Fan Lai",
+          "Jiawei Zhao",
+          "Beidi Chen"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "kimik2",
+      "raw": {
+        "title": "Kimi K2: Open Agentic Intelligence",
+        "authors": [
+          "{Kimi Team}"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "ambiguous",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/0307bd5ec17c146a0cb8f8592f3027196bdb3f44",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Kimi K2: Open Agentic Intelligence",
+        "year": 2025,
+        "authors": [
+          "Kimi Team Yifan Bai",
+          "Yiping Bao",
+          "Guanduo Chen",
+          "Jiahao Chen",
+          "Ningxin Chen",
+          "Ruijue Chen",
+          "Yanru Chen",
+          "Yuankun Chen",
+          "Yutian Chen",
+          "Zhuofu Chen",
+          "Jialei Cui",
+          "Haochen Ding",
+          "Meng-xiao Dong",
+          "Angang Du",
+          "Chenzhuang Du",
+          "Dikang Du",
+          "Yulun Du",
+          "Yu Fan",
+          "Yichen Feng",
+          "Kelin Fu",
+          "Bofei Gao",
+          "Hongcheng Gao",
+          "Peizhong Gao",
+          "Tong Gao",
+          "Xinran Gu",
+          "Longyu Guan",
+          "Haiqing Guo",
+          "Jia-Xing Guo",
+          "Hao-Xing Hu",
+          "Xiaoru Hao",
+          "Tian He",
+          "Weiran He",
+          "Wen He",
+          "Chao Hong",
+          "Yan-Ni Hu",
+          "Zhenxing Hu",
+          "Weixiao Huang",
+          "Zhiqi Huang",
+          "Zihao Huang",
+          "Tao Jiang",
+          "Zhejun Jiang",
+          "Xinyi Jin",
+          "Yongsheng Kang",
+          "Guokun Lai",
+          "Cheng Li",
+          "Fang Li",
+          "Haoyang Li",
+          "Ming Li",
+          "Wentao Li",
+          "Yanhao Li",
+          "Yiwei Li",
+          "Zhaowei Li",
+          "Zheming Li",
+          "Hong-Li Lin",
+          "Xiaohan Lin",
+          "Zongyu Lin",
+          "Chengyi Liu",
+          "Chenyu Liu",
+          "Hongzhang Liu",
+          "Jingyuan Liu",
+          "Junqi Liu",
+          "Liang Liu",
+          "Shaowei Liu",
+          "T. Y. Liu",
+          "Tian-Bo Liu",
+          "Weizhou Liu",
+          "Yangyang Liu",
+          "Yibo Liu",
+          "Yiping Liu",
+          "Yue Liu",
+          "Zhengying Liu",
+          "Enzhe Lu",
+          "Li Lu",
+          "Shen Ma",
+          "Xinyu Ma",
+          "Yi-Xuan Ma",
+          "Shaoguang Mao",
+          "Jie Mei",
+          "Xin Men",
+          "Yibo Miao",
+          "Siyuan Pan",
+          "Yebo Peng",
+          "Ruoyu Qin",
+          "Bowen Qu",
+          "Zeyu Shang",
+          "Li-Na Shi",
+          "Sheng-Rong Shi",
+          "Feifan Song",
+          "Jian-Fei Su",
+          "Zhen-Xin Su",
+          "Xinjie Sun",
+          "Flood Sung",
+          "Heyi Tang",
+          "Ji-Hua Tao",
+          "Qi Teng",
+          "Chensi Wang",
+          "Dinglu Wang",
+          "Feng Wang",
+          "Haiming Wang",
+          "Jianzhou Wang",
+          "Jiaxing Wang",
+          "Jinhong Wang",
+          "Shengjie Wang",
+          "Shuyi Wang",
+          "Yao Wang",
+          "Yejie Wang",
+          "Yiqin Wang",
+          "Yuxin Wang",
+          "Yuzhi Wang",
+          "Zhaoji Wang",
+          "Zhengtao Wang",
+          "Zhexu Wang",
+          "C. Wei",
+          "Qi-Feng Wei",
+          "Wenhao Wu",
+          "Xingzhe Wu",
+          "Yuxin Wu",
+          "Chenjun Xiao",
+          "Xiao-Ming Xie",
+          "Weiming Xiong",
+          "Boyu Xu",
+          "Jing Xu",
+          "Jinjing Xu",
+          "L. Xu",
+          "Lin Xu",
+          "Suting Xu",
+          "Weixin Xu",
+          "Xinran Xu",
+          "Yangchuan Xu",
+          "Zi-Yang Xu",
+          "Junjie Yan",
+          "Yuzi Yan",
+          "Xiaofei Yang",
+          "Ying Yang",
+          "Zhengqi Yang",
+          "Zhilin Yang",
+          "Zonghan Yang",
+          "Haotian Yao",
+          "Xingcheng Yao",
+          "Wen-guang Ye",
+          "Zhuorui Ye",
+          "Bohong Yin",
+          "Long Yu",
+          "Enming Yuan",
+          "Hongbang Yuan",
+          "Mengjie Yuan",
+          "Haobing Zhan",
+          "Dehao Zhang",
+          "Hao Zhang",
+          "Wanlu Zhang",
+          "Xiaobin Zhang",
+          "Yangkun Zhang",
+          "Yizhi Zhang",
+          "Yongting Zhang",
+          "Yu Zhang",
+          "Yutao Zhang",
+          "Yutong Zhang",
+          "Zheng Zhang",
+          "Hao-Dong Zhao",
+          "Yikai Zhao",
+          "Huabin Zheng",
+          "S. Zheng",
+          "Jianren Zhou",
+          "Xinyu Zhou",
+          "Zaida Zhou",
+          "Zhengxin Zhu",
+          "Weiyu Zhuang",
+          "Xinxing Zu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "QWQ",
+      "raw": {
+        "title": "QwQ-32B: Embracing the Power of Reinforcement Learning",
+        "authors": [
+          "{Qwen Team}"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "not_found",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "openai_o3",
+      "raw": {
+        "title": "OpenAI o3: Most Advanced Reasoning Model",
+        "authors": [
+          "{OpenAI}"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "not_found",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "huang2025adacotrethinkingcrosslingualfactual",
+      "raw": {
+        "title": "AdaCoT: Rethinking Cross-Lingual Factual Reasoning through Adaptive Chain-of-Thought",
+        "authors": [
+          "Xin Huang",
+          "Tarun Kumar Vangani",
+          "Zhengyuan Liu",
+          "Bowei Zou",
+          "Ai Ti Aw"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2501.16154"
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/88ea65aceadf68b9ac72cea03354206dfcbc680c",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "AdaMCoT: Rethinking Cross-Lingual Factual Reasoning Through Adaptive Multilingual Chain-of-Thought",
+        "year": 2025,
+        "authors": [
+          "Weihua Zheng",
+          "Xin Huang",
+          "Zhengyuan Liu",
+          "T. K. Vangani",
+          "Bowei Zou",
+          "Xiyan Tao",
+          "Yuhao Wu",
+          "AiTi Aw",
+          "Nancy F. Chen",
+          "Roy Ka-Wei Lee"
+        ]
+      },
+      "title_similarity": 0.9822485207100591,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "xu2025chaindraftthinkingfaster",
+      "raw": {
+        "title": "Chain of Draft: Thinking Faster by Writing Less",
+        "authors": [
+          "Silei Xu",
+          "Wenhao Xie",
+          "Lingxiao Zhao",
+          "Pengcheng He"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2502.18600"
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/56a9aa8825b6c6441b0d22b9bc04852e1af80852",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Chain of Draft: Thinking Faster by Writing Less",
+        "year": 2025,
+        "authors": [
+          "Silei Xu",
+          "Wenhao Xie",
+          "Lingxiao Zhao",
+          "Pengcheng He"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "han2025tokenbudgetawarellmreasoning",
+      "raw": {
+        "title": "Token-Budget-Aware LLM Reasoning",
+        "authors": [
+          "Tingxu Han",
+          "Zhenting Wang",
+          "Chunrong Fang",
+          "Shiyu Zhao",
+          "Shiqing Ma",
+          "Zhenyu Chen"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2412.18547"
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/3bbf541c2a3ce0ffaed3703cd486f0e1b2febb27",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Token-Budget-Aware LLM Reasoning",
+        "year": 2024,
+        "authors": [
+          "Tingxu Han",
+          "Zhenting Wang",
+          "Chunrong Fang",
+          "Shiyun Zhao",
+          "Shiqing Ma",
+          "Zhenyu Chen"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "yang2025dynamicearlyexitreasoning",
+      "raw": {
+        "title": "Dynamic Early Exit in Reasoning Models",
+        "authors": [
+          "Chenxu Yang",
+          "Qingyi Si",
+          "Yongjie Duan",
+          "Zheliang Zhu",
+          "Chenyu Zhu",
+          "Qiaowei Li",
+          "Zheng Lin",
+          "Li Cao",
+          "Weiping Wang"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2504.15895"
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/671e1150885a58282f8051e0b6d3325b2583dafd",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Dynamic Early Exit in Reasoning Models",
+        "year": 2025,
+        "authors": [
+          "Chenxu Yang",
+          "Q. Si",
+          "Yongjie Duan",
+          "Zheliang Zhu",
+          "Chenyu Zhu",
+          "Zheng Lin",
+          "Li Cao",
+          "Weiping Wang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "fan2025cyclicrefleximprovinglargereasoning",
+      "raw": {
+        "title": "CyclicReflex: Improving Large Reasoning Models via Cyclical Reflection Token Scheduling",
+        "authors": [
+          "Chongyu Fan",
+          "Yihua Zhang",
+          "Jinghan Jia",
+          "Alfred Hero",
+          "Sijia Liu"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2506.11077"
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/36829dd0c59edead71bf117df268ea1b246dfdb2",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "CyclicReflex: Improving Reasoning Models via Cyclical Reflection Token Scheduling",
+        "year": 2025,
+        "authors": [
+          "Chongyu Fan",
+          "Yihua Zhang",
+          "Jinghan Jia",
+          "Alfred Hero",
+          "Sijia Liu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "ma2025cotvalvelengthcompressiblechainofthoughttuning",
+      "raw": {
+        "title": "CoT-Valve: Length-Compressible Chain-of-Thought Tuning",
+        "authors": [
+          "Xinyin Ma",
+          "Guangnian Wan",
+          "Runpeng Yu",
+          "Gongfan Fang",
+          "Xinchao Wang"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2502.09601"
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/2039018e618ccc34744addf94c2ab8ad141d7f24",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "CoT-Valve: Length-Compressible Chain-of-Thought Tuning",
+        "year": 2025,
+        "authors": [
+          "Xinyin Ma",
+          "Guangnian Wan",
+          "Runpeng Yu",
+          "Gongfan Fang",
+          "Xinchao Wang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "ye2025limoreasoning",
+      "raw": {
+        "title": "LIMO: Less is More for Reasoning",
+        "authors": [
+          "Yixin Ye",
+          "Zhen Huang",
+          "Yang Xiao",
+          "Ethan Chern",
+          "Shijie Xia",
+          "Pengfei Liu"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2502.03387"
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/b62d0605137463ea591a0619840305cb98f6958f",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "LIMO: Less is More for Reasoning",
+        "year": 2025,
+        "authors": [
+          "Yixin Ye",
+          "Zhen Huang",
+          "Yang Xiao",
+          "Ethan Chern",
+          "Shijie Xia",
+          "Pengfei Liu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "yu2025longshortchainofthoughtmixturesupervised",
+      "raw": {
+        "title": "Long-Short Chain-of-Thought Mixture Supervised Fine-Tuning Eliciting Efficient Reasoning in Large Language Models",
+        "authors": [
+          "Bin Yu",
+          "Hang Yuan",
+          "Haotian Li",
+          "Xueyin Xu",
+          "Yuliang Wei",
+          "Bailing Wang",
+          "Weizhen Qi",
+          "Kai Chen"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2505.03469"
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/68ab59a4e59edc9f94a15535738d5b37b9542dee",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Long-Short Chain-of-Thought Mixture Supervised Fine-Tuning Eliciting Efficient Reasoning in Large Language Models",
+        "year": 2025,
+        "authors": [
+          "Bin Yu",
+          "Hang Yuan",
+          "Haotian Li",
+          "Xueyin Xu",
+          "Yuliang Wei",
+          "Bailing Wang",
+          "Weizhen Qi",
+          "Kai Chen"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "zhang2025lightthinkerthinkingstepbystepcompression",
+      "raw": {
+        "title": "LightThinker: Thinking Step-by-Step Compression",
+        "authors": [
+          "Jintian Zhang",
+          "Yuqi Zhu",
+          "Mengshu Sun",
+          "Yujie Luo",
+          "Shuofei Qiao",
+          "Lun Du",
+          "Da Zheng",
+          "Huajun Chen",
+          "Ningyu Zhang"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2502.15589"
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/f68c15c1411572833bc31015c19384f1c92cecbe",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "LightThinker: Thinking Step-by-Step Compression",
+        "year": 2025,
+        "authors": [
+          "Jintian Zhang",
+          "Yuqi Zhu",
+          "Mengshu Sun",
+          "Yujie Luo",
+          "Shuofei Qiao",
+          "Lun Du",
+          "Da Zheng",
+          "Huajun Chen",
+          "Ningyu Zhang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "luo2025o1prunerlengthharmonizingfinetuningo1like",
+      "raw": {
+        "title": "O1-Pruner: Length-Harmonizing Fine-Tuning for O1-Like Reasoning Pruning",
+        "authors": [
+          "Haotian Luo",
+          "Li Shen",
+          "Haiying He",
+          "Yibo Wang",
+          "Shiwei Liu",
+          "Wei Li",
+          "Naiqiang Tan",
+          "Xiaochun Cao",
+          "Dacheng Tao"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2501.12570"
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/09cedd18546c334891df025aa3a4e21658affa23",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "O1-Pruner: Length-Harmonizing Fine-Tuning for O1-Like Reasoning Pruning",
+        "year": 2025,
+        "authors": [
+          "Haotian Luo",
+          "Li Shen",
+          "Haiying He",
+          "Yibo Wang",
+          "Shiwei Liu",
+          "Wei Li",
+          "Naiqiang Tan",
+          "Xiaochun Cao",
+          "Dacheng Tao"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "kimiteam2025kimik15scalingreinforcement",
+      "raw": {
+        "title": "Kimi k1.5: Scaling Reinforcement Learning with LLMs",
+        "authors": [
+          "{Kimi Team}"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2501.12599"
+      },
+      "status": "metadata_mismatch",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/668075792a7ab40457d92e09da28d35c879271c3",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Kimi k1.5: Scaling Reinforcement Learning with LLMs",
+        "year": 2025,
+        "authors": [
+          "Kimi Team",
+          "Angang Du",
+          "Bofei Gao",
+          "Bowei Xing",
+          "Changjiu Jiang",
+          "Cheng Chen",
+          "Cheng Li",
+          "Chenjun Xiao",
+          "Chenzhuang Du",
+          "Chonghua Liao",
+          "Chuning Tang",
+          "Congcong Wang",
+          "Dehao Zhang",
+          "Enming Yuan",
+          "Enzhe Lu",
+          "Feng Tang",
+          "Flood Sung",
+          "Guangda Wei",
+          "Guokun Lai",
+          "Haiqing Guo",
+          "Han Zhu",
+          "Haochen Ding",
+          "Hao-Xing Hu",
+          "Haoming Yang",
+          "Hao Zhang",
+          "Haotian Yao",
+          "Hao-Dong Zhao",
+          "Haoyu Lu",
+          "Haoze Li",
+          "Hao Yu",
+          "Hongcheng Gao",
+          "Huabin Zheng",
+          "Huan Yuan",
+          "Jia Chen",
+          "Jia-Xing Guo",
+          "Jianling Su",
+          "Jianzhou Wang",
+          "Jie Zhao",
+          "Jin Zhang",
+          "Jingyuan Liu",
+          "Junjie Yan",
+          "Junyan Wu",
+          "Li-Na Shi",
+          "Li-tao Ye",
+          "Long Yu",
+          "Meng-xiao Dong",
+          "Neo Y. Zhang",
+          "Ning Ma",
+          "Qi Pan",
+          "Qucheng Gong",
+          "Shaowei Liu",
+          "Shen Ma",
+          "Shu-Yan Wei",
+          "S. Cao",
+          "Si-Da Huang",
+          "Tao Jiang",
+          "Wei-Wei Gao",
+          "Weiming Xiong",
+          "Weiran He",
+          "Weixiao Huang",
+          "Wenhao Wu",
+          "Wen He",
+          "Xian-sen Wei",
+          "Xian-Xian Jia",
+          "Xingzhe Wu",
+          "Xinran Xu",
+          "Xinxing Zu",
+          "Xinyu Zhou",
+          "Xue-biao Pan",
+          "Y. Charles",
+          "Yang Li",
+          "Yan-Ling Hu",
+          "Yangyang Liu",
+          "Yanru Chen",
+          "Ye-Jia Wang",
+          "Yibo Liu",
+          "Yidao Qin",
+          "Yifeng Liu",
+          "Yingbo Yang",
+          "Yiping Bao",
+          "Yulun Du",
+          "Yuxin Wu",
+          "Yuzhi Wang",
+          "Zaida Zhou",
+          "Zhaoji Wang",
+          "Zhaowei Li",
+          "Zhengxin Zhu",
+          "Zheng Zhang",
+          "Zhexu Wang",
+          "Zhilin Yang",
+          "Zhiqi Huang",
+          "Zihao Huang",
+          "Ziya Xu",
+          "Zonghan Yang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [
+        "authors"
+      ],
+      "error": null
+    },
+    {
+      "key": "shen2025dastdifficultyadaptiveslowthinkinglarge",
+      "raw": {
+        "title": "DAST: Difficulty-Adaptive Slow-Thinking for Large Reasoning Models",
+        "authors": [
+          "Yi Shen",
+          "Jian Zhang",
+          "Jieyun Huang",
+          "Shuming Shi",
+          "Wenjing Zhang",
+          "Jiangze Yan",
+          "Ning Wang",
+          "Kai Wang",
+          "Zhaoxiang Liu",
+          "Shiguo Lian"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2503.04472"
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/488fe2687a3c737510308f3a37c1ade57dc86938",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "DAST: Difficulty-Adaptive Slow-Thinking for Large Reasoning Models",
+        "year": 2025,
+        "authors": [
+          "Yi Shen",
+          "Jian Zhang",
+          "Jie-fu Huang",
+          "Shuming Shi",
+          "Wenjing Zhang",
+          "Jiangze Yan",
+          "Ning Wang",
+          "Kai Wang",
+          "Shiguo Lian"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "yeo2025demystifying",
+      "raw": {
+        "title": "Demystifying Long Chain-of-Thought Reasoning in LLMs",
+        "authors": [
+          "Edward Yeo",
+          "Yuxuan Tong",
+          "Xinyao Niu",
+          "Graham Neubig",
+          "Xiang Yue"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "cheng2025optimizinglengthcompressionlarge",
+      "raw": {
+        "title": "Optimizing Length Compression in Large Reasoning Models",
+        "authors": [
+          "Zhengxiang Cheng",
+          "Dongping Chen",
+          "Mingyang Fu",
+          "Tianyi Zhou"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2506.14755"
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/83ff50c729be0191aa766fe214bec3d852283fec",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Optimizing Length Compression in Large Reasoning Models",
+        "year": 2025,
+        "authors": [
+          "Zhengxiang Cheng",
+          "Dongping Chen",
+          "Mingyang Fu",
+          "Tianyi Zhou"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "arora2025traininglanguagemodelsreason",
+      "raw": {
+        "title": "Training Language Models to Reason Efficiently",
+        "authors": [
+          "{Arora et al.}"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2502.04463"
+      },
+      "status": "metadata_mismatch",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/03fa0740512a47758940415a6b3c1a635d9aca98",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Training Language Models to Reason Efficiently",
+        "year": 2025,
+        "authors": [
+          "Daman Arora",
+          "Andrea Zanette"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [
+        "authors"
+      ],
+      "error": null
+    },
+    {
+      "key": "zhang2025grpoleaddifficultyawarereinforcementlearning",
+      "raw": {
+        "title": "GRPO-LEAD: A Difficulty-Aware Reinforcement Learning Approach for Concise Mathematical Reasoning in Language Models",
+        "authors": [
+          "{Zhang et al.}"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2504.09696"
+      },
+      "status": "metadata_mismatch",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/f1bd6d2f60a348e2c75d35367cad4263e4353633",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "GRPO-LEAD: A Difficulty-Aware Reinforcement Learning Approach for Concise Mathematical Reasoning in Language Models",
+        "year": 2025,
+        "authors": [
+          "Jixiao Zhang",
+          "Chunsheng Zuo"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [
+        "authors"
+      ],
+      "error": null
+    },
+    {
+      "key": "yi2025shorterbetterguidingreasoningmodels",
+      "raw": {
+        "title": "ShorterBetter: Guiding Reasoning Models to Find Optimal Inference Length for Efficient Reasoning",
+        "authors": [
+          "{Yi et al.}"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2504.21370"
+      },
+      "status": "metadata_mismatch",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/5ac754e6d6b0ea662b19e83f445aec8f03569e75",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "ShorterBetter: Guiding Reasoning Models to Find Optimal Inference Length for Efficient Reasoning",
+        "year": 2025,
+        "authors": [
+          "Jingyan Yi",
+          "Jiazheng Wang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [
+        "authors"
+      ],
+      "error": null
+    },
+    {
+      "key": "hou2025thinkprunepruninglongchainofthought",
+      "raw": {
+        "title": "ThinkPrune: Pruning Long Chain-of-Thought of LLMs via Reinforcement Learning",
+        "authors": [
+          "Bairu Hou",
+          "Yang Zhang",
+          "Jiabao Ji",
+          "Yujian Liu",
+          "Kaizhi Qian",
+          "Jacob Andreas",
+          "Shiyu Chang"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2504.01296"
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/9b487024ccc5c575a6d72a597ad65f92cce79a04",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "ThinkPrune: Pruning Long Chain-of-Thought of LLMs via Reinforcement Learning",
+        "year": 2025,
+        "authors": [
+          "Bairu Hou",
+          "Yang Zhang",
+          "Jiabao Ji",
+          "Yujian Liu",
+          "Kaizhi Qian",
+          "Jacob Andreas",
+          "Shiyu Chang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "qi2025optimizinganytimereasoningbudget",
+      "raw": {
+        "title": "Optimizing Anytime Reasoning via Budget Relative Policy Optimization",
+        "authors": [
+          "Penghui Qi",
+          "Zichen Liu",
+          "Tianyu Pang",
+          "Chao Du",
+          "Wee Sun Lee",
+          "Min Lin"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2505.13438"
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/9102b58c727577172e6c0cf53c9b928b752a33aa",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Optimizing Anytime Reasoning via Budget Relative Policy Optimization",
+        "year": 2025,
+        "authors": [
+          "Penghui Qi",
+          "Zi-Yan Liu",
+          "Tianyu Pang",
+          "Chao Du",
+          "Wee Sun Lee",
+          "Min Lin"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "zhang2025adaptthinkreasoningmodelslearn",
+      "raw": {
+        "title": "AdaptThink: Reasoning Models Can Learn When to Think",
+        "authors": [
+          "Jiajie Zhang",
+          "Nianyi Lin",
+          "Lei Hou",
+          "Ling Feng",
+          "Juanzi Li"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2505.13417"
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/0fe4e9d7f771290da5bec757ae77208d320922bb",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "AdaptThink: Reasoning Models Can Learn When to Think",
+        "year": 2025,
+        "authors": [
+          "Jiajie Zhang",
+          "Nianyi Lin",
+          "Lei Hou",
+          "Ling Feng",
+          "Juanzi Li"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "huang2025adactrladaptivecontrollablereasoning",
+      "raw": {
+        "title": "AdaCtrl: Towards Adaptive and Controllable Reasoning via Difficulty-Aware Budgeting",
+        "authors": [
+          "Shijue Huang",
+          "Hongru Wang",
+          "Wanjun Zhong",
+          "Zhaochen Su",
+          "Jiazhan Feng",
+          "Bowen Cao",
+          "Yi R. Fung"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2505.18822"
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/353edce7fb68da762817cdd31880108462580a25",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "AdaCtrl: Towards Adaptive and Controllable Reasoning via Difficulty-Aware Budgeting",
+        "year": 2025,
+        "authors": [
+          "Shijue Huang",
+          "Hongru Wang",
+          "Wanjun Zhong",
+          "Zhao-yu Su",
+          "Jiazhan Feng",
+          "Bowen Cao",
+          "Yi R. Fung"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "wu2025armadaptivereasoningmodel",
+      "raw": {
+        "title": "ARM: Adaptive Reasoning Model",
+        "authors": [
+          "Siye Wu",
+          "Jian Xie",
+          "Yikai Zhang",
+          "Aili Chen",
+          "Kai Zhang",
+          "Yu Su",
+          "Yanghua Xiao"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2505.20258"
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/74dadd23073faf65cb767f1f9467a0fc965ca7b3",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "ARM: Adaptive Reasoning Model",
+        "year": 2025,
+        "authors": [
+          "Siye Wu",
+          "Jian Xie",
+          "Yikai Zhang",
+          "Aili Chen",
+          "Kai Zhang",
+          "Yu Su",
+          "Yanghua Xiao"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "deepscaler2025",
+      "raw": {
+        "title": "DeepScaleR: Surpassing O1-Preview with a 1.5B Model by Scaling RL",
+        "authors": [
+          "Michael Luo",
+          "Sijun Tan",
+          "Justin Wong",
+          "Xiaoxiang Shi",
+          "William Y. Tang",
+          "Manan Roongta",
+          "Colin Cai",
+          "Jeffrey Luo",
+          "Li Erran Li",
+          "Raluca Ada Popa",
+          "Ion Stoica"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "not_found",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "luong2025towards",
+      "raw": {
+        "title": "Towards robust mathematical reasoning",
+        "authors": [
+          "Luong, Minh-Thang",
+          "Hwang, Dawsen",
+          "Nguyen, Hoang H",
+          "Ghiasi, Golnaz",
+          "Chervonyi, Yuri",
+          "Seo, Insuk",
+          "Kim, Junsu",
+          "Bingham, Garrett",
+          "Lee, Jonathan",
+          "Mishra, Swaroop",
+          "others"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/b88b4eeb5d25bf7aecfb4e7242525c077ce9be28",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Towards Robust Mathematical Reasoning",
+        "year": 2025,
+        "authors": [
+          "Thang Luong",
+          "Dawsen Hwang",
+          "Hoang Nguyen",
+          "Golnaz Ghiasi",
+          "Yuri Chervonyi",
+          "Insuk Seo",
+          "Junsu Kim",
+          "G. Bingham",
+          "Jonathan Lee",
+          "Swaroop Mishra",
+          "Alex Zhai",
+          "C. Hu",
+          "H. Michalewski",
+          "Jimin Kim",
+          "J. Ahn",
+          "Junhwi Bae",
+          "Xingyou Song",
+          "Trieu H. Trinh",
+          "Quoc V. Le",
+          "Junehyuk Jung"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "zheng2025group",
+      "raw": {
+        "title": "Group sequence policy optimization",
+        "authors": [
+          "Zheng, Chujie",
+          "Liu, Shixuan",
+          "Li, Mingze",
+          "Chen, Xiong-Hui",
+          "Yu, Bowen",
+          "Gao, Chang",
+          "Dang, Kai",
+          "Liu, Yuqiong",
+          "Men, Rui",
+          "Yang, An",
+          "others"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/a0b04def806f1d5d0126f98334b664cc57a42a0d",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Group Sequence Policy Optimization",
+        "year": 2025,
+        "authors": [
+          "Chujie Zheng",
+          "Shixuan Liu",
+          "Mingze Li",
+          "Xiong-Hui Chen",
+          "Bowen Yu",
+          "Chang Gao",
+          "K. Dang",
+          "Yuqiong Liu",
+          "Rui Men",
+          "An Yang",
+          "Jingren Zhou",
+          "Junyang Lin"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "openai2025learning",
+      "raw": {
+        "title": "Learning to Reason with LLMs",
+        "authors": [
+          "OpenAI"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "ambiguous",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/fb970ce4383a78ad52c641bc38815d78ad737aad",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "ReSearch: Learning to Reason with Search for LLMs via Reinforcement Learning",
+        "year": 2025,
+        "authors": [
+          "Mingyang Chen",
+          "Tianpeng Li",
+          "Haoze Sun",
+          "Yijie Zhou",
+          "Chenzheng Zhu",
+          "Haofen Wang",
+          "Jeff Z. Pan",
+          "Wen Zhang",
+          "Hua-zeng Chen",
+          "Fan Yang",
+          "Zenan Zhou",
+          "Weipeng Chen"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "ouyang2022traininglanguagemodelsfollow",
+      "raw": {
+        "title": "Training language models to follow instructions with human feedback",
+        "authors": [
+          "Long Ouyang",
+          "Jeff Wu",
+          "Xu Jiang",
+          "Diogo Almeida",
+          "Carroll L. Wainwright",
+          "Pamela Mishkin",
+          "Chong Zhang",
+          "Sandhini Agarwal",
+          "Katarina Slama",
+          "Alex Ray",
+          "John Schulman",
+          "Jacob Hilton",
+          "Fraser Kelton",
+          "Luke Miller",
+          "Maddie Simens",
+          "Amanda Askell",
+          "Peter Welinder",
+          "Paul Christiano",
+          "Jan Leike",
+          "Ryan Lowe"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": "2203.02155"
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/d766bffc357127e0dc86dd69561d5aeb520d6f4c",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Training language models to follow instructions with human feedback",
+        "year": 2022,
+        "authors": [
+          "Long Ouyang",
+          "Jeff Wu",
+          "Xu Jiang",
+          "Diogo Almeida",
+          "Carroll L. Wainwright",
+          "Pamela Mishkin",
+          "Chong Zhang",
+          "S. Agarwal",
+          "Katarina Slama",
+          "Alex Ray",
+          "John Schulman",
+          "Jacob Hilton",
+          "Fraser Kelton",
+          "Luke E. Miller",
+          "M. Simens",
+          "Amanda Askell",
+          "Peter Welinder",
+          "P. Christiano",
+          "Jan Leike",
+          "Ryan J. Lowe"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "gao2024designingeffectiverlreward",
+      "raw": {
+        "title": "On Designing Effective RL Reward at Training Time for LLM Reasoning",
+        "authors": [
+          "Jiaxuan Gao",
+          "Shusheng Xu",
+          "Wenjie Ye",
+          "Weilin Liu",
+          "Chuyi He",
+          "Wei Fu",
+          "Zhiyu Mei",
+          "Guangju Wang",
+          "Yi Wu"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2410.15115"
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/043731dd9f2292b7e4788d0b97edee5db170f840",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "On Designing Effective RL Reward at Training Time for LLM Reasoning",
+        "year": 2024,
+        "authors": [
+          "Jiaxuan Gao",
+          "Shusheng Xu",
+          "Wenjie Ye",
+          "Weiling Liu",
+          "Chuyi He",
+          "Wei Fu",
+          "Zhiyu Mei",
+          "Guangju Wang",
+          "Yi Wu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "lambert2025tulu3pushingfrontiers",
+      "raw": {
+        "title": "Tulu 3: Pushing Frontiers in Open Language Model Post-Training",
+        "authors": [
+          "Nathan Lambert",
+          "Jacob Morrison",
+          "Valentina Pyatkin",
+          "Shengyi Huang",
+          "Hamish Ivison",
+          "Faeze Brahman",
+          "Lester James V. Miranda",
+          "Alisa Liu",
+          "Nouha Dziri",
+          "Shane Lyu",
+          "Yuling Gu",
+          "Saumya Malik",
+          "Victoria Graf",
+          "Jena D. Hwang",
+          "Jiangjiang Yang",
+          "Ronan Le Bras",
+          "Oyvind Tafjord",
+          "Chris Wilhelm",
+          "Luca Soldaini",
+          "Noah A. Smith",
+          "Yizhong Wang",
+          "Pradeep Dasigi",
+          "Hannaneh Hajishirzi"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2411.15124"
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/6a7c29829227bfd65ae0ffec294a874bb9ea0871",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "TÜLU 3: Pushing Frontiers in Open Language Model Post-Training",
+        "year": 2024,
+        "authors": [
+          "Nathan Lambert",
+          "Jacob Daniel Morrison",
+          "Valentina Pyatkin",
+          "Shengyi Huang",
+          "Hamish Ivison",
+          "Faeze Brahman",
+          "Lester James Validad Miranda",
+          "Alisa Liu",
+          "Nouha Dziri",
+          "Xinxi Lyu",
+          "Yuling Gu",
+          "Saumya Malik",
+          "Victoria Graf",
+          "Jena D. Hwang",
+          "Jiangjiang Yang",
+          "Ronan Le Bras",
+          "Oyvind Tafjord",
+          "Christopher Wilhelm",
+          "Luca Soldaini",
+          "Noah A. Smith",
+          "Yizhong Wang",
+          "Pradeep Dasigi",
+          "Hanna Hajishirzi"
+        ]
+      },
+      "title_similarity": 0.9838709677419355,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "zeng2025simplerlzooinvestigatingtamingzero",
+      "raw": {
+        "title": "SimpleRL-Zoo: Investigating and Taming Zero Reinforcement Learning for Open Base Models in the Wild",
+        "authors": [
+          "Weihao Zeng",
+          "Yuzhen Huang",
+          "Qian Liu",
+          "Wei Liu",
+          "Keqing He",
+          "Zejun Ma",
+          "Junxian He"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2503.18892"
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/16db56b5a57f2e675e5c4f60ca0fbd5764915a5e",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "SimpleRL-Zoo: Investigating and Taming Zero Reinforcement Learning for Open Base Models in the Wild",
+        "year": 2025,
+        "authors": [
+          "Weihao Zeng",
+          "Yuzhen Huang",
+          "Qian Liu",
+          "Wei Liu",
+          "Keqing He",
+          "Zejun Ma",
+          "Junxian He"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "wen2025lightr1curriculumsftdpo",
+      "raw": {
+        "title": "Light-R1: Curriculum SFT, DPO and RL for Long COT from Scratch and Beyond",
+        "authors": [
+          "Liang Wen",
+          "Yunke Cai",
+          "Fenrui Xiao",
+          "Xin He",
+          "Qi An",
+          "Zhenyu Duan",
+          "Yimin Du",
+          "Junchen Liu",
+          "Lifu Tang",
+          "Xiaowei Lv",
+          "Haosheng Zou",
+          "Yongchao Deng",
+          "Shousheng Jia",
+          "Xiangzheng Zhang"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2503.10460"
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/a005bdec2395cccce42fad43a32aebb3d6284171",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Light-R1: Curriculum SFT, DPO and RL for Long COT from Scratch and Beyond",
+        "year": 2025,
+        "authors": [
+          "Liang Wen",
+          "Yu Cai",
+          "Fenrui Xiao",
+          "Xin He",
+          "Qi An",
+          "Zhenyu Duan",
+          "Yimin Du",
+          "Juncheng Liu",
+          "Li-Juan Tang",
+          "Xiaowei Lv",
+          "Haosheng Zou",
+          "Yongchao Deng",
+          "Shousheng Jia",
+          "Xiangzheng Zhang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "song2025fastcurlcurriculumreinforcementlearning",
+      "raw": {
+        "title": "FastCuRL: Curriculum Reinforcement Learning with Progressive Context Extension for Efficient Training R1-like Reasoning Models",
+        "authors": [
+          "Mingyang Song",
+          "Mao Zheng",
+          "Zheng Li",
+          "Wenjie Yang",
+          "Xuan Luo",
+          "Yue Pan",
+          "Feng Zhang"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2503.17287"
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/b6bce2d2a47e14c59847bc48427c1a667655e29c",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "FastCuRL: Curriculum Reinforcement Learning with Stage-wise Context Scaling for Efficient Training R1-like Reasoning Models",
+        "year": 2025,
+        "authors": [
+          "Mingyang Song",
+          "Mao Zheng",
+          "Zheng Li",
+          "Wenjie Yang",
+          "Xuan Luo"
+        ]
+      },
+      "title_similarity": 0.9177489177489178,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "schulman2017proximalpolicyoptimizationalgorithms",
+      "raw": {
+        "title": "Proximal Policy Optimization Algorithms",
+        "authors": [
+          "John Schulman",
+          "Filip Wolski",
+          "Prafulla Dhariwal",
+          "Alec Radford",
+          "Oleg Klimov"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": "1707.06347"
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/dce6f9d4017b1785979e7520fd0834ef8cf02f4b",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Proximal Policy Optimization Algorithms",
+        "year": 2017,
+        "authors": [
+          "John Schulman",
+          "Filip Wolski",
+          "Prafulla Dhariwal",
+          "Alec Radford",
+          "Oleg Klimov"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "yu2025dapoopensourcellmreinforcement",
+      "raw": {
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "authors": [
+          "Qiying Yu",
+          "Zheng Zhang",
+          "Ruofei Zhu",
+          "Yufeng Yuan",
+          "Xiaochen Zuo",
+          "Yu Yue",
+          "Tiantian Fan",
+          "Gaohong Liu",
+          "Lingjun Liu",
+          "Xin Liu",
+          "Haibin Lin",
+          "Zhiqi Lin",
+          "Bole Ma",
+          "Guangming Sheng",
+          "Yuxuan Tong",
+          "Chi Zhang",
+          "Mofan Zhang",
+          "Wang Zhang",
+          "Hang Zhu",
+          "Jinhua Zhu",
+          "Jiaze Chen",
+          "Jiangjie Chen",
+          "Chengyi Wang",
+          "Hongli Yu",
+          "Weinan Dai",
+          "Yuxuan Song",
+          "Xiangpeng Wei",
+          "Hao Zhou",
+          "Jingjing Liu",
+          "Wei-Ying Ma",
+          "Ya-Qin Zhang",
+          "Lin Yan",
+          "Mu Qiao",
+          "Yonghui Wu",
+          "Mingxuan Wang"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2503.14476"
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/dd4cfde3e135f799a9a71b4f57e13a29de89f7e3",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "year": 2025,
+        "authors": [
+          "Qiying Yu",
+          "Zheng Zhang",
+          "Ruofei Zhu",
+          "Yufeng Yuan",
+          "Xiaochen Zuo",
+          "Yu Yue",
+          "Tiantian Fan",
+          "Gaohong Liu",
+          "Lingjun Liu",
+          "Xin Liu",
+          "Haibin Lin",
+          "Zhiqi Lin",
+          "Bole Ma",
+          "Guangming Sheng",
+          "Yuxuan Tong",
+          "Chi Zhang",
+          "Mofan Zhang",
+          "Wang Zhang",
+          "Hang Zhu",
+          "Jinhua Zhu",
+          "Jiaze Chen",
+          "Jiangjie Chen",
+          "Chengyi Wang",
+          "Honglin Yu",
+          "Weinan Dai",
+          "Yuxuan Song",
+          "Xiang Wei",
+          "Haodong Zhou",
+          "Jingjing Liu",
+          "Wei Ma",
+          "Ya-Qin Zhang",
+          "Lin Yan",
+          "Mu Qiao",
+          "Yong-Xu Wu",
+          "Mingxuan Wang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "liu2025understandingr1zeroliketrainingcritical",
+      "raw": {
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+        "authors": [
+          "Zichen Liu",
+          "Changyu Chen",
+          "Wenjun Li",
+          "Penghui Qi",
+          "Tianyu Pang",
+          "Chao Du",
+          "Wee Sun Lee",
+          "Min Lin"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2503.20783"
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/de23d38bc2604dcf334dcc46aff217eb6bcd1fe1",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+        "year": 2025,
+        "authors": [
+          "Zi-Yan Liu",
+          "Changyu Chen",
+          "Wenjun Li",
+          "Penghui Qi",
+          "Tianyu Pang",
+          "Chao Du",
+          "Wee Sun Lee",
+          "Min Lin"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "zhang2025srpocrossdomainimplementationlargescale",
+      "raw": {
+        "title": "SRPO: A Cross-Domain Implementation of Large-Scale Reinforcement Learning on LLM",
+        "authors": [
+          "Xiaojiang Zhang",
+          "Jinghui Wang",
+          "Zifei Cheng",
+          "Wenhao Zhuang",
+          "Zheng Lin",
+          "Minglei Zhang",
+          "Shaojie Wang",
+          "Yinghan Cui",
+          "Chao Wang",
+          "Junyi Peng",
+          "Shimiao Jiang",
+          "Shiqi Kuang",
+          "Shouyu Yin",
+          "Chaohang Wen",
+          "Haotian Zhang",
+          "Bin Chen",
+          "Bing Yu"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2504.14286"
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/1f45c9d4d92c51a94c984eb4c2c6e027bbf78038",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "SRPO: A Cross-Domain Implementation of Large-Scale Reinforcement Learning on LLM",
+        "year": 2025,
+        "authors": [
+          "Xiaojiang Zhang",
+          "Jinghui Wang",
+          "Zifei Cheng",
+          "Wenhao Zhuang",
+          "Zheng Lin",
+          "Minglei Zhang",
+          "Shaojie Wang",
+          "Yinghan Cui",
+          "Chao Wang",
+          "Junyi Peng",
+          "Shimiao Jiang",
+          "Shiqing Kuang",
+          "Shouyu Yin",
+          "Chao Wen",
+          "Haotian Zhang",
+          "Bin Chen",
+          "Bing Yu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "kazemnejad2024vineppounlockingrlpotential",
+      "raw": {
+        "title": "VinePPO: Unlocking RL Potential For LLM Reasoning Through Refined Credit Assignment",
+        "authors": [
+          "Amirhossein Kazemnejad",
+          "Milad Aghajohari",
+          "Eva Portelance",
+          "Alessandro Sordoni",
+          "Siva Reddy",
+          "Aaron Courville",
+          "Nicolas Le Roux"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2410.01679"
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/ab116ae3e6bc3aedfd1b6ec165e59a8219a5d2f5",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "VinePPO: Refining Credit Assignment in RL Training of LLMs",
+        "year": 2024,
+        "authors": [
+          "Amirhossein Kazemnejad",
+          "Milad Aghajohari",
+          "Eva Portelance",
+          "Alessandro Sordoni",
+          "Siva Reddy",
+          "Aaron Courville",
+          "Nicolas Le Roux"
+        ]
+      },
+      "title_similarity": 0.7132867132867133,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "yuan2025whatspposcollapselongcot",
+      "raw": {
+        "title": "What's Behind PPO's Collapse in Long-CoT? Value Optimization Holds the Secret",
+        "authors": [
+          "Yufeng Yuan",
+          "Yu Yue",
+          "Ruofei Zhu",
+          "Tiantian Fan",
+          "Lin Yan"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2503.01491"
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/5f2f7305a467e01f76b1dbf5867fa34bd90edc19",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "What's Behind PPO's Collapse in Long-CoT? Value Optimization Holds the Secret",
+        "year": 2025,
+        "authors": [
+          "Yufeng Yuan",
+          "Yu Yue",
+          "Ruofei Zhu",
+          "Tiantian Fan",
+          "Lin Yan"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "yue2025vapoefficientreliablereinforcement",
+      "raw": {
+        "title": "VAPO: Efficient and Reliable Reinforcement Learning for Advanced Reasoning Tasks",
+        "authors": [
+          "Yu Yue",
+          "Yufeng Yuan",
+          "Qiying Yu",
+          "Xiaochen Zuo",
+          "Ruofei Zhu",
+          "Wenyuan Xu",
+          "Jiaze Chen",
+          "Chengyi Wang",
+          "TianTian Fan",
+          "Zhengyin Du",
+          "Xiangpeng Wei",
+          "Xiangyu Yu",
+          "Gaohong Liu",
+          "Juncai Liu",
+          "Lingjun Liu",
+          "Haibin Lin",
+          "Zhiqi Lin",
+          "Bole Ma",
+          "Chi Zhang",
+          "Mofan Zhang",
+          "Wang Zhang",
+          "Hang Zhu",
+          "Ru Zhang",
+          "Xin Liu",
+          "Mingxuan Wang",
+          "Yonghui Wu",
+          "Lin Yan"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2504.05118"
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/d85788857fd230169e17638631b96335368043ed",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "VAPO: Efficient and Reliable Reinforcement Learning for Advanced Reasoning Tasks",
+        "year": 2025,
+        "authors": [
+          "Yu Yue",
+          "Yufeng Yuan",
+          "Qiying Yu",
+          "Xiaochen Zuo",
+          "Ruofei Zhu",
+          "Wenyuan Xu",
+          "Jiaze Chen",
+          "Chengyi Wang",
+          "Tiantian Fan",
+          "Zhengyin Du",
+          "Xiang Wei",
+          "Xiangyu Yu",
+          "Gaohong Liu",
+          "Juncai Liu",
+          "Lingjun Liu",
+          "Haibin Lin",
+          "Zhiqi Lin",
+          "Bole Ma",
+          "Chi Zhang",
+          "Mofan Zhang",
+          "Wang Zhang",
+          "Hang Zhu",
+          "Ru Zhang",
+          "Xin Liu",
+          "Mingxuan Wang",
+          "Yong-Xu Wu",
+          "Lin Yan"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "han2024token",
+      "raw": {
+        "title": "Token-budget-aware llm reasoning",
+        "authors": [
+          "Han, Tingxu",
+          "Wang, Zhenting",
+          "Fang, Chunrong",
+          "Zhao, Shiyu",
+          "Ma, Shiqing",
+          "Chen, Zhenyu"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/3bbf541c2a3ce0ffaed3703cd486f0e1b2febb27",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Token-Budget-Aware LLM Reasoning",
+        "year": 2024,
+        "authors": [
+          "Tingxu Han",
+          "Zhenting Wang",
+          "Chunrong Fang",
+          "Shiyun Zhao",
+          "Shiqing Ma",
+          "Zhenyu Chen"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "xu2025chain",
+      "raw": {
+        "title": "Chain of draft: Thinking faster by writing less",
+        "authors": [
+          "Xu, Silei",
+          "Xie, Wenhao",
+          "Zhao, Lingxiao",
+          "He, Pengcheng"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/56a9aa8825b6c6441b0d22b9bc04852e1af80852",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Chain of Draft: Thinking Faster by Writing Less",
+        "year": 2025,
+        "authors": [
+          "Silei Xu",
+          "Wenhao Xie",
+          "Lingxiao Zhao",
+          "Pengcheng He"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "lee2025well",
+      "raw": {
+        "title": "How Well do LLMs Compress Their Own Chain-of-Thought? A Token Complexity Approach",
+        "authors": [
+          "Lee, Ayeong",
+          "Che, Ethan",
+          "Peng, Tianyi"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/d6d561786eb06df93e29bcecfc569a3eeb95af10",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "How Well do LLMs Compress Their Own Chain-of-Thought? A Token Complexity Approach",
+        "year": 2025,
+        "authors": [
+          "Ayeong Lee",
+          "Ethan Che",
+          "Tianyi Peng"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "renze2024benefits",
+      "raw": {
+        "title": "The benefits of a concise chain of thought on problem-solving in large language models",
+        "authors": [
+          "Renze, Matthew",
+          "Guven, Erhan"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/4de6bace974ae5e6b092077950180a86ce48fe6b",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "The Benefits of a Concise Chain of Thought on Problem-Solving in Large Language Models",
+        "year": 2024,
+        "authors": [
+          "Matthew Renze",
+          "Erhan Guven"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "chen2024unlocking",
+      "raw": {
+        "title": "Unlocking the capabilities of thought: A reasoning boundary framework to quantify and optimize chain-of-thought",
+        "authors": [
+          "Chen, Qiguang",
+          "Qin, Libo",
+          "Wang, Jiaqi",
+          "Zhou, Jingxuan",
+          "Che, Wanxiang"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/3cda8bca2e9eb2dfdb2243f9a8584123e2ad4a51",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Unlocking the Capabilities of Thought: A Reasoning Boundary Framework to Quantify and Optimize Chain-of-Thought",
+        "year": 2024,
+        "authors": [
+          "Qiguang Chen",
+          "Libo Qin",
+          "Jiaqi Wang",
+          "J. Zhou",
+          "Wanxiang Che"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "aytes2025sketch",
+      "raw": {
+        "title": "Sketch-of-thought: Efficient llm reasoning with adaptive cognitive-inspired sketching",
+        "authors": [
+          "Aytes, Simon A",
+          "Baek, Jinheon",
+          "Hwang, Sung Ju"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/90f2a86c37db66fcfbd2d2ec8df2ec136caf7df6",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Sketch-of-Thought: Efficient LLM Reasoning with Adaptive Cognitive-Inspired Sketching",
+        "year": 2025,
+        "authors": [
+          "Simon A. Aytes",
+          "Jinheon Baek",
+          "Sung Ju Hwang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "chuang2024learning",
+      "raw": {
+        "title": "Learning to route llms with confidence tokens",
+        "authors": [
+          "Chuang, Yu-Neng",
+          "Zhou, Helen",
+          "Sarma, Prathusha",
+          "Gopalan, Parikshit",
+          "Boccio, John",
+          "Bolouki, Sara",
+          "Hu, Xia"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/62f1620deb9d2d68b3fd13148cecdea53f613414",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Learning to Route LLMs with Confidence Tokens",
+        "year": 2024,
+        "authors": [
+          "Yu-Neng Chuang",
+          "P. Sarma",
+          "Parikshit Gopalan",
+          "John Boccio",
+          "Sara Bolouki",
+          "Xia Hu",
+          "Helen Zhou"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "ong2406routellm",
+      "raw": {
+        "title": "Routellm: Learning to route llms with preference data, 2024",
+        "authors": [
+          "Ong, Isaac",
+          "Almahairi, Amjad",
+          "Wu, Vincent",
+          "Chiang, Wei-Lin",
+          "Wu, Tianhao",
+          "Gonzalez, Joseph E",
+          "Kadous, M Waleed",
+          "Stoica, Ion"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "not_found",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "xie2023self",
+      "raw": {
+        "title": "Self-evaluation guided beam search for reasoning",
+        "authors": [
+          "Xie, Yuxi",
+          "Kawaguchi, Kenji",
+          "Zhao, Yiran",
+          "Zhao, James Xu",
+          "Kan, Min-Yen",
+          "He, Junxian",
+          "Xie, Michael"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/ef018d9fad6167cfddb7d6654c5422df1e953730",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Self-Evaluation Guided Beam Search for Reasoning",
+        "year": 2023,
+        "authors": [
+          "Yuxi Xie",
+          "Kenji Kawaguchi",
+          "Yiran Zhao",
+          "Xu Zhao",
+          "MingSung Kan",
+          "Junxian He",
+          "Qizhe Xie"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "liao2025reward",
+      "raw": {
+        "title": "Reward-Guided Speculative Decoding for Efficient LLM Reasoning",
+        "authors": [
+          "Liao, Baohao",
+          "Xu, Yuhui",
+          "Dong, Hanze",
+          "Li, Junnan",
+          "Monz, Christof",
+          "Savarese, Silvio",
+          "Sahoo, Doyen",
+          "Xiong, Caiming"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/7099d7a8ee2c95ecbe0e32f6b40ffa65857fcdfe",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Reward-Guided Speculative Decoding for Efficient LLM Reasoning",
+        "year": 2025,
+        "authors": [
+          "Baohao Liao",
+          "Yuhui Xu",
+          "Hanze Dong",
+          "Junnan Li",
+          "C. Monz",
+          "Silvio Savarese",
+          "Doyen Sahoo",
+          "Caiming Xiong"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "li2024escape",
+      "raw": {
+        "title": "Escape sky-high cost: Early-stopping self-consistency for multi-step reasoning",
+        "authors": [
+          "Li, Yiwei",
+          "Yuan, Peiwen",
+          "Feng, Shaoxiong",
+          "Pan, Boyuan",
+          "Wang, Xinglin",
+          "Sun, Bin",
+          "Wang, Heda",
+          "Li, Kan"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/36260206be303b3820df8fbba161591da0ca987c",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Escape Sky-high Cost: Early-stopping Self-Consistency for Multi-step Reasoning",
+        "year": 2024,
+        "authors": [
+          "Yiwei Li",
+          "Peiwen Yuan",
+          "Shaoxiong Feng",
+          "Boyuan Pan",
+          "Xinglin Wang",
+          "Bin Sun",
+          "Heda Wang",
+          "Kan Li"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "manvi2024adaptive",
+      "raw": {
+        "title": "Adaptive inference-time compute: Llms can predict if they can do better, even mid-generation",
+        "authors": [
+          "Manvi, Rohin",
+          "Singh, Anikait",
+          "Ermon, Stefano"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/62d4fcfb2f6717d4eb562f4e51f37004fc5d7109",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Adaptive Inference-Time Compute: LLMs Can Predict if They Can Do Better, Even Mid-Generation",
+        "year": 2024,
+        "authors": [
+          "Rohin Manvi",
+          "Anikait Singh",
+          "Stefano Ermon"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "aggarwal2023let",
+      "raw": {
+        "title": "Let's Sample Step by Step: Adaptive-Consistency for Efficient Reasoning and Coding with LLMs",
+        "authors": [
+          "Aggarwal, Pranjal",
+          "Madaan, Aman",
+          "Yang, Yiming",
+          "others"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/b4a6c010724f0459c9791018e34a982cf96987cf",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Let's Sample Step by Step: Adaptive-Consistency for Efficient Reasoning and Coding with LLMs",
+        "year": 2023,
+        "authors": [
+          "Pranjal Aggarwal",
+          "Aman Madaan",
+          "Yiming Yang",
+          "Mausam"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "ma2025reasoning",
+      "raw": {
+        "title": "Reasoning Models Can Be Effective Without Thinking",
+        "authors": [
+          "Ma, Wenjie",
+          "He, Jingxuan",
+          "Snell, Charlie",
+          "Griggs, Tyler",
+          "Min, Sewon",
+          "Zaharia, Matei"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/ac8d1e4c86266770571df0f412bbe89d8a003c77",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Reasoning Models Can Be Effective Without Thinking",
+        "year": 2025,
+        "authors": [
+          "Wenjie Ma",
+          "Jingxuan He",
+          "Charles Burton Snell",
+          "Tyler Griggs",
+          "Sewon Min",
+          "Matei Zaharia"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "yu2024distilling",
+      "raw": {
+        "title": "Distilling system 2 into system 1",
+        "authors": [
+          "Yu, Ping",
+          "Xu, Jing",
+          "Weston, Jason",
+          "Kulikov, Ilia"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/f15a1a87c345a0b0b2b989064ede053d1411bb03",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Distilling System 2 into System 1",
+        "year": 2024,
+        "authors": [
+          "Ping Yu",
+          "Jing Xu",
+          "J. Weston",
+          "Ilia Kulikov"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "kang2025c3ot",
+      "raw": {
+        "title": "C3ot: Generating shorter chain-of-thought without compromising effectiveness",
+        "authors": [
+          "Kang, Yu",
+          "Sun, Xianghui",
+          "Chen, Liangyu",
+          "Zou, Wei"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/2cd94b619034ae0226f4391e3ff628fe9ce780a1",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "C3oT: Generating Shorter Chain-of-Thought without Compromising Effectiveness",
+        "year": 2024,
+        "authors": [
+          "Yu Kang",
+          "Xianghui Sun",
+          "Liangyu Chen",
+          "Wei Zou"
+        ]
+      },
+      "title_similarity": 0.9934640522875817,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "ma2025cot",
+      "raw": {
+        "title": "CoT-Valve: Length-Compressible Chain-of-Thought Tuning",
+        "authors": [
+          "Ma, Xinyin",
+          "Wan, Guangnian",
+          "Yu, Runpeng",
+          "Fang, Gongfan",
+          "Wang, Xinchao"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/2039018e618ccc34744addf94c2ab8ad141d7f24",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "CoT-Valve: Length-Compressible Chain-of-Thought Tuning",
+        "year": 2025,
+        "authors": [
+          "Xinyin Ma",
+          "Guangnian Wan",
+          "Runpeng Yu",
+          "Gongfan Fang",
+          "Xinchao Wang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "munkhbat2025self",
+      "raw": {
+        "title": "Self-training elicits concise reasoning in large language models",
+        "authors": [
+          "Munkhbat, Tergel",
+          "Ho, Namgyu",
+          "Kim, Seo Hyun",
+          "Yang, Yongjin",
+          "Kim, Yujin",
+          "Yun, Se-Young"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/b38ce6f380d188584712c99b82ced55ecb085fea",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Self-Training Elicits Concise Reasoning in Large Language Models",
+        "year": 2025,
+        "authors": [
+          "Tergel Munkhbat",
+          "Namgyu Ho",
+          "Seohyun Kim",
+          "Yongjin Yang",
+          "Yujin Kim",
+          "Se-young Yun"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "liu2024can",
+      "raw": {
+        "title": "Can language models learn to skip steps?",
+        "authors": [
+          "Liu, Tengxiao",
+          "Guo, Qipeng",
+          "Hu, Xiangkun",
+          "Jiayang, Cheng",
+          "Zhang, Yue",
+          "Qiu, Xipeng",
+          "Zhang, Zheng"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/8b7a1271768f36a972d273fd43b3e7e7f3518391",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Can Language Models Learn to Skip Steps?",
+        "year": 2024,
+        "authors": [
+          "Tengxiao Liu",
+          "Qipeng Guo",
+          "Xiangkun Hu",
+          "Cheng Jiayang",
+          "Yue Zhang",
+          "Xipeng Qiu",
+          "Zheng Zhang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "team2025kimi",
+      "raw": {
+        "title": "Kimi k1. 5: Scaling reinforcement learning with llms",
+        "authors": [
+          "Team, Kimi",
+          "Du, Angang",
+          "Gao, Bofei",
+          "Xing, Bowei",
+          "Jiang, Changjiu",
+          "Chen, Cheng",
+          "Li, Cheng",
+          "Xiao, Chenjun",
+          "Du, Chenzhuang",
+          "Liao, Chonghua",
+          "others"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "not_found",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "aggarwal2025l1",
+      "raw": {
+        "title": "L1: Controlling how long a reasoning model thinks with reinforcement learning",
+        "authors": [
+          "Aggarwal, Pranjal",
+          "Welleck, Sean"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/0681d80cd58b6135534cf279a69f5f999f47ebca",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "L1: Controlling How Long A Reasoning Model Thinks With Reinforcement Learning",
+        "year": 2025,
+        "authors": [
+          "Pranjal Aggarwal",
+          "S. Welleck"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "arora2025training",
+      "raw": {
+        "title": "Training Language Models to Reason Efficiently",
+        "authors": [
+          "Arora, Daman",
+          "Zanette, Andrea"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/03fa0740512a47758940415a6b3c1a635d9aca98",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Training Language Models to Reason Efficiently",
+        "year": 2025,
+        "authors": [
+          "Daman Arora",
+          "Andrea Zanette"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "qu2025optimizing",
+      "raw": {
+        "title": "Optimizing test-time compute via meta reinforcement fine-tuning",
+        "authors": [
+          "Qu, Yuxiao",
+          "Yang, Matthew YR",
+          "Setlur, Amrith",
+          "Tunstall, Lewis",
+          "Beeching, Edward Emanuel",
+          "Salakhutdinov, Ruslan",
+          "Kumar, Aviral"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/eac5e8965f20425cbe6e9ef689792cccc1ccbcbd",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Optimizing Test-Time Compute via Meta Reinforcement Fine-Tuning",
+        "year": 2025,
+        "authors": [
+          "Yuxiao Qu",
+          "Matthew Y. R. Yang",
+          "Amrith Rajagopal Setlur",
+          "Lewis Tunstall",
+          "E. Beeching",
+          "Ruslan Salakhutdinov",
+          "Aviral Kumar"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "cui2025stepwise",
+      "raw": {
+        "title": "Stepwise perplexity-guided refinement for efficient chain-of-thought reasoning in large language models",
+        "authors": [
+          "Cui, Yingqian",
+          "He, Pengfei",
+          "Zeng, Jingying",
+          "Liu, Hui",
+          "Tang, Xianfeng",
+          "Dai, Zhenwei",
+          "Han, Yan",
+          "Luo, Chen",
+          "Huang, Jing",
+          "Li, Zhen",
+          "others"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/29b6ea9e38b41fb2bb6838609a8c43b1632ea273",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Stepwise Perplexity-Guided Refinement for Efficient Chain-of-Thought Reasoning in Large Language Models",
+        "year": 2025,
+        "authors": [
+          "Yingqian Cui",
+          "Pengfei He",
+          "Jingying Zeng",
+          "Hui Liu",
+          "Xianfeng Tang",
+          "Zhenwei Dai",
+          "Yan Han",
+          "Chen Luo",
+          "Jing Huang",
+          "Zhen Li",
+          "Suhang Wang",
+          "Yue Xing",
+          "Jiliang Tang",
+          "Qi He"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "qiao2025conciseconfidenceguidedcompressionstepbystep",
+      "raw": {
+        "title": "ConCISE: Confidence-guided Compression in Step-by-step Efficient Reasoning",
+        "authors": [
+          "Ziqing Qiao",
+          "Yongheng Deng",
+          "Jiali Zeng",
+          "Dong Wang",
+          "Lai Wei",
+          "Fandong Meng",
+          "Jie Zhou",
+          "Ju Ren",
+          "Yaoxue Zhang"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2505.04881"
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/3ce1c4a05f06c18f7c3598c061cb6980253b17ba",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "ConCISE: Confidence-guided Compression in Step-by-step Efficient Reasoning",
+        "year": 2025,
+        "authors": [
+          "Ziqing Qiao",
+          "Yongheng Deng",
+          "Jiali Zeng",
+          "Dong Wang",
+          "Lai Wei",
+          "Fandong Meng",
+          "Jie Zhou",
+          "Ju Ren",
+          "Yaoxue Zhang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "rafailov2024directpreferenceoptimizationlanguage",
+      "raw": {
+        "title": "Direct Preference Optimization: Your Language Model is Secretly a Reward Model",
+        "authors": [
+          "Rafael Rafailov",
+          "Archit Sharma",
+          "Eric Mitchell",
+          "Stefano Ermon",
+          "Christopher D. Manning",
+          "Chelsea Finn"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2305.18290"
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/0d1c76d45afa012ded7ab741194baf142117c495",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Direct Preference Optimization: Your Language Model is Secretly a Reward Model",
+        "year": 2023,
+        "authors": [
+          "Rafael Rafailov",
+          "Archit Sharma",
+          "E. Mitchell",
+          "Stefano Ermon",
+          "Christopher D. Manning",
+          "Chelsea Finn"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "meng2024simposimplepreferenceoptimization",
+      "raw": {
+        "title": "SimPO: Simple Preference Optimization with a Reference-Free Reward",
+        "authors": [
+          "Yu Meng",
+          "Mengzhou Xia",
+          "Danqi Chen"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2405.14734"
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/c3f1fae241a3c2449e675ab750873d800f95513c",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "SimPO: Simple Preference Optimization with a Reference-Free Reward",
+        "year": 2024,
+        "authors": [
+          "Yu Meng",
+          "Mengzhou Xia",
+          "Danqi Chen"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "huang2025adaptive",
+      "raw": {
+        "title": "Adaptive Sample Scheduling for Direct Preference Optimization",
+        "authors": [
+          "Huang, Zixuan",
+          "Ban, Yikun",
+          "Fu, Lean",
+          "Li, Xiaojie",
+          "Dai, Zhongxiang",
+          "Li, Jianxin",
+          "Wang, Deqing"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/56e610e5278134ef45759be9b054fd4d185ce6d6",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Adaptive Sample Scheduling for Direct Preference Optimization",
+        "year": 2025,
+        "authors": [
+          "Zixuan Huang",
+          "Y. Ban",
+          "Lean Fu",
+          "Xiaojie Li",
+          "Zhongxiang Dai",
+          "Jianxin Li",
+          "Deqing Wang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "kwon2023efficient",
+      "raw": {
+        "title": "Efficient Memory Management for Large Language Model Serving with PagedAttention",
+        "authors": [
+          "Woosuk Kwon",
+          "Zhuohan Li",
+          "Siyuan Zhuang",
+          "Ying Sheng",
+          "Lianmin Zheng",
+          "Cody Hao Yu",
+          "Joseph E. Gonzalez",
+          "Hao Zhang",
+          "Ion Stoica"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/83b90f4a0ae4cc214eb3cc140ccfef9cd99fac05",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Efficient Memory Management for Large Language Model Serving with PagedAttention",
+        "year": 2023,
+        "authors": [
+          "Woosuk Kwon",
+          "Zhuohan Li",
+          "Siyuan Zhuang",
+          "Ying Sheng",
+          "Lianmin Zheng",
+          "Cody Hao Yu",
+          "Joseph E. Gonzalez",
+          "Haotong Zhang",
+          "Ion Stoica"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "yang2026grouprelativeadvantagebiased",
+      "raw": {
+        "title": "Your Group-Relative Advantage Is Biased",
+        "authors": [
+          "Fengkai Yang",
+          "Zherui Chen",
+          "Xiaohan Wang",
+          "Xiaodong Lu",
+          "Jiajun Chai",
+          "Guojun Yin",
+          "Wei Lin",
+          "Shuai Ma",
+          "Fuzhen Zhuang",
+          "Deqing Wang",
+          "Yaodong Yang",
+          "Jianxin Li",
+          "Yikun Ban"
+        ],
+        "year": 2026,
+        "doi": null,
+        "arxiv_id": "2601.08521"
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/2fed0a3c5e8af869fa6fcd2be73ff79dd8dd2cd4",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Your Group-Relative Advantage Is Biased",
+        "year": 2026,
+        "authors": [
+          "Feng Yang",
+          "Zherui Chen",
+          "Xiaohan Wang",
+          "Xiaodong Lu",
+          "Jiajun Chai",
+          "Guojun Yin",
+          "Wei Lin",
+          "Shuai Ma",
+          "Fuzhen Zhuang",
+          "Deqing Wang",
+          "Yaodong Yang",
+          "Jianxin Li",
+          "Y. Ban"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "zou2025transformer",
+      "raw": {
+        "title": "Transformer Copilot: Learning from The Mistake Log in LLM Fine-tuning",
+        "authors": [
+          "Jiaru Zou",
+          "Yikun Ban",
+          "Zihao Li",
+          "Yunzhe Qi",
+          "Ruizhong Qiu",
+          "Ling Yang",
+          "Jingrui He"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "he2025llm",
+      "raw": {
+        "title": "Llm-forest: Ensemble learning of llms with graph-augmented prompts for data imputation",
+        "authors": [
+          "He, Xinrui",
+          "Ban, Yikun",
+          "Zou, Jiaru",
+          "Wei, Tianxin",
+          "Cook, Curtiss",
+          "He, Jingrui"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/7fbd3828e41b00df13ed11499c5c2f98cce660d6",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "LLM-Forest: Ensemble Learning of LLMs with Graph-Augmented Prompts for Data Imputation",
+        "year": 2024,
+        "authors": [
+          "Xinrui He",
+          "Yikun Ban",
+          "Jiaru Zou",
+          "Tianxin Wei",
+          "Curtiss B. Cook",
+          "Jingrui He"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "chen2025llmboostmakelargelanguage",
+      "raw": {
+        "title": "LLMBoost: Make Large Language Models Stronger with Boosting",
+        "authors": [
+          "Zehao Chen",
+          "Tianxiang Ai",
+          "Yifei Li",
+          "Gongxun Li",
+          "Yuyang Wei",
+          "Wang Zhou",
+          "Guanghui Li",
+          "Bin Yu",
+          "Zhijun Chen",
+          "Hailong Sun",
+          "Fuzhen Zhuang",
+          "Jianxin Li",
+          "Deqing Wang",
+          "Yikun Ban"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2512.22309"
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/1d3e98649b86fbc96305345fe338c335e6f1d57f",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "LLMBoost: Make Large Language Models Stronger with Boosting",
+        "year": 2025,
+        "authors": [
+          "Zehao Chen",
+          "Tianxiang Ai",
+          "Yifei Li",
+          "Gongxun Li",
+          "Yu Wei",
+          "Wang Zhou",
+          "Guanghui Li",
+          "Bin Yu",
+          "Zhijun Chen",
+          "Hailong Sun",
+          "Fuzhen Zhuang",
+          "Jianxin Li",
+          "Deqing Wang",
+          "Y. Ban"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "yang2025qwen3",
+      "raw": {
+        "title": "Qwen3 technical report",
+        "authors": [
+          "Yang, An",
+          "Li, Anfeng",
+          "Yang, Baosong",
+          "Zhang, Beichen",
+          "Hui, Binyuan",
+          "Zheng, Bo",
+          "Yu, Bowen",
+          "Gao, Chang",
+          "Huang, Chengen",
+          "Lv, Chenxu",
+          "others"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/d2d84d56f730f81d276a02b48d5d44db5bde0b4a",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Qwen3 Technical Report",
+        "year": 2025,
+        "authors": [
+          "An Yang",
+          "Anfeng Li",
+          "Baosong Yang",
+          "Beichen Zhang",
+          "Binyuan Hui",
+          "Bo Zheng",
+          "Bowen Yu",
+          "Chang Gao",
+          "Chengen Huang",
+          "Chenxu Lv",
+          "Chujie Zheng",
+          "Dayiheng Liu",
+          "Fan Zhou",
+          "Fei Huang",
+          "Feng Hu",
+          "Hao Ge",
+          "Haoran Wei",
+          "Huan Lin",
+          "Jialong Tang",
+          "Jian Yang",
+          "Jianhong Tu",
+          "Jianwei Zhang",
+          "Jianxin Yang",
+          "Jiaxin Yang",
+          "Jingren Zhou",
+          "Jingren Zhou",
+          "Junyan Lin",
+          "K. Dang",
+          "Keqin Bao",
+          "Ke‐Pei Yang",
+          "Le Yu",
+          "Li-Chun Deng",
+          "Mei Li",
+          "Min Xue",
+          "Mingze Li",
+          "Pei Zhang",
+          "Peng Wang",
+          "Qin Zhu",
+          "Rui Men",
+          "Ruize Gao",
+          "Shi-Qiang Liu",
+          "Shuang Luo",
+          "Tianhao Li",
+          "Tianyi Tang",
+          "Wenbiao Yin",
+          "Xingzhang Ren",
+          "Xinyu Wang",
+          "Xinyu Zhang",
+          "Xuancheng Ren",
+          "Yang Fan",
+          "Yang Su",
+          "Yi-Chao Zhang",
+          "Yinger Zhang",
+          "Yu Wan",
+          "Yuqiong Liu",
+          "Zekun Wang",
+          "Zeyu Cui",
+          "Zhenru Zhang",
+          "Zhipeng Zhou",
+          "Zihan Qiu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Huang2026RealTimeAR",
+      "raw": {
+        "title": "Real-Time Aligned Reward Model beyond Semantics",
+        "authors": [
+          "Zixuan Huang",
+          "Xin Xia",
+          "Yuxi Ren",
+          "Jianbin Zheng",
+          "Xuefeng Xiao",
+          "Hongyan Xie",
+          "Huaqiu Li",
+          "Songshi Liang",
+          "Zhongxiang Dai",
+          "Fuzhen Zhuang",
+          "Jianxin Li",
+          "Yikun Ban",
+          "Deqing Wang"
+        ],
+        "year": 2026,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "lu2026contextualrolloutbanditsreinforcement",
+      "raw": {
+        "title": "Contextual Rollout Bandits for Reinforcement Learning with Verifiable Rewards",
+        "authors": [
+          "Xiaodong Lu",
+          "Xiaohan Wang",
+          "Jiajun Chai",
+          "Guojun Yin",
+          "Wei Lin",
+          "Zhijun Chen",
+          "Yu Luo",
+          "Fuzhen Zhuang",
+          "Yikun Ban",
+          "Deqing Wang"
+        ],
+        "year": 2026,
+        "doi": null,
+        "arxiv_id": "2602.08499"
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/696b850c9a9a3e91872bac5355d48e8f6dcda563",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Contextual Rollout Bandits for Reinforcement Learning with Verifiable Rewards",
+        "year": 2026,
+        "authors": [
+          "Xiaodong Lu",
+          "Xiaohan Wang",
+          "Jiajun Chai",
+          "Guojun Yin",
+          "Wei Lin",
+          "Zhijun Chen",
+          "Yu Luo",
+          "Fuzhen Zhuang",
+          "Y. Ban",
+          "Deqing Wang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "chen2026weakdrivenlearningweakagents",
+      "raw": {
+        "title": "Weak-Driven Learning: How Weak Agents make Strong Agents Stronger",
+        "authors": [
+          "Zehao Chen",
+          "Gongxun Li",
+          "Tianxiang Ai",
+          "Yifei Li",
+          "Zixuan Huang",
+          "Wang Zhou",
+          "Fuzhen Zhuang",
+          "Xianglong Liu",
+          "Jianxin Li",
+          "Deqing Wang",
+          "Yikun Ban"
+        ],
+        "year": 2026,
+        "doi": null,
+        "arxiv_id": "2602.08222"
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/93a6212b19c6b6ca97083d5af52adbb58c013341",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Weak-Driven Learning: How Weak Agents make Strong Agents Stronger",
+        "year": 2026,
+        "authors": [
+          "Zehao Chen",
+          "Gongxun Li",
+          "Tianxiang Ai",
+          "Yifei Li",
+          "Zixuan Huang",
+          "Wang Zhou",
+          "Fuzhen Zhuang",
+          "Xianglong Liu",
+          "Jianxin Li",
+          "Deqing Wang",
+          "Y. Ban"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "li2025interpretable",
+      "raw": {
+        "title": "Interpretable unsupervised joint denoising and enhancement for real-world low-light scenarios",
+        "authors": [
+          "Li, Huaqiu",
+          "Hu, Xiaowan",
+          "Wang, Haoqian"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/12c37a6919c279152fb653ffefbb77c3882ed981",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Interpretable Unsupervised Joint Denoising and Enhancement for Real-World low-light Scenarios",
+        "year": 2025,
+        "authors": [
+          "Huaqiu Li",
+          "Xiaowan Hu",
+          "Haoqian Wang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "li2025prompt",
+      "raw": {
+        "title": "Prompt-sid: Learning structural representation prompt via latent diffusion for single image denoising",
+        "authors": [
+          "Li, Huaqiu",
+          "Zhang, Wang",
+          "Hu, Xiaowan",
+          "Jiang, Tao",
+          "Chen, Zikang",
+          "Wang, Haoqian"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/789ab27e704215aab1a500af59e62394e1efbc87",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Prompt-SID: Learning Structural Representation Prompt via Latent Diffusion for Single-Image Denoising",
+        "year": 2025,
+        "authors": [
+          "Huaqiu Li",
+          "Wang Zhang",
+          "Xiaowan Hu",
+          "Tao Jiang",
+          "Zikang Chen",
+          "Haoqian Wang"
+        ]
+      },
+      "title_similarity": 0.9405940594059407,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "li2025ld",
+      "raw": {
+        "title": "Ld-rps: Zero-shot unified image restoration via latent diffusion recurrent posterior sampling",
+        "authors": [
+          "Li, Huaqiu",
+          "Wang, Yong",
+          "Huang, Tongwen",
+          "Huang, Hailang",
+          "Wang, Haoqian",
+          "Chu, Xiangxiang"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/c9fee310634bfda5d15b30363911bea95bb3ef97",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "LD-RPS: Zero-Shot Unified Image Restoration via Latent Diffusion Recurrent Posterior Sampling",
+        "year": 2025,
+        "authors": [
+          "Huaqiu Li",
+          "Yong Wang",
+          "Tongwen Huang",
+          "Hailang Huang",
+          "Haoqian Wang",
+          "Xiangxiang Chu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "fu2022sparsett",
+      "raw": {
+        "title": "SparseTT: Visual tracking with sparse transformers",
+        "authors": [
+          "Fu, Zhihong",
+          "Fu, Zehua",
+          "Liu, Qingjie",
+          "Cai, Wenrui",
+          "Wang, Yunhong"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/1af342faa6a90612651788917e4bbbd3f06f8410",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "SparseTT: Visual Tracking with Sparse Transformers",
+        "year": 2022,
+        "authors": [
+          "Z. Fu",
+          "Zehua Fu",
+          "Qingjie Liu",
+          "Wenrui Cai",
+          "Yunhong Wang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "cai2024hiptrack",
+      "raw": {
+        "title": "Hiptrack: Visual tracking with historical prompts",
+        "authors": [
+          "Cai, Wenrui",
+          "Liu, Qingjie",
+          "Wang, Yunhong"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/30ceecba9b5fa74a78b5d5697eb5918b046c8688",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "HIPTrack: Visual Tracking with Historical Prompts",
+        "year": 2023,
+        "authors": [
+          "Wenrui Cai",
+          "Qingjie Liu",
+          "Yunhong Wang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "cai2023learning",
+      "raw": {
+        "title": "Learning historical status prompt for accurate and robust visual tracking",
+        "authors": [
+          "Cai, Wenrui",
+          "Liu, Qingjie",
+          "Wang, Yunhong"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/74dc9be7a20af45487f027c4739ab27ca662ab01",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Learning Historical Status Prompt for Accurate and Robust Visual Tracking",
+        "year": 2023,
+        "authors": [
+          "Wenrui Cai",
+          "Qingjie Liu",
+          "Yunhong Wang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "cai2025spmtrack",
+      "raw": {
+        "title": "SPMTrack: spatio-temporal parameter-efficient fine-tuning with mixture of experts for scalable visual tracking",
+        "authors": [
+          "Cai, Wenrui",
+          "Liu, Qingjie",
+          "Wang, Yunhong"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/f95b9993dc7952d43dd782572d589e5bc2870fab",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "SPMTrack: Spatio-Temporal Parameter-Efficient Fine-Tuning with Mixture of Experts for Scalable Visual Tracking",
+        "year": 2025,
+        "authors": [
+          "Wenrui Cai",
+          "Qingjie Liu",
+          "Yunhong Wang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "cai2025seednorm",
+      "raw": {
+        "title": "SeeDNorm: Self-Rescaled Dynamic Normalization",
+        "authors": [
+          "Cai, Wenrui",
+          "Zhu, Defa",
+          "Liu, Qingjie",
+          "Min, Qiyang"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/9894098c314605cef765819233c2869396a4c973",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "SeeDNorm: Self-Rescaled Dynamic Normalization",
+        "year": 2025,
+        "authors": [
+          "Wenrui Cai",
+          "Defa Zhu",
+          "Qingjie Liu",
+          "Qiyang Min"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    }
+  ]
+}

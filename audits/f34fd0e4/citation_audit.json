@@ -1,0 +1,4183 @@
+{
+  "paper_id": "f34fd0e4-de89-4891-ab1d-cd3644f08d5d",
+  "total": 170,
+  "verified": 18,
+  "mismatch": 1,
+  "missing": 2,
+  "ambiguous": 0,
+  "error": 62,
+  "skipped": 87,
+  "s2_consulted": 3,
+  "s2_lifted": 0,
+  "key_style_outliers": [
+    "DBLP:journals/corr/KingmaW13",
+    "DBLP:conf/iclr/DinhSB17",
+    "hoogeboom22a",
+    "kaiser18",
+    "vqvae2",
+    "3dEDM",
+    "3dGeom",
+    "k2tree",
+    "graph_pooling_review2",
+    "graph_pooling_review1",
+    "graph_pooling_review3",
+    "qm9",
+    "qm9_plus",
+    "avdeyev23a"
+  ],
+  "entries": [
+    {
+      "key": "gilmer_neural_2017",
+      "raw": {
+        "title": "Neural Message Passing for Quantum Chemistry",
+        "authors": [
+          "Gilmer, Justin",
+          "Schoenholz, Samuel S.",
+          "Riley, Patrick F.",
+          "Vinyals, Oriol",
+          "Dahl, George E."
+        ],
+        "year": null,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "goodfellow",
+      "raw": {
+        "title": "Generative Adversarial Nets",
+        "authors": [
+          "Goodfellow, Ian",
+          "Pouget-Abadie, Jean",
+          "Mirza, Mehdi",
+          "Xu, Bing",
+          "Warde-Farley, David",
+          "Ozair, Sherjil",
+          "Courville, Aaron",
+          "Bengio, Yoshua"
+        ],
+        "year": 2014,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Generative+Adversarial+Nets&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "arjovsky_wasserstein_2017",
+      "raw": {
+        "title": "Wasserstein Generative Adversarial Networks",
+        "authors": [
+          "Arjovsky, Martin",
+          "Chintala, Soumith",
+          "Bottou, Léon"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "mirza_conditional_2014",
+      "raw": {
+        "title": "Conditional Generative Adversarial Nets",
+        "authors": [
+          "Mirza, Mehdi",
+          "Osindero, Simon"
+        ],
+        "year": 2014,
+        "doi": null,
+        "arxiv_id": "1411.1784"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1411.1784&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "graphgen",
+      "raw": {
+        "title": "GraphGen: A Scalable Approach to Domain-agnostic Labeled Graph Generation",
+        "authors": [
+          "Nikhil Goyal",
+          "Harsh Vardhan Jain",
+          "Sayan Ranu"
+        ],
+        "year": 2020,
+        "doi": "10.1145/3366423.3380201",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3002481460",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "GraphGen: A Scalable Approach to Domain-agnostic Labeled Graph Generation",
+        "year": 2020,
+        "authors": [
+          "Nikhil Goyal",
+          "Harsh Vardhan Jain",
+          "Sayan Ranu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "graphrnn",
+      "raw": {
+        "title": "GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Models",
+        "authors": [
+          "You, Jiaxuan",
+          "Ying, Rex",
+          "Ren, Xiang",
+          "Hamilton, William",
+          "Leskovec, Jure"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "sterling_zinc_2015",
+      "raw": {
+        "title": "ZINC 15 – Ligand Discovery for Everyone",
+        "authors": [
+          "Sterling, Teague",
+          "Irwin, John J."
+        ],
+        "year": 2015,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "obray_evaluation_2021",
+      "raw": {
+        "title": "Evaluation Metrics for Graph Generative Models: Problems, Pitfalls, and Practical Solutions",
+        "authors": [
+          "O'Bray, Leslie",
+          "Horn, Max",
+          "Rieck, Bastian",
+          "Borgwardt, Karsten"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "thompson_evaluation_2021",
+      "raw": {
+        "title": "On Evaluation Metrics for Graph Generative Models",
+        "authors": [
+          "Thompson, Rylee",
+          "Knyazev, Boris",
+          "Ghalebi, Elahe",
+          "Kim, Jungtaek",
+          "Taylor, Graham W."
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "gretton_kernel_2012",
+      "raw": {
+        "title": "A Kernel Two-Sample Test",
+        "authors": [
+          "Gretton, Arthur",
+          "Borgwardt, Karsten M.",
+          "Rasch, Malte J.",
+          "Schölkopf, Bernhard",
+          "Smola, Alexander"
+        ],
+        "year": 2012,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "jang_categorical_2016",
+      "raw": {
+        "title": "Categorical Reparameterization with Gumbel-Softmax",
+        "authors": [
+          "Jang, Eric",
+          "Gu, Shixiang",
+          "Poole, Ben"
+        ],
+        "year": 2016,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "kusner_grammar_2017",
+      "raw": {
+        "title": "Grammar Variational Autoencoder",
+        "authors": [
+          "Kusner, Matt J.",
+          "Paige, Brooks",
+          "Hernández-Lobato, José Miguel"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "jin_junction_2018",
+      "raw": {
+        "title": "Junction Tree Variational Autoencoder for Molecular Graph Generation",
+        "authors": [
+          "Jin, Wengong",
+          "Barzilay, Regina",
+          "Jaakkola, Tommi"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "graphnvp",
+      "raw": {
+        "title": "GraphNVP: An Invertible Flow Model for Generating Molecular Graphs",
+        "authors": [
+          "Kaushalya Madhawa",
+          "Katushiko Ishiguro",
+          "Kosuke Nakago",
+          "Motoki Abe"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": "1905.11600"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1905.11600&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "miyato_spectral_2018",
+      "raw": {
+        "title": "Spectral Normalization for Generative Adversarial Networks",
+        "authors": [
+          "Miyato, Takeru",
+          "Kataoka, Toshiki",
+          "Koyama, Masanori",
+          "Yoshida, Yuichi"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "molgan",
+      "raw": {
+        "title": "MolGAN: An implicit generative model for small molecular graphs",
+        "authors": [
+          "De Cao, Nicola",
+          "Kipf, Thomas"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": "1805.11973"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1805.11973&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "graphvae",
+      "raw": {
+        "title": "GraphVAE: Towards Generation of Small Graphs Using Variational Autoencoders",
+        "authors": [
+          "Simonovsky, Martin",
+          "Komodakis, Nikos"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": "1802.03480"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1802.03480&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "graphaf",
+      "raw": {
+        "title": "GraphAF: a Flow-based Autoregressive Model for Molecular Graph Generation",
+        "authors": [
+          "Chence Shi",
+          "Minkai Xu",
+          "Zhaocheng Zhu",
+          "Weinan Zhang",
+          "Ming Zhang",
+          "Jian Tang"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "gomez-bombarelli_automatic_2018",
+      "raw": {
+        "title": "Automatic Chemical Design Using a Data-Driven Continuous Representation of Molecules",
+        "authors": [
+          "Gómez-Bombarelli, Rafael",
+          "Wei, Jennifer N.",
+          "Duvenaud, David",
+          "Hernández-Lobato, José Miguel",
+          "Sánchez-Lengeling, Benjamín",
+          "Sheberla, Dennis",
+          "Aguilera-Iparraguirre, Jorge",
+          "Hirzel, Timothy D.",
+          "Adams, Ryan P.",
+          "Aspuru-Guzik, Alán"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "faez_deep_2021",
+      "raw": {
+        "title": "Deep Graph Generators: A Survey",
+        "authors": [
+          "Faez, Faezeh",
+          "Ommi, Yassaman",
+          "Baghshah, Mahdieh Soleymani",
+          "Rabiee, Hamid R."
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Deep+Graph+Generators%3A+A+Survey&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "mpgvae",
+      "raw": {
+        "title": "MPGVAE: improved generation of small organic molecules using message passing neural nets",
+        "authors": [
+          "Flam-Shepherd, Daniel",
+          "Wu, Tony C.",
+          "Aspuru-Guzik, Alan"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "DBLP:journals/corr/KingmaW13",
+      "raw": {
+        "title": "Auto-Encoding Variational Bayes",
+        "authors": [
+          "Diederik P. Kingma",
+          "Max Welling"
+        ],
+        "year": 2014,
+        "doi": null,
+        "arxiv_id": "1312.6114"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1312.6114&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "DBLP:conf/iclr/DinhSB17",
+      "raw": {
+        "title": "Density estimation using Real NVP",
+        "authors": [
+          "Laurent Dinh",
+          "Jascha Sohl{-}Dickstein",
+          "Samy Bengio"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Riesen2008",
+      "raw": {
+        "title": "IAM graph database repository for graph based pattern recognition and machine learning",
+        "authors": [
+          "Riesen, Kaspar",
+          "Bunke, Horst"
+        ],
+        "year": 2008,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Morris+2020",
+      "raw": {
+        "title": "TUDataset: A collection of benchmark datasets for learning with graphs",
+        "authors": [
+          "Christopher Morris",
+          "Nils M. Kriege",
+          "Franka Bause",
+          "Kristian Kersting",
+          "Petra Mutzel",
+          "Marion Neumann"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": "2007.08663"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2007.08663&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "gran",
+      "raw": {
+        "title": "Efficient Graph Generation with Graph Recurrent Attention Networks",
+        "authors": [
+          "Liao, Renjie",
+          "Li, Yujia",
+          "Song, Yang",
+          "Wang, Shenlong",
+          "Hamilton, Will",
+          "Duvenaud, David K",
+          "Urtasun, Raquel",
+          "Zemel, Richard"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Efficient+Graph+Generation+with+Graph+Recurrent+Attention+Networks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "netgan",
+      "raw": {
+        "title": "NetGAN: Generating Graphs via Random Walks",
+        "authors": [
+          "Bojchevski, Aleksandar",
+          "Shchur, Oleksandr",
+          "Z{\\\"u}gner, Daniel",
+          "G{\\\"u}nnemann, Stephan"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Battaglia2016",
+      "raw": {
+        "title": "Interaction networks for learning about objects, relations and physics",
+        "authors": [
+          "Battaglia, Peter",
+          "Pascanu, Razvan",
+          "Lai, Matthew",
+          "Rezende, Danilo",
+          "Kavukcuoglu, Koray"
+        ],
+        "year": 2016,
+        "doi": null,
+        "arxiv_id": "1612.00222"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1612.00222&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "deepgmg",
+      "raw": {
+        "title": "Learning deep generative models of graphs",
+        "authors": [
+          "Li, Yujia",
+          "Vinyals, Oriol",
+          "Dyer, Chris",
+          "Pascanu, Razvan",
+          "Battaglia, Peter"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": "1803.03324"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1803.03324&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Bojchevski2018",
+      "raw": {
+        "title": "NetGAN: Generating graphs via random walks",
+        "authors": [
+          "Bojchevski, Aleksandar",
+          "Shchur, Oleksandr",
+          "Z{\\\"{u}}gner, Daniel",
+          "G{\\\"{u}}nnemann, Stephan"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "edp-gnn",
+      "raw": {
+        "title": "Conditional Structure Generation through Graph Variational Generative Adversarial Nets",
+        "authors": [
+          "Yang, Carl",
+          "Zhuang, Peiye",
+          "Shi, Wenhan",
+          "Luu, Alan",
+          "Li, Pan"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Conditional+Structure+Generation+through+Graph+Variational+Generative+Adversarial+Nets&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Niu2020",
+      "raw": {
+        "title": "Permutation Invariant Graph Generation via Score-Based Generative Modeling",
+        "authors": [
+          "Niu, Chenhao",
+          "Song, Yang",
+          "Song, Jiaming",
+          "Zhao, Shengjia",
+          "Grover, Aditya",
+          "Ermon, Stefano"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Krawczuk2020",
+      "raw": {
+        "title": "GG-GAN: A Geometric Graph Generative Adversarial Network",
+        "authors": [
+          "Krawczuk, Igor",
+          "Abranches, Pedro",
+          "Loukas, Andreas",
+          "Cevher, Volkan"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Arjovsky2017",
+      "raw": {
+        "title": "Wasserstein generative adversarial networks",
+        "authors": [
+          "Arjovsky, Martin",
+          "Chintala, Soumith",
+          "Bottou, L{\\'{e}}on"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Gulrajani2017",
+      "raw": {
+        "title": "Improved Training of Wasserstein GANs Montreal Institute for Learning Algorithms",
+        "authors": [
+          "Gulrajani, Ishaan",
+          "Ahmed, Faruk",
+          "Arjovsky, Martin",
+          "Dumoulin, Vincent",
+          "Courville, Aaron"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Ying2018",
+      "raw": {
+        "title": "Hierarchical Graph Representation Learning with Differentiable Pooling",
+        "authors": [
+          "Ying, Rex",
+          "You, Jiaxuinan",
+          "Morris, Christopher",
+          "Ren, Xiang",
+          "Hamilton, William L",
+          "Leskovec, Jure"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Hierarchical+Graph+Representation+Learning+with+Differentiable+Pooling&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Morris2019",
+      "raw": {
+        "title": "Weisfeiler and leman go neural: Higher-order graph neural networks",
+        "authors": [
+          "Morris, Christopher",
+          "Ritzert, Martin",
+          "Fey, Matthias",
+          "Hamilton, William L.",
+          "Lenssen, Jan Eric",
+          "Rattan, Gaurav",
+          "Grohe, Martin"
+        ],
+        "year": 2019,
+        "doi": "10.1609/aaai.v33i01.33014602",
+        "arxiv_id": "1810.02244"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2894663205",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Weisfeiler and Leman Go Neural: Higher-Order Graph Neural Networks",
+        "year": 2019,
+        "authors": [
+          "Christopher Morris",
+          "Martin Ritzert",
+          "Matthias Fey",
+          "William L. Hamilton",
+          "Jan Eric Lenssen",
+          "Gaurav Rattan",
+          "Martin Grohe"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Scarselli2009",
+      "raw": {
+        "title": "The Graph Neural Network Model",
+        "authors": [
+          "Franco Scarselli",
+          "Marco, Gori",
+          "Ah Chung, Tsoi",
+          "Markus, Hagenbuchner",
+          "Gabriele, Monfardini"
+        ],
+        "year": 2009,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Zaheer2017",
+      "raw": {
+        "title": "Deep sets",
+        "authors": [
+          "Zaheer, Manzil",
+          "Kottur, Satwik",
+          "Ravanbhakhsh, Siamak",
+          "P{\\'{o}}czos, Barnab{\\'{a}}s",
+          "Salakhutdinov, Ruslan",
+          "Smola, Alexander J."
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": "1703.06114"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1703.06114&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Wagstaff2019",
+      "raw": {
+        "title": "On the limitations of representing functions on sets",
+        "authors": [
+          "Wagstaff, Edward",
+          "Fuchs, Fabian B",
+          "Engelcke, Martin",
+          "Posner, Ingmar",
+          "Osborne, Michael"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": "1901.09006"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1901.09006&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "hiervae",
+      "raw": {
+        "title": "Hierarchical Generation of Molecular Graphs using Structural Motifs",
+        "authors": [
+          "Jin, Wengong",
+          "Barzilay, Regina",
+          "Jaakkola, Tommi"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "jtvae",
+      "raw": {
+        "title": "Junction Tree Variational Autoencoder for Molecular Graph Generation",
+        "authors": [
+          "Jin, Wengong",
+          "Barzilay, Regina",
+          "Jaakkola, Tommi"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "constrainedGVAE",
+      "raw": {
+        "title": "Constrained Graph Variational Autoencoders for Molecule Design",
+        "authors": [
+          "Liu, Qi",
+          "Allamanis, Miltiadis",
+          "Brockschmidt, Marc",
+          "Gaunt, Alexander L"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Constrained+Graph+Variational+Autoencoders+for+Molecule+Design&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Goyal2020",
+      "raw": {
+        "title": "GraphGen: A Scalable Approach to Domain-agnostic Labeled Graph Generation",
+        "authors": [
+          "Goyal, Nikhil",
+          "Jain, Harsh Vardhan",
+          "Ranu, Sayan"
+        ],
+        "year": 2020,
+        "doi": "10.1145/3366423.3380201",
+        "arxiv_id": "2001.08184"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3002481460",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "GraphGen: A Scalable Approach to Domain-agnostic Labeled Graph Generation",
+        "year": 2020,
+        "authors": [
+          "Nikhil Goyal",
+          "Harsh Vardhan Jain",
+          "Sayan Ranu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "graphdf",
+      "raw": {
+        "title": "GraphDF: A Discrete Flow Model for Molecular Graph Generation",
+        "authors": [
+          "Luo, Youzhi",
+          "Yan, Keqiang",
+          "Ji, Shuiwang"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": "2102.01189"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2102.01189&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "gnf",
+      "raw": {
+        "title": "Graph normalizing flows",
+        "authors": [
+          "Liu, Jenny",
+          "Kumar, Aviral",
+          "Ba, Jimmy",
+          "Kiros, Jamie",
+          "Swersky, Kevin"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": "1905.13177"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1905.13177&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "condgen",
+      "raw": {
+        "title": "Conditional Structure Generation through Graph Variational Generative Adversarial Nets",
+        "authors": [
+          "Yang, Carl",
+          "Zhuang, Peiye",
+          "Shi, Wenhan",
+          "Luu, Alan",
+          "Li, Pan"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Conditional+Structure+Generation+through+Graph+Variational+Generative+Adversarial+Nets&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "gdss",
+      "raw": {
+        "title": "Score-based Generative Modeling of Graphs via the System of Stochastic Differential Equations",
+        "authors": [
+          "Jo, Jaehyeong",
+          "Lee, Seul",
+          "Hwang, Sung Ju"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": "2202.02514"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2202.02514&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "molgrow",
+      "raw": {
+        "title": "MolGrow: A Graph Normalizing Flow for Hierarchical Molecular Generation",
+        "authors": [
+          "Kuznetsov, Maksim",
+          "Polykovskiy, Daniil"
+        ],
+        "year": 2021,
+        "doi": "10.48550/arxiv.2106.05856",
+        "arxiv_id": "2106.05856"
+      },
+      "status": "not_found",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Chen2018",
+      "raw": {
+        "title": "Sequence-to-Action: End-to-End Semantic Graph Generation for Semantic Parsing",
+        "authors": [
+          "Chen, Bo",
+          "Sun, Le",
+          "Han, Xianpei"
+        ],
+        "year": 2018,
+        "doi": "10.18653/V1/P18-1071",
+        "arxiv_id": "1809.00773"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2798296074",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Sequence-to-Action: End-to-End Semantic Graph Generation for Semantic Parsing",
+        "year": 2018,
+        "authors": [
+          "Bo Chen",
+          "Le Sun",
+          "Xianpei Han"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Klawonn2018",
+      "raw": {
+        "title": "Generating Triples With Adversarial Networks for Scene Graph Construction",
+        "authors": [
+          "Klawonn, Matthew",
+          "Heim, Eric"
+        ],
+        "year": 2018,
+        "doi": "10.1609/AAAI.V32I1.12321",
+        "arxiv_id": "1802.02598"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2787090809",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Generating Triples With Adversarial Networks for Scene Graph Construction",
+        "year": 2018,
+        "authors": [
+          "Matthew Klawonn",
+          "Eric Heim"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Lu2020",
+      "raw": {
+        "title": "Deep Learning for Optoelectronic Properties of Organic Semiconductors",
+        "authors": [
+          "Lu, Chengqiang",
+          "Liu, Qi",
+          "Sun, Qiming",
+          "Hsieh, Chang Yu",
+          "Zhang, Shengyu",
+          "Shi, Liang",
+          "Lee, Chee Kong"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": "1910.13551"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1910.13551&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "brockschmidt",
+      "raw": {
+        "title": "Generative Code Modeling with Graphs",
+        "authors": [
+          "Marc Brockschmidt",
+          "Miltiadis Allamanis",
+          "Alexander L. Gaunt",
+          "Oleksandr Polozov"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Ingraham",
+      "raw": {
+        "title": "Generative Models for Graph-Based Protein Design",
+        "authors": [
+          "Ingraham, John",
+          "Garg, Vikas",
+          "Barzilay, Regina",
+          "Jaakkola, Tommi"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Generative+Models+for+Graph-Based+Protein+Design&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Li",
+      "raw": {
+        "title": "Scene Graph Generation from Objects, Phrases and Region Captions",
+        "authors": [
+          "Y. Li",
+          "W. Ouyang",
+          "B. Zhou",
+          "K. Wang",
+          "X. Wang"
+        ],
+        "year": 2017,
+        "doi": "10.1109/ICCV.2017.142",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2963649796",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Scene Graph Generation from Objects, Phrases and Region Captions",
+        "year": 2017,
+        "authors": [
+          "Yikang Li",
+          "Wanli Ouyang",
+          "Bolei Zhou",
+          "Kun Wang",
+          "Xiaogang Wang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Gaudelet2021",
+      "raw": {
+        "title": "Utilizing graph machine learning within drug discovery and development",
+        "authors": [
+          "Gaudelet, Thomas",
+          "Day, Ben",
+          "Jamasb, Arian R.",
+          "Soman, Jyothish",
+          "Regep, Cristian",
+          "Liu, Gertrude",
+          "Hayter, Jeremy B.R.",
+          "Vickers, Richard",
+          "Roberts, Charles",
+          "Tang, Jian",
+          "Roblin, David",
+          "Blundell, Tom L.",
+          "Bronstein, Michael M.",
+          "Taylor-King, Jake P."
+        ],
+        "year": 2021,
+        "doi": "10.1093/BIB/BBAB159",
+        "arxiv_id": "2012.05716"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3160021293",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Utilizing graph machine learning within drug discovery and development",
+        "year": 2021,
+        "authors": [
+          "Thomas Gaudelet",
+          "Ben Day",
+          "Arian R. Jamasb",
+          "Jyothish Soman",
+          "Cristian Regep",
+          "Gertrude Liu",
+          "Jeremy B. R. Hayter",
+          "Richard Vickers",
+          "Charles S. Roberts",
+          "Jian Tang",
+          "David Roblin",
+          "Tom L. Blundell",
+          "Michael M. Bronstein",
+          "Jake P. Taylor‐King"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Gilmer2017",
+      "raw": {
+        "title": "Neural Message Passing for Quantum Chemistry",
+        "authors": [
+          "Gilmer, Justin",
+          "Schoenholz, Samuel S",
+          "Riley, Patrick F",
+          "Vinyals, Oriol",
+          "Dahl, George E"
+        ],
+        "year": 2017,
+        "doi": "10.5555/3305381.3305512",
+        "arxiv_id": null
+      },
+      "status": "not_found",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Li_graph",
+      "raw": {
+        "title": "Deeper Insights into Graph Convolutional Networks for Semi-Supervised Learning",
+        "authors": [
+          "Li, Qimai",
+          "Han, Zhichao",
+          "Wu, Xiao-Ming"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Deeper+Insights+into+Graph+Convolutional+Networks+for+Semi-Supervised+Learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Dong2019",
+      "raw": {
+        "title": "Data Mining and Management, a section of the journal Frontiers in Big Data Misc-GAN: A Multi-scale Generative Model for Graphs",
+        "authors": [
+          "Dong, Yuxiao",
+          "Wu, Le",
+          "Wang, Jianwu",
+          "Zhou, Dawei",
+          "Zheng, Lecheng",
+          "Xu, Jiejun",
+          "He, Jingrui"
+        ],
+        "year": 2019,
+        "doi": "10.3389/fdata.2019.00003",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2942483000",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Misc-GAN: A Multi-scale Generative Model for Graphs",
+        "year": 2019,
+        "authors": [
+          "Dawei Zhou",
+          "Lecheng Zheng",
+          "Jiejun Xu",
+          "Jingrui He"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Jin2019",
+      "raw": {
+        "title": "Learning multimodal graph-to-graph translation for molecular optimization",
+        "authors": [
+          "Jin, Wengong",
+          "Yang, Kevin",
+          "Barzilay, Regina",
+          "Jaakkola, Tommi"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": "1812.01070"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1812.01070&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "scaffoldbased",
+      "raw": {
+        "title": "Scaffold-based molecular design with a graph generative model",
+        "authors": [
+          "Lim, Jaechang",
+          "Hwang, Sang Yeon",
+          "Moon, Seokhyun",
+          "Kim, Seungsu",
+          "Kim, Woo Youn"
+        ],
+        "year": 2020,
+        "doi": "10.1039/c9sc04503a",
+        "arxiv_id": "1905.13639"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2947950688",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Scaffold-based molecular design with a graph generative model",
+        "year": 2019,
+        "authors": [
+          "Jaechang Lim",
+          "Sang-Yeon Hwang",
+          "Seokhyun Moon",
+          "Seungsu Kim",
+          "Woo Youn Kim"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Liu2022",
+      "raw": {
+        "title": "Graph Pooling for Graph Neural Networks: Progress, Challenges, and Opportunities",
+        "authors": [
+          "Liu, Chuang",
+          "Zhan, Yibing",
+          "Li, Chang",
+          "Du, Bo",
+          "Wu, Jia",
+          "Hu, Wenbin",
+          "Liu, Tongliang",
+          "Tao, Dacheng"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": "2204.07321"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2204.07321&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Grattarola",
+      "raw": {
+        "title": "Understanding Pooling in Graph Neural Networks",
+        "authors": [
+          "Grattarola, Daniele",
+          "Zambon, Daniele",
+          "{Maria Bianchi}, Filippo",
+          "Alippi, Cesare"
+        ],
+        "year": null,
+        "doi": null,
+        "arxiv_id": "2110.05292"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2110.05292&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "diffpool",
+      "raw": {
+        "title": "Hierarchical Graph Representation Learning with Differentiable Pooling",
+        "authors": [
+          "Ying, Rex",
+          "You, Jiaxuan",
+          "Morris, Christopher",
+          "Ren, Xiang",
+          "Hamilton, William L",
+          "Leskovec, Jure"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Hierarchical+Graph+Representation+Learning+with+Differentiable+Pooling&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Gao2019",
+      "raw": {
+        "title": "Graph U-Nets",
+        "authors": [
+          "Gao, Hongyang",
+          "Ji, Shuiwang"
+        ],
+        "year": 2019,
+        "doi": "10.48550/arxiv.1905.05178",
+        "arxiv_id": "1905.05178"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4394671248",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Graph U-Nets",
+        "year": 2019,
+        "authors": [
+          "Hongyang Gao",
+          "Shuiwang Ji"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Garcia",
+      "raw": {
+        "title": "FEW-SHOT LEARNING WITH GRAPH NEURAL NET-WORKS",
+        "authors": [],
+        "year": null,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=FEW-SHOT+LEARNING+WITH+GRAPH+NEURAL+NET-WORKS&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "attention_is_all",
+      "raw": {
+        "title": "Transformer: Attention is all you need",
+        "authors": [
+          "Vaswani, Ashish",
+          "Shazeer, Noam",
+          "Parmar, Niki",
+          "Uszkoreit, Jakob",
+          "Jones, Llion",
+          "Gomez, Aidan N",
+          "Kaiser, {\\L}ukasz",
+          "Polosukhin, Illia"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": "1706.03762"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1706.03762&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "batch_norm",
+      "raw": {
+        "title": "Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift",
+        "authors": [
+          "Ioffe, Sergey",
+          "Szegedy, Christian"
+        ],
+        "year": 2015,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Oono2020",
+      "raw": {
+        "title": "Graph Neural Networks Exponentially Lose Expressive Power for Node Classification",
+        "authors": [
+          "Kenta Oono",
+          "Taiji Suzuki"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Rossi2014",
+      "raw": {
+        "title": "Role Discovery in Networks",
+        "authors": [
+          "Ryan A. Rossi",
+          "Nesreen Ahmed"
+        ],
+        "year": 2014,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Role+Discovery+in+Networks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "White1983",
+      "raw": {
+        "title": "Graph and semigroup homomorphisms on networks of relations",
+        "authors": [
+          "Douglas R. White",
+          "Karl P. Reitz"
+        ],
+        "year": 1983,
+        "doi": "https://doi.org/10.1016/0378-8733(83)90025-4",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2133011836",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Graph and semigroup homomorphisms on networks of relations",
+        "year": 1983,
+        "authors": [
+          "Dougľas R. White",
+          "Karl Reitz"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Sato2021",
+      "raw": {
+        "title": "Random Features Strengthen Graph Neural Networks",
+        "authors": [
+          "Ryoma Sato",
+          "Makoto Yamada",
+          "Hisashi Kashima"
+        ],
+        "year": 2021,
+        "doi": "10.1137/1.9781611976700.38",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3005187920",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Random Features Strengthen Graph Neural Networks",
+        "year": 2021,
+        "authors": [
+          "Ryoma Sato",
+          "Makoto Yamada",
+          "Hisashi Kashima"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "hoogeboom22a",
+      "raw": {
+        "title": "Equivariant Diffusion for Molecule Generation in 3D",
+        "authors": [
+          "Hoogeboom, Emiel",
+          "Satorras, Victor Garcia",
+          "Vignac, Clement",
+          "Welling, Max"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Equivariant+Diffusion+for+Molecule+Generation+in+3D&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "vqvae",
+      "raw": {
+        "title": "Neural Discrete Representation Learning",
+        "authors": [
+          "van den Oord, Aaron",
+          "Vinyals, Oriol",
+          "kavukcuoglu, koray"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Neural+Discrete+Representation+Learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "SetVAE",
+      "raw": {
+        "title": "SetVAE: Learning Hierarchical Composition for Generative Modeling of Set-Structured Data",
+        "authors": [
+          "Kim, Jinwoo",
+          "Yoo, Jaehoon",
+          "Lee, Juho",
+          "Hong, Seunghoon"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=SetVAE%3A+Learning+Hierarchical+Composition+for+Generative+Modeling+of+Set-Structured+Data&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "k-hop",
+      "raw": {
+        "title": "How Powerful are K-hop Message Passing Graph Neural Networks",
+        "authors": [
+          "Jiarui Feng",
+          "Yixin Chen",
+          "Fuhai Li",
+          "Anindya Sarkar",
+          "Muhan Zhang"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "graph_iso",
+      "raw": {
+        "title": "Graph isomorphisms in quasi-polynomial time",
+        "authors": [
+          "Harald Andrés Helfgott",
+          "Jitendra Bajpai",
+          "Daniele Dona"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": "1710.04574"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1710.04574&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "vae",
+      "raw": {
+        "title": "Auto-Encoding Variational Bayes",
+        "authors": [
+          "Diederik P Kingma",
+          "Max Welling"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": "1312.6114"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1312.6114&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zinc",
+      "raw": {
+        "title": "ZINC: A Free Tool to Discover Chemistry for Biology",
+        "authors": [
+          "Irwin, John J.",
+          "Sterling, Teague",
+          "Mysinger, Michael M.",
+          "Bolstad, Erin S.",
+          "Coleman, Ryan G."
+        ],
+        "year": 2012,
+        "doi": "10.1021/ci3001277",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2027482274",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "ZINC: A Free Tool to Discover Chemistry for Biology",
+        "year": 2012,
+        "authors": [
+          "John J. Irwin",
+          "Teague Sterling",
+          "Michael M. Mysinger",
+          "Erin S. D. Bolstad",
+          "Ryan G. Coleman"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "fcd",
+      "raw": {
+        "title": "Fréchet ChemNet Distance: A Metric for Generative Models for Molecules in Drug Discovery",
+        "authors": [
+          "Preuer, Kristina",
+          "Renz, Philipp",
+          "Unterthiner, Thomas",
+          "Hochreiter, Sepp",
+          "Klambauer, Günter"
+        ],
+        "year": 2018,
+        "doi": "10.1021/acs.jcim.8b00234",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2887447356",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Fréchet ChemNet Distance: A Metric for Generative Models for Molecules in Drug Discovery",
+        "year": 2018,
+        "authors": [
+          "Kristina Preuer",
+          "Philipp Renz",
+          "Thomas Unterthiner",
+          "Sepp Hochreiter",
+          "Günter Klambauer"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "nspdk",
+      "raw": {
+        "title": "Fast Neighborhood Subgraph Pairwise Distance Kernel",
+        "authors": [
+          "Fabrizio Costa",
+          "Kurt De Grave"
+        ],
+        "year": 2010,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "edge_gnn",
+      "raw": {
+        "title": "Exploiting edge features for graph neural networks",
+        "authors": [
+          "Gong, Liyu",
+          "Cheng, Qiang"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Exploiting+edge+features+for+graph+neural+networks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "granngan",
+      "raw": {
+        "title": "Graph annotation generative adversarial networks",
+        "authors": [
+          "Boget, Yoann",
+          "Gregorova, Magda",
+          "Kalousis, Alexandros"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "digress",
+      "raw": {
+        "title": "DiGress: Discrete Denoising diffusion for graph generation",
+        "authors": [
+          "Clement Vignac",
+          "Igor Krawczuk",
+          "Antoine Siraudin",
+          "Bohan Wang",
+          "Volkan Cevher",
+          "Pascal Frossard"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "robust_vq",
+      "raw": {
+        "title": "Robust Training of Vector Quantized Bottleneck Models",
+        "authors": [
+          "Łańcucki, Adrian",
+          "Chorowski, Jan",
+          "Sanchez, Guillaume",
+          "Marxer,  Ricard andChen, Nanxin",
+          "Dolfing  Hans J.G.A.",
+          "Khurana, Sameer",
+          "Alumäe, Tanel",
+          "Laurent,  Antoine"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": "2005.08520"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2005.08520&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "gggan",
+      "raw": {
+        "title": "\\GG\\-\\GAN\\: A Geometric Graph Generative Adversarial Network",
+        "authors": [
+          "Igor Krawczuk",
+          "Pedro Abranches",
+          "Andreas Loukas",
+          "Volkan Cevher"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "subgraph_count",
+      "raw": {
+        "title": "On Weisfeiler-Leman invariance: Subgraph counts and related graph properties",
+        "authors": [
+          "V. Arvind",
+          "Frank Fuhlbrück",
+          "Johannes Köbler",
+          "Oleg Verbitsky"
+        ],
+        "year": 2020,
+        "doi": "https://doi.org/10.1016/j.jcss.2020.04.003",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2965757697",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "On Weisfeiler-Leman invariance: Subgraph counts and related graph properties",
+        "year": 2020,
+        "authors": [
+          "V. Arvind",
+          "Frank Fuhlbrück",
+          "Johannes Köbler",
+          "Oleg Verbitsky"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "how_powerfull",
+      "raw": {
+        "title": "How Powerful are Graph Neural Networks?",
+        "authors": [
+          "Keyulu Xu",
+          "Weihua Hu",
+          "Jure Leskovec",
+          "Stefanie Jegelka"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "substruct_count",
+      "raw": {
+        "title": "Can Graph Neural Networks Count Substructures?",
+        "authors": [
+          "Chen, Zhengdao",
+          "Chen, Lei",
+          "Villar, Soledad",
+          "Bruna, Joan"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Provably_powefullGN",
+      "raw": {
+        "title": "Provably Powerful Graph Networks",
+        "authors": [
+          "Maron, Haggai",
+          "Ben-Hamu, Heli",
+          "Serviansky, Hadar",
+          "Lipman, Yaron"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "powerful_gnn_vignac",
+      "raw": {
+        "title": "Building powerful and equivariant graph neural networks with structural message-passing",
+        "authors": [
+          "Vignac, Cl\\'{e}ment",
+          "Loukas, Andreas",
+          "Frossard, Pascal"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "graph_iso_prob",
+      "raw": {
+        "title": "Introduction",
+        "authors": [
+          "K{\\\"o}bler, Johannes",
+          "Sch{\\\"o}ning, Uwe",
+          "Tor{\\'a}n, Jacobo"
+        ],
+        "year": 1993,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Introduction&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "graph_transformer",
+      "raw": {
+        "title": "Graph Transformer Networks",
+        "authors": [
+          "Yun, Seongjun",
+          "Jeong, Minbyul",
+          "Kim, Raehyun",
+          "Kang, Jaewoo",
+          "Kim, Hyunwoo J"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "kaiser18",
+      "raw": {
+        "title": "Fast Decoding in Sequence Models Using Discrete Latent Variables",
+        "authors": [
+          "Kaiser, Lukasz",
+          "Bengio, Samy",
+          "Roy, Aurko",
+          "Vaswani, Ashish",
+          "Parmar, Niki",
+          "Uszkoreit, Jakob",
+          "Shazeer, Noam"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "VGAE",
+      "raw": {
+        "title": "Variationa Graph Auto-Encoders",
+        "authors": [
+          "Kipf, Thomas N.",
+          "Welling, Max"
+        ],
+        "year": 2016,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "vqvae2",
+      "raw": {
+        "title": "Generating Diverse High-Fidelity Images with VQ-VAE-2",
+        "authors": [
+          "Razavi, Ali",
+          "van den Oord, Aaron",
+          "Vinyals, Oriol"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "grapharm",
+      "raw": {
+        "title": "Autoregressive Diffusion Model for Graph Generation",
+        "authors": [
+          "Kong, Lingkai",
+          "Cui, Jiaming",
+          "Sun, Haotian",
+          "Zhuang, Yuchen",
+          "Prakash, B. Aditya",
+          "Zhang, Chao"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "3dEDM",
+      "raw": {
+        "title": "Equivariant Diffusion for Molecule Generation in 3D",
+        "authors": [
+          "Hoogeboom, Emiel",
+          "Satorras, V\\'{\\i}ctor Garcia",
+          "Vignac, Cl{\\'e}ment",
+          "Welling, Max"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "3dGeom",
+      "raw": {
+        "title": "Geometric Latent Diffusion Models for 3D Molecule Generation",
+        "authors": [
+          "Xu, Minkai",
+          "Powers, Alexander S",
+          "Dror, Ron O.",
+          "Ermon, Stefano",
+          "Leskovec, Jure"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "k2tree",
+      "raw": {
+        "title": "Graph Generation with \\$K\\textasciicircum2\\$-trees",
+        "authors": [
+          "Yunhui Jang",
+          "Dongwoo Kim",
+          "Sungsoo Ahn"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "graphle",
+      "raw": {
+        "title": "Efficient and Scalable Graph Generation through Iterative Local Expansion",
+        "authors": [
+          "Andreas Bergmeister",
+          "Karolis Martinkus",
+          "Nathana{\\\"e}l Perraudin",
+          "Roger Wattenhofer"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "spectre",
+      "raw": {
+        "title": "SPECTRE: Spectral Conditioning Helps to Overcome the Expressivity Limits of One-shot Graph Generators",
+        "authors": [
+          "Martinkus, Karolis",
+          "Loukas, Andreas",
+          "Perraudin, Nathana{\\\"e}l",
+          "Wattenhofer, Roger"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "github_stargazers",
+      "raw": {
+        "title": "Karate Club: An API Oriented Open-source Python Framework for Unsupervised Learning on Graphs",
+        "authors": [
+          "Benedek Rozemberczki",
+          "Oliver Kiss",
+          "Rik Sarkar"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Karate+Club%3A+An+API+Oriented+Open-source+Python+Framework+for+Unsupervised+Learning+on+Graphs&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "reddit",
+      "raw": {
+        "title": "Deep Graph Kernels",
+        "authors": [
+          "Yanardag, Pinar",
+          "Vishwanathan, S.V.N."
+        ],
+        "year": 2015,
+        "doi": "10.1145/2783258.2783417",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2008857988",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Deep Graph Kernels",
+        "year": 2015,
+        "authors": [
+          "Pinar Yanardag",
+          "S. V. N. Vishwanathan"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "discdiff_haefeli",
+      "raw": {
+        "title": "Diffusion Models for Graphs Benefit From Discrete State Spaces",
+        "authors": [
+          "Kilian Konstantin Haefeli",
+          "Karolis Martinkus",
+          "Nathana{\\\"e}l Perraudin",
+          "Roger Wattenhofer"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "graph_coarsening",
+      "raw": {
+        "title": "Graph Coarsening with Preserved Spectral Properties",
+        "authors": [
+          "Jin, Yu",
+          "Loukas, Andreas",
+          "JaJa, Joseph"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "discdiff_austin",
+      "raw": {
+        "title": "Structured Denoising Diffusion Models in Discrete State-Spaces",
+        "authors": [
+          "Austin, Jacob",
+          "Johnson, Daniel D.",
+          "Ho, Jonathan",
+          "Tarlow, Daniel",
+          "van den Berg, Rianne"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "sparsediff",
+      "raw": {
+        "title": "Sparse Training of Discrete Diffusion Models for Graph Generation",
+        "authors": [
+          "Yiming Qin",
+          "Clement Vignac",
+          "Pascal Frossard"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "EDGE",
+      "raw": {
+        "title": "Efficient and Degree-Guided Graph Generation via Discrete Diffusion Modeling",
+        "authors": [
+          "Chen, Xiaohui",
+          "He, Jiaxing",
+          "Han, Xu",
+          "Liu, Liping"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "dgae",
+      "raw": {
+        "title": "Discrete Graph Auto-Encoder",
+        "authors": [
+          "Yoann Boget",
+          "Magda Gregorova",
+          "Alexandros Kalousis"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "higen",
+      "raw": {
+        "title": "HiGen: Hierarchical Graph Generative Networks",
+        "authors": [
+          "Mahdi Karami"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "drum",
+      "raw": {
+        "title": "Graph Generation with Diffusion Mixture",
+        "authors": [
+          "Jo, Jaehyeong",
+          "Kim, Dongki",
+          "Hwang, Sung Ju"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "glad",
+      "raw": {
+        "title": "GLAD: Improving Latent Graph Generative Modeling with Simple Quantization",
+        "authors": [
+          "Van Khoa Nguyen",
+          "Yoann Boget",
+          "Frantzeska Lavda",
+          "Alexandros Kalousis"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "oversquashing",
+      "raw": {
+        "title": "Understanding over-squashing and bottlenecks on graphs via curvature",
+        "authors": [
+          "Jake Topping",
+          "Francesco Di Giovanni",
+          "Benjamin Paul Chamberlain",
+          "Xiaowen Dong",
+          "Michael M. Bronstein"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "oversquashing_review",
+      "raw": {
+        "title": "Over-Squashing in Graph Neural Networks: A Comprehensive survey",
+        "authors": [
+          "Singh Akansha"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2308.15568"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2308.15568&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "graph_pooling_review2",
+      "raw": {
+        "title": "Graph pooling for graph neural networks: progress, challenges, and opportunities",
+        "authors": [
+          "Liu, Chuang",
+          "Zhan, Yibing",
+          "Wu, Jia",
+          "Li, Chang",
+          "Du, Bo",
+          "Hu, Wenbin",
+          "Liu, Tongliang",
+          "Tao, Dacheng"
+        ],
+        "year": 2023,
+        "doi": "10.24963/ijcai.2023/752",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4385764404",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Graph Pooling for Graph Neural Networks: Progress, Challenges, and Opportunities",
+        "year": 2023,
+        "authors": [
+          "Chuang Liu",
+          "Yibing Zhan",
+          "Jia Wu",
+          "Chang Li",
+          "Bo Du",
+          "Wenbin Hu",
+          "Tongliang Liu",
+          "Dacheng Tao"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "graph_pooling_review1",
+      "raw": {
+        "title": "Understanding Pooling in Graph Neural Networks",
+        "authors": [
+          "Grattarola, Daniele",
+          "Zambon, Daniele",
+          "Bianchi, Filippo Maria",
+          "Alippi, Cesare"
+        ],
+        "year": 2024,
+        "doi": "10.1109/TNNLS.2022.3190922",
+        "arxiv_id": null
+      },
+      "status": "metadata_mismatch",
+      "openalex_id": "https://openalex.org/W3206568895",
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/e8f5a187c00d316b74482995905d1603346b2a82",
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Understanding Pooling in Graph Neural Networks",
+        "year": 2022,
+        "authors": [
+          "Daniele Grattarola",
+          "Daniele Zambon",
+          "Filippo Maria Bianchi",
+          "Cesare Alippi"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [
+        "year"
+      ],
+      "error": null
+    },
+    {
+      "key": "graph_unet",
+      "raw": {
+        "title": "Graph U-Nets",
+        "authors": [
+          "Gao, Hongyang",
+          "Ji, Shuiwang"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "attention_graph_pooling",
+      "raw": {
+        "title": "Self-Attention Graph Pooling",
+        "authors": [
+          "Lee, Junhyun",
+          "Lee, Inyeop",
+          "Kang, Jaewoo"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "graph_pooling_review3",
+      "raw": {
+        "title": "Graph pooling in graph neural networks: methods and their applications in omics studies",
+        "authors": [
+          "Wang, Yan",
+          "Hou, Wenju",
+          "Sheng, Nan",
+          "Zhao, Ziqi",
+          "Jialin, Liu",
+          "Lan, Huang",
+          "Wang, Juexin"
+        ],
+        "year": 2024,
+        "doi": "10.1007/s10462-024-10918-9",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4402808474",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Graph pooling in graph neural networks: methods and their applications in omics studies",
+        "year": 2024,
+        "authors": [
+          "Yan Wang",
+          "Wenju Hou",
+          "Nan Sheng",
+          "Ziqi Zhao",
+          "Jialin Liu",
+          "Lan Huang",
+          "Juexin Wang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "contraction_loukas",
+      "raw": {
+        "title": "Graph Reduction with Spectral and Cut Guarantees",
+        "authors": [
+          "Andreas Loukas"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "edge_contractionpoolinggraph",
+      "raw": {
+        "title": "Edge Contraction Pooling for Graph Neural Networks",
+        "authors": [
+          "Frederik Diehl"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": "1905.10990"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1905.10990&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "mincut",
+      "raw": {
+        "title": "Spectral Clustering with Graph Neural Networks for Graph Pooling",
+        "authors": [
+          "Filippo Maria Bianchi",
+          "Daniele Grattarola",
+          "Cesare Alippi"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": "1907.00481"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1907.00481&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "guidance_classifierfree",
+      "raw": {
+        "title": "Classifier-Free Diffusion Guidance",
+        "authors": [
+          "Jonathan Ho",
+          "Tim Salimans"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": "2207.12598"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2207.12598&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "DDPM",
+      "raw": {
+        "title": "Denoising Diffusion Probabilistic Models",
+        "authors": [
+          "Ho, Jonathan",
+          "Jain, Ajay",
+          "Abbeel, Pieter"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "score-based_orginal",
+      "raw": {
+        "title": "Generative Modeling by Estimating Gradients of the Data Distribution",
+        "authors": [
+          "Song, Yang",
+          "Ermon, Stefano"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "scorebased_song_corrector_sampling",
+      "raw": {
+        "title": "Score-Based Generative Modeling through Stochastic Differential Equations",
+        "authors": [
+          "Yang Song",
+          "Jascha Sohl-Dickstein",
+          "Diederik P Kingma",
+          "Abhishek Kumar",
+          "Stefano Ermon",
+          "Ben Poole"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "arg_max_flow",
+      "raw": {
+        "title": "Argmax Flows and Multinomial Diffusion: Learning Categorical Distributions",
+        "authors": [
+          "Hoogeboom, Emiel",
+          "Nielsen, Didrik",
+          "Jaini, Priyank",
+          "Forr\\'{e}, Patrick",
+          "Welling, Max"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "discdiff_campbell",
+      "raw": {
+        "title": "A Continuous Time Framework for Discrete Denoising Models",
+        "authors": [
+          "Campbell, Andrew",
+          "Benton, Joe",
+          "De Bortoli, Valentin",
+          "Rainforth, Thomas",
+          "Deligiannidis, George",
+          "Doucet, Arnaud"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=A+Continuous+Time+Framework+for+Discrete+Denoising+Models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Discrete_FlowMatching_campbell",
+      "raw": {
+        "title": "Generative flows on discrete state-spaces: enabling multimodal flows with applications to protein co-design",
+        "authors": [
+          "Campbell, Andrew",
+          "Yim, Jason",
+          "Barzilay, Regina",
+          "Rainforth, Tom",
+          "Jaakkola, Tommi"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Generative+flows+on+discrete+state-spaces%3A+enabling+multimodal+flows+with+applications+to+protein+co-design&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "discrete_flow_matching_gat",
+      "raw": {
+        "title": "Discrete Flow Matching",
+        "authors": [
+          "Itai Gat",
+          "Tal Remez",
+          "Neta Shaul",
+          "Felix Kreuk",
+          "Ricky T. Q. Chen",
+          "Gabriel Synnaeve",
+          "Yossi Adi",
+          "Yaron Lipman"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "DeFog",
+      "raw": {
+        "title": "DeFoG: Discrete Flow Matching for Graph Generation",
+        "authors": [
+          "Yiming Qin",
+          "Manuel Madeira",
+          "Dorina Thanou",
+          "Pascal Frossard"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "compounding_denoising_error",
+      "raw": {
+        "title": "Discrete Predictor-Corrector Diffusion Models for Image Synthesis",
+        "authors": [
+          "Jose Lezama",
+          "Tim Salimans",
+          "Lu Jiang",
+          "Huiwen Chang",
+          "Jonathan Ho",
+          "Irfan Essa"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "discrete_diff_ratio",
+      "raw": {
+        "title": "Discrete Diffusion Modeling by Estimating the Ratios of the Data Distribution",
+        "authors": [
+          "Lou, Aaron",
+          "Meng, Chenlin",
+          "Ermon, Stefano"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "think_generate",
+      "raw": {
+        "title": "Think while You Generate: Discrete Diffusion with Planned Denoising",
+        "authors": [
+          "Sulin Liu",
+          "Juno Nam",
+          "Andrew Campbell",
+          "Hannes Stark",
+          "Yilun Xu",
+          "Tommi Jaakkola",
+          "Rafael Gomez-Bombarelli"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "jump",
+      "raw": {
+        "title": "$\\textitJump Your Steps$: Optimizing Sampling Schedule of Discrete Diffusion Models",
+        "authors": [
+          "Yong-Hyun Park",
+          "Chieh-Hsin Lai",
+          "Satoshi Hayakawa",
+          "Yuhta Takida",
+          "Yuki Mitsufuji"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2410.07761"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2410.07761&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "head",
+      "raw": {
+        "title": "Hierarchical Equivariant Graph Generation",
+        "authors": [
+          "Yoann Boget",
+          "Pablo Strasser",
+          "Alexandros Kalousis"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "informed_correctors",
+      "raw": {
+        "title": "Informed Correctors for Discrete Diffusion Models",
+        "authors": [
+          "Yixiu Zhao",
+          "Jiaxin Shi",
+          "Lester Mackey",
+          "Scott Linderman"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2407.21243"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2407.21243&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "continuous_time_graph_diffusion",
+      "raw": {
+        "title": "Discrete-state Continuous-time Diffusion for Graph Generation",
+        "authors": [
+          "Zhe Xu",
+          "Ruizhong Qiu",
+          "Yuzhong Chen",
+          "Huiyuan Chen",
+          "Xiran Fan",
+          "Menghai Pan",
+          "Zhichen Zeng",
+          "Mahashweta Das",
+          "Hanghang Tong"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "qm9",
+      "raw": {
+        "title": "MoleculeNet: a benchmark for molecular machine learning",
+        "authors": [
+          "Zhenqin Wu",
+          "Bharath Ramsundar",
+          "Evan N Feinberg and, Joseph Gomes",
+          "Caleb Geniesse",
+          "Aneesh S Pappu",
+          "Karl Leswing",
+          "Vijay Pande"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "qm9_plus",
+      "raw": {
+        "title": "Neural Message Passing for Quantum Chemistry",
+        "authors": [
+          "Justin Gilmer",
+          "Samuel S. Schoenholz",
+          "Patrick F. Riley",
+          "Oriol Vinyals",
+          "George E. Dahl"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "cosine_sched",
+      "raw": {
+        "title": "Improved Denoising Diffusion Probabilistic Models",
+        "authors": [
+          "Nichol, Alexander Quinn",
+          "Dhariwal, Prafulla"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "classifier_guidance",
+      "raw": {
+        "title": "Diffusion Models Beat GANs on Image Synthesis",
+        "authors": [
+          "Prafulla Dhariwal",
+          "Alexander Quinn Nichol"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "classifier_free_guidance",
+      "raw": {
+        "title": "Classifier-Free Diffusion Guidance",
+        "authors": [
+          "Jonathan Ho",
+          "Tim Salimans"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": "2207.12598"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2207.12598&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "discrete_guidance_nisonoff",
+      "raw": {
+        "title": "Unlocking Guidance for Discrete State-Space Diffusion and Flow Models",
+        "authors": [
+          "Hunter Nisonoff",
+          "Junhao Xiong",
+          "Stephan Allenspach",
+          "Jennifer Listgarten"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "discrete_guidance_schiff",
+      "raw": {
+        "title": "Simple Guidance Mechanisms for Discrete Diffusion Models",
+        "authors": [
+          "Yair Schiff",
+          "Subham Sekhar Sahoo",
+          "Hao Phung",
+          "Guanghan Wang",
+          "Sam Boshar",
+          "Hugo Dalla-torre",
+          "Bernardo P de Almeida",
+          "Alexander M Rush",
+          "Thomas PIERROT",
+          "Volodymyr Kuleshov"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "repara_disc_diff_zheng",
+      "raw": {
+        "title": "A Reparameterized Discrete Diffusion Model for Text Generation",
+        "authors": [
+          "Lin Zheng",
+          "Jianbo Yuan",
+          "Lei Yu",
+          "Lingpeng Kong"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2302.05737"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2302.05737&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "planning_for_mask_diffusion",
+      "raw": {
+        "title": "Path Planning for Masked Diffusion Model Sampling",
+        "authors": [
+          "Fred Zhangzhi Peng",
+          "Zachary Bezemek",
+          "Sawan Patel",
+          "Jarrid Rector-Brooks",
+          "Sherwood Yao",
+          "Alexander Tong",
+          "Pranam Chatterjee"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2502.03540"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2502.03540&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "plan_for_the_best",
+      "raw": {
+        "title": "Train for the Worst, Plan for the Best: Understanding Token Ordering in Masked Diffusions",
+        "authors": [
+          "Jaeyeon Kim",
+          "Kulin Shah",
+          "Vasilis Kontonis",
+          "Sham Kakade",
+          "Sitan Chen"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2502.06768"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2502.06768&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "LLDM",
+      "raw": {
+        "title": "Large Language Diffusion Models",
+        "authors": [
+          "Shen Nie",
+          "Fengqi Zhu",
+          "Zebin You",
+          "Xiaolu Zhang",
+          "Jingyang Ou",
+          "Jun Hu",
+          "Jun Zhou",
+          "Yankai Lin",
+          "Ji-Rong Wen",
+          "Chongxuan Li"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2502.09992"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2502.09992&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "maskgit",
+      "raw": {
+        "title": "MaskGIT: Masked Generative Image Transformer",
+        "authors": [
+          "Chang, Huiwen",
+          "Zhang, Han",
+          "Jiang, Lu",
+          "Liu, Ce",
+          "Freeman, William T."
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=MaskGIT%3A+Masked+Generative+Image+Transformer&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "pard",
+      "raw": {
+        "title": "Pard: Permutation-Invariant Autoregressive Diffusion for Graph Generation",
+        "authors": [
+          "Lingxiao Zhao",
+          "Xueying Ding",
+          "Leman Akoglu"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "swingnn",
+      "raw": {
+        "title": "SwinGNN: Rethinking Permutation Invariance in Diffusion Models for Graph Generation",
+        "authors": [
+          "Qi Yan",
+          "Zhengyang Liang",
+          "Yang Song",
+          "Renjie Liao",
+          "Lele Wang"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "cold_diff",
+      "raw": {
+        "title": "Cold Diffusion: Inverting Arbitrary Image Transforms Without Noise",
+        "authors": [
+          "Bansal, Arpit",
+          "Borgnia, Eitan",
+          "Chu, Hong-Min",
+          "Li, Jie",
+          "Kazemi, Hamid",
+          "Huang, Furong",
+          "Goldblum, Micah",
+          "Geiping, Jonas",
+          "Goldstein, Tom"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "simple_and_effective_MDL",
+      "raw": {
+        "title": "Simple and Effective Masked Diffusion Language Models",
+        "authors": [
+          "Sahoo, Subham Sekhar",
+          "Arriola, Marianne",
+          "Schiff, Yair",
+          "Gokaslan, Aaron",
+          "Marroquin, Edgar",
+          "Chiu, Justin T",
+          "Rush, Alexander",
+          "Kuleshov, Volodymyr"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "time_indep_absorbing",
+      "raw": {
+        "title": "Your Absorbing Discrete Diffusion Secretly Models the Conditional Distributions of Clean Data",
+        "authors": [
+          "Jingyang Ou",
+          "Shen Nie",
+          "Kaiwen Xue",
+          "Fengqi Zhu",
+          "Jiacheng Sun",
+          "Zhenguo Li",
+          "Chongxuan Li"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2406.03736"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2406.03736&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "richemond2022",
+      "raw": {
+        "title": "Categorical SDEs with Simplex Diffusion",
+        "authors": [
+          "Pierre H. Richemond",
+          "Sander Dieleman",
+          "Arnaud Doucet"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": "2210.14784"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2210.14784&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "floto2023",
+      "raw": {
+        "title": "Diffusion on the Probability Simplex",
+        "authors": [
+          "Griffin Floto",
+          "Thorsteinn Jonsson",
+          "Mihai Nica",
+          "Scott Sanner",
+          "Eric Zhengyu Zhu"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": "2309.02530"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2309.02530&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "avdeyev23a",
+      "raw": {
+        "title": "Dirichlet Diffusion Score Model for Biological Sequence Generation",
+        "authors": [
+          "Avdeyev, Pavel",
+          "Shi, Chenlai",
+          "Tan, Yuhao",
+          "Dudnyk, Kseniia",
+          "Zhou, Jian"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "SID",
+      "raw": {
+        "title": "Simple and Critical Iterative Denoising: A Recasting of Discrete Diffusion in Graph Generation",
+        "authors": [
+          "Boget, Yoann"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Simple+and+Critical+Iterative+Denoising%3A+A+Recasting+of+Discrete+Diffusion+in+Graph+Generation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "DirichletFlowMating",
+      "raw": {
+        "title": "Dirichlet flow matching with applications to DNA sequence design",
+        "authors": [
+          "Stark, Hannes",
+          "Jing, Bowen",
+          "Wang, Chenyu",
+          "Corso, Gabriele",
+          "Berger, Bonnie",
+          "Barzilay, Regina",
+          "Jaakkola, Tommi"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Dirichlet+flow+matching+with+applications+to+DNA+sequence+design&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "BetaGraph",
+      "raw": {
+        "title": "Advancing Graph Generation through Beta Diffusion",
+        "authors": [
+          "Liu, Xinyang",
+          "He, Yilin",
+          "Chen, Bo",
+          "Zhou, Mingyuan"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Advancing+Graph+Generation+through+Beta+Diffusion&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Non_Markov_Continuous",
+      "raw": {
+        "title": "Fast sampling via discrete non-Markov diffusion models with predetermined transition time",
+        "authors": [
+          "Chen, Zixiang",
+          "Yuan, Huizhuo",
+          "Li, Yongqian",
+          "Kou, Yiwen",
+          "Zhang, Junkai",
+          "Gu, Quanquan"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Fast+sampling+via+discrete+non-Markov+diffusion+models+with+predetermined+transition+time&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Non_Markov_discrete",
+      "raw": {
+        "title": "Non-Markovian Discrete Diffusion with Causal Language Models",
+        "authors": [
+          "Yangtian Zhang",
+          "Sizhuang He",
+          "Daniel Levine",
+          "Lawrence Zhao",
+          "David Zhang",
+          "Syed A Rizvi",
+          "Emanuele Zappala",
+          "Rex Ying",
+          "David van Dijk"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2502.09767"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2502.09767&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "DDIM",
+      "raw": {
+        "title": "Denoising Diffusion Implicit Models",
+        "authors": [
+          "Jiaming Song",
+          "Chenlin Meng",
+          "Stefano Ermon"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "CatFlow",
+      "raw": {
+        "title": "Variational Flow Matching for Graph Generation",
+        "authors": [
+          "Floor Eijkelboom",
+          "Grigory Bartosh",
+          "Christian A. Naesseth",
+          "Max Welling",
+          "Jan-Willem van de Meent"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "MarkovChainTheorem",
+      "raw": {
+        "title": "Various proofs of the Fundamental Theorem of Markov Chains",
+        "authors": [
+          "Somenath Biswas"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": "2204.00784"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2204.00784&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "rrwp",
+      "raw": {
+        "title": "Graph Inductive Biases in Transformers without Message Passing",
+        "authors": [
+          "Ma, Liheng",
+          "Lin, Chen",
+          "Lim, Derek",
+          "Romero-Soriano, Adriana",
+          "Dokania, Puneet K.",
+          "Coates, Mark",
+          "Torr, Philip",
+          "Lim, Ser-Nam"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "graphBFN",
+      "raw": {
+        "title": "Smooth Interpolation for Improved Discrete Graph Generative Models",
+        "authors": [
+          "Song, Yuxuan",
+          "Shi, Juntong",
+          "Gong, Jingjing",
+          "Xu, Minkai",
+          "Ermon, Stefano",
+          "Zhou, Hao",
+          "Ma, Wei-Ying"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Loukas_WhatGNN",
+      "raw": {
+        "title": "What graph neural networks cannot learn: depth vs width",
+        "authors": [
+          "Andreas Loukas"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    }
+  ]
+}

@@ -1,0 +1,1202 @@
+{
+  "paper_id": "8e32c11f-a037-4ae0-933a-146232c111a2",
+  "total": 40,
+  "verified": 27,
+  "mismatch": 5,
+  "missing": 2,
+  "ambiguous": 0,
+  "error": 0,
+  "skipped": 6,
+  "s2_consulted": 21,
+  "s2_lifted": 1,
+  "key_style_outliers": [
+    "Tansey02012022",
+    "shaer23a",
+    "pmlr-v130-klusowski21b"
+  ],
+  "entries": [
+    {
+      "key": "reyerolobo2025principledapproachcomparingvariable",
+      "raw": {
+        "title": "A principled approach for comparing Variable Importance",
+        "authors": [
+          "Angel Reyero-Lobo",
+          "Pierre Neuvial",
+          "Bertrand Thirion"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2507.17306"
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/30b193c05d13c16f46c05132f264f222498a23da",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "A principled approach for comparing Variable Importance",
+        "year": 2025,
+        "authors": [
+          "Angel Reyero-Lobo",
+          "Pierre Neuvial",
+          "Bertrand Thirion"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Vershynin_2018",
+      "raw": {
+        "title": "High-Dimensional Probability: An Introduction with Applications in Data Science",
+        "authors": [
+          "Vershynin, Roman"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "metadata_mismatch",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/fa5853fdef7d2f6bb68203d187ddacbbddc63a8b",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "High-Dimensional Probability: An Introduction with Applications in Data Science",
+        "year": 2020,
+        "authors": [
+          "O. Papaspiliopoulos"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [
+        "year",
+        "authors"
+      ],
+      "error": null
+    },
+    {
+      "key": "opt_error",
+      "raw": {
+        "title": "The Tradeoffs of Large Scale Learning",
+        "authors": [
+          "Bottou, L\\'{e}on",
+          "Bousquet, Olivier"
+        ],
+        "year": 2007,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "liu2022fast",
+      "raw": {
+        "title": "Fast and powerful conditional randomization testing via distillation",
+        "authors": [
+          "Liu, Molei",
+          "Katsevich, Eugene",
+          "Janson, Lucas",
+          "Ramdas, Aaditya"
+        ],
+        "year": 2022,
+        "doi": "10.1093/biomet/asab039",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3179102185",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Fast and powerful conditional randomization testing via distillation",
+        "year": 2021,
+        "authors": [
+          "Molei Liu",
+          "Eugene Katsevich",
+          "Lucas Janson",
+          "Aaditya Ramdas"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "molnar2025",
+      "raw": {
+        "title": "Interpretable Machine Learning",
+        "authors": [
+          "Christoph Molnar"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Tansey02012022",
+      "raw": {
+        "title": "The Holdout Randomization Test for Feature Selection in Black Box Models",
+        "authors": [
+          "Wesley Tansey",
+          "Victor Veitch",
+          "Haoran Zhang",
+          "Raul Rabadan",
+          "David M. Blei and"
+        ],
+        "year": 2022,
+        "doi": "10.1080/10618600.2021.1923520",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3175769723",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "The Holdout Randomization Test for Feature Selection in Black Box Models",
+        "year": 2021,
+        "authors": [
+          "Wesley Tansey",
+          "Victor Veitch",
+          "Haoran Zhang",
+          "Raúl Rabadán",
+          "David M. Blei"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "romano2020deep",
+      "raw": {
+        "title": "Deep knockoffs",
+        "authors": [
+          "Romano, Yaniv",
+          "Sesia, Matteo",
+          "Cand{\\`e}s, Emmanuel"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "metadata_mismatch",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/b89904af131755c692e4dd5044f3fb91b6b232f0",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Deep Knockoffs",
+        "year": 2018,
+        "authors": [
+          "Yaniv Romano",
+          "Matteo Sesia",
+          "E. Candès"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [
+        "year"
+      ],
+      "error": null
+    },
+    {
+      "key": "sesia2019gene",
+      "raw": {
+        "title": "Gene hunting with hidden Markov model knockoffs",
+        "authors": [
+          "Sesia, Matteo",
+          "Sabatti, Chiara",
+          "Cand{\\`e}s, Emmanuel J"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "metadata_mismatch",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/cc838a882b254d37f571c234781cfbad1c15227b",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Gene hunting with hidden Markov model knockoffs",
+        "year": 2017,
+        "authors": [
+          "Matteo Sesia",
+          "C. Sabatti",
+          "E. Candès"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [
+        "year"
+      ],
+      "error": null
+    },
+    {
+      "key": "bates2021metropolized",
+      "raw": {
+        "title": "Metropolized knockoff sampling",
+        "authors": [
+          "Bates, Stephen",
+          "Cand{\\`e}s, Emmanuel",
+          "Janson, Lucas",
+          "Wang, Wenshuo"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "metadata_mismatch",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/cdbdefbe79f936d0fe16a4f3f109acd022a31316",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Metropolized Knockoff Sampling",
+        "year": 2019,
+        "authors": [
+          "Stephen Bates",
+          "E. Candès",
+          "Lucas Janson",
+          "Wenshuo Wang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [
+        "year"
+      ],
+      "error": null
+    },
+    {
+      "key": "fan2025asymptoticfdrcontrolmodelx",
+      "raw": {
+        "title": "Asymptotic FDR Control with Model-X Knockoffs: Is Moments Matching Sufficient?",
+        "authors": [
+          "Yingying Fan",
+          "Lan Gao",
+          "Jinchi Lv",
+          "Xiaocong Xu"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2502.05969"
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/cd3ed70c4ad02b25d8fd78b666a0ab367c2cd150",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Asymptotic FDR Control with Model-X Knockoffs: Is Moments Matching Sufficient?",
+        "year": 2025,
+        "authors": [
+          "Yingying Fan",
+          "Lan Gao",
+          "Jinchi Lv",
+          "Xiaocong Xu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Watson2021",
+      "raw": {
+        "title": "Testing conditional independence in supervised learning algorithms",
+        "authors": [
+          "Watson, David S.",
+          "Wright, Marvin N."
+        ],
+        "year": 2021,
+        "doi": "10.1007/s10994-021-06030-6",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2935780604",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Testing conditional independence in supervised learning algorithms",
+        "year": 2021,
+        "authors": [
+          "David Watson",
+          "Marvin N. Wright"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Strobl2008",
+      "raw": {
+        "title": "Conditional variable importance for random forests",
+        "authors": [
+          "Carolin Strobl",
+          "Anne-Laure Boulesteix",
+          "Thomas Kneib",
+          "Thomas Augustin",
+          "Achim Zeileis"
+        ],
+        "year": 2008,
+        "doi": "10.1186/1471-2105-9-307",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2143481518",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Conditional variable importance for random forests",
+        "year": 2008,
+        "authors": [
+          "Carolin Strobl",
+          "Anne‐Laure Boulesteix",
+          "Thomas Kneib",
+          "Thomas Augustin",
+          "Achim Zeileis"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "lei2018",
+      "raw": {
+        "title": "Distribution-Free Predictive Inference for Regression",
+        "authors": [
+          "Jing Lei",
+          "Max G'Sell",
+          "Alessandro Rinaldo",
+          "Ryan J. Tibshirani",
+          "Larry Wasserman"
+        ],
+        "year": 2018,
+        "doi": "10.1080/01621459.2017.1307116",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2964060211",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Distribution-Free Predictive Inference for Regression",
+        "year": 2017,
+        "authors": [
+          "Jing Lei",
+          "Max G’Sell",
+          "Alessandro Rinaldo",
+          "Ryan J. Tibshirani",
+          "Larry Wasserman"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "bousquet2002stability",
+      "raw": {
+        "title": "Stability and generalization",
+        "authors": [
+          "Bousquet, Olivier",
+          "Elisseeff, Andr{\\'e}"
+        ],
+        "year": 2002,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/53f2bf254c530c4412a8892896422511bc2cee45",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Stability and Generalization",
+        "year": 2002,
+        "authors": [
+          "O. Bousquet",
+          "A. Elisseeff"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "aggreg_KO",
+      "raw": {
+        "title": "Aggregation of Multiple Knockoffs",
+        "authors": [
+          "Nguyen, Tuan-Binh",
+          "Chevalier, Jerome-Alexis",
+          "Thirion, Bertrand",
+          "Arlot, Sylvain"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "LocoVSShapley",
+      "raw": {
+        "title": "Feature Importance: A Closer Look at Shapley Values and LOCO",
+        "authors": [
+          "Sabella Verdinelli",
+          "Larry Wasserman"
+        ],
+        "year": 2024,
+        "doi": "10.1214/24-STS911",
+        "arxiv_id": null
+      },
+      "status": "not_found",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "shah_peters_CIT",
+      "raw": {
+        "title": "The Hardness of Conditional Independence Testing and the Generalised Covariance Measure",
+        "authors": [
+          "Shah, Rajen",
+          "Peters, Jonas"
+        ],
+        "year": 2018,
+        "doi": "10.1214/19-AOS1857",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2797510035",
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/22c3262ac4d60531c452573c5e85cfbadb89df93",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "The hardness of conditional independence testing and the generalised covariance measure",
+        "year": 2018,
+        "authors": [
+          "Rajen Dinesh Shah",
+          "J. Peters"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "wdbc1995",
+      "raw": {
+        "title": "Breast cancer diagnosis and prognosis via linear programming",
+        "authors": [
+          "Mangasarian, O.~L.",
+          "Street, W.~N.",
+          "Wolberg, W.~H."
+        ],
+        "year": 1995,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/6a1b3266d2e68b67c398cce54cbafe83828053f8",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Breast Cancer Diagnosis and Prognosis Via Linear Programming",
+        "year": 1995,
+        "authors": [
+          "O. Mangasarian",
+          "W. Street",
+          "W. Wolberg"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "blain2025knockoffsfaildiagnosingfixing",
+      "raw": {
+        "title": "When Knockoffs fail: diagnosing and fixing non-exchangeability of Knockoffs",
+        "authors": [
+          "Alexandre Blain",
+          "Angel Reyero Lobo",
+          "Julia Linhart",
+          "Bertrand Thirion",
+          "Pierre Neuvial"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2407.06892"
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/f2b4b0a9a8c61f63e08729b55beb51cdff469978",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "When Knockoffs fail: diagnosing and fixing non-exchangeability of Knockoffs",
+        "year": 2024,
+        "authors": [
+          "A. Blain",
+          "Angel Reyero Lobo",
+          "J. Linhart",
+          "Bertrand Thirion",
+          "Pierre Neuvial"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Hooker2019PleaseSP",
+      "raw": {
+        "title": "Please Stop Permuting Features: An Explanation and Alternatives",
+        "authors": [
+          "Giles Hooker",
+          "Lucas K. Mentch"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "chamma2024statistically",
+      "raw": {
+        "title": "Statistically valid variable importance assessment through conditional permutations",
+        "authors": [
+          "Chamma, Ahmad",
+          "Engemann, Denis A",
+          "Thirion, Bertrand"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/402411672a4dd618f3f88b18cbbee8873637a2f1",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Statistically Valid Variable Importance Assessment through Conditional Permutations",
+        "year": 2023,
+        "authors": [
+          "Ahmad Chamma",
+          "D. Engemann",
+          "Bertrand Thirion"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "covert2020understanding",
+      "raw": {
+        "title": "Understanding global feature contributions with additive importance measures",
+        "authors": [
+          "Covert, Ian",
+          "Lundberg, Scott M",
+          "Lee, Su-In"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/d93f3d755b7b4cbf2c32142655b27746b9d6cedc",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Understanding Global Feature Contributions With Additive Importance Measures",
+        "year": 2020,
+        "authors": [
+          "Ian Covert",
+          "Scott M. Lundberg",
+          "Su-In Lee"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "DAgostinoMcGowan2024",
+      "raw": {
+        "title": "The ``Why'' behind including ``Y'' in your imputation model",
+        "authors": [
+          "D'Agostino McGowan, Lucy",
+          "Lotspeich, Samuel C.",
+          "Hepler, Stephen A."
+        ],
+        "year": 2024,
+        "doi": "10.1177/09622802241244608",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4394856280",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "The “Why” behind including “Y” in your imputation model",
+        "year": 2024,
+        "authors": [
+          "Lucy D’Agostino McGowan",
+          "Sarah C. Lotspeich",
+          "Staci A. Hepler"
+        ]
+      },
+      "title_similarity": 0.9,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Fisher2019",
+      "raw": {
+        "title": "All Models are Wrong, but Many are Useful: Learning a Variable's Importance by Studying an Entire Class of Prediction Models Simultaneously",
+        "authors": [
+          "Fisher, Aaron",
+          "Rudin, Cynthia",
+          "Dominici, Francesca"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/8ab8836f343f7234c56dac732b48c7760f4cf168",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "All Models are Wrong, but Many are Useful: Learning a Variable's Importance by Studying an Entire Class of Prediction Models Simultaneously",
+        "year": 2018,
+        "authors": [
+          "Aaron Fisher",
+          "C. Rudin",
+          "F. Dominici"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Shapley1953",
+      "raw": {
+        "title": "A Value for n-Person Games",
+        "authors": [
+          "Shapley, Lloyd S."
+        ],
+        "year": 1953,
+        "doi": "10.1515/9781400881970-018",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2487898712",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "17. A Value for n-Person Games",
+        "year": 1953,
+        "authors": [
+          "Lloyd S. Shapley"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "shaer23a",
+      "raw": {
+        "title": "Model-X Sequential Testing for Conditional Independence via Testing by Betting",
+        "authors": [
+          "Shaer, Shalev",
+          "Maman, Gal",
+          "Romano, Yaniv"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "BH",
+      "raw": {
+        "title": "Controlling the False Discovery Rate: A Practical and Powerful Approach to Multiple Testing",
+        "authors": [
+          "Benjamini, Yoav",
+          "Hochberg, Yosef"
+        ],
+        "year": 1995,
+        "doi": "10.1111/j.2517-6161.1995.tb02031.x",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2110065044",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Controlling the False Discovery Rate: A Practical and Powerful Approach to Multiple Testing",
+        "year": 1995,
+        "authors": [
+          "Yoav Benjamini",
+          "Yosef Hochberg"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "scikit-learn",
+      "raw": {
+        "title": "Scikit-learn: Machine Learning in Python",
+        "authors": [
+          "Pedregosa, F.",
+          "Varoquaux, G.",
+          "Gramfort, A.",
+          "Michel, V.",
+          "Thirion, B.",
+          "Grisel, O.",
+          "Blondel, M.",
+          "Prettenhofer, P.",
+          "Weiss, R.",
+          "Dubourg, V.",
+          "Vanderplas, J.",
+          "Passos, A.",
+          "Cournapeau, D.",
+          "Brucher, M.",
+          "Perrot, M.",
+          "Duchesnay, E."
+        ],
+        "year": 2011,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/ad4fd2c149f220a62441576af92a8a669fe81246",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Scikit-learn: Machine Learning in Python",
+        "year": 2011,
+        "authors": [
+          "Fabian Pedregosa",
+          "G. Varoquaux",
+          "Alexandre Gramfort",
+          "V. Michel",
+          "B. Thirion",
+          "O. Grisel",
+          "Mathieu Blondel",
+          "Gilles Louppe",
+          "P. Prettenhofer",
+          "Ron Weiss",
+          "Ron J. Weiss",
+          "J. Vanderplas",
+          "Alexandre Passos",
+          "D. Cournapeau",
+          "M. Brucher",
+          "M. Perrot",
+          "E. Duchesnay"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Ewald_2024",
+      "raw": {
+        "title": "A Guide to Feature Importance Methods for Scientific Inference",
+        "authors": [
+          "Ewald, Fiona Katharina",
+          "Bothmann, Ludwig",
+          "Wright, Marvin N.",
+          "Bischl, Bernd",
+          "Casalicchio, Giuseppe",
+          "König, Gunnar"
+        ],
+        "year": 2024,
+        "doi": "10.1007/978-3-031-63797-1_22",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4400438898",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "A Guide to Feature Importance Methods for Scientific Inference",
+        "year": 2024,
+        "authors": [
+          "Fiona Katharina Ewald",
+          "Ludwig Bothmann",
+          "Marvin N. Wright",
+          "Bernd Bischl",
+          "Giuseppe Casalicchio",
+          "Gunnar König"
+        ]
+      },
+      "title_similarity": 0.8548387096774194,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "zhao2022penalizing",
+      "raw": {
+        "title": "Penalizing gradient norm for efficiently improving generalization in deep learning",
+        "authors": [
+          "Zhao, Yang",
+          "Zhang, Hao",
+          "Hu, Xiuyuan"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/40f20b748cc8ede27a0223f357a850eb4b93fd3a",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Penalizing Gradient Norm for Efficiently Improving Generalization in Deep Learning",
+        "year": 2022,
+        "authors": [
+          "Yang Zhao",
+          "Hao Zhang",
+          "Xiuyuan Hu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Scornet_2015ConsistencyRF",
+      "raw": {
+        "title": "Consistency of random forests",
+        "authors": [
+          "Scornet, Erwan",
+          "Biau, Gérard",
+          "Vert, Jean-Philippe"
+        ],
+        "year": 2015,
+        "doi": "10.1214/15-aos1321",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2162387923",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Consistency of random forests",
+        "year": 2015,
+        "authors": [
+          "Erwan Scornet",
+          "Gérard Biau",
+          "Jean‐Philippe Vert"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "pmlr-v130-klusowski21b",
+      "raw": {
+        "title": "Sharp Analysis of a Simple Model for Random Forests",
+        "authors": [
+          "Klusowski, Jason"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Breiman2001",
+      "raw": {
+        "title": "Random Forests",
+        "authors": [
+          "Leo Breiman"
+        ],
+        "year": 2001,
+        "doi": "10.1023/A:1010933404324",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2911964244",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Random Forests",
+        "year": 2001,
+        "authors": [
+          "Leo Breiman"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "barber-candes2015",
+      "raw": {
+        "title": "Controlling the false discovery rate via knockoffs",
+        "authors": [
+          "Rina Foygel Barber",
+          "Emmanuel J. Cand{\\`e}s"
+        ],
+        "year": 2015,
+        "doi": "10.1214/15-AOS1337",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2109177042",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Controlling the false discovery rate via knockoffs",
+        "year": 2015,
+        "authors": [
+          "Rina Foygel Barber",
+          "Emmanuel J. Candès"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "reyerolobo2025conditionalfeatureimportancerevisited",
+      "raw": {
+        "title": "Conditional Feature Importance revisited: Double Robustness, Efficiency and Inference",
+        "authors": [
+          "Angel Reyero-Lobo",
+          "Pierre Neuvial",
+          "Bertrand Thirion"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2501.17520"
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/4a1a8843a97f691d973afbac451bf008bed2e82b",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Conditional Feature Importance revisited: Double Robustness, Efficiency and Inference",
+        "year": 2025,
+        "authors": [
+          "Angel Reyero-Lobo",
+          "Pierre Neuvial",
+          "Bertrand Thirion"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "candes2018panning",
+      "raw": {
+        "title": "Panning for gold:‘model-X’knockoffs for high dimensional controlled variable selection",
+        "authors": [
+          "Cand{\\`e}s, Emmanuel",
+          "Fan, Yingying",
+          "Janson, Lucas",
+          "Lv, Jinchi"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "not_found",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Berrett_CRT_TV",
+      "raw": {
+        "title": "The Conditional Permutation Test for Independence While Controlling for Confounders",
+        "authors": [
+          "Berrett, Thomas B.",
+          "Wang, Yi",
+          "Barber, Rina Foygel",
+          "Samworth, Richard J."
+        ],
+        "year": 2019,
+        "doi": "10.1111/rssb.12340",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2953601035",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "The Conditional Permutation Test for Independence While Controlling for Confounders",
+        "year": 2019,
+        "authors": [
+          "Thomas B. Berrett",
+          "Yi Wang",
+          "Rina Foygel Barber",
+          "Richard J. Samworth"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Mi2021",
+      "raw": {
+        "title": "Permutation-based identification of important biomarkers for complex diseases via machine learning models",
+        "authors": [
+          "Xinlei Mi",
+          "Baiming Zou",
+          "Fei Zou",
+          "Jianhua Hu"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/42501b012c0ab402e58386fbf4297f5d5229ea6c",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Permutation-based identification of important biomarkers for complex diseases via machine learning models",
+        "year": 2021,
+        "authors": [
+          "Xinlei Mi",
+          "Baiming Zou",
+          "F. Zou",
+          "Jianhua Hu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "williamson2021",
+      "raw": {
+        "title": "Nonparametric variable importance assessment using machine learning techniques",
+        "authors": [
+          "Williamson, Brian D.",
+          "Gilbert, Peter B.",
+          "Carone, Marco",
+          "Simon, Noah"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/4b6a1ab9523dd729c31e483636db0fb7fb1d5967",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Nonparametric variable importance assessment using machine learning techniques",
+        "year": 2020,
+        "authors": [
+          "B. Williamson",
+          "P. Gilbert",
+          "M. Carone",
+          "N. Simon"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "williamson2023general",
+      "raw": {
+        "title": "A general framework for inference on algorithm-agnostic variable importance",
+        "authors": [
+          "Williamson, Brian D",
+          "Gilbert, Peter B",
+          "Simon, Noah R",
+          "Carone, Marco"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "metadata_mismatch",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/202b21e07defb4311e51a0d24f39137dca51e0d9",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "A General Framework for Inference on Algorithm-Agnostic Variable Importance",
+        "year": 2020,
+        "authors": [
+          "B. Williamson",
+          "P. Gilbert",
+          "N. Simon",
+          "M. Carone"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [
+        "year"
+      ],
+      "error": null
+    }
+  ]
+}

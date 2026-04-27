@@ -1,0 +1,1365 @@
+{
+  "paper_id": "f59c795a-437a-4b4a-a119-b404c8a6272f",
+  "total": 42,
+  "verified": 25,
+  "mismatch": 0,
+  "missing": 0,
+  "ambiguous": 0,
+  "error": 17,
+  "skipped": 0,
+  "s2_consulted": 1,
+  "s2_lifted": 1,
+  "key_style_outliers": [
+    "n8n_docs"
+  ],
+  "entries": [
+    {
+      "key": "murray2013naiad",
+      "raw": {
+        "title": "Naiad: A Timely Dataflow System",
+        "authors": [
+          "Murray, Derek G.",
+          "McSherry, Frank",
+          "Isaacs, Rebecca",
+          "Isard, Michael",
+          "Barham, Paul",
+          "Abadi, Mart{\\'\\i}n"
+        ],
+        "year": 2013,
+        "doi": "10.1145/2517349.2522738",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2082171780",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Naiad",
+        "year": 2013,
+        "authors": [
+          "Derek G. Murray",
+          "Frank McSherry",
+          "Rebecca Isaacs",
+          "Michael Isard",
+          "Paul Barham",
+          "Martı́n Abadi"
+        ]
+      },
+      "title_similarity": 0.27777777777777773,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "kwon2023pagedattention",
+      "raw": {
+        "title": "Efficient Memory Management for Large Language Model Serving with PagedAttention",
+        "authors": [
+          "Kwon, Woosuk",
+          "Li, Zhuohan",
+          "Zhuang, Siyuan",
+          "Sheng, Ying",
+          "Zheng, Lianmin",
+          "Yu, Cody Hao",
+          "Gonzalez, Joseph E.",
+          "Zhang, Hao",
+          "Stoica, Ion"
+        ],
+        "year": 2023,
+        "doi": "10.48550/arXiv.2309.06180",
+        "arxiv_id": "2309.06180"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4386721862",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Efficient Memory Management for Large Language Model Serving with PagedAttention",
+        "year": 2023,
+        "authors": [
+          "Woosuk Kwon",
+          "Zhuohan Li",
+          "Siyuan Zhuang",
+          "Ying Sheng",
+          "Lianmin Zheng",
+          "Cody Hao Yu",
+          "Joseph E. Gonzalez",
+          "Hao Zhang",
+          "Ion Stoica"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "zheng2023sglang",
+      "raw": {
+        "title": "SGLang: Efficient Execution of Structured Language Model Programs",
+        "authors": [
+          "Zheng, Lianmin",
+          "Yin, Liangsheng",
+          "Xie, Zhiqiang",
+          "Sun, Chuyue",
+          "Huang, Jeff",
+          "Yu, Cody Hao",
+          "Cao, Shiyi",
+          "Kozyrakis, Christos",
+          "Stoica, Ion",
+          "Gonzalez, Joseph E.",
+          "Barrett, Clark",
+          "Sheng, Ying"
+        ],
+        "year": 2023,
+        "doi": "10.48550/arXiv.2312.07104",
+        "arxiv_id": "2312.07104"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4389755588",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "SGLang: Efficient Execution of Structured Language Model Programs",
+        "year": 2023,
+        "authors": [
+          "Lianmin Zheng",
+          "Liangsheng Yin",
+          "Zhiqiang Xie",
+          "Chuyue Sun",
+          "Jeff Huang",
+          "Cody Hao Yu",
+          "Shiyi Cao",
+          "Christos Kozyrakis",
+          "Ion Stoica",
+          "Joseph E. Gonzalez",
+          "Clark Barrett",
+          "Ying Sheng"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "khattab2023dspy",
+      "raw": {
+        "title": "DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines",
+        "authors": [
+          "Khattab, Omar",
+          "Singhvi, Arnav",
+          "Maheshwari, Paridhi",
+          "Zhang, Zhiyuan",
+          "Santhanam, Keshav",
+          "Vardhamanan, Sri",
+          "Haq, Saiful",
+          "Sharma, Ashutosh",
+          "Joshi, Thomas T.",
+          "Moazam, Hanna",
+          "Miller, Heather",
+          "Zaharia, Matei",
+          "Potts, Christopher"
+        ],
+        "year": 2023,
+        "doi": "10.48550/arXiv.2310.03714",
+        "arxiv_id": "2310.03714"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4387430850",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines",
+        "year": 2023,
+        "authors": [
+          "Omar Khattab",
+          "Arnav Singhvi",
+          "Paridhi Maheshwari",
+          "Zhiyuan Zhang",
+          "Keshav Santhanam",
+          "Sri Vardhamanan",
+          "Saiful Haq",
+          "Ashutosh Sharma",
+          "Thomas T. Joshi",
+          "Hanna Moazam",
+          "Heather Miller",
+          "Matei Zaharia",
+          "Christopher Potts"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "liu2024palimpzest",
+      "raw": {
+        "title": "A Declarative System for Optimizing AI Workloads",
+        "authors": [
+          "Liu, Chunwei",
+          "Russo, Matthew",
+          "Cafarella, Michael",
+          "Cao, Lei",
+          "Chen, Peter Baille",
+          "Chen, Zui",
+          "Franklin, Michael",
+          "Kraska, Tim",
+          "Madden, Samuel",
+          "Vitagliano, Gerardo"
+        ],
+        "year": 2024,
+        "doi": "10.48550/arXiv.2405.14696",
+        "arxiv_id": "2405.14696"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4398859518",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "A Declarative System for Optimizing AI Workloads",
+        "year": 2024,
+        "authors": [
+          "Chunwei Liu",
+          "Matthew Russo",
+          "Michael Cafarella",
+          "Lei Cao",
+          "Peter Chen",
+          "Zui Chen",
+          "Michael Franklin",
+          "Tim Kraska",
+          "Samuel Madden",
+          "Gerardo Vitagliano"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "shankar2025docetl",
+      "raw": {
+        "title": "DocETL: Agentic Query Rewriting and Evaluation for Complex Document Processing",
+        "authors": [
+          "Shankar, Shreya",
+          "Chambers, Tristan",
+          "Shah, Tarak",
+          "Parameswaran, Aditya G.",
+          "Wu, Eugene"
+        ],
+        "year": 2025,
+        "doi": "10.14778/3746405.3746426",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4413948895",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "DocETL: Agentic Query Rewriting and Evaluation for Complex Document Processing",
+        "year": 2025,
+        "authors": [
+          "Shreya Shankar",
+          "Tristan Chambers",
+          "T. Shah",
+          "Aditya Parameswaran",
+          "Eugene Wu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "feng2025agentrr",
+      "raw": {
+        "title": "Get Experience from Practice: LLM Agents with Record \\& Replay",
+        "authors": [
+          "Feng, Erhu",
+          "Zhou, Wenbo",
+          "Liu, Zibin",
+          "Chen, Le",
+          "Dong, Yunpeng",
+          "Zhang, Cheng",
+          "Zhao, Yisheng",
+          "Du, Dong",
+          "Hua, Zhichao",
+          "Xia, Yubin",
+          "Chen, Haibo"
+        ],
+        "year": 2025,
+        "doi": "10.48550/arXiv.2505.17716",
+        "arxiv_id": "2505.17716"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W6910287059",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Get Experience from Practice: LLM Agents with Record &amp; Replay",
+        "year": 2025,
+        "authors": [
+          "Feng, Erhu",
+          "Zhou, Wenbo",
+          "Liu, Zibin",
+          "Chen, Le",
+          "Dong, Yunpeng",
+          "Zhang, Cheng",
+          "Zhao, Yisheng",
+          "Du, Dong",
+          "Hua, Zhichao",
+          "Xia, Yubin",
+          "Chen, Haibo"
+        ]
+      },
+      "title_similarity": 0.9752066115702479,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "chang2025sagallm",
+      "raw": {
+        "title": "SagaLLM: Context Management, Validation, and Transaction Guarantees for Multi-Agent LLM Planning",
+        "authors": [
+          "Chang, Edward Y.",
+          "Geng, Longling"
+        ],
+        "year": 2025,
+        "doi": "10.48550/arXiv.2503.11951",
+        "arxiv_id": "2503.11951"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W6891887299",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "SagaLLM: Context Management, Validation, and Transaction Guarantees for Multi-Agent LLM Planning",
+        "year": 2025,
+        "authors": [
+          "Chang, Edward Y.",
+          "Geng, Longling"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "geng2025alas",
+      "raw": {
+        "title": "ALAS: Transactional and Dynamic Multi-Agent LLM Planning",
+        "authors": [
+          "Geng, Longling",
+          "Chang, Edward Y."
+        ],
+        "year": 2025,
+        "doi": "10.48550/arXiv.2511.03094",
+        "arxiv_id": "2511.03094"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4416018523",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "ALAS: Transactional and Dynamic Multi-Agent LLM Planning",
+        "year": 2025,
+        "authors": [
+          "Geng, Longling",
+          "Edward Y. Chang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "wu2023autogen",
+      "raw": {
+        "title": "AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation",
+        "authors": [
+          "Wu, Qingyun",
+          "Bansal, Gagan",
+          "Zhang, Jieyu",
+          "Wu, Yiran",
+          "Li, Beibin",
+          "Zhu, Erkang",
+          "Jiang, Li",
+          "Zhang, Xiaoyun",
+          "Zhang, Shaokun",
+          "Liu, Jiale",
+          "Awadallah, Ahmed Hassan",
+          "White, Ryen W",
+          "Burger, Doug",
+          "Wang, Chi"
+        ],
+        "year": 2023,
+        "doi": "10.48550/arXiv.2308.08155",
+        "arxiv_id": "2308.08155"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4385965642",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation",
+        "year": 2023,
+        "authors": [
+          "Qingyun Wu",
+          "Gagan Bansal",
+          "Jieyu Zhang",
+          "Yiran Wu",
+          "Beibin Li",
+          "Erkang Zhu",
+          "Lì Jiāng",
+          "Xiaoyun Zhang",
+          "Shaokun Zhang",
+          "Liu, Jiale",
+          "Awadallah, Ahmed Hassan",
+          "White, Ryen W",
+          "Burger, Doug",
+          "Chi Wang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "zhou2023webarena",
+      "raw": {
+        "title": "WebArena: A Realistic Web Environment for Building Autonomous Agents",
+        "authors": [
+          "Zhou, Shuyan",
+          "Xu, Frank F.",
+          "Zhu, Hao",
+          "Zhou, Xuhui",
+          "Lo, Robert",
+          "Sridhar, Abishek",
+          "Cheng, Xianyi",
+          "Ou, Tianyue",
+          "Bisk, Yonatan",
+          "Fried, Daniel",
+          "Alon, Uri",
+          "Neubig, Graham"
+        ],
+        "year": 2023,
+        "doi": "10.48550/arXiv.2307.13854",
+        "arxiv_id": "2307.13854"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4385327683",
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/e41482f4ee984f17382f6cdd900df094d928be06",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "WebArena: A Realistic Web Environment for Building Autonomous Agents",
+        "year": 2023,
+        "authors": [
+          "Shuyan Zhou",
+          "Frank F. Xu",
+          "Hao Zhu",
+          "Xuhui Zhou",
+          "Robert Lo",
+          "Abishek Sridhar",
+          "Xianyi Cheng",
+          "Yonatan Bisk",
+          "Daniel Fried",
+          "Uri Alon",
+          "Graham Neubig"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "xie2024osworld",
+      "raw": {
+        "title": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
+        "authors": [
+          "Xie, Tianbao",
+          "Zhang, Danyang",
+          "Chen, Jixuan",
+          "Li, Xiaochuan",
+          "Zhao, Siheng",
+          "Cao, Ruisheng",
+          "Hua, Toh Jing",
+          "Cheng, Zhoujun",
+          "Shin, Dongchan",
+          "Lei, Fangyu",
+          "Liu, Yitao",
+          "Xu, Yiheng",
+          "Zhou, Shuyan",
+          "Savarese, Silvio",
+          "Xiong, Caiming",
+          "Zhong, Victor",
+          "Yu, Tao"
+        ],
+        "year": 2024,
+        "doi": "10.48550/arXiv.2404.07972",
+        "arxiv_id": "2404.07972"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4394782272",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
+        "year": 2024,
+        "authors": [
+          "Tianbao Xie",
+          "Danyang Zhang",
+          "Jixuan Chen",
+          "Xiaochuan Li",
+          "Siheng Zhao",
+          "Ruisheng Cao",
+          "Toh Jing Hua",
+          "Zhoujun Cheng",
+          "Dongchan Shin",
+          "Fangyu Lei",
+          "Yitao Liu",
+          "Yiheng Xu",
+          "Shuyan Zhou",
+          "Silvio Savarese",
+          "Caiming Xiong",
+          "Victor W. Zhong",
+          "Tao Yu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "taubench2024",
+      "raw": {
+        "title": "$\\tau$-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains",
+        "authors": [
+          "Yao, Shunyu",
+          "Shinn, Noah",
+          "Razavi, Pedram",
+          "Narasimhan, Karthik"
+        ],
+        "year": 2024,
+        "doi": "10.48550/arXiv.2406.12045",
+        "arxiv_id": "2406.12045"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4399836817",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "$τ$-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains",
+        "year": 2024,
+        "authors": [
+          "Shunyu Yao",
+          "Noah Shinn",
+          "Pedram Razavi",
+          "Karthik Narasimhan"
+        ]
+      },
+      "title_similarity": 0.967741935483871,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "speculativeactions2024",
+      "raw": {
+        "title": "Speculative Actions: A Lossless Framework for Faster Agentic Systems",
+        "authors": [
+          "Ye, Naimeng",
+          "Ahuja, Arnav",
+          "Liargkovas, Georgios",
+          "Lu, Yunan",
+          "Kaffes, Kostis",
+          "Peng, Tianyi"
+        ],
+        "year": 2025,
+        "doi": "10.48550/arXiv.2510.04371",
+        "arxiv_id": "2510.04371"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4414971537",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Speculative Actions: A Lossless Framework for Faster Agentic Systems",
+        "year": 2025,
+        "authors": [
+          "Naimeng Ye",
+          "Ahuja, Arnav",
+          "Georgios Liargkovas",
+          "Y. Lu",
+          "Kostis Kaffes",
+          "Tianyi Peng"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "agentgit2025",
+      "raw": {
+        "title": "AgentGit: A Version Control Framework for Reliable and Scalable LLM-Powered Multi-Agent Systems",
+        "authors": [
+          "Li, Yang",
+          "Ping, Siqi",
+          "Chen, Xiyu",
+          "Qi, Xiaojian",
+          "Wang, Zigan",
+          "Luo, Ye",
+          "Zhang, Xiaowei"
+        ],
+        "year": 2025,
+        "doi": "10.48550/arXiv.2511.00628",
+        "arxiv_id": "2511.00628"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4415938402",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "AgentGit: A Version Control Framework for Reliable and Scalable LLM-Powered Multi-Agent Systems",
+        "year": 2025,
+        "authors": [
+          "Yang Li",
+          "Siqi Ping",
+          "Xiyu Chen",
+          "Xinghua Qi",
+          "Zujie Wang",
+          "Yong Luo",
+          "Xiaowei Zhang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "aios2024",
+      "raw": {
+        "title": "AIOS: LLM Agent Operating System",
+        "authors": [
+          "Mei, Kai",
+          "Zhu, Xi",
+          "Xu, Wujiang",
+          "Hua, Wenyue",
+          "Jin, Mingyu",
+          "Li, Zelong",
+          "Xu, Shuyuan",
+          "Ye, Ruosong",
+          "Ge, Yingqiang",
+          "Zhang, Yongfeng"
+        ],
+        "year": 2024,
+        "doi": "10.48550/arXiv.2403.16971",
+        "arxiv_id": "2403.16971"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4393247776",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "AIOS: LLM Agent Operating System",
+        "year": 2024,
+        "authors": [
+          "Kai Mei",
+          "Zhu, Xi",
+          "Xu, Wujiang",
+          "Hua, Wenyue",
+          "Jin, Mingyu",
+          "Zelong Li",
+          "Shuyuan Xu",
+          "Ruosong Ye",
+          "Yingqiang Ge",
+          "Yongfeng Zhang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "vllm_blog_2023",
+      "raw": {
+        "title": "vLLM: Easy, Fast, and Cheap LLM Serving with PagedAttention",
+        "authors": [
+          "Kwon, Woosuk",
+          "Li, Zhuohan",
+          "Zhuang, Siyuan",
+          "Sheng, Ying",
+          "Zheng, Lianmin",
+          "Yu, Cody",
+          "Gonzalez, Joey",
+          "Zhang, Hao",
+          "Stoica, Ion"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=vLLM%3A+Easy%2C+Fast%2C+and+Cheap+LLM+Serving+with+PagedAttention&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "tensorrtllm_docs",
+      "raw": {
+        "title": "Welcome to TensorRT LLM's Documentation!",
+        "authors": [
+          "{NVIDIA Corporation}"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Welcome+to+TensorRT+LLM%27s+Documentation%21&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "langgraph_docs",
+      "raw": {
+        "title": "LangGraph overview",
+        "authors": [
+          "{LangChain, Inc.}"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=LangGraph+overview&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "temporal_docs",
+      "raw": {
+        "title": "Temporal Docs | Temporal Platform Documentation",
+        "authors": [
+          "{Temporal Technologies Inc.}"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Temporal+Docs+%7C+Temporal+Platform+Documentation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "cadence_workflow",
+      "raw": {
+        "title": "Cadence Workflow",
+        "authors": [
+          "{Cadence a Series of LF Projects, LLC}"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Cadence+Workflow&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "aws_step_functions",
+      "raw": {
+        "title": "What is Step Functions? - AWS Step Functions",
+        "authors": [
+          "{Amazon Web Services}"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=What+is+Step+Functions%3F+-+AWS+Step+Functions&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "crewai_docs",
+      "raw": {
+        "title": "CrewAI Documentation",
+        "authors": [
+          "{CrewAI}"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=CrewAI+Documentation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "bedrock_agents_docs",
+      "raw": {
+        "title": "Automate tasks in your application using AI agents - Amazon Bedrock",
+        "authors": [
+          "{Amazon Web Services}"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Automate+tasks+in+your+application+using+AI+agents+-+Amazon+Bedrock&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "mcp_spec_2025",
+      "raw": {
+        "title": "Specification - Model Context Protocol",
+        "authors": [
+          "{Model Context Protocol a Series of LF Projects, LLC}"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Specification+-+Model+Context+Protocol&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "openai_function_calling_guide",
+      "raw": {
+        "title": "Function calling | OpenAI API",
+        "authors": [
+          "{OpenAI}"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Function+calling+%7C+OpenAI+API&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "claude_code_docs",
+      "raw": {
+        "title": "Claude Code overview - Claude Code Docs",
+        "authors": [
+          "{Anthropic}"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Claude+Code+overview+-+Claude+Code+Docs&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "n8n_docs",
+      "raw": {
+        "title": "Explore n8n Docs: Your Resource for Workflow Automation and Integrations | n8n Docs",
+        "authors": [
+          "{n8n GmbH}"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Explore+n8n+Docs%3A+Your+Resource+for+Workflow+Automation+and+Integrations+%7C+n8n+Docs&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "airflow_docs",
+      "raw": {
+        "title": "Documentation | Apache Airflow",
+        "authors": [
+          "{The Apache Software Foundation}"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Documentation+%7C+Apache+Airflow&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "webarena_site",
+      "raw": {
+        "title": "WebArena: A Realistic Web Environment for Building Autonomous Agents",
+        "authors": [
+          "Zhou, Shuyan",
+          "Xu, Frank F.",
+          "Zhu, Hao",
+          "Zhou, Xuhui",
+          "Lo, Robert",
+          "Sridhar, Abishek",
+          "Cheng, Xianyi",
+          "Ou, Tianyue",
+          "Bisk, Yonatan",
+          "Fried, Daniel",
+          "Alon, Uri",
+          "Neubig, Graham"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2307.13854"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2307.13854&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "osworld_site",
+      "raw": {
+        "title": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
+        "authors": [
+          "Xie, Tianbao",
+          "Zhang, Danyang",
+          "Chen, Jixuan",
+          "Li, Xiaochuan",
+          "Zhao, Siheng",
+          "Cao, Ruisheng",
+          "Hua, Toh Jing",
+          "Cheng, Zhoujun",
+          "Shin, Dongchan",
+          "Lei, Fangyu",
+          "Liu, Yitao",
+          "Xu, Yiheng",
+          "Zhou, Shuyan",
+          "Savarese, Silvio",
+          "Xiong, Caiming",
+          "Zhong, Victor",
+          "Yu, Tao"
+        ],
+        "year": 2024,
+        "doi": "10.52202/079017-1650",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4415797693",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
+        "year": 2024,
+        "authors": [
+          "Ruisheng Cao",
+          "Jixuan Chen",
+          "Zhoujun Cheng",
+          "Toh Jing Hua",
+          "Fangyu Lei",
+          "Xiaochuan Li",
+          "Yitao Liu",
+          "Silvio Savarese",
+          "Dongchan Shin",
+          "Tianbao Xie",
+          "Caiming Xiong",
+          "Yiheng Xu",
+          "Tao Yu",
+          "Danyang Zhang",
+          "Siheng Zhao",
+          "Victor W. Zhong",
+          "Shuyan Zhou"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "gray1978notes",
+      "raw": {
+        "title": "Notes on Data Base Operating Systems",
+        "authors": [
+          "Gray, Jim"
+        ],
+        "year": 1978,
+        "doi": "10.1007/3-540-08755-9_9",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2106887953",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Notes on data base operating systems",
+        "year": 1978,
+        "authors": [
+          "Jim Gray"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "mohan1986transaction",
+      "raw": {
+        "title": "ARIES: A Transaction Recovery Method Supporting Fine-Granularity Locking and Partial Rollbacks Using Write-Ahead Logging",
+        "authors": [
+          "Mohan, C.",
+          "Haderle, Don",
+          "Lindsay, Bruce G.",
+          "Pirahesh, Hamid",
+          "Schwarz, Peter M."
+        ],
+        "year": 1992,
+        "doi": "10.1145/128765.128770",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2104954161",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "ARIES",
+        "year": 1992,
+        "authors": [
+          "C. Mohan",
+          "Don Haderle",
+          "Bruce G. Lindsay",
+          "Hamid Pirahesh",
+          "Peter Schwarz"
+        ]
+      },
+      "title_similarity": 0.08,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "dunlap2002revirt",
+      "raw": {
+        "title": "ReVirt: Enabling intrusion analysis through virtual-machine logging and replay",
+        "authors": [
+          "Dunlap, George W",
+          "King, Samuel T",
+          "Cinar, Sukru",
+          "Basrai, Murtaza A",
+          "Chen, Peter M"
+        ],
+        "year": 2002,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=ReVirt%3A+Enabling+intrusion+analysis+through+virtual-machine+logging+and+replay&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "garcia1987sagas",
+      "raw": {
+        "title": "Sagas",
+        "authors": [
+          "Garcia-Molina, Hector",
+          "Salem, Kenneth"
+        ],
+        "year": 1987,
+        "doi": "10.1145/38713.38742",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4251283131",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Sagas",
+        "year": 1987,
+        "authors": [
+          "Héctor García-Molina",
+          "Kenneth Salem"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "flinkdocs",
+      "raw": {
+        "title": "Stateful Stream Processing",
+        "authors": [
+          "{Apache Flink}"
+        ],
+        "year": 2026,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Stateful+Stream+Processing&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "dataflow_exactlyonce",
+      "raw": {
+        "title": "Exactly-once in Dataflow",
+        "authors": [
+          "{Google Cloud}"
+        ],
+        "year": 2026,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Exactly-once+in+Dataflow&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "begoli2021watermarks",
+      "raw": {
+        "title": "Watermarks in Stream Processing Systems: Semantics and Comparative Analysis of Apache Flink and Google Cloud Dataflow",
+        "authors": [
+          "Akidau, Tyler",
+          "Begoli, Edmon",
+          "Chernyak, Slava",
+          "Hueske, Fabian",
+          "Knight, Kathryn",
+          "Knowles, Kenneth",
+          "Mills, Daniel",
+          "Sotolongo, Dan"
+        ],
+        "year": 2021,
+        "doi": "10.14778/3476311.3476389",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3197174867",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Watermarks in stream processing systems",
+        "year": 2021,
+        "authors": [
+          "Tyler Akidau",
+          "Edmon Begoli",
+          "Slava Chernyak",
+          "Fabian Hueske",
+          "Kathryn Knight",
+          "Kenneth Knowles",
+          "D Mills",
+          "Dan Sotolongo"
+        ]
+      },
+      "title_similarity": 0.8857142857142857,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "chandy1985snapshot",
+      "raw": {
+        "title": "Distributed Snapshots: Determining Global States of Distributed Systems",
+        "authors": [
+          "Chandy, K. Mani",
+          "Lamport, Leslie"
+        ],
+        "year": 1985,
+        "doi": "10.1145/214451.214456",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2131053137",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Distributed snapshots",
+        "year": 1985,
+        "authors": [
+          "K. Mani Chandy",
+          "Leslie Lamport"
+        ]
+      },
+      "title_similarity": 0.6875,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "asynclm2024",
+      "raw": {
+        "title": "AsyncLM: Asynchronous LLM Function Calling",
+        "authors": [
+          "Gim, In",
+          "Lee, Seung-seob",
+          "Zhong, Lin"
+        ],
+        "year": 2024,
+        "doi": "10.48550/arXiv.2412.07017",
+        "arxiv_id": "2412.07017"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4405255057",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Asynchronous LLM Function Calling",
+        "year": 2024,
+        "authors": [
+          "In Gim",
+          "Seung-seob Lee",
+          "Lin Zhong"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "sherlock2025",
+      "raw": {
+        "title": "Sherlock: Reliable and Efficient Agentic Workflow Execution",
+        "authors": [
+          "Ro, Yeonju",
+          "Qiu, Haoran",
+          "Goiri, {\\'I}ñigo",
+          "Fonseca, Rodrigo",
+          "Bianchini, Ricardo",
+          "Akella, Aditya",
+          "Wang, Zhangyang",
+          "Erez, Mattan",
+          "Choukse, Esha"
+        ],
+        "year": 2025,
+        "doi": "10.48550/arXiv.2511.00330",
+        "arxiv_id": "2511.00330"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4415936971",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Sherlock: Reliable and Efficient Agentic Workflow Execution",
+        "year": 2025,
+        "authors": [
+          "Yeonju Ro",
+          "Qiu, Haoran",
+          "Íñigo Goiri",
+          "Rodrigo Fonseca",
+          "Ricardo Bianchini",
+          "Aditya Akella",
+          "Wang, Zhangyang",
+          "Mattan Erez",
+          "Esha Choukse"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "durablefunctions2021",
+      "raw": {
+        "title": "Serverless Workflows with Durable Functions and Netherite",
+        "authors": [
+          "Burckhardt, Sebastian",
+          "Gillum, Chris",
+          "Justo, David",
+          "Kallas, Konstantinos",
+          "McMahon, Connor",
+          "Meiklejohn, Christopher S."
+        ],
+        "year": 2021,
+        "doi": "10.48550/arXiv.2103.00033",
+        "arxiv_id": "2103.00033"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3134141865",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Serverless Workflows with Durable Functions and Netherite",
+        "year": 2021,
+        "authors": [
+          "Sebastian Burckhardt",
+          "Chris Gillum",
+          "David Justo",
+          "Κωνσταντίνος Καλλάς",
+          "Connor McMahon",
+          "Christopher Meiklejohn"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    }
+  ]
+}

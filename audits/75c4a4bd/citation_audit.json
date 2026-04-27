@@ -1,0 +1,3250 @@
+{
+  "paper_id": "75c4a4bd-208f-451a-8ed8-121748a738c7",
+  "total": 128,
+  "verified": 15,
+  "mismatch": 0,
+  "missing": 0,
+  "ambiguous": 0,
+  "error": 77,
+  "skipped": 36,
+  "s2_consulted": 0,
+  "s2_lifted": 0,
+  "key_style_outliers": [
+    "behnamghader_llm2vec_2024"
+  ],
+  "entries": [
+    {
+      "key": "kreuzer2021rethinking",
+      "raw": {
+        "title": "Rethinking Graph Transformers with Spectral Attention",
+        "authors": [
+          "Devin Kreuzer",
+          "Dominique Beaini",
+          "William L. Hamilton",
+          "Vincent L{\\'{e}}tourneau",
+          "Prudencio Tossou"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Rethinking+Graph+Transformers+with+Spectral+Attention&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "li_distance_2020",
+      "raw": {
+        "title": "Distance Encoding: Design Provably More Powerful Neural Networks for Graph Representation Learning",
+        "authors": [
+          "Pan Li",
+          "Yanbang Wang",
+          "Hongwei Wang",
+          "Jure Leskovec"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Distance+Encoding%3A+Design+Provably+More+Powerful+Neural+Networks+for+Graph+Representation+Learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ying_do_transformers_2021",
+      "raw": {
+        "title": "Do transformers really perform bad for graph representation?",
+        "authors": [
+          "Ying, Chengxuan",
+          "Cai, Tianle",
+          "Luo, Shengjie",
+          "Zheng, Shuxin",
+          "Ke, Guolin",
+          "He, Di",
+          "Shen, Yanming",
+          "Liu, Tie{-}Yan"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Do+transformers+really+perform+bad+for+graph+representation%3F&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zhang2023rethinking",
+      "raw": {
+        "title": "Rethinking the Expressive Power of GNNs via Graph Biconnectivity",
+        "authors": [
+          "Bohang Zhang",
+          "Shengjie Luo",
+          "Liwei Wang",
+          "Di He"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Rethinking+the+Expressive+Power+of+GNNs+via+Graph+Biconnectivity&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "bevilacqua2022equivariant",
+      "raw": {
+        "title": "Equivariant Subgraph Aggregation Networks",
+        "authors": [
+          "Beatrice Bevilacqua",
+          "Fabrizio Frasca",
+          "Derek Lim",
+          "Balasubramaniam Srinivasan",
+          "Chen Cai",
+          "Gopinath Balamurugan",
+          "Michael M. Bronstein",
+          "Haggai Maron"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Equivariant+Subgraph+Aggregation+Networks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "luo2022your",
+      "raw": {
+        "title": "Your Transformer May Not be as Powerful as You Expect",
+        "authors": [
+          "Shengjie Luo",
+          "Shanda Li",
+          "Shuxin Zheng",
+          "Tie{-}Yan Liu",
+          "Liwei Wang",
+          "Di He"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Your+Transformer+May+Not+be+as+Powerful+as+You+Expect&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "cohen2025spectral",
+      "raw": {
+        "title": "Spectral Journey: How Transformers Predict the Shortest Path",
+        "authors": [
+          "Andrew Cohen",
+          "Andrey Gromov",
+          "Kaiyu Yang",
+          "Yuandong Tian"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "yi_narformer_2023",
+      "raw": {
+        "title": "NAR-Former V2: Rethinking Transformer for Universal Neural Network Representation Learning",
+        "authors": [
+          "Yun Yi",
+          "Haokui Zhang",
+          "Rong Xiao",
+          "Nannan Wang",
+          "Xiaoyu Wang"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=NAR-Former+V2%3A+Rethinking+Transformer+for+Universal+Neural+Network+Representation+Learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "sanford_understanding_2024",
+      "raw": {
+        "title": "Understanding Transformer Reasoning Capabilities via Graph Algorithms",
+        "authors": [
+          "Clayton Sanford",
+          "Bahare Fatemi",
+          "Ethan Hall",
+          "Anton Tsitsulin",
+          "Mehran Kazemi",
+          "Jonathan Halcrow",
+          "Bryan Perozzi",
+          "Vahab Mirrokni"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Understanding+Transformer+Reasoning+Capabilities+via+Graph+Algorithms&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ma_graph_2023",
+      "raw": {
+        "title": "Graph Inductive Biases in Transformers without Message Passing",
+        "authors": [
+          "Liheng Ma",
+          "Chen Lin",
+          "Derek Lim",
+          "Adriana Romero{-}Soriano",
+          "Puneet K. Dokania",
+          "Mark Coates",
+          "Philip H. S. Torr",
+          "Ser{-}Nam Lim"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Graph+Inductive+Biases+in+Transformers+without+Message+Passing&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "chamberlain2023graph",
+      "raw": {
+        "title": "Graph Neural Networks for Link Prediction with Subgraph Sketching",
+        "authors": [
+          "Benjamin Paul Chamberlain",
+          "Sergey Shirobokov",
+          "Emanuele Rossi",
+          "Fabrizio Frasca",
+          "Thomas Markovich",
+          "Nils Yannick Hammerla",
+          "Michael M. Bronstein",
+          "Max Hansmire"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Graph+Neural+Networks+for+Link+Prediction+with+Subgraph+Sketching&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "wang2024neural",
+      "raw": {
+        "title": "Neural Common Neighbor with Completion for Link Prediction",
+        "authors": [
+          "Xiyuan Wang",
+          "Haotong Yang",
+          "Muhan Zhang"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Neural+Common+Neighbor+with+Completion+for+Link+Prediction&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zhu_neural_bellman-ford_2021",
+      "raw": {
+        "title": "Neural Bellman-Ford Networks: A General Graph Neural Network Framework for Link Prediction",
+        "authors": [
+          "Zhaocheng Zhu",
+          "Zuobai Zhang",
+          "Louis{-}Pascal A. C. Xhonneux",
+          "Jian Tang"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Neural+Bellman-Ford+Networks%3A+A+General+Graph+Neural+Network+Framework+for+Link+Prediction&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "srinivasan_equivalence_2020",
+      "raw": {
+        "title": "On the Equivalence between Positional Node Embeddings and Structural Graph Representations",
+        "authors": [
+          "Balasubramaniam Srinivasan",
+          "Bruno Ribeiro"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=On+the+Equivalence+between+Positional+Node+Embeddings+and+Structural+Graph+Representations&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zhang_link_2018",
+      "raw": {
+        "title": "Link prediction based on graph neural networks",
+        "authors": [
+          "Zhang, Muhan",
+          "Chen, Yixin"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Link+prediction+based+on+graph+neural+networks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zhang_labeling_2022",
+      "raw": {
+        "title": "Labeling Trick: A Theory of Using Graph Neural Networks for Multi-Node Representation Learning",
+        "authors": [
+          "Muhan Zhang",
+          "Pan Li",
+          "Yinglong Xia",
+          "Kai Wang",
+          "Long Jin"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "li_evaluating_2023",
+      "raw": {
+        "title": "Evaluating Graph Neural Networks for Link Prediction: Current Pitfalls and New Benchmarking",
+        "authors": [
+          "Juanhui Li",
+          "Harry Shomer",
+          "Haitao Mao",
+          "Shenglai Zeng",
+          "Yao Ma",
+          "Neil Shah",
+          "Jiliang Tang",
+          "Dawei Yin"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Evaluating+Graph+Neural+Networks+for+Link+Prediction%3A+Current+Pitfalls+and+New+Benchmarking&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "bechler-speicher_graph_2024",
+      "raw": {
+        "title": "Graph neural networks use graphs when they shouldn't",
+        "authors": [
+          "Bechler-Speicher, Maya",
+          "Amos, Ido",
+          "Gilad-Bachrach, Ran",
+          "Globerson, Amir"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Graph+neural+networks+use+graphs+when+they+shouldn%27t&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "cai_connection_2023",
+      "raw": {
+        "title": "On the Connection Between MPNN and Graph Transformer",
+        "authors": [
+          "Chen Cai",
+          "Truong Son Hy",
+          "Rose Yu",
+          "Yusu Wang"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=On+the+Connection+Between+MPNN+and+Graph+Transformer&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zhu_reasoning_2025",
+      "raw": {
+        "title": "Reasoning by Superposition: A Theoretical Perspective on Chain of Continuous Thought",
+        "authors": [
+          "Zhu, Hanlin",
+          "Hao, Shibo",
+          "Hu, Zhiting",
+          "Jiao, Jiantao",
+          "Russell, Stuart",
+          "Tian, Yuandong"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2505.12514"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2505.12514&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "wu_emergence_2025",
+      "raw": {
+        "title": "On the Emergence of Position Bias in Transformers",
+        "authors": [
+          "Wu, Xinyi",
+          "Wang, Yifei",
+          "Jegelka, Stefanie",
+          "Jadbabaie, Ali"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2502.01951"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2502.01951&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "hao_training_2024",
+      "raw": {
+        "title": "Training Large Language Models to Reason in a Continuous Latent Space",
+        "authors": [
+          "Hao, Shibo",
+          "Sukhbaatar, Sainbayar",
+          "Su, DiJia",
+          "Li, Xian",
+          "Hu, Zhiting",
+          "Weston, Jason",
+          "Tian, Yuandong"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2412.06769"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2412.06769&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "frydenlund_language_2025",
+      "raw": {
+        "title": "Language Models, Graph Searching, and Supervision Adulteration: When More Supervision is Less and How to Make More More",
+        "authors": [
+          "Frydenlund, Arvid"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2503.10542"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2503.10542&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "minegishi_topology_2025",
+      "raw": {
+        "title": "Topology of Reasoning: Understanding Large Reasoning Models through Reasoning Graph Properties",
+        "authors": [
+          "Minegishi, Gouki",
+          "Furuta, Hiroki",
+          "Kojima, Takeshi",
+          "Iwasawa, Yusuke",
+          "Matsuo, Yutaka"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2506.05744"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2506.05744&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "tang_toward_2025",
+      "raw": {
+        "title": "Toward a Graph Foundation Model: Pre-Training Transformers With Random Walks",
+        "authors": [
+          "Tang, Ziyuan",
+          "Chen, Jie"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2506.14098"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2506.14098&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "wang_exploring_2025",
+      "raw": {
+        "title": "Exploring Graph Tasks with Pure LLMs: A Comprehensive Benchmark and Investigation",
+        "authors": [
+          "Wang, Yuxiang",
+          "Dai, Xinnan",
+          "Fan, Wenqi",
+          "Ma, Yao"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2502.18771"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2502.18771&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "yehudai_depth-width_2025",
+      "raw": {
+        "title": "Depth-Width tradeoffs in Algorithmic Reasoning of Graph Tasks with Transformers",
+        "authors": [
+          "Yehudai, Gilad",
+          "Sanford, Clayton",
+          "Bechler-Speicher, Maya",
+          "Fischer, Orr",
+          "Gilad-Bachrach, Ran",
+          "Globerson, Amir"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2503.01805"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2503.01805&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "merrill_little_2025",
+      "raw": {
+        "title": "A Little Depth Goes a Long Way: The Expressive Power of Log-Depth Transformers",
+        "authors": [
+          "Merrill, William",
+          "Sabharwal, Ashish"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2503.03961"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2503.03961&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "merrill_expressive_2024",
+      "raw": {
+        "title": "The Expressive Power of Transformers with Chain of Thought",
+        "authors": [
+          "William Merrill",
+          "Ashish Sabharwal"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "chen_nagphormer_2023",
+      "raw": {
+        "title": "NAGphormer: A Tokenized Graph Transformer for Node Classification in Large Graphs",
+        "authors": [
+          "Jinsong Chen",
+          "Kaiyuan Gao",
+          "Gaichao Li",
+          "Kun He"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "saparov_transformers_2025",
+      "raw": {
+        "title": "Transformers Struggle to Learn to Search",
+        "authors": [
+          "Saparov, Abulhair",
+          "Pawar, Srushti",
+          "Pimpalgaonkar, Shreyas",
+          "Joshi, Nitish",
+          "Pang, Richard Yuanzhe",
+          "Padmakumar, Vishakh",
+          "Kazemi, Seyed Mehran",
+          "Kim, Najoung",
+          "He, He"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2412.04703"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2412.04703&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "bachmann_pitfalls_2024",
+      "raw": {
+        "title": "The Pitfalls of Next-Token Prediction",
+        "authors": [
+          "Gregor Bachmann",
+          "Vaishnavh Nagarajan"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "kim_pure_2022",
+      "raw": {
+        "title": "Pure Transformers are Powerful Graph Learners",
+        "authors": [
+          "Jinwoo Kim",
+          "Dat Nguyen",
+          "Seonwoo Min",
+          "Sungjun Cho",
+          "Moontae Lee",
+          "Honglak Lee",
+          "Seunghoon Hong"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Pure+Transformers+are+Powerful+Graph+Learners&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "diao_relational_2023",
+      "raw": {
+        "title": "Relational Attention: Generalizing Transformers for Graph-Structured Tasks",
+        "authors": [
+          "Cameron Diao",
+          "Ricky Loynd"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "kim_transformers_2022",
+      "raw": {
+        "title": "Transformers Generalize DeepSets and Can be Extended to Graphs and Hypergraphs",
+        "authors": [
+          "Kim, Jinwoo",
+          "Oh, Saeyoon",
+          "Hong, Seunghoon"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": "2110.14416"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2110.14416&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zhao_graphgpt_2025",
+      "raw": {
+        "title": "GraphGPT: Generative Pre-trained Graph Eulerian Transformer",
+        "authors": [
+          "Qifang Zhao",
+          "Weidong Ren",
+          "Tianyu Li",
+          "Hong Liu",
+          "Xingsheng He",
+          "Xiaoxiao Xu"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "pfau_lets_2024",
+      "raw": {
+        "title": "Let's Think Dot by Dot: Hidden Computation in Transformer Language Models",
+        "authors": [
+          "Pfau, Jacob",
+          "Merrill, William",
+          "Bowman, Samuel R."
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2404.15758"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2404.15758&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ma_plain_2025",
+      "raw": {
+        "title": "Plain Transformers Can be Powerful Graph Learners",
+        "authors": [
+          "Ma, Liheng",
+          "Pal, Soumyasundar",
+          "Zhang, Yingxue",
+          "Torr, Philip H. S.",
+          "Coates, Mark"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2504.12588"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2504.12588&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "dai_sequence_2025",
+      "raw": {
+        "title": "From Sequence to Structure: Uncovering Substructure Reasoning in Transformers",
+        "authors": [
+          "Dai, Xinnan",
+          "Yang, Kai",
+          "Revolinsky, Jay",
+          "Guo, Kai",
+          "Wang, Aoran",
+          "Zhang, Bohang",
+          "Tang, Jiliang"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2507.10435"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2507.10435&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "shomer_lpformer_2024",
+      "raw": {
+        "title": "LPFormer: An Adaptive Graph Transformer for Link Prediction",
+        "authors": [
+          "Harry Shomer",
+          "Yao Ma",
+          "Haitao Mao",
+          "Juanhui Li",
+          "Bo Wu",
+          "Jiliang Tang"
+        ],
+        "year": 2024,
+        "doi": "10.1145/3637528.3672025",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4401863661",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "LPFormer: An Adaptive Graph Transformer for Link Prediction",
+        "year": 2024,
+        "authors": [
+          "Harry Shomer",
+          "Yao Ma",
+          "Haitao Mao",
+          "Juanhui Li",
+          "Bo Wu",
+          "Jiliang Tang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "dwivedi_graph_2023",
+      "raw": {
+        "title": "Graph Transformers for Large Graphs",
+        "authors": [
+          "Dwivedi, Vijay Prakash",
+          "Liu, Yozen",
+          "Luu, Anh Tuan",
+          "Bresson, Xavier",
+          "Shah, Neil",
+          "Zhao, Tong"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": "2312.11109"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2312.11109&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "cheng_graph_2025",
+      "raw": {
+        "title": "Graph Transformers Dream of Electric Flow",
+        "authors": [
+          "Cheng, Xiang",
+          "Carin, Lawrence",
+          "Sra, Suvrit"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2410.16699"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2410.16699&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "badrinath_omnisage_2025",
+      "raw": {
+        "title": "OmniSage: Large Scale, Multi-Entity Heterogeneous Graph Representation Learning",
+        "authors": [
+          "Badrinath, Anirudhan",
+          "Yang, Alex",
+          "Rajesh, Kousik",
+          "Agarwal, Prabhat",
+          "Yang, Jaewon",
+          "Chen, Haoyu",
+          "Xu, Jiajing",
+          "Rosenberg, Charles"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2504.17811"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2504.17811&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "kim_revisiting_2025",
+      "raw": {
+        "title": "Revisiting Random Walks for Learning on Graphs",
+        "authors": [
+          "Jinwoo Kim",
+          "Olga Zaghen",
+          "Ayhan Suleymanzade",
+          "Youngmin Ryou",
+          "Seunghoon Hong"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "airale_simple_2025",
+      "raw": {
+        "title": "Simple Path Structural Encoding for Graph Transformers",
+        "authors": [
+          "Airale, Louis",
+          "Longa, Antonio",
+          "Rigon, Mattia",
+          "Passerini, Andrea",
+          "Passerone, Roberto"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "aiyappa_implicit_2024",
+      "raw": {
+        "title": "Implicit degree bias in the link prediction task",
+        "authors": [
+          "Aiyappa, Rachith",
+          "Wang, Xin",
+          "Kim, Munjung",
+          "Seckin, Ozgur Can",
+          "Yoon, Jisung",
+          "Ahn, Yong-Yeol",
+          "Kojaku, Sadamori"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2405.14985"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2405.14985&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "guo_how_2025",
+      "raw": {
+        "title": "How Do LLMs Perform Two-Hop Reasoning in Context?",
+        "authors": [
+          "Guo, Tianyu",
+          "Zhu, Hanlin",
+          "Zhang, Ruiqi",
+          "Jiao, Jiantao",
+          "Mei, Song",
+          "Jordan, Michael I.",
+          "Russell, Stuart"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2502.13913"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2502.13913&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "le_local-global_2025",
+      "raw": {
+        "title": "Local-Global Shortest Path Algorithms on Random Graphs, Enhanced with GNNs",
+        "authors": [
+          "Le, My",
+          "Ruiz, Luana",
+          "Dhara, Souvik"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "nerem_graph_2025",
+      "raw": {
+        "title": "Graph neural networks extrapolate out-of-distribution for shortest paths",
+        "authors": [
+          "Nerem, Robert R.",
+          "Chen, Samantha",
+          "Dasgupta, Sanjoy",
+          "Wang, Yusu"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2503.19173"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2503.19173&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "alimohammadi_local_2024",
+      "raw": {
+        "title": "A Local Graph Limits Perspective on Sampling-Based GNNs",
+        "authors": [
+          "Alimohammadi, Yeganeh",
+          "Ruiz, Luana",
+          "Saberi, Amin"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "muller_attending_2024",
+      "raw": {
+        "title": "Attending to Graph Transformers",
+        "authors": [
+          "Müller, Luis",
+          "Galkin, Mikhail",
+          "Morris, Christopher",
+          "Rampášek, Ladislav"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": "2302.04181"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2302.04181&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "chen_flatten_2025",
+      "raw": {
+        "title": "Flatten Graphs as Sequences: Transformers are Scalable Graph Generators",
+        "authors": [
+          "Chen, Dexiong",
+          "Krimmel, Markus",
+          "Borgwardt, Karsten"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2502.02216"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2502.02216&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "nagarajan_roll_2025",
+      "raw": {
+        "title": "Roll the dice \\& look before you leap: Going beyond the creative limits of next-token prediction",
+        "authors": [
+          "Nagarajan, Vaishnavh",
+          "Wu, Chen Henry",
+          "Ding, Charles",
+          "Raghunathan, Aditi"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2504.15266"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2504.15266&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "samragh_your_2025",
+      "raw": {
+        "title": "Your LLM Knows the Future: Uncovering Its Multi-Token Prediction Potential",
+        "authors": [
+          "Samragh, Mohammad",
+          "Kundu, Arnav",
+          "Harrison, David",
+          "Nishu, Kumari",
+          "Naik, Devang",
+          "Cho, Minsik",
+          "Farajtabar, Mehrdad"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2507.11851"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2507.11851&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "rosenbluth_distinguished_2024",
+      "raw": {
+        "title": "Distinguished In Uniform: Self-Attention Vs. Virtual Nodes",
+        "authors": [
+          "Eran Rosenbluth",
+          "Jan T{\\\"{o}}nshoff",
+          "Martin Ritzert",
+          "Berke Kisin",
+          "Martin Grohe"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "vakil_curriculum_2023",
+      "raw": {
+        "title": "Curriculum Learning for Graph Neural Networks: A Multiview Competence-based Approach",
+        "authors": [
+          "Vakil, Nidhi",
+          "Amiri, Hadi"
+        ],
+        "year": 2023,
+        "doi": "10.18653/v1/2023.acl-long.389",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4385572015",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Curriculum Learning for Graph Neural Networks: A Multiview Competence-based Approach",
+        "year": 2023,
+        "authors": [
+          "Nidhi Vakil",
+          "Hadi Amiri"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "zhou_tokenphormer_2025",
+      "raw": {
+        "title": "Tokenphormer: Structure-aware Multi-token Graph Transformer for Node Classification",
+        "authors": [
+          "Zhou, Zijie",
+          "Lu, Zhaoqi",
+          "Wei, Xuekai",
+          "Chen, Rongqin",
+          "Zhang, Shenghui",
+          "Ip, Pak Lon",
+          "U, Leong Hou"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2412.15302"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2412.15302&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "behnamghader_llm2vec_2024",
+      "raw": {
+        "title": "LLM2Vec: Large Language Models Are Secretly Powerful Text Encoders",
+        "authors": [
+          "BehnamGhader, Parishad",
+          "Adlakha, Vaibhav",
+          "Mosbach, Marius",
+          "Bahdanau, Dzmitry",
+          "Chapados, Nicolas",
+          "Reddy, Siva"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2404.05961"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2404.05961&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ma_reconsidering_2025",
+      "raw": {
+        "title": "Reconsidering the Performance of GAE in Link Prediction",
+        "authors": [
+          "Ma, Weishuo",
+          "Wang, Yanbo",
+          "Wang, Xiyuan",
+          "Zhang, Muhan"
+        ],
+        "year": 2025,
+        "doi": "10.1145/3746252.3761108",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4416016565",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Reconsidering the Performance of GAE in Link Prediction",
+        "year": 2025,
+        "authors": [
+          "Weishuo Ma",
+          "Y L Wang",
+          "Xiyuan Wang",
+          "Muhan Zhang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "behrouz_best_2024",
+      "raw": {
+        "title": "Best of Both Worlds: Advantages of Hybrid Graph Sequence Models",
+        "authors": [
+          "Behrouz, Ali",
+          "Parviz, Ali",
+          "Karami, Mahdi",
+          "Sanford, Clayton",
+          "Perozzi, Bryan",
+          "Mirrokni, Vahab"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2411.15671"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2411.15671&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "wu_nodeformer_2023",
+      "raw": {
+        "title": "NodeFormer: A Scalable Graph Structure Learning Transformer for Node Classification",
+        "authors": [
+          "Qitian Wu",
+          "Wentao Zhao",
+          "Zenan Li",
+          "David P. Wipf",
+          "Junchi Yan"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=NodeFormer%3A+A+Scalable+Graph+Structure+Learning+Transformer+for+Node+Classification&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "bai_why_2025",
+      "raw": {
+        "title": "Why Can't Transformers Learn Multiplication? Reverse-Engineering Reveals Long-Range Dependency Pitfalls",
+        "authors": [
+          "Bai, Xiaoyan",
+          "Pres, Itamar",
+          "Deng, Yuntian",
+          "Tan, Chenhao",
+          "Shieber, Stuart",
+          "Viégas, Fernanda",
+          "Wattenberg, Martin",
+          "Lee, Andrew"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2510.00184"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2510.00184&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "roy_transformers_2025",
+      "raw": {
+        "title": "Transformers Can Learn Connectivity in Some Graphs but Not Others",
+        "authors": [
+          "Roy, Amit",
+          "Saparov, Abulhair"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2509.22343"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2509.22343&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ye_when_2025",
+      "raw": {
+        "title": "When Do Transformers Learn Heuristics for Graph Connectivity?",
+        "authors": [
+          "Ye, Qilin",
+          "Fu, Deqing",
+          "Jia, Robin",
+          "Sharan, Vatsal"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2510.19753"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2510.19753&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "dong_pure_2024",
+      "raw": {
+        "title": "Pure Message Passing Can Estimate Common Neighbor for Link Prediction",
+        "authors": [
+          "Kaiwen Dong",
+          "Zhichun Guo",
+          "Nitesh V. Chawla"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Pure+Message+Passing+Can+Estimate+Common+Neighbor+for+Link+Prediction&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zhang_graph-bert_2020",
+      "raw": {
+        "title": "Graph-Bert: Only Attention is Needed for Learning Graph Representations",
+        "authors": [
+          "Zhang, Jiawei",
+          "Zhang, Haopeng",
+          "Xia, Congying",
+          "Sun, Li"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": "2001.05140"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2001.05140&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "sato_random_features_2021",
+      "raw": {
+        "title": "Random Features Strengthen Graph Neural Networks",
+        "authors": [
+          "Ryoma Sato",
+          "Makoto Yamada",
+          "Hisashi Kashima"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Random+Features+Strengthen+Graph+Neural+Networks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "abboud_surprising_2021",
+      "raw": {
+        "title": "The Surprising Power of Graph Neural Networks with Random Node Initialization",
+        "authors": [
+          "Ralph Abboud",
+          "{\\.I}smail {\\.I}lkan Ceylan",
+          "Martin Grohe",
+          "Thomas Lukasiewicz"
+        ],
+        "year": 2021,
+        "doi": "10.24963/IJCAI.2021/291",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3090285371",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "The Surprising Power of Graph Neural Networks with Random Node Initialization",
+        "year": 2021,
+        "authors": [
+          "Ralph Abboud",
+          "İsmail İlkan Ceylan",
+          "Martin Grohe",
+          "Thomas Lukasiewicz"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "lyle_benefits_2020",
+      "raw": {
+        "title": "On the Benefits of Invariance in Neural Networks",
+        "authors": [
+          "Lyle, Clare",
+          "Wilk, Mark van der",
+          "Kwiatkowska, Marta",
+          "Gal, Yarin",
+          "Bloem-Reddy, Benjamin"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": "2005.00178"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2005.00178&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "liang_can_2025",
+      "raw": {
+        "title": "Can GNNs Learn Link Heuristics? A Concise Review and Evaluation of Link Prediction Methods",
+        "authors": [
+          "Liang, Shuming",
+          "Ding, Yu",
+          "Li, Zhidong",
+          "Liang, Bin",
+          "Zhang, Siqi",
+          "Wang, Yang",
+          "Chen, Fang"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2411.14711"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2411.14711&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "murphy_relational_2019",
+      "raw": {
+        "title": "Relational Pooling for Graph Representations",
+        "authors": [
+          "Ryan L. Murphy",
+          "Balasubramaniam Srinivasan",
+          "Vinayak A. Rao",
+          "Bruno Ribeiro"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "zhou_relational_2023",
+      "raw": {
+        "title": "From Relational Pooling to Subgraph GNNs: A Universal Framework for More Expressive Graph Neural Networks",
+        "authors": [
+          "Cai Zhou",
+          "Xiyuan Wang",
+          "Muhan Zhang"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "baras_path_2010",
+      "raw": {
+        "title": "Path Problems in Networks",
+        "authors": [
+          "John S. Baras",
+          "George Theodorakopoulos"
+        ],
+        "year": 2010,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Path+Problems+in+Networks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "chen_can_2020",
+      "raw": {
+        "title": "Can Graph Neural Networks Count Substructures?",
+        "authors": [
+          "Zhengdao Chen",
+          "Lei Chen",
+          "Soledad Villar",
+          "Joan Bruna"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Can+Graph+Neural+Networks+Count+Substructures%3F&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "kong_goat_2023",
+      "raw": {
+        "title": "GOAT: a global transformer on large-scale graphs",
+        "authors": [
+          "Kong, Kezhi",
+          "Chen, Jiuhai",
+          "Kirchenbauer, John",
+          "Ni, Renkun",
+          "Bruss, C. Bayan",
+          "Goldstein, Tom"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=GOAT%3A+a+global+transformer+on+large-scale+graphs&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "abbe2024how",
+      "raw": {
+        "title": "How Far Can Transformers Reason? The Globality Barrier and Inductive Scratchpad",
+        "authors": [
+          "Emmanuel Abbe",
+          "Samy Bengio",
+          "Aryo Lotfi",
+          "Colin Sandon",
+          "Omid Saremi"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "lachi2025bridgingtheorypracticelink",
+      "raw": {
+        "title": "Bridging Theory and Practice in Link Representation with Graph Neural Networks",
+        "authors": [
+          "Veronica Lachi",
+          "Francesco Ferrini",
+          "Antonio Longa",
+          "Bruno Lepri",
+          "Andrea Passerini",
+          "Manfred Jaeger"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2506.24018"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2506.24018&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "kim2023learning",
+      "raw": {
+        "title": "Learning Probabilistic Symmetrization for Architecture Agnostic Equivariance",
+        "authors": [
+          "Jinwoo Kim",
+          "Dat Tien Nguyen",
+          "Ayhan Suleymanzade",
+          "Hyeokjun An",
+          "Seunghoon Hong"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Abbas2021ApplicationON",
+      "raw": {
+        "title": "Application of network link prediction in drug discovery",
+        "authors": [
+          "Khushnood Abbas",
+          "Alireza Abbasi",
+          "Shi Dong",
+          "Niu Ling",
+          "Laihang Yu",
+          "Bolun Chen",
+          "Shi{-}Min Cai",
+          "Qambar Hasan"
+        ],
+        "year": 2021,
+        "doi": "10.1186/S12859-021-04082-Y",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3153939186",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Application of network link prediction in drug discovery",
+        "year": 2021,
+        "authors": [
+          "Khushnood Abbas",
+          "Alireza Abbasi",
+          "Shi Dong",
+          "Niu Ling",
+          "Laihang Yu",
+          "Bolun Chen",
+          "Shi‐Min Cai",
+          "Qambar Hasan"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "huang_link_2005",
+      "raw": {
+        "title": "Link prediction approach to collaborative filtering",
+        "authors": [
+          "Huang, Zan",
+          "Li, Xin",
+          "Chen, Hsinchun"
+        ],
+        "year": 2005,
+        "doi": "10.1145/1065385.1065415",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2151498529",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Link prediction approach to collaborative filtering",
+        "year": 2005,
+        "authors": [
+          "Zan Huang",
+          "Xin Li",
+          "Hsinchun Chen"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "yun_neo-gnns_2021",
+      "raw": {
+        "title": "Neo-GNNs: neighborhood overlap-aware graph neural networks for link prediction",
+        "authors": [
+          "Yun, Seongjun",
+          "Kim, Seoyoon",
+          "Lee, Junhyun",
+          "Kang, Jaewoo",
+          "Kim, Hyunwoo J."
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Neo-GNNs%3A+neighborhood+overlap-aware+graph+neural+networks+for+link+prediction&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "brin_anatomy_1998",
+      "raw": {
+        "title": "The Anatomy of a Large-Scale Hypertextual Web Search Engine",
+        "authors": [
+          "Sergey Brin",
+          "Lawrence Page"
+        ],
+        "year": 1998,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "fey_rdl_2024",
+      "raw": {
+        "title": "Position: Relational Deep Learning - Graph Representation Learning on Relational Databases",
+        "authors": [
+          "Fey, Matthias",
+          "Hu, Weihua",
+          "Huang, Kexin",
+          "Lenssen, Jan Eric",
+          "Ranjan, Rishabh",
+          "Robinson, Joshua",
+          "Ying, Rex",
+          "You, Jiaxuan",
+          "Leskovec, Jure"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "zhao_gigl_2025",
+      "raw": {
+        "title": "GiGL: Large-Scale Graph Neural Networks at Snapchat",
+        "authors": [
+          "Tong Zhao",
+          "Yozen Liu",
+          "Matthew Kolodner",
+          "Kyle Montemayor",
+          "Elham Ghazizadeh",
+          "Ankit Batra",
+          "Zihao Fan",
+          "Xiaobin Gao",
+          "Xuan Guo",
+          "Jiwen Ren",
+          "Serim Park",
+          "Peicheng Yu",
+          "Jun Yu",
+          "Shubham Vij",
+          "Neil Shah"
+        ],
+        "year": 2025,
+        "doi": "10.1145/3711896.3737229",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4412876968",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "GiGL: Large-Scale Graph Neural Networks at Snapchat",
+        "year": 2025,
+        "authors": [
+          "Tong Zhao",
+          "Yozen Liu",
+          "Matthew Kolodner",
+          "Kyle Montemayor",
+          "Elham Ghazizadeh",
+          "Annu Batra",
+          "Zihao Fan",
+          "X.Z. Gao",
+          "Xuan Guo",
+          "Jiwen Ren",
+          "Serim Park",
+          "P. H. Yu",
+          "Jun Yu",
+          "Shubham Vij",
+          "Neil Shah"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "longa2023graph",
+      "raw": {
+        "title": "Graph Neural Networks for Temporal Graphs: State of the Art, Open Challenges, and Opportunities",
+        "authors": [
+          "Antonio Longa",
+          "Veronica Lachi",
+          "Gabriele Santin",
+          "Monica Bianchini",
+          "Bruno Lepri",
+          "Pietro Lio",
+          "franco scarselli",
+          "Andrea Passerini"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "dao2022flashattention",
+      "raw": {
+        "title": "FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness",
+        "authors": [
+          "Dao, Tri",
+          "Fu, Daniel Y.",
+          "Ermon, Stefano",
+          "Rudra, Atri",
+          "R{\\'e}, Christopher"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=FlashAttention%3A+Fast+and+Memory-Efficient+Exact+Attention+with+IO-Awareness&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "devlin-etal-2019-bert",
+      "raw": {
+        "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+        "authors": [
+          "Devlin, Jacob",
+          "Chang, Ming-Wei",
+          "Lee, Kenton",
+          "Toutanova, Kristina"
+        ],
+        "year": 2019,
+        "doi": "10.18653/v1/N19-1423",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2963341956",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "",
+        "year": 2019,
+        "authors": [
+          "Jacob Devlin",
+          "Ming‐Wei Chang",
+          "Kenton Lee",
+          "Kristina Toutanova"
+        ]
+      },
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "vaswani2017attention",
+      "raw": {
+        "title": "Attention is all you need",
+        "authors": [
+          "Vaswani, Ashish",
+          "Shazeer, Noam",
+          "Parmar, Niki",
+          "Uszkoreit, Jakob",
+          "Jones, Llion",
+          "Gomez, Aidan N.",
+          "Kaiser, \\L{}ukasz",
+          "Polosukhin, Illia"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Attention+is+all+you+need&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "kipf2017semisupervised",
+      "raw": {
+        "title": "Semi-Supervised Classification with Graph Convolutional Networks",
+        "authors": [
+          "Thomas N. Kipf",
+          "Max Welling"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "hamilton2017inductive",
+      "raw": {
+        "title": "Inductive Representation Learning on Large Graphs",
+        "authors": [
+          "Hamilton, William L.",
+          "Ying, Rex",
+          "Leskovec, Jure"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Inductive+Representation+Learning+on+Large+Graphs&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "veličković2018graph",
+      "raw": {
+        "title": "Graph Attention Networks",
+        "authors": [
+          "Petar Veličković",
+          "Guillem Cucurull",
+          "Arantxa Casanova",
+          "Adriana Romero",
+          "Pietro Liò",
+          "Yoshua Bengio"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "hu2020ogb",
+      "raw": {
+        "title": "Open Graph Benchmark: Datasets for Machine Learning on Graphs",
+        "authors": [
+          "Hu, Weihua",
+          "Fey, Matthias",
+          "Zitnik, Marinka",
+          "Dong, Yuxiao",
+          "Ren, Hongyu",
+          "Liu, Bowen",
+          "Catasta, Michele",
+          "Leskovec, Jure"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Open+Graph+Benchmark%3A+Datasets+for+Machine+Learning+on+Graphs&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "dwivedi2021generalization",
+      "raw": {
+        "title": "A Generalization of Transformer Networks to Graphs",
+        "authors": [
+          "Dwivedi, Vijay Prakash",
+          "Bresson, Xavier"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=A+Generalization+of+Transformer+Networks+to+Graphs&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "gilmer_neural_2017",
+      "raw": {
+        "title": "Neural message passing for Quantum chemistry",
+        "authors": [
+          "Gilmer, Justin",
+          "Schoenholz, Samuel S.",
+          "Riley, Patrick F.",
+          "Vinyals, Oriol",
+          "Dahl, George E."
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Neural+message+passing+for+Quantum+chemistry&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "yang_revisiting_2016",
+      "raw": {
+        "title": "Revisiting semi-supervised learning with graph embeddings",
+        "authors": [
+          "Yang, Zhilin",
+          "Cohen, William W.",
+          "Salakhutdinov, Ruslan"
+        ],
+        "year": 2016,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Revisiting+semi-supervised+learning+with+graph+embeddings&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "newman_clustering_2001",
+      "raw": {
+        "title": "Clustering and preferential attachment in growing networks",
+        "authors": [
+          "Newman, M. E. J."
+        ],
+        "year": 2001,
+        "doi": "10.1103/PhysRevE.64.025102",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W1556758605",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Clustering and preferential attachment in growing networks",
+        "year": 2001,
+        "authors": [
+          "M. E. J. Newman"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "adamic_friends_2003",
+      "raw": {
+        "title": "Friends and neighbors on the Web",
+        "authors": [
+          "Lada A. Adamic",
+          "Eytan Adar"
+        ],
+        "year": 2003,
+        "doi": "10.1016/S0378-8733(03)00009-1",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2154454189",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Friends and neighbors on the Web",
+        "year": 2003,
+        "authors": [
+          "Lada A. Adamic",
+          "Eytan Adar"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "zhou_predicting_2009",
+      "raw": {
+        "title": "Predicting Missing Links via Local Information",
+        "authors": [
+          "Zhou, Tao",
+          "Lü, Linyuan",
+          "Zhang, Yi-Cheng"
+        ],
+        "year": 2009,
+        "doi": "10.1140/epjb/e2009-00335-8",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2007444087",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Predicting missing links via local information",
+        "year": 2009,
+        "authors": [
+          "Tao Zhou",
+          "Linyuan Lü",
+          "Yi‐Cheng Zhang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "katz_new_1953",
+      "raw": {
+        "title": "A New Status Index Derived from Sociometric Analysis",
+        "authors": [
+          "Katz, Leo"
+        ],
+        "year": 1953,
+        "doi": "10.1007/BF02289026",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2026417691",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "A New Status Index Derived from Sociometric Analysis",
+        "year": 1953,
+        "authors": [
+          "Leo Katz"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "you2021identity",
+      "raw": {
+        "title": "Identity-aware graph neural networks",
+        "authors": [
+          "You, Jiaxuan",
+          "Gomes-Selman, Jonathan M",
+          "Ying, Rex",
+          "Leskovec, Jure"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Identity-aware+graph+neural+networks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "robinson2024relbench",
+      "raw": {
+        "title": "RelBench: A Benchmark for Deep Learning on Relational Databases",
+        "authors": [
+          "Joshua Robinson",
+          "Rishabh Ranjan",
+          "Weihua Hu",
+          "Kexin Huang",
+          "Jiaqi Han",
+          "Alejandro Dobles",
+          "Matthias Fey",
+          "Jan Eric Lenssen",
+          "Yiwen Yuan",
+          "Zecheng Zhang",
+          "Xinwei He",
+          "Jure Leskovec"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "yuan_contextgnn_2025",
+      "raw": {
+        "title": "ContextGNN: Beyond Two-Tower Recommendation Systems",
+        "authors": [
+          "Yiwen Yuan",
+          "Zecheng Zhang",
+          "Xinwei He",
+          "Akihiro Nitta",
+          "Weihua Hu",
+          "Manan Shah",
+          "Bla{\\v{z}} Stojanovi{\\v{c}}",
+          "Shenyang Huang",
+          "Jan Eric Lenssen",
+          "Jure Leskovec",
+          "Matthias Fey"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=ContextGNN%3A+Beyond+Two-Tower+Recommendation+Systems&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "truong2024weisfeiler",
+      "raw": {
+        "title": "Weisfeiler and Lehman Go Paths: Learning Topological Features via Path Complexes",
+        "authors": [
+          "Truong, Quang",
+          "Chin, Peter"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Weisfeiler+and+Lehman+Go+Paths%3A+Learning+Topological+Features+via+Path+Complexes&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zaheer_deep_2017",
+      "raw": {
+        "title": "Deep Sets",
+        "authors": [
+          "Zaheer, Manzil",
+          "Kottur, Satwik",
+          "Ravanbhakhsh, Siamak",
+          "P\\'{o}czos, Barnab\\'{a}s",
+          "Salakhutdinov, Ruslan",
+          "Smola, Alexander J"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Deep+Sets&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "maron2018invariant",
+      "raw": {
+        "title": "Invariant and Equivariant Graph Networks",
+        "authors": [
+          "Haggai Maron",
+          "Heli Ben-Hamu",
+          "Nadav Shamir",
+          "Yaron Lipman"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "bodnar_weisfeiler_2021",
+      "raw": {
+        "title": "Weisfeiler and Lehman Go Topological: Message Passing Simplicial Networks",
+        "authors": [
+          "Bodnar, Cristian",
+          "Frasca, Fabrizio",
+          "Wang, Yuguang",
+          "Otter, Nina",
+          "Montufar, Guido F",
+          "Li{\\'o}, Pietro",
+          "Bronstein, Michael"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Weisfeiler+and+Lehman+Go+Topological%3A+Message+Passing+Simplicial+Networks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "welch_lower_1974",
+      "raw": {
+        "title": "Lower bounds on the maximum cross correlation of signals (Corresp.)",
+        "authors": [
+          "Welch, L."
+        ],
+        "year": 1974,
+        "doi": "10.1109/TIT.1974.1055219",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2138548210",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Lower bounds on the maximum cross correlation of signals (Corresp.)",
+        "year": 1974,
+        "authors": [
+          "L. R. Welch"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "donoho_uncertainty_2001",
+      "raw": {
+        "title": "Uncertainty principles and ideal atomic decomposition",
+        "authors": [
+          "Donoho, D.L.",
+          "Huo, X."
+        ],
+        "year": 2001,
+        "doi": "10.1109/18.959265",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2099641086",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Uncertainty principles and ideal atomic decomposition",
+        "year": 2001,
+        "authors": [
+          "David L. Donoho",
+          "Xiaoming Huo"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "zeng2021decoupling",
+      "raw": {
+        "title": "Decoupling the Depth and Scope of Graph Neural Networks",
+        "authors": [
+          "Hanqing Zeng",
+          "Muhan Zhang",
+          "Yinglong Xia",
+          "Ajitesh Srivastava",
+          "Andrey Malevich",
+          "Rajgopal Kannan",
+          "Viktor Prasanna",
+          "Long Jin",
+          "Ren Chen"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "wolf-etal-2020-transformers",
+      "raw": {
+        "title": "Transformers: State-of-the-Art Natural Language Processing",
+        "authors": [
+          "Thomas Wolf",
+          "Lysandre Debut",
+          "Victor Sanh",
+          "Julien Chaumond",
+          "Clement Delangue",
+          "Anthony Moi",
+          "Pierric Cistac",
+          "Tim Rault",
+          "Rémi Louf",
+          "Morgan Funtowicz",
+          "Joe Davison",
+          "Sam Shleifer",
+          "Patrick von Platen",
+          "Clara Ma",
+          "Yacine Jernite",
+          "Julien Plu",
+          "Canwen Xu",
+          "Teven Le Scao",
+          "Sylvain Gugger",
+          "Mariama Drame",
+          "Quentin Lhoest",
+          "Alexander M. Rush"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "coupette2025no",
+      "raw": {
+        "title": "No Metric to Rule Them All: Toward Principled Evaluations of Graph-Learning Datasets",
+        "authors": [
+          "Corinna Coupette",
+          "Jeremy Wayland",
+          "Emily Simons",
+          "Bastian Rieck"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "castellana2023investigatinginterplayfeaturesstructures",
+      "raw": {
+        "title": "Investigating the Interplay between Features and Structures in Graph Learning",
+        "authors": [
+          "Daniele Castellana",
+          "Federico Errica"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": "2308.09570"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2308.09570&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "alon2021on",
+      "raw": {
+        "title": "On the Bottleneck of Graph Neural Networks and its Practical Implications",
+        "authors": [
+          "Uri Alon",
+          "Eran Yahav"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "li_deeper_2018",
+      "raw": {
+        "title": "Deeper Insights Into Graph Convolutional Networks for Semi-Supervised Learning",
+        "authors": [
+          "Li, Qimai",
+          "Han, Zhichao",
+          "Wu, Xiao-ming"
+        ],
+        "year": 2018,
+        "doi": "10.1609/aaai.v32i1.11604",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2964051675",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Deeper Insights Into Graph Convolutional Networks for Semi-Supervised Learning",
+        "year": 2018,
+        "authors": [
+          "Qimai Li",
+          "Zhichao Han",
+          "Xiao-Ming Wu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "oono2020graph",
+      "raw": {
+        "title": "Graph Neural Networks Exponentially Lose Expressive Power for Node Classification",
+        "authors": [
+          "Kenta Oono",
+          "Taiji Suzuki"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "topping2022understanding",
+      "raw": {
+        "title": "Understanding over-squashing and bottlenecks on graphs via curvature",
+        "authors": [
+          "Jake Topping",
+          "Francesco Di Giovanni",
+          "Benjamin Paul Chamberlain",
+          "Xiaowen Dong",
+          "Michael M. Bronstein"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "cong2021on",
+      "raw": {
+        "title": "On Provable Benefits of Depth in Training Graph Convolutional Networks",
+        "authors": [
+          "Weilin Cong",
+          "Morteza Ramezani",
+          "Mehrdad Mahdavi"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "rampasek2022GPS",
+      "raw": {
+        "title": "Recipe for a General, Powerful, Scalable Graph Transformer",
+        "authors": [
+          "Ladislav Ramp\\'{a}\\v{s}ek",
+          "Mikhail Galkin",
+          "Vijay Prakash Dwivedi",
+          "Anh Tuan Luu",
+          "Guy Wolf",
+          "Dominique Beaini"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Recipe+for+a+General%2C+Powerful%2C+Scalable+Graph+Transformer&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "jain2021representing",
+      "raw": {
+        "title": "Representing Long-Range Context for Graph Neural Networks with Global Attention",
+        "authors": [
+          "Paras Jain",
+          "Zhanghao Wu",
+          "Matthew A. Wright",
+          "Azalia Mirhoseini",
+          "Joseph E. Gonzalez",
+          "Ion Stoica"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "chen2025learning",
+      "raw": {
+        "title": "Learning Long Range Dependencies on Graphs via Random Walks",
+        "authors": [
+          "Dexiong Chen",
+          "Till Hendrik Schulz",
+          "Karsten Borgwardt"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "dwivedi2025relationalgraphtransformer",
+      "raw": {
+        "title": "Relational Graph Transformer",
+        "authors": [
+          "Vijay Prakash Dwivedi",
+          "Sri Jaladi",
+          "Yangyi Shen",
+          "Federico López",
+          "Charilaos I. Kanatsoulis",
+          "Rishi Puri",
+          "Matthias Fey",
+          "Jure Leskovec"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2505.10960"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2505.10960&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "chen2022structure",
+      "raw": {
+        "title": "Structure-aware transformer for graph representation learning",
+        "authors": [
+          "Chen, Dexiong",
+          "O’Bray, Leslie",
+          "Borgwardt, Karsten"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Structure-aware+transformer+for+graph+representation+learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "dosovitskiy2021an",
+      "raw": {
+        "title": "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale",
+        "authors": [
+          "Alexey Dosovitskiy",
+          "Lucas Beyer",
+          "Alexander Kolesnikov",
+          "Dirk Weissenborn",
+          "Xiaohua Zhai",
+          "Thomas Unterthiner",
+          "Mostafa Dehghani",
+          "Matthias Minderer",
+          "Georg Heigold",
+          "Sylvain Gelly",
+          "Jakob Uszkoreit",
+          "Neil Houlsby"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "xu2018how",
+      "raw": {
+        "title": "How Powerful are Graph Neural Networks?",
+        "authors": [
+          "Keyulu Xu",
+          "Weihua Hu",
+          "Jure Leskovec",
+          "Stefanie Jegelka"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "choromanski2021rethinking",
+      "raw": {
+        "title": "Rethinking Attention with Performers",
+        "authors": [
+          "Krzysztof Marcin Choromanski",
+          "Valerii Likhosherstov",
+          "David Dohan",
+          "Xingyou Song",
+          "Andreea Gane",
+          "Tamas Sarlos",
+          "Peter Hawkins",
+          "Jared Quincy Davis",
+          "Afroz Mohiuddin",
+          "Lukasz Kaiser",
+          "David Benjamin Belanger",
+          "Lucy J Colwell",
+          "Adrian Weller"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "fey2019pyg",
+      "raw": {
+        "title": "Fast Graph Representation Learning with PyTorch Geometric",
+        "authors": [
+          "Fey, Matthias",
+          "Lenssen, Jan E."
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Fast+Graph+Representation+Learning+with+PyTorch+Geometric&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "fey2025pyg",
+      "raw": {
+        "title": "PyG 2.0: Scalable Learning on Real World Graphs",
+        "authors": [
+          "Matthias Fey",
+          "Jinu Sunil",
+          "Akihiro Nitta",
+          "Rishi Puri",
+          "Manan Shah",
+          "Bla{\\v{z}} Stojanovi{\\v{c}}",
+          "Ramona Bendias",
+          "Alexandria Barghi",
+          "Vid Kocijan",
+          "Zecheng Zhang",
+          "Xinwei He",
+          "Jan Eric Lenssen",
+          "Jure Leskovec"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "paszke2019pytorch",
+      "raw": {
+        "title": "PyTorch: an imperative style, high-performance deep learning library",
+        "authors": [
+          "Paszke, Adam",
+          "Gross, Sam",
+          "Massa, Francisco",
+          "Lerer, Adam",
+          "Bradbury, James",
+          "Chanan, Gregory",
+          "Killeen, Trevor",
+          "Lin, Zeming",
+          "Gimelshein, Natalia",
+          "Antiga, Luca",
+          "Desmaison, Alban",
+          "K\\\"{o}pf, Andreas",
+          "Yang, Edward",
+          "DeVito, Zach",
+          "Raison, Martin",
+          "Tejani, Alykhan",
+          "Chilamkurthy, Sasank",
+          "Steiner, Benoit",
+          "Fang, Lu",
+          "Bai, Junjie",
+          "Chintala, Soumith"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=PyTorch%3A+an+imperative+style%2C+high-performance+deep+learning+library&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    }
+  ]
+}

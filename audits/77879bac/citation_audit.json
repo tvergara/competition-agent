@@ -1,0 +1,1199 @@
+{
+  "paper_id": "77879bac-660b-48a2-beb7-aad5d9339b15",
+  "total": 34,
+  "verified": 26,
+  "mismatch": 3,
+  "missing": 2,
+  "ambiguous": 3,
+  "error": 0,
+  "skipped": 0,
+  "s2_consulted": 34,
+  "s2_lifted": 0,
+  "key_style_outliers": [
+    "langley00",
+    "mitchell80",
+    "kearns89",
+    "DudaHart2nd",
+    "Newell81",
+    "Samuel59"
+  ],
+  "entries": [
+    {
+      "key": "girshick2015fast",
+      "raw": {
+        "title": "Fast r-cnn",
+        "authors": [
+          "Girshick, Ross"
+        ],
+        "year": 2015,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/7ffdbc358b63378f07311e883dddacc9faeeaf4b",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Fast R-CNN",
+        "year": 2015,
+        "authors": [
+          "Ross B. Girshick"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "ren2016faster",
+      "raw": {
+        "title": "Faster R-CNN: Towards real-time object detection with region proposal networks",
+        "authors": [
+          "Ren, Shaoqing",
+          "He, Kaiming",
+          "Girshick, Ross",
+          "Sun, Jian"
+        ],
+        "year": 2016,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/424561d8585ff8ebce7d5d07de8dbf7aae5e7270",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks",
+        "year": 2015,
+        "authors": [
+          "Shaoqing Ren",
+          "Kaiming He",
+          "Ross B. Girshick",
+          "Jian Sun"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "ronneberger2015u",
+      "raw": {
+        "title": "U-net: Convolutional networks for biomedical image segmentation",
+        "authors": [
+          "Ronneberger, Olaf",
+          "Fischer, Philipp",
+          "Brox, Thomas"
+        ],
+        "year": 2015,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/6364fdaa0a0eccd823a779fcdd489173f938e91a",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "U-Net: Convolutional Networks for Biomedical Image Segmentation",
+        "year": 2015,
+        "authors": [
+          "O. Ronneberger",
+          "P. Fischer",
+          "T. Brox"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "nazir2019tiny",
+      "raw": {
+        "title": "Tiny-Inception-ResNet-v2: Using deep learning for eliminating bonded labors of brick kilns in South Asia",
+        "authors": [
+          "Nazir, Usman",
+          "Khurshid, Numan",
+          "Ahmed Bhimra, Muhammad",
+          "Taj, Murtaza"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/c79d960466516b1ec5ea436688a4c826a318bd0e",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Tiny-Inception-ResNet-v2: Using Deep Learning for Eliminating Bonded Labors of Brick Kilns in South Asia",
+        "year": 2019,
+        "authors": [
+          "Usman Nazir",
+          "Numan Khurshid",
+          "Muhammad Ahmed Bhimra",
+          "M. Taj"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "nazir2020kiln",
+      "raw": {
+        "title": "Kiln-net: A gated neural network for detection of brick kilns in South Asia",
+        "authors": [
+          "Nazir, Usman",
+          "Mian, Usman Khalid",
+          "Sohail, Muhammad Usman",
+          "Taj, Murtaza",
+          "Uppal, Momin"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/fab9021e52c50440f6e0d38a13e0e0f111e96ed5",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Kiln-Net: A Gated Neural Network for Detection of Brick Kilns in South Asia",
+        "year": 2020,
+        "authors": [
+          "Usman Nazir",
+          "Usman Khalid Mian",
+          "M. Sohail",
+          "M. Taj",
+          "M. Uppal"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "wu2020comprehensive",
+      "raw": {
+        "title": "A comprehensive survey on graph neural networks",
+        "authors": [
+          "Wu, Zonghan",
+          "Pan, Shirui",
+          "Chen, Fengwen",
+          "Long, Guodong",
+          "Zhang, Chengqi",
+          "Yu, Philip S"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/81a4fd3004df0eb05d6c1cef96ad33d5407820df",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "A Comprehensive Survey on Graph Neural Networks",
+        "year": 2019,
+        "authors": [
+          "Zonghan Wu",
+          "Shirui Pan",
+          "Fengwen Chen",
+          "Guodong Long",
+          "Chengqi Zhang",
+          "Philip S. Yu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "velivckovic2017graph",
+      "raw": {
+        "title": "Graph attention networks",
+        "authors": [
+          "Veli{\\v{c}}kovi{\\'c}, Petar",
+          "Cucurull, Guillem",
+          "Casanova, Arantxa",
+          "Romero, Adriana",
+          "Lio, Pietro",
+          "Bengio, Yoshua"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/33998aff64ce51df8dee45989cdca4b6b1329ec4",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Graph Attention Networks",
+        "year": 2017,
+        "authors": [
+          "Petar Velickovic",
+          "Guillem Cucurull",
+          "Arantxa Casanova",
+          "Adriana Romero",
+          "Pietro Liò",
+          "Yoshua Bengio"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "hamilton2017inductive",
+      "raw": {
+        "title": "Inductive representation learning on large graphs",
+        "authors": [
+          "Hamilton, Will",
+          "Ying, Zhitao",
+          "Leskovec, Jure"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/6b7d6e6416343b2a122f8416e69059ce919026ef",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Inductive Representation Learning on Large Graphs",
+        "year": 2017,
+        "authors": [
+          "William L. Hamilton",
+          "Z. Ying",
+          "J. Leskovec"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "kipf2016semi",
+      "raw": {
+        "title": "Semi-supervised classification with graph convolutional networks",
+        "authors": [
+          "Kipf, TN"
+        ],
+        "year": 2016,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/36eff562f65125511b5dfab68ce7f7a943c27478",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Semi-Supervised Classification with Graph Convolutional Networks",
+        "year": 2016,
+        "authors": [
+          "Thomas Kipf",
+          "M. Welling"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "walk2023global",
+      "raw": {
+        "title": "The global slavery index 2023",
+        "authors": [
+          "Walk, Free"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "not_found",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "mondal2024scalable",
+      "raw": {
+        "title": "Scalable methods for brick kiln detection and compliance monitoring from satellite imagery: A deployment case study in india",
+        "authors": [
+          "Mondal, Rishabh",
+          "Patel, Zeel B",
+          "Jani, Vannsh",
+          "Batra, Nipun"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/b81bd1546fdd17020646e208c883eea83bd1c194",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Scalable Methods for Brick Kiln Detection and Compliance Monitoring from Satellite Imagery: A Deployment Case Study in India",
+        "year": 2024,
+        "authors": [
+          "Rishabh Mondal",
+          "Zeel B Patel",
+          "Vannsh Jani",
+          "Nipun Batra"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "liu2024remoteclip",
+      "raw": {
+        "title": "Remoteclip: A vision language foundation model for remote sensing",
+        "authors": [
+          "Liu, Fan",
+          "Chen, Delong",
+          "Guan, Zhangqingyun",
+          "Zhou, Xiaocong",
+          "Zhu, Jiale",
+          "Ye, Qiaolin",
+          "Fu, Liyong",
+          "Zhou, Jun"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/d92c797f587ce7f1b001920ab9e6b7d31960bd77",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "RemoteCLIP: A Vision Language Foundation Model for Remote Sensing",
+        "year": 2023,
+        "authors": [
+          "F. Liu",
+          "Delong Chen",
+          "Zhan-Rong Guan",
+          "Xiaocong Zhou",
+          "Jiale Zhu",
+          "Jun Zhou"
+        ]
+      },
+      "title_similarity": 0.9516129032258064,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "lee2021scalable",
+      "raw": {
+        "title": "Scalable deep learning to identify brick kilns and aid regulatory capacity",
+        "authors": [
+          "Lee, Jihyeon",
+          "Brooks, Nina R",
+          "Tajwar, Fahim",
+          "Burke, Marshall",
+          "Ermon, Stefano",
+          "Lobell, David B",
+          "Biswas, Debashish",
+          "Luby, Stephen P"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/daad01f1af57cad9e3055b48a310470b2d3880a1",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Scalable deep learning to identify brick kilns and aid regulatory capacity",
+        "year": 2021,
+        "authors": [
+          "Jihyeon Lee",
+          "Nina R. Brooks",
+          "Fahim Tajwar",
+          "M. Burke",
+          "Stefano Ermon",
+          "D. Lobell",
+          "D. Biswas",
+          "S. Luby"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "langley00",
+      "raw": {
+        "title": "Crafting Papers on Machine Learning",
+        "authors": [
+          "P. Langley"
+        ],
+        "year": 2000,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/3efcb97c1de1c87832a7a1d99e91801992a938ec",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Crafting Papers on Machine Learning",
+        "year": 2000,
+        "authors": [
+          "P. Langley"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "mitchell80",
+      "raw": {
+        "title": "The Need for Biases in Learning Generalizations",
+        "authors": [
+          "T. M. Mitchell"
+        ],
+        "year": 1980,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "metadata_mismatch",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/6cf35ec34efa592f83e3a1b748aea14957fc784a",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "The Need for Biases in Learning Generalizations",
+        "year": 2007,
+        "authors": [
+          "Tom Michael Mitchell"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [
+        "year"
+      ],
+      "error": null
+    },
+    {
+      "key": "kearns89",
+      "raw": {
+        "title": "Computational Complexity of Machine Learning",
+        "authors": [
+          "M. J. Kearns"
+        ],
+        "year": 1989,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/a54657b8de38a18f30fd154d713f9522f705166c",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Computational complexity of machine learning",
+        "year": 1990,
+        "authors": [
+          "M. Kearns"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "MachineLearningI",
+      "raw": {
+        "title": "Machine Learning: An Artificial Intelligence Approach, Vol. I",
+        "authors": [],
+        "year": 1983,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "metadata_mismatch",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/b6df5c2ac2f91d71b1d08d76135e2a470ac1ad1e",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "MACHINE LEARNING An Artificial Intelligence Approach",
+        "year": 2009,
+        "authors": [
+          "R. Michalski",
+          "Tom M Mitchell",
+          "Jack Mostow",
+          "Bernard Nudel",
+          "Michael Rychener",
+          "R. Quinlan",
+          "H. Simon",
+          "D. Sleeman",
+          "Robert Stepp",
+          "P. Utgoff"
+        ]
+      },
+      "title_similarity": 0.9203539823008849,
+      "mismatches": [
+        "year",
+        "authors"
+      ],
+      "error": null
+    },
+    {
+      "key": "DudaHart2nd",
+      "raw": {
+        "title": "Pattern Classification",
+        "authors": [
+          "R. O. Duda",
+          "P. E. Hart",
+          "D. G. Stork"
+        ],
+        "year": 2000,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "ambiguous",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/b07ce649d6f6eb636872527104b0209d3edc8188",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Pattern classification and scene analysis",
+        "year": 1974,
+        "authors": [
+          "R. Duda",
+          "P. Hart"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "anonymous",
+      "raw": {
+        "title": "Suppressed for Anonymity",
+        "authors": [
+          "Author, N. N."
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "not_found",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Newell81",
+      "raw": {
+        "title": "Mechanisms of Skill Acquisition and the Law of Practice",
+        "authors": [
+          "A. Newell",
+          "P. S. Rosenbloom"
+        ],
+        "year": 1981,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "metadata_mismatch",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/8f410281861aae69abb29bda90497c86ca929823",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Mechanisms of Skill Acquisition and the Law of Practice",
+        "year": 1993,
+        "authors": [
+          "A. Newell"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [
+        "year"
+      ],
+      "error": null
+    },
+    {
+      "key": "Samuel59",
+      "raw": {
+        "title": "Some Studies in Machine Learning Using the Game of Checkers",
+        "authors": [
+          "A. L. Samuel"
+        ],
+        "year": 1959,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "ambiguous",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/e9e6bb5f2a04ae30d8ecc9287f8b702eedd7b772",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Some Studies in Machine Learning Using the Game of Checkers",
+        "year": 1995,
+        "authors": [
+          "A. Samuel"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "chen2020simple",
+      "raw": {
+        "title": "A simple framework for contrastive learning of visual representations",
+        "authors": [
+          "Chen, Ting",
+          "Kornblith, Simon",
+          "Norouzi, Mohammad",
+          "Hinton, Geoffrey"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/7af72a461ed7cda180e7eab878efd5f35d79bbf4",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "A Simple Framework for Contrastive Learning of Visual Representations",
+        "year": 2020,
+        "authors": [
+          "Ting Chen",
+          "Simon Kornblith",
+          "Mohammad Norouzi",
+          "Geoffrey E. Hinton"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "he2022masked",
+      "raw": {
+        "title": "Masked autoencoders are scalable vision learners",
+        "authors": [
+          "He, Kaiming",
+          "Chen, Xinlei",
+          "Xie, Saining",
+          "Li, Yanghao",
+          "Doll{\\'a}r, Piotr",
+          "Girshick, Ross"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/6351ebb4a3287f5f3e1273464b3b91e5df5a16d7",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Masked Autoencoders Are Scalable Vision Learners",
+        "year": 2021,
+        "authors": [
+          "Kaiming He",
+          "Xinlei Chen",
+          "Saining Xie",
+          "Yanghao Li",
+          "Piotr Doll'ar",
+          "Ross B. Girshick"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "kirillov2023segment",
+      "raw": {
+        "title": "Segment anything",
+        "authors": [
+          "Kirillov, Alexander",
+          "Mintun, Eric",
+          "Ravi, Nikhila",
+          "Mao, Hanzi",
+          "Rolland, Chloe",
+          "Gustafson, Laura",
+          "Xiao, Tete",
+          "Whitehead, Spencer",
+          "Berg, Alexander C",
+          "Lo, Wan-Yen",
+          "others"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/7470a1702c8c86e6f28d32cfa315381150102f5b",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Segment Anything",
+        "year": 2023,
+        "authors": [
+          "A. Kirillov",
+          "Eric Mintun",
+          "Nikhila Ravi",
+          "Hanzi Mao",
+          "Chloé Rolland",
+          "Laura Gustafson",
+          "Tete Xiao",
+          "Spencer Whitehead",
+          "A. Berg",
+          "Wan-Yen Lo",
+          "Piotr Dollár",
+          "Ross B. Girshick"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "devlin2019bert",
+      "raw": {
+        "title": "BERT: Pre-training of deep bidirectional transformers for language understanding",
+        "authors": [
+          "Devlin, Jacob",
+          "Chang, Ming-Wei",
+          "Lee, Kenton",
+          "Toutanova, Kristina"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/df2b0e26d0599ce3e70df8a9da02e51594e0e992",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+        "year": 2019,
+        "authors": [
+          "Jacob Devlin",
+          "Ming-Wei Chang",
+          "Kenton Lee",
+          "Kristina Toutanova"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "brown2020language",
+      "raw": {
+        "title": "Language models are few-shot learners",
+        "authors": [
+          "Brown, Tom",
+          "Mann, Benjamin",
+          "Ryder, Nick",
+          "Subbiah, Melanie",
+          "Kaplan, Jared D",
+          "Dhariwal, Prafulla",
+          "Neelakantan, Arvind",
+          "Shyam, Pranav",
+          "Sastry, Girish",
+          "Askell, Amanda",
+          "others"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/90abbc2cf38462b954ae1b772fac9532e2ccd8b0",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Language Models are Few-Shot Learners",
+        "year": 2020,
+        "authors": [
+          "Tom B. Brown",
+          "Benjamin Mann",
+          "Nick Ryder",
+          "Melanie Subbiah",
+          "J. Kaplan",
+          "Prafulla Dhariwal",
+          "Arvind Neelakantan",
+          "Pranav Shyam",
+          "G. Sastry",
+          "Amanda Askell",
+          "S. Agarwal",
+          "Ariel Herbert-Voss",
+          "Gretchen Krueger",
+          "T. Henighan",
+          "R. Child",
+          "A. Ramesh",
+          "Daniel M. Ziegler",
+          "Jeff Wu",
+          "Clemens Winter",
+          "Christopher Hesse",
+          "Mark Chen",
+          "Eric Sigler",
+          "Ma-teusz Litwin",
+          "Scott Gray",
+          "Benjamin Chess",
+          "Jack Clark",
+          "Christopher Berner",
+          "Sam McCandlish",
+          "Alec Radford",
+          "I. Sutskever",
+          "Dario Amodei"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "radford2021learning",
+      "raw": {
+        "title": "Learning transferable visual models from natural language supervision",
+        "authors": [
+          "Radford, Alec",
+          "Kim, Jong Wook",
+          "Hallacy, Chris",
+          "Ramesh, Aditya",
+          "Goh, Gabriel",
+          "Agarwal, Sandhini",
+          "Sastry, Girish",
+          "Askell, Amanda",
+          "Mishkin, Pamela",
+          "Clark, Jack",
+          "others"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/6f870f7f02a8c59c3e23f407f3ef00dd1dcf8fc4",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Learning Transferable Visual Models From Natural Language Supervision",
+        "year": 2021,
+        "authors": [
+          "Alec Radford",
+          "Jong Wook Kim",
+          "Chris Hallacy",
+          "A. Ramesh",
+          "Gabriel Goh",
+          "S. Agarwal",
+          "G. Sastry",
+          "Amanda Askell",
+          "Pamela Mishkin",
+          "Jack Clark",
+          "Gretchen Krueger",
+          "I. Sutskever"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "alayrac2022flamingo",
+      "raw": {
+        "title": "Flamingo: a visual language model for few-shot learning",
+        "authors": [
+          "Alayrac, Jean-Baptiste",
+          "Donahue, Jeff",
+          "Luc, Pauline",
+          "Miech, Antoine",
+          "Barr, Iain",
+          "Hasson, Yana",
+          "Lenc, Karel",
+          "Mensch, Arthur",
+          "Millican, Katherine",
+          "Reynolds, Malcolm",
+          "others"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/26218bdcc3945c7edae7aa2adbfba4cd820a2df3",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Flamingo: a Visual Language Model for Few-Shot Learning",
+        "year": 2022,
+        "authors": [
+          "Jean-Baptiste Alayrac",
+          "Jeff Donahue",
+          "Pauline Luc",
+          "Antoine Miech",
+          "Iain Barr",
+          "Yana Hasson",
+          "Karel Lenc",
+          "Arthur Mensch",
+          "Katie Millican",
+          "Malcolm Reynolds",
+          "Roman Ring",
+          "Eliza Rutherford",
+          "Serkan Cabi",
+          "Tengda Han",
+          "Zhitao Gong",
+          "Sina Samangooei",
+          "Marianne Monteiro",
+          "Jacob Menick",
+          "Sebastian Borgeaud",
+          "Andy Brock",
+          "Aida Nematzadeh",
+          "Sahand Sharifzadeh",
+          "Mikolaj Binkowski",
+          "Ricardo Barreira",
+          "O. Vinyals",
+          "Andrew Zisserman",
+          "K. Simonyan"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "cong2022satmae",
+      "raw": {
+        "title": "SatMAE: Pre-training transformers for temporal and multi-spectral satellite imagery",
+        "authors": [
+          "Cong, Yezhen",
+          "Khanna, Samar",
+          "Meng, Chenlin",
+          "Liu, Patrick",
+          "Rozi, Erik",
+          "He, Yutong",
+          "Burke, Marshall",
+          "Lobell, David",
+          "Ermon, Stefano"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/b2289d0d6fb5600eb0c4d42a828c31a615893e51",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "SatMAE: Pre-training Transformers for Temporal and Multi-Spectral Satellite Imagery",
+        "year": 2022,
+        "authors": [
+          "Yezhen Cong",
+          "Samar Khanna",
+          "Chenlin Meng",
+          "Patrick Liu",
+          "Erik Rozi",
+          "Yutong He",
+          "M. Burke",
+          "D. Lobell",
+          "Stefano Ermon"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "reed2023scalemae",
+      "raw": {
+        "title": "Scaling Masked Autoencoders for Remote Sensing",
+        "authors": [
+          "Reed, Colin",
+          "others"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "ambiguous",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/9f18523fdecb0619fa3fb4ac3d634ab88a8a2d0c",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "SSL-MAE: Adaptive Semisupervised Learning Framework for Multilabel Classification of Remote Sensing Images Using Masked Autoencoders",
+        "year": 2025,
+        "authors": [
+          "Marjan Stoimchev",
+          "Jurica Levatić",
+          "Dragi Kocev",
+          "S. Džeroski"
+        ]
+      },
+      "title_similarity": 0.9047619047619048,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "xu2021vitae",
+      "raw": {
+        "title": "Vitae: Vision transformer advanced by exploring intrinsic inductive bias",
+        "authors": [
+          "Xu, Yufei",
+          "Zhang, Qiming",
+          "Zhang, Jing",
+          "Tao, Dacheng"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/576c462dbc1f3d732b919ef1daac37a817123e52",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "ViTAE: Vision Transformer Advanced by Exploring Intrinsic Inductive Bias",
+        "year": 2021,
+        "authors": [
+          "Yufei Xu",
+          "Qiming Zhang",
+          "Jing Zhang",
+          "D. Tao"
+        ]
+      },
+      "title_similarity": 0.9655172413793103,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "cha2023billion",
+      "raw": {
+        "title": "A billion-scale foundation model for remote sensing images",
+        "authors": [
+          "Cha, Keumgang",
+          "Seo, Junghoon",
+          "Lee, Taekyung"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/45c2f1672ef1de301868453acaf23f6df9a34b8a",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "A Billion-scale Foundation Model for Remote Sensing Images",
+        "year": 2023,
+        "authors": [
+          "Keumgang Cha",
+          "Junghoon Seo",
+          "Taekyung Lee"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "sun2022ringmo",
+      "raw": {
+        "title": "RingMo: A remote sensing foundation model with masked image modeling",
+        "authors": [
+          "Sun, Xian",
+          "Wang, Peijin",
+          "Lu, Wanxuan",
+          "Zhu, Zicong",
+          "Lu, Xiaonan",
+          "He, Qibin",
+          "Li, Junxi",
+          "Rong, Xuee",
+          "Yang, Zhujun",
+          "Chang, Hao",
+          "others"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/977a5bf61c63b2c1f83d0c85aaab37c10703db6f",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "RingMo: A Remote Sensing Foundation Model With Masked Image Modeling",
+        "year": 2023,
+        "authors": [
+          "Xian Sun",
+          "Peijin Wang",
+          "Wanxuan Lu",
+          "Zicong Zhu",
+          "Xiaonan Lu",
+          "Qi He",
+          "Junxi Li",
+          "Xuee Rong",
+          "Zhujun Yang",
+          "Hao Chang",
+          "Qinglin He",
+          "Guang Yang",
+          "Ruiping Wang",
+          "Jiwen Lu",
+          "Kun Fu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "zhang2024geoscience",
+      "raw": {
+        "title": "When Geoscience Meets Foundation Models: Toward a general geoscience artificial intelligence system",
+        "authors": [
+          "Zhang, Hao",
+          "Xu, Jin-Jian",
+          "Cui, Hong-Wei",
+          "Li, Lin",
+          "Yang, Yaowen",
+          "Tang, Chao-Sheng",
+          "Boers, Niklas"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/87996cb820d3b06c6faad1151b8d93a327a80e3d",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "When Geoscience Meets Foundation Models: Toward a general geoscience artificial intelligence system",
+        "year": 2023,
+        "authors": [
+          "Hao Zhang",
+          "Jin-Jian Xu",
+          "Hong-Wei Cui",
+          "Lin Li",
+          "Yaowen Yang",
+          "Chaosheng Tang",
+          "N. Boers"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    }
+  ]
+}

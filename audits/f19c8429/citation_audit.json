@@ -1,0 +1,2172 @@
+{
+  "paper_id": "f19c8429-2819-4020-930a-dabcc518ad8c",
+  "total": 96,
+  "verified": 3,
+  "mismatch": 0,
+  "missing": 0,
+  "ambiguous": 0,
+  "error": 88,
+  "skipped": 5,
+  "s2_consulted": 0,
+  "s2_lifted": 0,
+  "key_style_outliers": [],
+  "entries": [
+    {
+      "key": "Ruhlmann2025FlowMatching",
+      "raw": {
+        "title": "Flow Matching for Robust Simulation‐Based Inference under Model Misspecification",
+        "authors": [
+          "Pierre‐Louis Ruhlmann",
+          "Pedro L.~C. Rodrigues",
+          "Michael Arbel",
+          "Florence Forbes"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2509.23385"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2509.23385&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "huang2023learning",
+      "raw": {
+        "title": "Learning Robust Statistics for Simulation-based Inference under Model Misspecification",
+        "authors": [
+          "Daolang Huang",
+          "Ayush Bharti",
+          "Amauri H Souza",
+          "Luigi Acerbi",
+          "Samuel Kaski"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "gao2023generalized",
+      "raw": {
+        "title": "Generalized bayesian inference for scientific simulators via amortized cost estimation",
+        "authors": [
+          "Gao, Richard",
+          "Deistler, Michael",
+          "Macke, Jakob H"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Generalized+bayesian+inference+for+scientific+simulators+via+amortized+cost+estimation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "pacchiardi2024generalized",
+      "raw": {
+        "title": "Generalized Bayesian likelihood-free inference",
+        "authors": [
+          "Pacchiardi, Lorenzo",
+          "Khoo, Sherman",
+          "Dutta, Ritabrata"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Generalized+Bayesian+likelihood-free+inference&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "song2019generative",
+      "raw": {
+        "title": "Generative modeling by estimating gradients of the data distribution",
+        "authors": [
+          "Song, Yang",
+          "Ermon, Stefano"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Generative+modeling+by+estimating+gradients+of+the+data+distribution&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "hermans2020likelihood",
+      "raw": {
+        "title": "Likelihood-free mcmc with amortized approximate ratio estimators",
+        "authors": [
+          "Hermans, Joeri",
+          "Begy, Volodimir",
+          "Louppe, Gilles"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Likelihood-free+mcmc+with+amortized+approximate+ratio+estimators&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "papamakarios2021normalizing",
+      "raw": {
+        "title": "Normalizing flows for probabilistic modeling and inference",
+        "authors": [
+          "Papamakarios, George",
+          "Nalisnick, Eric",
+          "Rezende, Danilo Jimenez",
+          "Mohamed, Shakir",
+          "Lakshminarayanan, Balaji"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Normalizing+flows+for+probabilistic+modeling+and+inference&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "lipman2022flow",
+      "raw": {
+        "title": "Flow matching for generative modeling",
+        "authors": [
+          "Lipman, Yaron",
+          "Chen, Ricky TQ",
+          "Ben-Hamu, Heli",
+          "Nickel, Maximilian",
+          "Le, Matt"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Flow+matching+for+generative+modeling&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "bissiri2016general",
+      "raw": {
+        "title": "A general framework for updating belief distributions",
+        "authors": [
+          "Bissiri, Pier Giovanni",
+          "Holmes, Chris C",
+          "Walker, Stephen G"
+        ],
+        "year": 2016,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=A+general+framework+for+updating+belief+distributions&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "cranmer2020frontier",
+      "raw": {
+        "title": "The frontier of simulation-based inference",
+        "authors": [
+          "Cranmer, Kyle",
+          "Brehmer, Johann",
+          "Louppe, Gilles"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=The+frontier+of+simulation-based+inference&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "marinari1992simulated",
+      "raw": {
+        "title": "Simulated tempering: a new Monte Carlo scheme",
+        "authors": [
+          "Marinari, Enzo",
+          "Parisi, Giorgio"
+        ],
+        "year": 1992,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Simulated+tempering%3A+a+new+Monte+Carlo+scheme&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "friel2008marginal",
+      "raw": {
+        "title": "Marginal likelihood estimation via power posteriors",
+        "authors": [
+          "Friel, Nial",
+          "Pettitt, Anthony N"
+        ],
+        "year": 2008,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Marginal+likelihood+estimation+via+power+posteriors&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "papamakarios2019sequential",
+      "raw": {
+        "title": "Sequential neural likelihood: Fast likelihood-free inference with autoregressive flows",
+        "authors": [
+          "Papamakarios, George",
+          "Sterratt, David",
+          "Murray, Iain"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Sequential+neural+likelihood%3A+Fast+likelihood-free+inference+with+autoregressive+flows&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "thomas2022likelihood",
+      "raw": {
+        "title": "Likelihood-free inference by ratio estimation",
+        "authors": [
+          "Thomas, Owen",
+          "Dutta, Ritabrata",
+          "Corander, Jukka",
+          "Kaski, Samuel",
+          "Gutmann, Michael U"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Likelihood-free+inference+by+ratio+estimation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "papamakarios2016fast",
+      "raw": {
+        "title": "Fast $\\varepsilon$-free inference of simulation models with bayesian conditional density estimation",
+        "authors": [
+          "Papamakarios, George",
+          "Murray, Iain"
+        ],
+        "year": 2016,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Fast+%24%5Cvarepsilon%24-free+inference+of+simulation+models+with+bayesian+conditional+density+estimation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "greenberg2019automatic",
+      "raw": {
+        "title": "Automatic posterior transformation for likelihood-free inference",
+        "authors": [
+          "Greenberg, David",
+          "Nonnenmacher, Marcel",
+          "Macke, Jakob"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Automatic+posterior+transformation+for+likelihood-free+inference&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "csillery2010approximate",
+      "raw": {
+        "title": "Approximate Bayesian computation (ABC) in practice",
+        "authors": [
+          "Csill{\\'e}ry, Katalin",
+          "Blum, Michael GB",
+          "Gaggiotti, Oscar E",
+          "Fran{\\c{c}}ois, Olivier"
+        ],
+        "year": 2010,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Approximate+Bayesian+computation+%28ABC%29+in+practice&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "lueckmann2021benchmarking",
+      "raw": {
+        "title": "Benchmarking simulation-based inference",
+        "authors": [
+          "Lueckmann, Jan-Matthis",
+          "Boelts, Jan",
+          "Greenberg, David",
+          "Goncalves, Pedro",
+          "Macke, Jakob"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Benchmarking+simulation-based+inference&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "beaumont2002approximate",
+      "raw": {
+        "title": "Approximate Bayesian computation in population genetics",
+        "authors": [
+          "Beaumont, Mark A",
+          "Zhang, Wenyang",
+          "Balding, David J"
+        ],
+        "year": 2002,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Approximate+Bayesian+computation+in+population+genetics&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "marjoram2003markov",
+      "raw": {
+        "title": "Markov chain Monte Carlo without likelihoods",
+        "authors": [
+          "Marjoram, Paul",
+          "Molitor, John",
+          "Plagnol, Vincent",
+          "Tavar{\\'e}, Simon"
+        ],
+        "year": 2003,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Markov+chain+Monte+Carlo+without+likelihoods&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "durkan2020contrastive",
+      "raw": {
+        "title": "On contrastive learning for likelihood-free inference",
+        "authors": [
+          "Durkan, Conor",
+          "Murray, Iain",
+          "Papamakarios, George"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=On+contrastive+learning+for+likelihood-free+inference&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "walker2013bayesian",
+      "raw": {
+        "title": "Bayesian inference with misspecified models",
+        "authors": [
+          "Walker, Stephen G"
+        ],
+        "year": 2013,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Bayesian+inference+with+misspecified+models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "knoblauch2019generalized",
+      "raw": {
+        "title": "Generalized variational inference: Three arguments for deriving new posteriors",
+        "authors": [
+          "Knoblauch, Jeremias",
+          "Jewson, Jack",
+          "Damoulas, Theodoros"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Generalized+variational+inference%3A+Three+arguments+for+deriving+new+posteriors&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "lyddon2019general",
+      "raw": {
+        "title": "General Bayesian updating and the loss-likelihood bootstrap",
+        "authors": [
+          "Lyddon, Simon P",
+          "Holmes, Chris C",
+          "Walker, Stephen G"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=General+Bayesian+updating+and+the+loss-likelihood+bootstrap&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "song2020score",
+      "raw": {
+        "title": "Score-based generative modeling through stochastic differential equations",
+        "authors": [
+          "Song, Yang",
+          "Sohl-Dickstein, Jascha",
+          "Kingma, Diederik P",
+          "Kumar, Abhishek",
+          "Ermon, Stefano",
+          "Poole, Ben"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Score-based+generative+modeling+through+stochastic+differential+equations&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "gonccalves2020training",
+      "raw": {
+        "title": "Training deep neural density estimators to identify mechanistic models of neural dynamics",
+        "authors": [
+          "Gon{\\c{c}}alves, Pedro J",
+          "Lueckmann, Jan-Matthis",
+          "Deistler, Michael",
+          "Nonnenmacher, Marcel",
+          "{\\\"O}cal, Kaan",
+          "Bassetto, Giacomo",
+          "Chintaluri, Chaitanya",
+          "Podlaski, William F",
+          "Haddad, Sara A",
+          "Vogels, Tim P",
+          "others"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Training+deep+neural+density+estimators+to+identify+mechanistic+models+of+neural+dynamics&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "radev2020bayesflow",
+      "raw": {
+        "title": "BayesFlow: Learning complex stochastic models with invertible neural networks",
+        "authors": [
+          "Radev, Stefan T",
+          "Mertens, Ulf K",
+          "Voss, Andreas",
+          "Ardizzone, Lynton",
+          "K{\\\"o}the, Ullrich"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=BayesFlow%3A+Learning+complex+stochastic+models+with+invertible+neural+networks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "holmes2017assigning",
+      "raw": {
+        "title": "Assigning a value to a power likelihood in a general Bayesian model",
+        "authors": [
+          "Holmes, Chris C",
+          "Walker, Stephen G"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Assigning+a+value+to+a+power+likelihood+in+a+general+Bayesian+model&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "syring2019calibrating",
+      "raw": {
+        "title": "Calibrating general posterior credible regions",
+        "authors": [
+          "Syring, Nicholas",
+          "Martin, Ryan"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Calibrating+general+posterior+credible+regions&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "talts2018validating",
+      "raw": {
+        "title": "Validating Bayesian inference algorithms with simulation-based calibration",
+        "authors": [
+          "Talts, Sean",
+          "Betancourt, Michael",
+          "Simpson, Daniel",
+          "Vehtari, Aki",
+          "Gelman, Andrew"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Validating+Bayesian+inference+algorithms+with+simulation-based+calibration&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "cannon2022investigating",
+      "raw": {
+        "title": "Investigating the impact of model misspecification in neural simulation-based inference",
+        "authors": [
+          "Cannon, Patrick",
+          "Ward, Daniel",
+          "Schmon, Sebastian M"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Investigating+the+impact+of+model+misspecification+in+neural+simulation-based+inference&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "hyvarinen2005estimation",
+      "raw": {
+        "title": "Estimation of non-normalized statistical models by score matching.",
+        "authors": [
+          "Hyv{\\\"a}rinen, Aapo",
+          "Dayan, Peter"
+        ],
+        "year": 2005,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Estimation+of+non-normalized+statistical+models+by+score+matching.&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "vincent2011connection",
+      "raw": {
+        "title": "A connection between score matching and denoising autoencoders",
+        "authors": [
+          "Vincent, Pascal"
+        ],
+        "year": 2011,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=A+connection+between+score+matching+and+denoising+autoencoders&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ho2020denoising",
+      "raw": {
+        "title": "Denoising diffusion probabilistic models",
+        "authors": [
+          "Ho, Jonathan",
+          "Jain, Ajay",
+          "Abbeel, Pieter"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Denoising+diffusion+probabilistic+models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "geffner2023compositional",
+      "raw": {
+        "title": "Compositional score modeling for simulation-based inference",
+        "authors": [
+          "Geffner, Tomas",
+          "Papamakarios, George",
+          "Mnih, Andriy"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Compositional+score+modeling+for+simulation-based+inference&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "nichol2021improved",
+      "raw": {
+        "title": "Improved denoising diffusion probabilistic models",
+        "authors": [
+          "Nichol, Alexander Quinn",
+          "Dhariwal, Prafulla"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Improved+denoising+diffusion+probabilistic+models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "gretton2012kernel",
+      "raw": {
+        "title": "A kernel two-sample test",
+        "authors": [
+          "Gretton, Arthur",
+          "Borgwardt, Karsten M",
+          "Rasch, Malte J",
+          "Sch{\\\"o}lkopf, Bernhard",
+          "Smola, Alexander"
+        ],
+        "year": 2012,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=A+kernel+two-sample+test&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "friedman2004multivariate",
+      "raw": {
+        "title": "On multivariate goodness-of-fit and two-sample testing",
+        "authors": [
+          "Friedman, Jerome"
+        ],
+        "year": 2004,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=On+multivariate+goodness-of-fit+and+two-sample+testing&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "lopez2016revisiting",
+      "raw": {
+        "title": "Revisiting classifier two-sample tests",
+        "authors": [
+          "Lopez-Paz, David",
+          "Oquab, Maxime"
+        ],
+        "year": 2016,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Revisiting+classifier+two-sample+tests&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "sisson2007sequential",
+      "raw": {
+        "title": "Sequential monte carlo without likelihoods",
+        "authors": [
+          "Sisson, Scott A",
+          "Fan, Yanan",
+          "Tanaka, Mark M"
+        ],
+        "year": 2007,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Sequential+monte+carlo+without+likelihoods&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "durmus2017nonasymptotic",
+      "raw": {
+        "title": "Nonasymptotic convergence analysis for the unadjusted Langevin algorithm",
+        "authors": [
+          "Durmus, Alain",
+          "Moulines, Eric"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Nonasymptotic+convergence+analysis+for+the+unadjusted+Langevin+algorithm&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "roberts1998optimal",
+      "raw": {
+        "title": "Optimal scaling of discrete approximations to Langevin diffusions",
+        "authors": [
+          "Roberts, Gareth O",
+          "Rosenthal, Jeffrey S"
+        ],
+        "year": 1998,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Optimal+scaling+of+discrete+approximations+to+Langevin+diffusions&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "girolami2011riemann",
+      "raw": {
+        "title": "Riemann manifold langevin and hamiltonian monte carlo methods",
+        "authors": [
+          "Girolami, Mark",
+          "Calderhead, Ben"
+        ],
+        "year": 2011,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Riemann+manifold+langevin+and+hamiltonian+monte+carlo+methods&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ma2015complete",
+      "raw": {
+        "title": "A complete recipe for stochastic gradient MCMC",
+        "authors": [
+          "Ma, Yi-An",
+          "Chen, Tianqi",
+          "Fox, Emily"
+        ],
+        "year": 2015,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=A+complete+recipe+for+stochastic+gradient+MCMC&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "shapiro2003monte",
+      "raw": {
+        "title": "Monte Carlo sampling methods",
+        "authors": [
+          "Shapiro, Alexander"
+        ],
+        "year": 2003,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Monte+Carlo+sampling+methods&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "vehtari2017practical",
+      "raw": {
+        "title": "Practical Bayesian model evaluation using leave-one-out cross-validation and WAIC",
+        "authors": [
+          "Vehtari, Aki",
+          "Gelman, Andrew",
+          "Gabry, Jonah"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Practical+Bayesian+model+evaluation+using+leave-one-out+cross-validation+and+WAIC&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "vehtari2024pareto",
+      "raw": {
+        "title": "Pareto smoothed importance sampling",
+        "authors": [
+          "Vehtari, Aki",
+          "Simpson, Daniel",
+          "Gelman, Andrew",
+          "Yao, Yuling",
+          "Gabry, Jonah"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Pareto+smoothed+importance+sampling&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "guo2017calibration",
+      "raw": {
+        "title": "On calibration of modern neural networks",
+        "authors": [
+          "Guo, Chuan",
+          "Pleiss, Geoff",
+          "Sun, Yu",
+          "Weinberger, Kilian Q"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=On+calibration+of+modern+neural+networks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "cappe2008adaptive",
+      "raw": {
+        "title": "Adaptive importance sampling in general mixture classes",
+        "authors": [
+          "Capp{\\'e}, Olivier",
+          "Douc, Randal",
+          "Guillin, Arnaud",
+          "Marin, Jean-Michel",
+          "Robert, Christian P"
+        ],
+        "year": 2008,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Adaptive+importance+sampling+in+general+mixture+classes&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "cornuet2012adaptive",
+      "raw": {
+        "title": "Adaptive multiple importance sampling",
+        "authors": [
+          "Cornuet, Jean-Marie",
+          "Marin, Jean-Michel",
+          "Mira, Antonietta",
+          "Robert, Christian P"
+        ],
+        "year": 2012,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Adaptive+multiple+importance+sampling&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "owen2000safe",
+      "raw": {
+        "title": "Safe and effective importance sampling",
+        "authors": [
+          "Owen, Art",
+          "Zhou, Yi"
+        ],
+        "year": 2000,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Safe+and+effective+importance+sampling&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "grunwald2012safe",
+      "raw": {
+        "title": "The safe Bayesian: learning the learning rate via the mixability gap",
+        "authors": [
+          "Gr{\\\"u}nwald, Peter"
+        ],
+        "year": 2012,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=The+safe+Bayesian%3A+learning+the+learning+rate+via+the+mixability+gap&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "catoni2007pac",
+      "raw": {
+        "title": "PAC-Bayesian supervised classification: the thermodynamics of statistical learning",
+        "authors": [
+          "Catoni, Olivier"
+        ],
+        "year": 2007,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=PAC-Bayesian+supervised+classification%3A+the+thermodynamics+of+statistical+learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "parno2015transport",
+      "raw": {
+        "title": "Transport maps for accelerated Bayesian computation",
+        "authors": [
+          "Parno, Matthew David"
+        ],
+        "year": 2015,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Transport+maps+for+accelerated+Bayesian+computation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "he2016deep",
+      "raw": {
+        "title": "Deep residual learning for image recognition",
+        "authors": [
+          "He, Kaiming",
+          "Zhang, Xiangyu",
+          "Ren, Shaoqing",
+          "Sun, Jian"
+        ],
+        "year": 2016,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Deep+residual+learning+for+image+recognition&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ba2016layer",
+      "raw": {
+        "title": "Layer normalization",
+        "authors": [
+          "Ba, Jimmy Lei",
+          "Kiros, Jamie Ryan",
+          "Hinton, Geoffrey E"
+        ],
+        "year": 2016,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Layer+normalization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "jerfel2021variational",
+      "raw": {
+        "title": "Variational refinement for importance sampling using the forward kullback-leibler divergence",
+        "authors": [
+          "Jerfel, Ghassen",
+          "Wang, Serena",
+          "Wong-Fannjiang, Clara",
+          "Heller, Katherine A",
+          "Ma, Yian",
+          "Jordan, Michael I"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Variational+refinement+for+importance+sampling+using+the+forward+kullback-leibler+divergence&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "dieng2017variational",
+      "raw": {
+        "title": "Variational Inference via $$\\backslash$chi $ Upper Bound Minimization",
+        "authors": [
+          "Dieng, Adji Bousso",
+          "Tran, Dustin",
+          "Ranganath, Rajesh",
+          "Paisley, John",
+          "Blei, David"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Variational+Inference+via+%24%24%5Cbackslash%24chi+%24+Upper+Bound+Minimization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "murphy2012machine",
+      "raw": {
+        "title": "Machine learning: a probabilistic perspective",
+        "authors": [
+          "Murphy, Kevin P"
+        ],
+        "year": 2012,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Machine+learning%3A+a+probabilistic+perspective&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "alsing2019fast",
+      "raw": {
+        "title": "Fast likelihood-free cosmology with neural density estimators and active learning",
+        "authors": [
+          "Alsing, Justin",
+          "Charnock, Tom",
+          "Feeney, Stephen",
+          "Wandelt, Benjamin"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Fast+likelihood-free+cosmology+with+neural+density+estimators+and+active+learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "lueckmann2017flexible",
+      "raw": {
+        "title": "Flexible statistical inference for mechanistic models of neural dynamics",
+        "authors": [
+          "Lueckmann, Jan-Matthis",
+          "Goncalves, Pedro J",
+          "Bassetto, Giacomo",
+          "{\\\"O}cal, Kaan",
+          "Nonnenmacher, Marcel",
+          "Macke, Jakob H"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Flexible+statistical+inference+for+mechanistic+models+of+neural+dynamics&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "berk1966limiting",
+      "raw": {
+        "title": "Limiting behavior of posterior distributions when the model is incorrect",
+        "authors": [
+          "Berk, Robert H"
+        ],
+        "year": 1966,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Limiting+behavior+of+posterior+distributions+when+the+model+is+incorrect&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "kleijn2006misspecification",
+      "raw": {
+        "title": "Misspecification in infinite-dimensional Bayesian statistics",
+        "authors": [
+          "Kleijn, BJK",
+          "van der Vaart, AW"
+        ],
+        "year": 2006,
+        "doi": "10.1214/009053606000000029",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2112264820",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Misspecification in infinite-dimensional Bayesian statistics",
+        "year": 2006,
+        "authors": [
+          "B. J. K. Kleijn",
+          "Aad van der Vaart"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "grunwald2017inconsistency",
+      "raw": {
+        "title": "Inconsistency of Bayesian Inference for Misspecified Linear Models, and a Proposal for Repairing It",
+        "authors": [
+          "Gr{\\\"u}nwald, Peter D.",
+          "Van Ommen, Thijs"
+        ],
+        "year": 2017,
+        "doi": "10.1214/17-BA1085",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W1510388592",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Inconsistency of Bayesian Inference for Misspecified Linear Models, and a Proposal for Repairing It",
+        "year": 2017,
+        "authors": [
+          "Peter Grünwald",
+          "Thijs van Ommen"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "karras2022elucidating",
+      "raw": {
+        "title": "Elucidating the design space of diffusion-based generative models",
+        "authors": [
+          "Karras, Tero",
+          "Aittala, Miika",
+          "Aila, Timo",
+          "Laine, Samuli"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Elucidating+the+design+space+of+diffusion-based+generative+models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "minka2005divergence",
+      "raw": {
+        "title": "Divergence measures and message passing",
+        "authors": [
+          "Minka, Tom"
+        ],
+        "year": 2005,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Divergence+measures+and+message+passing&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "hernandez2016black",
+      "raw": {
+        "title": "Black-box alpha divergence minimization",
+        "authors": [
+          "Hernandez-Lobato, Jose",
+          "Li, Yingzhen",
+          "Rowland, Mark",
+          "Bui, Thang",
+          "Hern{\\'a}ndez-Lobato, Daniel",
+          "Turner, Richard"
+        ],
+        "year": 2016,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Black-box+alpha+divergence+minimization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "li2016renyi",
+      "raw": {
+        "title": "R\\'enyi divergence variational inference",
+        "authors": [
+          "Li, Yingzhen",
+          "Turner, Richard E"
+        ],
+        "year": 2016,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=R%5C%27enyi+divergence+variational+inference&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "liu2001monte",
+      "raw": {
+        "title": "Monte Carlo strategies in scientific computing",
+        "authors": [
+          "Liu, Jun S",
+          "Liu, Jun S"
+        ],
+        "year": 2001,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Monte+Carlo+strategies+in+scientific+computing&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "miller2017variational",
+      "raw": {
+        "title": "Variational boosting: Iteratively refining posterior approximations",
+        "authors": [
+          "Miller, Andrew C",
+          "Foti, Nicholas J",
+          "Adams, Ryan P"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Variational+boosting%3A+Iteratively+refining+posterior+approximations&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "hinton1995wake",
+      "raw": {
+        "title": "The\" wake-sleep\" algorithm for unsupervised neural networks",
+        "authors": [
+          "Hinton, Geoffrey E",
+          "Dayan, Peter",
+          "Frey, Brendan J",
+          "Neal, Radford M"
+        ],
+        "year": 1995,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=The%22+wake-sleep%22+algorithm+for+unsupervised+neural+networks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "bornschein2014reweighted",
+      "raw": {
+        "title": "Reweighted wake-sleep",
+        "authors": [
+          "Bornschein, J{\\\"o}rg",
+          "Bengio, Yoshua"
+        ],
+        "year": 2014,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Reweighted+wake-sleep&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "brehmer2020madminer",
+      "raw": {
+        "title": "MadMiner: Machine learning-based inference for particle physics",
+        "authors": [
+          "Brehmer, Johann",
+          "Kling, Felix",
+          "Espejo, Irina",
+          "Cranmer, Kyle"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=MadMiner%3A+Machine+learning-based+inference+for+particle+physics&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "sisson2018handbook",
+      "raw": {
+        "title": "Handbook of approximate Bayesian computation",
+        "authors": [
+          "Sisson, Scott A",
+          "Fan, Yanan",
+          "Beaumont, Mark"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Handbook+of+approximate+Bayesian+computation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "box1976science",
+      "raw": {
+        "title": "Science and statistics",
+        "authors": [
+          "Box, George EP"
+        ],
+        "year": 1976,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Science+and+statistics&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "miller2019robust",
+      "raw": {
+        "title": "Robust Bayesian inference via coarsening",
+        "authors": [
+          "Miller, Jeffrey W",
+          "Dunson, David B"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Robust+Bayesian+inference+via+coarsening&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "bishop1994mixture",
+      "raw": {
+        "title": "Mixture density networks",
+        "authors": [
+          "Bishop, Christopher M"
+        ],
+        "year": 1994,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Mixture+density+networks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "rezende2015variational",
+      "raw": {
+        "title": "Variational inference with normalizing flows",
+        "authors": [
+          "Rezende, Danilo",
+          "Mohamed, Shakir"
+        ],
+        "year": 2015,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Variational+inference+with+normalizing+flows&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "battaglia2024amortising",
+      "raw": {
+        "title": "Amortising Variational Bayesian Inference over prior hyperparameters with a Normalising Flow",
+        "authors": [
+          "Battaglia, Laura",
+          "Nicholls, Geoff"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Amortising+Variational+Bayesian+Inference+over+prior+hyperparameters+with+a+Normalising+Flow&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "knoblauch2022optimization",
+      "raw": {
+        "title": "An optimization-centric view on Bayes' rule: Reviewing and generalizing variational inference",
+        "authors": [
+          "Knoblauch, Jeremias",
+          "Jewson, Jack",
+          "Damoulas, Theodoros"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=An+optimization-centric+view+on+Bayes%27+rule%3A+Reviewing+and+generalizing+variational+inference&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "jewson2018principles",
+      "raw": {
+        "title": "Principles of Bayesian inference using general divergence criteria",
+        "authors": [
+          "Jewson, Jack",
+          "Smith, Jim Q",
+          "Holmes, Chris"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Principles+of+Bayesian+inference+using+general+divergence+criteria&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "beaumont2009adaptive",
+      "raw": {
+        "title": "Adaptive approximate Bayesian computation",
+        "authors": [
+          "Beaumont, Mark A",
+          "Cornuet, Jean-Marie",
+          "Marin, Jean-Michel",
+          "Robert, Christian P"
+        ],
+        "year": 2009,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Adaptive+approximate+Bayesian+computation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "toni2009approximate",
+      "raw": {
+        "title": "Approximate Bayesian computation scheme for parameter inference and model selection in dynamical systems",
+        "authors": [
+          "Toni, Tina",
+          "Welch, David",
+          "Strelkowa, Natalja",
+          "Ipsen, Andreas",
+          "Stumpf, Michael PH"
+        ],
+        "year": 2009,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Approximate+Bayesian+computation+scheme+for+parameter+inference+and+model+selection+in+dynamical+systems&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "simola2021adaptive",
+      "raw": {
+        "title": "Adaptive approximate Bayesian computation tolerance selection",
+        "authors": [
+          "Simola, Umberto",
+          "Cisewski-Kehe, Jessi",
+          "Gutmann, Michael U",
+          "Corander, Jukka"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Adaptive+approximate+Bayesian+computation+tolerance+selection&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "lorenz1996predictability",
+      "raw": {
+        "title": "Predictability: A problem partly solved",
+        "authors": [
+          "Lorenz, Edward N"
+        ],
+        "year": 1996,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Predictability%3A+A+problem+partly+solved&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "kelly2024misspecificationrobust",
+      "raw": {
+        "title": "Misspecification-robust Sequential Neural Likelihood for Simulation-based Inference",
+        "authors": [
+          "Ryan P. Kelly",
+          "David J Nott",
+          "David Tyler Frazier",
+          "David J Warne",
+          "Christopher Drovandi"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "elsemuller2024sensitivityaware",
+      "raw": {
+        "title": "Sensitivity-Aware Amortized Bayesian Inference",
+        "authors": [
+          "Lasse Elsem{\\\"u}ller",
+          "Hans Olischl{\\\"a}ger",
+          "Marvin Schmitt",
+          "Paul-Christian B{\\\"u}rkner",
+          "Ullrich Koethe",
+          "Stefan T. Radev"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "glockler2022variational",
+      "raw": {
+        "title": "Variational methods for simulation-based inference",
+        "authors": [
+          "Manuel Gl{\\\"o}ckler",
+          "Michael Deistler",
+          "Jakob H. Macke"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "carmona_scalable_2022",
+      "raw": {
+        "title": "Scalable Semi-Modular Inference with Variational Meta-Posteriors",
+        "authors": [
+          "Carmona, Chris U",
+          "Nicholls, Geoff K"
+        ],
+        "year": 2022,
+        "doi": "10.48550/arXiv.2204.00296",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4226282865",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Scalable Semi-Modular Inference with Variational Meta-Posteriors",
+        "year": 2022,
+        "authors": [
+          "Chris U. Carmona",
+          "Geoff K. Nicholls"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "frazier2021robust",
+      "raw": {
+        "title": "Robust approximate Bayesian inference with synthetic likelihood",
+        "authors": [
+          "Frazier, David T",
+          "Drovandi, Christopher"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Robust+approximate+Bayesian+inference+with+synthetic+likelihood&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "teeter2018generalized",
+      "raw": {
+        "title": "Generalized leaky integrate-and-fire models classify multiple neuron types",
+        "authors": [
+          "Teeter, Corinne",
+          "Iyer, Ramakrishnan",
+          "Menon, Vilas",
+          "Gouwens, Nathan",
+          "Feng, David",
+          "Berg, Jim",
+          "Szafer, Aaron",
+          "Cain, Nicholas",
+          "Zeng, Hongkui",
+          "Hawrylycz, Michael",
+          "others"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Generalized+leaky+integrate-and-fire+models+classify+multiple+neuron+types&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "pospischil2008minimal",
+      "raw": {
+        "title": "Minimal Hodgkin--Huxley type models for different classes of cortical and thalamic neurons",
+        "authors": [
+          "Pospischil, Martin",
+          "Toledo-Rodriguez, Maria",
+          "Monier, Cyril",
+          "Piwkowska, Zuzanna",
+          "Bal, Thierry",
+          "Fr{\\'e}gnac, Yves",
+          "Markram, Henry",
+          "Destexhe, Alain"
+        ],
+        "year": 2008,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Minimal+Hodgkin--Huxley+type+models+for+different+classes+of+cortical+and+thalamic+neurons&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "allen_ctdb_2016",
+      "raw": {
+        "title": "Allen Cell Types Database",
+        "authors": [
+          "{Allen Institute for Brain Science}"
+        ],
+        "year": 2016,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "tolley2024methods",
+      "raw": {
+        "title": "Methods and considerations for estimating parameters in biophysically detailed neural models with simulation based inference",
+        "authors": [
+          "Tolley, Nicholas",
+          "Rodrigues, Pedro LC",
+          "Gramfort, Alexandre",
+          "Jones, Stephanie R"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Methods+and+considerations+for+estimating+parameters+in+biophysically+detailed+neural+models+with+simulation+based+inference&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "sharrock2022sequential",
+      "raw": {
+        "title": "Sequential neural score estimation: Likelihood-free inference with conditional score based diffusion models",
+        "authors": [
+          "Sharrock, Louis",
+          "Simons, Jack",
+          "Liu, Song",
+          "Beaumont, Mark"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Sequential+neural+score+estimation%3A+Likelihood-free+inference+with+conditional+score+based+diffusion+models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "gutmann2016bayesian",
+      "raw": {
+        "title": "Bayesian optimization for likelihood-free inference of simulator-based statistical models",
+        "authors": [
+          "Gutmann, Michael U",
+          "Corander, Jukka"
+        ],
+        "year": 2016,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Bayesian+optimization+for+likelihood-free+inference+of+simulator-based+statistical+models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    }
+  ]
+}

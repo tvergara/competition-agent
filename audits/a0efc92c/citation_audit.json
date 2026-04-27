@@ -1,0 +1,1277 @@
+{
+  "paper_id": "a0efc92c-0beb-43e5-a52e-ebeb64b90dfc",
+  "total": 48,
+  "verified": 12,
+  "mismatch": 0,
+  "missing": 0,
+  "ambiguous": 0,
+  "error": 23,
+  "skipped": 13,
+  "s2_consulted": 0,
+  "s2_lifted": 0,
+  "key_style_outliers": [],
+  "entries": [
+    {
+      "key": "tgb-seq",
+      "raw": {
+        "title": "TGB-Seq Benchmark: Challenging Temporal GNNs with Complex Sequential Dynamics",
+        "authors": [
+          "Yi, Lu",
+          "Peng, Jie",
+          "Zheng, Yanping",
+          "Mo, Fengran",
+          "Wei, Zhewei",
+          "Ye, Yuhang",
+          "Zixuan, Yue",
+          "Huang, Zengfeng"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=TGB-Seq+Benchmark%3A+Challenging+Temporal+GNNs+with+Complex+Sequential+Dynamics&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "tgn",
+      "raw": {
+        "title": "Temporal Graph Networks for Deep Learning on Dynamic Graphs",
+        "authors": [
+          "Emanuele Rossi",
+          "Ben Chamberlain",
+          "Fabrizio Frasca",
+          "Davide Eynard",
+          "Federico \n    Monti",
+          "Michael Bronstein"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Temporal+Graph+Networks+for+Deep+Learning+on+Dynamic+Graphs&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "jodie",
+      "raw": {
+        "title": "Predicting Dynamic Embedding Trajectory in Temporal Interaction Networks",
+        "authors": [
+          "Srijan Kumar",
+          "Xikun Zhang",
+          "Jure Leskovec"
+        ],
+        "year": 2019,
+        "doi": "10.1145/3292500.3330895",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2965683718",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Predicting Dynamic Embedding Trajectory in Temporal Interaction Networks",
+        "year": 2019,
+        "authors": [
+          "Srijan Kumar",
+          "Xikun Zhang",
+          "Jure Leskovec"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "bpr",
+      "raw": {
+        "title": "BPR: Bayesian personalized ranking from implicit feedback",
+        "authors": [
+          "Rendle, Steffen",
+          "Freudenthaler, Christoph",
+          "Gantner, Zeno",
+          "Schmidt-Thieme, Lars"
+        ],
+        "year": 2012,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=BPR%3A+Bayesian+personalized+ranking+from+implicit+feedback&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "repeat",
+      "raw": {
+        "title": "Repeat-Aware Neighbor Sampling for Dynamic Graph Learning",
+        "authors": [
+          "Zou, Tao",
+          "Mao, Yuhao",
+          "Ye, Junchen",
+          "Du, Bowen"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Repeat-Aware+Neighbor+Sampling+for+Dynamic+Graph+Learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "digress",
+      "raw": {
+        "title": "DiGress: Discrete Denoising diffusion for graph generation",
+        "authors": [
+          "Clement Vignac",
+          "Igor Krawczuk",
+          "Antoine Siraudin",
+          "Bohan Wang",
+          "Volkan Cevher",
+          "Pascal Frossard"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "diffuseq",
+      "raw": {
+        "title": "DiffuSeq: Sequence to Sequence Text Generation with Diffusion Models",
+        "authors": [
+          "Gong, Shansan",
+          "Li, Mukai",
+          "Feng, Jiangtao",
+          "Wu, Zhiyong",
+          "Kong, Lingpeng"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=DiffuSeq%3A+Sequence+to+Sequence+Text+Generation+with+Diffusion+Models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "diffusionlm",
+      "raw": {
+        "title": "Diffusion-LM Improves Controllable Text Generation",
+        "authors": [
+          "Xiang Lisa Li",
+          "John Thickstun",
+          "Ishaan Gulrajani",
+          "Percy Liang",
+          "Tatsunori Hashimoto"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "sde",
+      "raw": {
+        "title": "Score-Based Generative Modeling through Stochastic Differential Equations",
+        "authors": [
+          "Yang Song",
+          "Jascha Sohl-Dickstein",
+          "Diederik P Kingma",
+          "Abhishek Kumar",
+          "Stefano Ermon",
+          "Ben Poole"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "ddpm",
+      "raw": {
+        "title": "Denoising Diffusion Probabilistic Models",
+        "authors": [
+          "Ho, Jonathan",
+          "Jain, Ajay",
+          "Abbeel, Pieter"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "survey3",
+      "raw": {
+        "title": "Representation learning for dynamic graphs: A survey",
+        "authors": [
+          "Kazemi, Seyed Mehran",
+          "Goel, Rishab",
+          "Jain, Kshitij",
+          "Kobyzev, Ivan",
+          "Sethi, Akshay",
+          "Forsyth, Peter",
+          "Poupart, Pascal"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Representation+learning+for+dynamic+graphs%3A+A+survey&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "trend",
+      "raw": {
+        "title": "Trend: Temporal event and node dynamics for graph representation learning",
+        "authors": [
+          "Wen, Zhihao",
+          "Fang, Yuan"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Trend%3A+Temporal+event+and+node+dynamics+for+graph+representation+learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "tcl",
+      "raw": {
+        "title": "Tcl: Transformer-based dynamic graph modelling via contrastive learning",
+        "authors": [
+          "Wang, Lu",
+          "Chang, Xiaofu",
+          "Li, Shuang",
+          "Chu, Yunfei",
+          "Li, Hui",
+          "Zhang, Wei",
+          "He, Xiaofeng",
+          "Song, Le",
+          "Zhou, Jingren",
+          "Yang, Hongxia"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Tcl%3A+Transformer-based+dynamic+graph+modelling+via+contrastive+learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "dyrep",
+      "raw": {
+        "title": "DyRep: Learning Representations over Dynamic Graphs",
+        "authors": [
+          "Rakshit Trivedi",
+          "Mehrdad Farajtabar",
+          "Prasenjeet Biswal",
+          "Hongyuan Zha"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "tgat",
+      "raw": {
+        "title": "Inductive representation learning on temporal graphs",
+        "authors": [
+          "Da Xu",
+          "Chuanwei Ruan",
+          "Evren K{\\\"{o}}rpeoglu",
+          "Sushant Kumar",
+          "Kannan Achan"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "graphmixer",
+      "raw": {
+        "title": "Do We Really Need Complicated Model Architectures For Temporal Networks?",
+        "authors": [
+          "Weilin Cong",
+          "Si Zhang",
+          "Jian Kang",
+          "Baichuan Yuan",
+          "Hao Wu",
+          "Xin Zhou",
+          "Hanghang Tong",
+          "Mehrdad Mahdavi"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "tgb",
+      "raw": {
+        "title": "Temporal graph benchmark for machine learning on temporal graphs",
+        "authors": [
+          "Huang, Shenyang",
+          "Poursafaei, Farimah",
+          "Danovitch, Jacob",
+          "Fey, Matthias",
+          "Hu, Weihua",
+          "Rossi, Emanuele",
+          "Leskovec, Jure",
+          "Bronstein, Michael",
+          "Rabusseau, Guillaume",
+          "Rabbany, Reihaneh"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Temporal+graph+benchmark+for+machine+learning+on+temporal+graphs&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "rnn",
+      "raw": {
+        "title": "Recurrent recommender networks",
+        "authors": [
+          "Wu, Chao-Yuan",
+          "Ahmed, Amr",
+          "Beutel, Alex",
+          "Smola, Alexander J",
+          "Jing, How"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Recurrent+recommender+networks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "mlpmixer",
+      "raw": {
+        "title": "Mlp-mixer: An all-mlp architecture for vision",
+        "authors": [
+          "Tolstikhin, Ilya O",
+          "Houlsby, Neil",
+          "Kolesnikov, Alexander",
+          "Beyer, Lucas",
+          "Zhai, Xiaohua",
+          "Unterthiner, Thomas",
+          "Yung, Jessica",
+          "Steiner, Andreas",
+          "Keysers, Daniel",
+          "Uszkoreit, Jakob",
+          "others"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Mlp-mixer%3A+An+all-mlp+architecture+for+vision&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "diffurec",
+      "raw": {
+        "title": "DiffuRec: A Diffusion Model for Sequential Recommendation",
+        "authors": [
+          "Li, Zihao",
+          "Sun, Aixin",
+          "Li, Chenliang"
+        ],
+        "year": 2023,
+        "doi": "10.1145/3631116",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4390412407",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "DiffuRec: A Diffusion Model for Sequential Recommendation",
+        "year": 2023,
+        "authors": [
+          "Zihao Li",
+          "Aixin Sun",
+          "Chenliang Li"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "preferdiff",
+      "raw": {
+        "title": "Preference Diffusion for Recommendation",
+        "authors": [
+          "Liu, Shuo",
+          "Zhang, An",
+          "Hu, Guoqing",
+          "Qian, Hong",
+          "Chua, Tat-seng"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Preference+Diffusion+for+Recommendation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "graphmae",
+      "raw": {
+        "title": "Graphmae: Self-supervised masked graph autoencoders",
+        "authors": [
+          "Hou, Zhenyu",
+          "Liu, Xiao",
+          "Cen, Yukuo",
+          "Dong, Yuxiao",
+          "Yang, Hongxia",
+          "Wang, Chunjie",
+          "Tang, Jie"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Graphmae%3A+Self-supervised+masked+graph+autoencoders&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zheng2024survey",
+      "raw": {
+        "title": "A survey of dynamic graph neural networks",
+        "authors": [
+          "Zheng, Yanping",
+          "Yi, Lu",
+          "Wei, Zhewei"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=A+survey+of+dynamic+graph+neural+networks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "timedart",
+      "raw": {
+        "title": "TimeDART: A Diffusion Autoregressive Transformer for Self-Supervised Time Series Representation",
+        "authors": [
+          "Daoyu Wang",
+          "Mingyue Cheng",
+          "Zhiding Liu",
+          "Qi Liu"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "dg-gen",
+      "raw": {
+        "title": "A Deep Probabilistic Framework for Continuous Time Dynamic Graph Generation",
+        "authors": [
+          "Hosseini, Ryien",
+          "Simini, Filippo",
+          "Vishwanath, Venkatram",
+          "Hoffmann, Henry"
+        ],
+        "year": 2025,
+        "doi": "10.1609/aaai.v39i16.33896",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4409364414",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "A Deep Probabilistic Framework for Continuous Time Dynamic Graph Generation",
+        "year": 2025,
+        "authors": [
+          "Ryien Hosseini",
+          "Filippo Simini",
+          "Venkatram Vishwanath",
+          "Henry Hoffmann"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "tspear",
+      "raw": {
+        "title": "Spear and Shield: Adversarial Attacks and Defense Methods for Model-Based Link Prediction on Continuous-Time Dynamic Graphs",
+        "authors": [
+          "Lee, Dongjin",
+          "Lee, Juho",
+          "Shin, Kijung"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Spear+and+Shield%3A+Adversarial+Attacks+and+Defense+Methods+for+Model-Based+Link+Prediction+on+Continuous-Time+Dynamic+Graphs&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "tgrank",
+      "raw": {
+        "title": "Expressive and Efficient Representation Learning for Ranking Links in Temporal Graphs",
+        "authors": [
+          "Suresh, Susheel",
+          "Shrivastava, Mayank",
+          "Mukherjee, Arko",
+          "Neville, Jennifer",
+          "Li, Pan"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "conda",
+      "raw": {
+        "title": "Latent Diffusion-based Data Augmentation for Continuous-Time Dynamic Graph Model",
+        "authors": [
+          "Tian, Yuxing",
+          "Jiang, Aiwen",
+          "Huang, Qi",
+          "Guo, Jian",
+          "Qi, Yiyan"
+        ],
+        "year": 2024,
+        "doi": "10.1145/3637528.3671863",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4401857340",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Latent Diffusion-based Data Augmentation for Continuous-Time Dynamic Graph Model",
+        "year": 2024,
+        "authors": [
+          "Yuxing Tian",
+          "Aiwen Jiang",
+          "Qi Huang",
+          "Jian Guo",
+          "Yiyan Qi"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "timediff",
+      "raw": {
+        "title": "Non-autoregressive Conditional Diffusion Models for Time Series Prediction",
+        "authors": [
+          "Shen, Lifeng",
+          "Kwok, James"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "attention",
+      "raw": {
+        "title": "Attention is All you Need",
+        "authors": [
+          "Vaswani, Ashish",
+          "Shazeer, Noam",
+          "Parmar, Niki",
+          "Uszkoreit, Jakob",
+          "Jones, Llion",
+          "Gomez, Aidan N",
+          "Kaiser, \\L ukasz",
+          "Polosukhin, Illia"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "dygformer",
+      "raw": {
+        "title": "Towards Better Dynamic Graph Learning: New Architecture and Unified Library",
+        "authors": [
+          "Le Yu",
+          "Leilei Sun",
+          "Bowen Du",
+          "Weifeng Lv"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "graphdiff",
+      "raw": {
+        "title": "Graph Generation with Diffusion Mixture",
+        "authors": [
+          "Jaehyeong Jo",
+          "Dongki Kim",
+          "Sung Ju Hwang"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2302.03596"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2302.03596&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "gdb",
+      "raw": {
+        "title": "GraphGDP: Generative Diffusion Processes for Permutation Invariant Graph Generation",
+        "authors": [
+          "Han Huang",
+          "Leilei Sun",
+          "Bowen Du",
+          "Yanjie Fu",
+          "Weifeng Lv"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": "2212.01842"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2212.01842&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "edgebank",
+      "raw": {
+        "title": "Towards better evaluation for dynamic link prediction",
+        "authors": [
+          "Poursafaei, Farimah",
+          "Huang, Shenyang",
+          "Pelrine, Kellin",
+          "Rabbany, Reihaneh"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Towards+better+evaluation+for+dynamic+link+prediction&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "social",
+      "raw": {
+        "title": "Temporal graph neural networks for social recommendation",
+        "authors": [
+          "Bai, Ting",
+          "Zhang, Youjie",
+          "Wu, Bin",
+          "Nie, Jian-Yun"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Temporal+graph+neural+networks+for+social+recommendation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "tipnn",
+      "raw": {
+        "title": "Temporal inductive path neural network for temporal knowledge graph reasoning",
+        "authors": [
+          "Hao Dong",
+          "Pengyang Wang",
+          "Meng Xiao",
+          "Zhiyuan Ning",
+          "Pengfei Wang",
+          "Yuanchun Zhou"
+        ],
+        "year": 2024,
+        "doi": "https://doi.org/10.1016/j.artint.2024.104085",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4391425775",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Temporal inductive path neural network for temporal knowledge graph reasoning",
+        "year": 2024,
+        "authors": [
+          "Hao Dong",
+          "Pengyang Wang",
+          "Meng Xiao",
+          "Zhiyuan Ning",
+          "Pengfei Wang",
+          "Yuanchun Zhou"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "slade",
+      "raw": {
+        "title": "SLADE: Detecting Dynamic Anomalies in Edge Streams without Labels via Self-Supervised Learning",
+        "authors": [
+          "Lee, Jongha",
+          "Kim, Sunwoo",
+          "Shin, Kijung"
+        ],
+        "year": 2024,
+        "doi": "10.1145/3637528.3671845",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4401863762",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "SLADE: Detecting Dynamic Anomalies in Edge Streams without Labels via Self-Supervised Learning",
+        "year": 2024,
+        "authors": [
+          "J. K. Lee",
+          "Sunwoo Kim",
+          "Kijung Shin"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "craft",
+      "raw": {
+        "title": "Future Link Prediction Without Memory or Aggregation",
+        "authors": [
+          "Lu Yi",
+          "Runlin Lei",
+          "Fengran Mo",
+          "Yanping Zheng",
+          "Zhewei Wei",
+          "Yuhang Ye"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2505.19408"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2505.19408&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "citation",
+      "raw": {
+        "title": "Temporal Graph Neural Network-Powered Paper Recommendation on Dynamic Citation Networks",
+        "authors": [
+          "Junhao Shen",
+          "Mohammad Ausaf Ali Haqqani",
+          "Beichen Hu",
+          "Cheng Huang",
+          "Xihao Xie",
+          "Tsengdar Lee",
+          "Jia Zhang"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2408.15371"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2408.15371&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "dgs",
+      "raw": {
+        "title": "Dynamic Graph Neural Networks for Sequential Recommendation",
+        "authors": [
+          "Zhang, Mengqi",
+          "Wu, Shu",
+          "Yu, Xueli",
+          "Liu, Qiang",
+          "Wang, Liang"
+        ],
+        "year": 2023,
+        "doi": "10.1109/TKDE.2022.3151618",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3190794503",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Dynamic Graph Neural Networks for Sequential Recommendation",
+        "year": 2022,
+        "authors": [
+          "Mengqi Zhang",
+          "Shu Wu",
+          "Xueli Yu",
+          "Qiang Liu",
+          "Liang Wang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "tlp",
+      "raw": {
+        "title": "Temporal link prediction: A survey",
+        "authors": [
+          "Divakaran, Aswathy",
+          "Mohan, Anuraj"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Temporal+link+prediction%3A+A+survey&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "taobao_tgb",
+      "raw": {
+        "title": "Learning Tree-based Deep Model for Recommender Systems",
+        "authors": [
+          "Zhu, Han",
+          "Li, Xiang",
+          "Zhang, Pengye",
+          "Li, Guozheng",
+          "He, Jie",
+          "Li, Han",
+          "Gai, Kun"
+        ],
+        "year": 2018,
+        "doi": "10.1145/3219819.3219826",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2783666221",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Learning Tree-based Deep Model for Recommender Systems",
+        "year": 2018,
+        "authors": [
+          "Zhu Han",
+          "Xiang Li",
+          "Pengye Zhang",
+          "Guozheng Li",
+          "Jie He",
+          "Han Li",
+          "Kun Gai"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "yt_tgb",
+      "raw": {
+        "title": "Measurement and analysis of online social networks",
+        "authors": [
+          "Mislove, Alan",
+          "Marcon, Massimiliano",
+          "Gummadi, Krishna P.",
+          "Druschel, Peter",
+          "Bhattacharjee, Bobby"
+        ],
+        "year": 2007,
+        "doi": "10.1145/1298306.1298311",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2115022330",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Measurement and analysis of online social networks",
+        "year": 2007,
+        "authors": [
+          "Alan Mislove",
+          "Massimiliano Marcon",
+          "Krishna P. Gummadi",
+          "Peter Druschel",
+          "Bobby Bhattacharjee"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "tsne",
+      "raw": {
+        "title": "Visualizing Data using t-SNE",
+        "authors": [
+          "Laurens van der Maaten",
+          "Geoffrey Hinton"
+        ],
+        "year": 2008,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "kde",
+      "raw": {
+        "title": "Kernel Density Estimation via Diffusion",
+        "authors": [
+          "Botev, Zdravko",
+          "Grotowski, Joseph",
+          "Kroese, Dirk"
+        ],
+        "year": 2010,
+        "doi": "10.1214/10-AOS799",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2153464267",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Kernel density estimation via diffusion",
+        "year": 2010,
+        "authors": [
+          "Z. I. Botev",
+          "J. F. Grotowski",
+          "D. P. Kroese"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "uci",
+      "raw": {
+        "title": "Patterns and dynamics of users' behavior and interaction: Network analysis of an online community",
+        "authors": [
+          "Panzarasa, Pietro",
+          "Opsahl, Tore",
+          "Carley, Kathleen M."
+        ],
+        "year": 2009,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Patterns+and+dynamics+of+users%27+behavior+and+interaction%3A+Network+analysis+of+an+online+community&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "gl_tgb",
+      "raw": {
+        "title": "Personalized Showcases: Generating Multi-Modal Explanations for Recommendations",
+        "authors": [
+          "Yan, An",
+          "He, Zhankui",
+          "Li, Jiacheng",
+          "Zhang, Tianyang",
+          "McAuley, Julian"
+        ],
+        "year": 2023,
+        "doi": "10.1145/3539618.3592036",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4384773367",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Personalized Showcases: Generating Multi-Modal Explanations for Recommendations",
+        "year": 2023,
+        "authors": [
+          "An Yan",
+          "Zhankui He",
+          "Jiacheng Li",
+          "Tianyang Zhang",
+          "Julian McAuley"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "flickr_tgb",
+      "raw": {
+        "title": "A measurement-driven analysis of information propagation in the flickr social network",
+        "authors": [
+          "Cha, Meeyoung",
+          "Mislove, Alan",
+          "Gummadi, Krishna P."
+        ],
+        "year": 2009,
+        "doi": "10.1145/1526709.1526806",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W1964869462",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "A measurement-driven analysis of information propagation in the flickr social network",
+        "year": 2009,
+        "authors": [
+          "Meeyoung Cha",
+          "Alan Mislove",
+          "Krishna P. Gummadi"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    }
+  ]
+}

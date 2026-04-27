@@ -1,0 +1,3024 @@
+{
+  "paper_id": "ad4e4ed3-ff72-49a3-8c9d-d5cafab0951e",
+  "total": 72,
+  "verified": 70,
+  "mismatch": 0,
+  "missing": 2,
+  "ambiguous": 0,
+  "error": 0,
+  "skipped": 0,
+  "s2_consulted": 9,
+  "s2_lifted": 7,
+  "key_style_outliers": [
+    "minigpt4",
+    "gpt4o",
+    "l2t"
+  ],
+  "entries": [
+    {
+      "key": "chen2020universal",
+      "raw": {
+        "title": "Universal adversarial attack on attention and the resulting dataset damagenet",
+        "authors": [
+          "Chen, Sizhe",
+          "He, Zhengbao",
+          "Sun, Chengjin",
+          "Yang, Jie",
+          "Huang, Xiaolin"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2999606423",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Universal Adversarial Attack on Attention and the Resulting Dataset DAmageNet",
+        "year": 2020,
+        "authors": [
+          "Sizhe Chen",
+          "Zhengbao He",
+          "Chengjin Sun",
+          "Jie Yang",
+          "Xiaolin Huang"
+        ]
+      },
+      "title_similarity": 0.9935483870967743,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "yin2023generalizable",
+      "raw": {
+        "title": "Generalizable black-box adversarial attack with meta learning",
+        "authors": [
+          "Yin, Fei",
+          "Zhang, Yong",
+          "Wu, Baoyuan",
+          "Feng, Yan",
+          "Zhang, Jingyi",
+          "Fan, Yanbo",
+          "Yang, Yujiu"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4316660635",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Generalizable Black-Box Adversarial Attack With Meta Learning",
+        "year": 2023,
+        "authors": [
+          "Fei Yin",
+          "Yong Zhang",
+          "Baoyuan Wu",
+          "Yan Feng",
+          "Jingyi Zhang",
+          "Yanbo Fan",
+          "Yujiu Yang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "wei2023adaptive",
+      "raw": {
+        "title": "Adaptive cross-modal transferable adversarial attacks from images to videos",
+        "authors": [
+          "Wei, Zhipeng",
+          "Chen, Jingjing",
+          "Wu, Zuxuan",
+          "Jiang Yu{-}Gang"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4390357082",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Adaptive Cross-Modal Transferable Adversarial Attacks From Images to Videos",
+        "year": 2023,
+        "authors": [
+          "Zhipeng Wei",
+          "Jingjing Chen",
+          "Zuxuan Wu",
+          "Yu–Gang Jiang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "chen2024diffusion",
+      "raw": {
+        "title": "Diffusion models for imperceptible and transferable adversarial attack",
+        "authors": [
+          "Chen, Jianqi",
+          "Chen, Hao",
+          "Chen, Keyan",
+          "Zhang, Yilan",
+          "Zou, Zhengxia",
+          "Shi, Zhenwei"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4403422358",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Diffusion Models for Imperceptible and Transferable Adversarial Attack",
+        "year": 2024,
+        "authors": [
+          "Jianqi Chen",
+          "Hao Chen",
+          "Keyan Chen",
+          "Yilan Zhang",
+          "Zhengxia Zou",
+          "Zhenwei Shi"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "jiang2025survey",
+      "raw": {
+        "title": "Survey of adversarial robustness in multimodal large language models",
+        "authors": [
+          "Jiang, Chengze",
+          "Wang, Zhuangzhuang",
+          "Dong, Minjing",
+          "Gui, Jie"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/12b7d01ea49be7ab142b2788ed697148e828a714",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Survey of Adversarial Robustness in Multimodal Large Language Models",
+        "year": 2025,
+        "authors": [
+          "Chengze Jiang",
+          "Zhuangzhuang Wang",
+          "Minjing Dong",
+          "Jie Gui"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "lu2025pretrain",
+      "raw": {
+        "title": "From Pretrain to Pain: Adversarial Vulnerability of Video Foundation Models Without Task Knowledge",
+        "authors": [
+          "Lu, Hui",
+          "Yu, Yi",
+          "Xia, Song",
+          "Yang, Yiming",
+          "Rajan, Deepu",
+          "Ng, Boon Poh",
+          "Kot, Alex",
+          "Jiang, Xudong"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W7138418710",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "From Pretrain to Pain: Adversarial Vulnerability of Video Foundation Models Without Task Knowledge",
+        "year": 2026,
+        "authors": [
+          "Hui Lu",
+          "Yi Yu",
+          "Song Xia",
+          "Yiming Yang",
+          "Deepu Rajan",
+          "Boon Poh Ng",
+          "Alex Kot",
+          "Xudong Jiang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "qwenvl",
+      "raw": {
+        "title": "Qwen-vl: A frontier large vision-language model with versatile abilities",
+        "authors": [
+          "Bai, Jinze",
+          "Bai, Shuai",
+          "Yang, Shusheng",
+          "Wang, Shijie",
+          "Tan, Sinan",
+          "Wang, Peng",
+          "Lin, Junyang",
+          "Zhou, Chang",
+          "Zhou, Jingren"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/5ddb51ae85deca14dc7fc8adc07305c22a1ebe0a",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Qwen-VL: A Frontier Large Vision-Language Model with Versatile Abilities",
+        "year": 2023,
+        "authors": [
+          "Jinze Bai",
+          "Shuai Bai",
+          "Shusheng Yang",
+          "Shijie Wang",
+          "Sinan Tan",
+          "Peng Wang",
+          "Junyang Lin",
+          "Chang Zhou",
+          "Jingren Zhou"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "li2025otter",
+      "raw": {
+        "title": "Otter: A multi-modal model with in-context instruction tuning",
+        "authors": [
+          "Li, Bo",
+          "Zhang, Yuanhan",
+          "Chen, Liangyu",
+          "Wang, Jinghao",
+          "Pu, Fanyi",
+          "Cahyono, Joshua Adrian",
+          "Yang, Jingkang",
+          "Li, Chunyuan",
+          "Liu, Ziwei"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4410536678",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Otter: A Multi-Modal Model With In-Context Instruction Tuning",
+        "year": 2025,
+        "authors": [
+          "Bo Li",
+          "Yuanhan Zhang",
+          "Liangyu Chen",
+          "Jinghao Wang",
+          "Fanyi Pu",
+          "Joshua Adrian Cahyono",
+          "Jingkang Yang",
+          "Chunyuan Li",
+          "Ziwei Liu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "minigpt4",
+      "raw": {
+        "title": "Minigpt-4: Enhancing vision-language understanding with advanced large language models",
+        "authors": [
+          "Zhu, Deyao",
+          "Chen, Jun",
+          "Shen, Xiaoqian",
+          "Li, Xiang",
+          "Elhoseiny, Mohamed"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4366850747",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models",
+        "year": 2023,
+        "authors": [
+          "Deyao Zhu",
+          "Jun Chen",
+          "Xiaoqian Shen",
+          "Xiang Li",
+          "Mohamed Elhoseiny"
+        ]
+      },
+      "title_similarity": 0.9479768786127167,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "qwen",
+      "raw": {
+        "title": "Qwen technical report",
+        "authors": [
+          "Bai, Jinze",
+          "Bai, Shuai",
+          "Chu, Yunfei",
+          "Cui, Zeyu",
+          "Dang, Kai",
+          "Deng, Xiaodong",
+          "Fan, Yang",
+          "Ge, Wenbin",
+          "Han, Yu",
+          "Huang, Fei",
+          "others"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4387225871",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Qwen Technical Report",
+        "year": 2023,
+        "authors": [
+          "Jinze Bai",
+          "Shuai Bai",
+          "Yunfei Chu",
+          "Zeyu Cui",
+          "Kai Dang",
+          "Xiaodong Deng",
+          "Fan, Yang",
+          "Wenbin Ge",
+          "Han Yu",
+          "Fei Huang",
+          "Binyuan Hui",
+          "Luo Ji",
+          "Mei Li",
+          "Junyang Lin",
+          "Runji Lin",
+          "Dayiheng Liu",
+          "Gao Liu",
+          "Chengqiang Lu",
+          "Keming Lu",
+          "Jianxin Ma",
+          "Rui Men",
+          "Xingzhang Ren",
+          "Xuancheng Ren",
+          "Chuanqi Tan",
+          "Sinan Tan",
+          "Jianhong Tu",
+          "Peng Wang",
+          "Shijie Wang",
+          "Wei Wang",
+          "Shengguang Wu",
+          "Benfeng Xu",
+          "Jin Xu",
+          "Yang An",
+          "Yang, Hao",
+          "Jian Yang",
+          "Shusheng Yang",
+          "Yang Yao",
+          "Bowen Yu",
+          "Hongyi Yuan",
+          "Zheng Yuan",
+          "Jianwei Zhang",
+          "Xingxuan Zhang",
+          "Yichang Zhang",
+          "Zhenru Zhang",
+          "Chang Zhou",
+          "Jingren Zhou",
+          "Xiaohuan Zhou",
+          "Tianhang Zhu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "phi",
+      "raw": {
+        "title": "Phi-4 technical report",
+        "authors": [
+          "Abdin, Marah",
+          "Aneja, Jyoti",
+          "Behl, Harkirat",
+          "Bubeck, S{\\'e}bastien",
+          "Eldan, Ronen",
+          "Gunasekar, Suriya",
+          "Harrison, Michael",
+          "Hewett, Russell J",
+          "Javaheripi, Mojan",
+          "Kauffmann, Piero",
+          "others"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4405354744",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Phi-4 Technical Report",
+        "year": 2024,
+        "authors": [
+          "Marah Abdin",
+          "Jyoti Aneja",
+          "Harkirat Behl",
+          "Sébastien Bubeck",
+          "Ronen Eldan",
+          "Suriya Gunasekar",
+          "Michael R. Harrison",
+          "Russell J. Hewett",
+          "Mojan Javaheripi",
+          "Piero Kauffmann",
+          "James R. Lee",
+          "Yin Tat Lee",
+          "Yuanzhi Li",
+          "Weishung Liu",
+          "Caio César Teodoro Mendes",
+          "Anh Nguyen",
+          "Eric Price",
+          "Gustavo de Rosa",
+          "Olli Saarikivi",
+          "Adil Salim",
+          "Shital Shah",
+          "Xin Wang",
+          "Rachel Ward",
+          "Yue Wu",
+          "Dingli Yu",
+          "Cyril Zhang",
+          "Yi Zhang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "llama",
+      "raw": {
+        "title": "Llama: Open and efficient foundation language models",
+        "authors": [
+          "Touvron, Hugo",
+          "Lavril, Thibaut",
+          "Izacard, Gautier",
+          "Martinet, Xavier",
+          "Lachaux, Marie-Anne",
+          "Lacroix, Timoth{\\'e}e",
+          "Rozi{\\`e}re, Baptiste",
+          "Goyal, Naman",
+          "Hambro, Eric",
+          "Azhar, Faisal",
+          "others"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4322718191",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "LLaMA: Open and Efficient Foundation Language Models",
+        "year": 2023,
+        "authors": [
+          "Hugo Touvron",
+          "Thibaut Lavril",
+          "Gautier Izacard",
+          "Xavier Martinet",
+          "Marie-Anne Lachaux",
+          "Timothée Lacroix",
+          "Baptiste Rozière",
+          "Naman Goyal",
+          "Eric Hambro",
+          "Faisal Azhar",
+          "Aurelien Rodriguez",
+          "Armand Joulin",
+          "Édouard Grave",
+          "Guillaume Lample"
+        ]
+      },
+      "title_similarity": 0.9904761904761905,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "llava",
+      "raw": {
+        "title": "Visual instruction tuning",
+        "authors": [
+          "Liu, Haotian",
+          "Li, Chunyuan",
+          "Wu, Qingyang",
+          "Lee, Yong Jae"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4402727764",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Improved Baselines with Visual Instruction Tuning",
+        "year": 2024,
+        "authors": [
+          "Haotian Liu",
+          "Chunyuan Li",
+          "Yuheng Li",
+          "Yong Jae Lee"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "claude",
+      "raw": {
+        "title": "Introducing Claude Sonnet 4.5",
+        "authors": [
+          "Anthropic"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "not_found",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "gemini",
+      "raw": {
+        "title": "Gemini: a family of highly capable multimodal models",
+        "authors": [
+          "Team, Gemini",
+          "Anil, Rohan",
+          "Borgeaud, Sebastian",
+          "Alayrac, Jean-Baptiste",
+          "Yu, Jiahui",
+          "Soricut, Radu",
+          "Schalkwyk, Johan",
+          "Dai, Andrew M",
+          "Hauth, Anja",
+          "Millican, Katie",
+          "others"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4390041933",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Gemini: A Family of Highly Capable Multimodal Models",
+        "year": 2023,
+        "authors": [
+          "Gemini Robotics Team",
+          "Rohan Anil",
+          "Sebastian Borgeaud",
+          "Jean-Baptiste Alayrac",
+          "Jiahui Yu",
+          "Radu Soricut",
+          "Johan Schalkwyk",
+          "Andrew M. Dai",
+          "Anja Hauth",
+          "Katie Millican",
+          "David M. Silver",
+          "Melvin Johnson",
+          "Ioannis Antonoglou",
+          "Julian Schrittwieser",
+          "Amelia Glaese",
+          "Jilin Chen",
+          "Emily Pitler",
+          "Timothy Lillicrap",
+          "Angeliki Lazaridou",
+          "Orhan Fırat",
+          "James Molloy",
+          "Michael Isard",
+          "Paul R. Barham",
+          "Tom Hennigan",
+          "Benjamin Lee",
+          "Fabio Viola",
+          "Malcolm Reynolds",
+          "Yuanzhong Xu",
+          "R. C. Doherty",
+          "Eli Collins",
+          "Clemens Meyer",
+          "Eliza Rutherford",
+          "Érica Rodrigues Moreira",
+          "Kareem Ayoub",
+          "Megha Goel",
+          "Jack Krawczyk",
+          "Cosmo Du",
+          "Ed H.",
+          "Heng-Tze Cheng",
+          "Eric C. Ni",
+          "Purvi Shah",
+          "Patrick Kane",
+          "Betty Chan",
+          "Manaal Faruqui",
+          "Aliaksei Severyn",
+          "Hanzhao Lin",
+          "YaGuang Li",
+          "Yong Cheng",
+          "Abe Ittycheriah",
+          "Mahdis Mahdieh",
+          "Mia Chen",
+          "Pei Sun",
+          "Dustin Tran",
+          "Sumit Bagri",
+          "Balaji Lakshminarayanan",
+          "Jeremiah Liu",
+          "András Orbán",
+          "Fabian Güra",
+          "Hao Zhou",
+          "Xinying Song",
+          "Aurelien Boffy",
+          "Harish Ganapathy",
+          "Steven Zheng",
+          "HyunJeong Choe",
+          "Ágoston Weisz",
+          "Tao Zhu",
+          "Yifeng Lu",
+          "Siddharth Gopal",
+          "Jarrod Kahn",
+          "Maciej Kula",
+          "Jeff Pitman",
+          "Rushin Shah",
+          "Emanuel Taropa",
+          "Majd Al Merey",
+          "Martin Baeuml",
+          "Zhifeng Chen",
+          "Laurent El Shafey",
+          "Yujing Zhang",
+          "Olcan Sercinoglu",
+          "George Tucker",
+          "Enrique Piqueras",
+          "Maxim Krikun",
+          "Iain Barr",
+          "Nikolay Savinov",
+          "Ivo Danihelka",
+          "Becca Roelofs",
+          "Anaïs White",
+          "Anders Andreassen",
+          "Tamara von Glehn",
+          "Lakshman Yagati",
+          "Mehran Kazemi",
+          "Lucas Gonzalez",
+          "Misha Khalman",
+          "Jakub Sygnowski",
+          "Alexandre Fréchette",
+          "Charlotte G. Smith",
+          "Laura Culp",
+          "Lev Proleev",
+          "Yi Luan",
+          "Xi Chen"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "gpt4o",
+      "raw": {
+        "title": "Gpt-4 technical report",
+        "authors": [
+          "Achiam, Josh",
+          "Adler, Steven",
+          "Agarwal, Sandhini",
+          "Ahmad, Lama",
+          "Akkaya, Ilge",
+          "Aleman, Florencia Leoni",
+          "Almeida, Diogo",
+          "Altenschmidt, Janko",
+          "Altman, Sam",
+          "Anadkat, Shyamal",
+          "others"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4327810158",
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/163b4d6a79a5b19af88b8585456363340d9efd04",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "GPT-4 Technical Report",
+        "year": 2023,
+        "authors": [
+          "OpenAI Josh Achiam",
+          "Steven Adler",
+          "S. Agarwal",
+          "L. Ahmad",
+          "Ilge Akkaya",
+          "Florencia Leoni Aleman",
+          "D. Almeida",
+          "Janko Altenschmidt",
+          "S. Altman",
+          "Shyamal Anadkat",
+          "Red Avila",
+          "Igor Babuschkin",
+          "S. Balaji",
+          "Valerie Balcom",
+          "Paul Baltescu",
+          "Haim-ing Bao",
+          "Mo Bavarian",
+          "Jeff Belgum",
+          "Irwan Bello",
+          "Jake Berdine",
+          "Gabriel Bernadett-Shapiro",
+          "Christopher Berner",
+          "Lenny Bogdonoff",
+          "O. Boiko",
+          "Made-laine Boyd",
+          "Anna-Luisa Brakman",
+          "Greg Brockman",
+          "Tim Brooks",
+          "Miles Brundage",
+          "Kevin Button",
+          "Trevor Cai",
+          "Rosie Campbell",
+          "Andrew Cann",
+          "Brittany Carey",
+          "Chelsea Carlson",
+          "Rory Carmichael",
+          "Brooke Chan",
+          "Che Chang",
+          "Fotis Chantzis",
+          "Derek Chen",
+          "Sully Chen",
+          "Ruby Chen",
+          "Jason Chen",
+          "Mark Chen",
+          "Benjamin Chess",
+          "Chester Cho",
+          "Casey Chu",
+          "Hyung Won Chung",
+          "Dave Cummings",
+          "Jeremiah Currier",
+          "Yunxing Dai",
+          "Cory Decareaux",
+          "Thomas Degry",
+          "Noah Deutsch",
+          "Damien Deville",
+          "Arka Dhar",
+          "David Dohan",
+          "Steve Dowling",
+          "Sheila Dunning",
+          "Adrien Ecoffet",
+          "Atty Eleti",
+          "Tyna Eloundou",
+          "David Farhi",
+          "L. Fedus",
+          "Niko Felix",
+          "S. Fishman",
+          "Juston Forte",
+          "Is-abella Fulford",
+          "Leo Gao",
+          "Elie Georges",
+          "C. Gibson",
+          "Vik Goel",
+          "Tarun Gogineni",
+          "Gabriel Goh",
+          "Raphael Gontijo-Lopes",
+          "J. Gordon",
+          "Morgan Grafstein",
+          "Scott Gray",
+          "Ryan Greene",
+          "Joshua Gross",
+          "S. Gu",
+          "Yufei Guo",
+          "Chris Hallacy",
+          "Jesse Han",
+          "J. Harris",
+          "Yuchen He",
+          "Mike Heaton",
+          "Johannes Heidecke",
+          "Chris Hesse",
+          "Alan Hickey",
+          "W. Hickey",
+          "P. Hoeschele",
+          "Brandon Houghton",
+          "Kenny Hsu",
+          "Shengli Hu",
+          "Xin Hu",
+          "Joost Huizinga",
+          "Shantanu Jain",
+          "Shawn Jain",
+          "Joanne Jang",
+          "Angela Jiang",
+          "R. Jiang",
+          "Haozhun Jin",
+          "Denny Jin",
+          "Shino Jomoto",
+          "Billie Jonn",
+          "Heewoo Jun",
+          "Tomer Kaftan",
+          "Lukasz Kaiser",
+          "Ali Kamali",
+          "I. Kanitscheider",
+          "N. Keskar",
+          "Tabarak Khan",
+          "Logan Kilpatrick",
+          "Jong Wook Kim",
+          "Christina Kim",
+          "Yongjik Kim",
+          "Hendrik Kirchner",
+          "J. Kiros",
+          "Matthew Knight",
+          "Daniel Kokotajlo",
+          "Lukasz Kondraciuk",
+          "Andrew Kondrich",
+          "Aris Konstantinidis",
+          "Kyle Kosic",
+          "Gretchen Krueger",
+          "Vishal Kuo",
+          "Michael Lampe",
+          "Ikai Lan",
+          "Teddy Lee",
+          "Jan Leike",
+          "Jade Leung",
+          "Daniel Levy",
+          "Chak Li",
+          "Rachel Lim",
+          "Molly Lin",
+          "Stephanie L. Lin",
+          "Ma-teusz Litwin",
+          "Theresa Lopez",
+          "Ryan Lowe",
+          "Patricia Lue",
+          "A. Makanju",
+          "Kim Malfacini",
+          "Sam Manning",
+          "Todor Markov",
+          "Yaniv Markovski",
+          "Bianca Martin",
+          "Katie Mayer",
+          "Andrew Mayne",
+          "Bob McGrew",
+          "S. McKinney",
+          "Christine McLeavey",
+          "Paul McMillan",
+          "Jake McNeil",
+          "David Medina",
+          "Aalok Mehta",
+          "Jacob Menick",
+          "Luke Metz",
+          "Andrey Mishchenko",
+          "Pamela Mishkin",
+          "Vinnie Monaco",
+          "Evan Morikawa",
+          "Daniel P. Mossing",
+          "Tong Mu",
+          "M. Murati",
+          "O. Murk",
+          "David M'ely",
+          "Ashvin Nair",
+          "Reiichiro Nakano",
+          "Rajeev Nayak",
+          "Arvind Neelakantan",
+          "R. Ngo",
+          "Hyeonwoo Noh",
+          "Ouyang Long",
+          "Cullen O'Keefe",
+          "J. Pachocki",
+          "A. Paino",
+          "Joe Palermo",
+          "Ashley Pantuliano",
+          "Giambattista Parascandolo",
+          "J. Parish",
+          "Emy Parparita",
+          "Alexandre Passos",
+          "Mikhail Pavlov",
+          "Andrew Peng",
+          "Adam Perelman",
+          "Filipe de Avila Belbute Peres",
+          "Michael Petrov",
+          "Henrique Pondé de Oliveira Pinto",
+          "Michael Pokorny",
+          "Michelle Pokrass",
+          "Vitchyr H. Pong",
+          "Tolly Powell",
+          "Alethea Power",
+          "Boris Power",
+          "Elizabeth Proehl",
+          "Raul Puri",
+          "Alec Radford",
+          "Jack W. Rae",
+          "Aditya Ramesh",
+          "Cameron Raymond",
+          "F. Real",
+          "Kendra Rimbach",
+          "Carl Ross",
+          "Bob Rotsted",
+          "Henri Roussez",
+          "N. Ryder",
+          "M. Saltarelli",
+          "Ted Sanders",
+          "Shibani Santurkar",
+          "G. Sastry",
+          "Heather Schmidt",
+          "David Schnurr",
+          "John Schulman",
+          "Daniel Selsam",
+          "Kyla Sheppard",
+          "T. Sherbakov",
+          "Jessica Shieh",
+          "S. Shoker",
+          "Pranav Shyam",
+          "Szymon Sidor",
+          "Eric Sigler",
+          "M. Simens",
+          "Jordan Sitkin",
+          "Katarina Slama",
+          "Ian Sohl",
+          "Benjamin Sokolowsky",
+          "Yang Song",
+          "N. Staudacher",
+          "F. Such",
+          "Natalie Summers",
+          "I. Sutskever",
+          "Jie Tang",
+          "N. Tezak",
+          "Madeleine Thompson",
+          "P. Tillet",
+          "Amin Tootoonchian",
+          "Elizabeth Tseng",
+          "Preston Tuggle",
+          "Nick Turley",
+          "Jerry Tworek",
+          "Juan Felipe Cer'on Uribe",
+          "Andrea Vallone",
+          "Arun Vijayvergiya",
+          "Chelsea Voss",
+          "Carroll L. Wainwright",
+          "Justin Wang",
+          "Alvin Wang",
+          "Ben Wang",
+          "Jonathan Ward",
+          "Jason Wei",
+          "CJ Weinmann",
+          "Akila Welihinda",
+          "Peter Welinder",
+          "Jiayi Weng",
+          "Lilian Weng",
+          "Matt Wiethoff",
+          "Dave Willner",
+          "Clemens Winter",
+          "Samuel Wolrich",
+          "Hannah Wong",
+          "Lauren Workman",
+          "Sherwin Wu",
+          "Jeff Wu",
+          "Michael Wu",
+          "Kai Xiao",
+          "Tao Xu",
+          "Sarah Yoo",
+          "Kevin Yu",
+          "Qim-ing Yuan",
+          "Wojciech Zaremba",
+          "Rowan Zellers",
+          "Chong Zhang",
+          "Marvin Zhang",
+          "Shengjia Zhao",
+          "Tianhao Zheng",
+          "Juntang Zhuang",
+          "William Zhuk",
+          "Barret Zoph"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "reasoning",
+      "raw": {
+        "title": "Enhancing advanced visual reasoning ability of large language models",
+        "authors": [
+          "Li, Zhiyuan",
+          "Liu, Dongnan",
+          "Zhang, Chaoyi",
+          "Wang, Heng",
+          "Xue, Tengfei",
+          "Cai, Weidong"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4404783205",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Enhancing Advanced Visual Reasoning Ability of Large Language Models",
+        "year": 2024,
+        "authors": [
+          "Zhiyuan Li",
+          "Dongnan Liu",
+          "Chaoyi Zhang",
+          "Heng Wang",
+          "Tengfei Xue",
+          "Weidong Cai"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "vqa",
+      "raw": {
+        "title": "Natural language understanding and inference with mllm in visual question answering: A survey",
+        "authors": [
+          "Kuang, Jiayi",
+          "Shen, Ying",
+          "Xie, Jingyou",
+          "Luo, Haohao",
+          "Xu, Zhe",
+          "Li, Ronghao",
+          "Li, Yinghui",
+          "Cheng, Xianfeng",
+          "Lin, Xika",
+          "Han, Yu"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4407049645",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Natural Language Understanding and Inference with MLLM in Visual Question Answering: A Survey",
+        "year": 2025,
+        "authors": [
+          "Jiayi Kuang",
+          "Ying Shen",
+          "Jingyou Xie",
+          "Haohao Luo",
+          "Zhe Xu",
+          "Ronghao Li",
+          "Yinghui Li",
+          "Xianfeng Cheng",
+          "Xika Lin",
+          "Yu Han"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "image-captioning",
+      "raw": {
+        "title": "Image captioning for effective use of language models in knowledge-based visual question answering",
+        "authors": [
+          "Salaberria, Ander",
+          "Azkune, Gorka",
+          "de Lacalle, Oier Lopez",
+          "Soroa, Aitor",
+          "Agirre, Eneko"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3201302554",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Image captioning for effective use of language models in knowledge-based visual question answering",
+        "year": 2022,
+        "authors": [
+          "Ander Salaberria",
+          "Gorka Azkune",
+          "Oier López de Lacalle",
+          "Aitor Soroa",
+          "Eneko Agirre"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "deepseek-vl",
+      "raw": {
+        "title": "Deepseek-vl: towards real-world vision-language understanding",
+        "authors": [
+          "Lu, Haoyu",
+          "Liu, Wen",
+          "Zhang, Bo",
+          "Wang, Bingxuan",
+          "Dong, Kai",
+          "Liu, Bo",
+          "Sun, Jingxiang",
+          "Ren, Tongzheng",
+          "Li, Zhuoshu",
+          "Yang, Hao",
+          "others"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4392678661",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "DeepSeek-VL: Towards Real-World Vision-Language Understanding",
+        "year": 2024,
+        "authors": [
+          "Haoyu Lu",
+          "Wen Liu",
+          "Bo Zhang",
+          "Bingxuan Wang",
+          "Kai Dong",
+          "Bo Liu",
+          "Jingxiang Sun",
+          "Tongzheng Ren",
+          "Zhuoshu Li",
+          "Hao Yang",
+          "Yaofeng Sun",
+          "Chengqi Deng",
+          "Hanwei Xu",
+          "Zhenda Xie",
+          "Chong Ruan"
+        ]
+      },
+      "title_similarity": 0.991869918699187,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "zhang2024universal",
+      "raw": {
+        "title": "Universal adversarial perturbations for vision-language pre-trained models",
+        "authors": [
+          "Zhang, Peng-Fei",
+          "Huang, Zi",
+          "Bai, Guangdong"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4400524868",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Universal Adversarial Perturbations for Vision-Language Pre-trained Models",
+        "year": 2024,
+        "authors": [
+          "Peng-Fei Zhang",
+          "Zi Huang",
+          "Guangdong Bai"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "fang2025one",
+      "raw": {
+        "title": "One perturbation is enough: On generating universal adversarial perturbations against vision-language pre-training models",
+        "authors": [
+          "Fang, Hao",
+          "Kong, Jiawei",
+          "Yu, Wenbo",
+          "Chen, Bin",
+          "Li, Jiawei",
+          "Wu, Hao",
+          "Xia, Shu-Tao",
+          "Xu, Ke"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4399554878",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "One Perturbation is Enough: On Generating Universal Adversarial Perturbations against Vision-Language Pre-training Models",
+        "year": 2024,
+        "authors": [
+          "Hao Fang",
+          "Jiawei Kong",
+          "Wenbo Yu",
+          "Bin Chen",
+          "Jiawei Li",
+          "Wu, Hao",
+          "Shu‐Tao Xia",
+          "Ke Xu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "yang2024efficient",
+      "raw": {
+        "title": "Efficient and effective universal adversarial attack against vision-language pre-training models",
+        "authors": [
+          "Yang, Fan",
+          "Huang, Yihao",
+          "Wang, Kailong",
+          "Shi, Ling",
+          "Pu, Geguang",
+          "Liu, Yang",
+          "Wang, Haoyu"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4403576979",
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/0d1f55402125e2f8feba13486c8bf935292aa8db",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Efficient and Effective Universal Adversarial Attack against Vision-Language Pre-training Models",
+        "year": 2024,
+        "authors": [
+          "Fan Yang",
+          "Yihao Huang",
+          "Kailong Wang",
+          "Ling Shi",
+          "G. Pu",
+          "Yang Liu",
+          "Haoyu Wang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "xu2025one",
+      "raw": {
+        "title": "One Surrogate to Fool Them All: Universal, Transferable, and Targeted Adversarial Attacks with CLIP",
+        "authors": [
+          "Xu, Binyan",
+          "Dai, Xilin",
+          "Tang, Di",
+          "Zhang, Kehuan"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4416549561",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "One Surrogate to Fool Them All: Universal, Transferable, and Targeted Adversarial Attacks with CLIP",
+        "year": 2025,
+        "authors": [
+          "Binyan Xu",
+          "Xilin Dai",
+          "Di Tang",
+          "Kehuan Zhang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "jia2025adversarial",
+      "raw": {
+        "title": "Adversarial Attacks against Closed-Source MLLMs via Feature Optimal Alignment",
+        "authors": [
+          "Jia, Xiaojun",
+          "Gao, Sensen",
+          "Qin, Simeng",
+          "Pang, Tianyu",
+          "Du, Chao",
+          "Huang, Yihao",
+          "Li, Xinfeng",
+          "Li, Yiming",
+          "Li, Bo",
+          "Liu, Yang"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4415037678",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Adversarial Attacks against Closed-Source MLLMs via Feature Optimal Alignment",
+        "year": 2025,
+        "authors": [
+          "Xiaojun Jia",
+          "Sensen Gao",
+          "Simeng Qin",
+          "Tianyu Pang",
+          "Chao‐Hai Du",
+          "Yihao Huang",
+          "Xinfeng Li",
+          "Yiming Li",
+          "Bo Li",
+          "Yang Liu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "li2025a",
+      "raw": {
+        "title": "A Frustratingly Simple Yet Highly Effective Attack Baseline: Over 90\\% Success Rate Against the Strong Black-box Models of GPT-4.5/4o/o1",
+        "authors": [
+          "Zhaoyi Li",
+          "Xiaohan Zhao",
+          "Dong-Dong Wu",
+          "Jiacheng Cui",
+          "Zhiqiang Shen"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4416040357",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "A Frustratingly Simple Yet Highly Effective Attack Baseline: Over 90% Success Rate Against the Strong Black-box Models of GPT-4.5/4o/o1",
+        "year": 2025,
+        "authors": [
+          "Zhengchen Li",
+          "Zhao, Xiaohan",
+          "Di Wu",
+          "Jiacheng Cui",
+          "Shen, Zhiqiang"
+        ]
+      },
+      "title_similarity": 0.9963099630996309,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "hu2025transferable",
+      "raw": {
+        "title": "Transferable adversarial attacks on black-box vision-language models",
+        "authors": [
+          "Hu, Kai",
+          "Yu, Weichen",
+          "Zhang, Li",
+          "Robey, Alexander",
+          "Zou, Andy",
+          "Xu, Chengming",
+          "Hu, Haoqi",
+          "Fredrikson, Matt"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4414769931",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Transferable Adversarial Attacks on Black-Box Vision-Language Models",
+        "year": 2025,
+        "authors": [
+          "Kai Hu",
+          "Weichen Yu",
+          "Li Zhang",
+          "Alexander Robey",
+          "Andy Zou",
+          "Chen Xu",
+          "Haoqi Hu",
+          "Matt Fredrikson"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "mopuri2017fast",
+      "raw": {
+        "title": "Fast feature fool: A data independent approach to universal adversarial perturbations",
+        "authors": [
+          "Mopuri, Konda Reddy",
+          "Garg, Utsav",
+          "Babu, R Venkatesh"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2963047332",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Fast Feature Fool: A data independent approach to universal adversarial perturbations",
+        "year": 2017,
+        "authors": [
+          "Konda Reddy Reddy",
+          "Utsav Garg",
+          "Venkatesh Babu Radhakrishnan"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "zhang2021data",
+      "raw": {
+        "title": "Data-free universal adversarial perturbation and black-box attack",
+        "authors": [
+          "Zhang, Chaoning",
+          "Benz, Philipp",
+          "Karjauv, Adil",
+          "Kweon, In So"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3208993340",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Data-free Universal Adversarial Perturbation and Black-box Attack",
+        "year": 2021,
+        "authors": [
+          "Chaoning Zhang",
+          "Philipp Benz",
+          "Adil Karjauv",
+          "In So Kweon"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "zhao2020learning",
+      "raw": {
+        "title": "Learning to generate image source-agnostic universal adversarial perturbations",
+        "authors": [
+          "Zhao, Pu",
+          "Ram, Parikshit",
+          "Lu, Songtao",
+          "Yao, Yuguang",
+          "Bouneffouf, Djallel",
+          "Lin, Xue",
+          "Liu, Sijia"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4292424361",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Learning to Generate Image Source-Agnostic Universal Adversarial Perturbations",
+        "year": 2020,
+        "authors": [
+          "Pu Zhao",
+          "Parikshit Ram",
+          "Songtao Lu",
+          "Yuguang Yao",
+          "Djallel Bouneffouf",
+          "Xue Lin",
+          "Sijia Liu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "xia2024transferable",
+      "raw": {
+        "title": "Transferable adversarial attacks on sam and its downstream models",
+        "authors": [
+          "Xia, Song",
+          "Yang, Wenhan",
+          "Yu, Yi",
+          "Lin, Xun",
+          "Ding, Henghui",
+          "Duan, Lingyu",
+          "Jiang, Xudong"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4415796324",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Transferable Adversarial Attacks on SAM and Its Downstream Models",
+        "year": 2024,
+        "authors": [
+          "Henghui Ding",
+          "Lingyu Duan",
+          "Xudong Jiang",
+          "Xun Lin",
+          "Song Xia",
+          "Wenhan Yang",
+          "Yi Yu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "goodfellow2014explaining",
+      "raw": {
+        "title": "Explaining and harnessing adversarial examples",
+        "authors": [
+          "Goodfellow, Ian J",
+          "Shlens, Jonathon",
+          "Szegedy, Christian"
+        ],
+        "year": 2015,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W1945616565",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Explaining and Harnessing Adversarial Examples",
+        "year": 2014,
+        "authors": [
+          "Ian Goodfellow",
+          "Jonathon Shlens",
+          "Christian Szegedy"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "chen2017zoo",
+      "raw": {
+        "title": "Zoo: Zeroth order optimization based black-box attacks to deep neural networks without training substitute models",
+        "authors": [
+          "Chen, Pin-Yu",
+          "Zhang, Huan",
+          "Sharma, Yash",
+          "Yi, Jinfeng",
+          "Hsieh, Cho-Jui"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/9ab7319dbe80549ba80e3320d0546d741a7a5791",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "ZOO: Zeroth Order Optimization Based Black-box Attacks to Deep Neural Networks without Training Substitute Models",
+        "year": 2017,
+        "authors": [
+          "Pin-Yu Chen",
+          "Huan Zhang",
+          "Yash Sharma",
+          "Jinfeng Yi",
+          "Cho-Jui Hsieh"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "liu2016delving",
+      "raw": {
+        "title": "Delving into transferable adversarial examples and black-box attacks",
+        "authors": [
+          "Liu, Yanpei",
+          "Chen, Xinyun",
+          "Liu, Chang",
+          "Song, Dawn"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2570685808",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Delving into Transferable Adversarial Examples and Black-box Attacks",
+        "year": 2016,
+        "authors": [
+          "Yanpei Liu",
+          "Xinyun Chen",
+          "Chang Liu",
+          "Dawn Song"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "dong2018boosting",
+      "raw": {
+        "title": "Boosting adversarial attacks with momentum",
+        "authors": [
+          "Dong, Yinpeng",
+          "Liao, Fangzhou",
+          "Pang, Tianyu",
+          "Su, Hang",
+          "Zhu, Jun",
+          "Hu, Xiaolin",
+          "Li, Jianguo"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2774644650",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Boosting Adversarial Attacks with Momentum",
+        "year": 2018,
+        "authors": [
+          "Yinpeng Dong",
+          "Fangzhou Liao",
+          "Tianyu Pang",
+          "Hang Su",
+          "Jun Zhu",
+          "Xiaolin Hu",
+          "Jianguo Li"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "lin2019nesterov",
+      "raw": {
+        "title": "Nesterov accelerated gradient and scale invariance for adversarial attacks",
+        "authors": [
+          "Lin, Jiadong",
+          "Song, Chuanbiao",
+          "He, Kun",
+          "Wang, Liwei",
+          "Hopcroft, John E"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2976752987",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Nesterov Accelerated Gradient and Scale Invariance for Adversarial Attacks",
+        "year": 2019,
+        "authors": [
+          "Jiadong Lin",
+          "Chuanbiao Song",
+          "Kun He",
+          "Liwei Wang",
+          "John E. Hopcroft"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "dong2019evading",
+      "raw": {
+        "title": "Evading defenses to transferable adversarial examples by translation-invariant attacks",
+        "authors": [
+          "Dong, Yinpeng",
+          "Pang, Tianyu",
+          "Su, Hang",
+          "Zhu, Jun"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2969542116",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Evading Defenses to Transferable Adversarial Examples by Translation-Invariant Attacks",
+        "year": 2019,
+        "authors": [
+          "Yinpeng Dong",
+          "Tianyu Pang",
+          "Hang Su",
+          "Jun Zhu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "wang2021enhancing",
+      "raw": {
+        "title": "Enhancing the transferability of adversarial attacks through variance tuning",
+        "authors": [
+          "Wang, Xiaosen",
+          "He, Kun"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3171288285",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Enhancing the Transferability of Adversarial Attacks through Variance Tuning",
+        "year": 2021,
+        "authors": [
+          "Xiaosen Wang",
+          "Kun He"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "zhu2023boosting",
+      "raw": {
+        "title": "Boosting adversarial transferability via gradient relevance attack",
+        "authors": [
+          "Zhu, Hegui",
+          "Ren, Yuchen",
+          "Sui, Xiaoyan",
+          "Yang, Lianping",
+          "Jiang, Wuming"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4390872679",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Boosting Adversarial Transferability via Gradient Relevance Attack",
+        "year": 2023,
+        "authors": [
+          "Hegui Zhu",
+          "Yuchen Ren",
+          "Xiaoyan Sui",
+          "Lianping Yang",
+          "Wuming Jiang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "xie2019improving",
+      "raw": {
+        "title": "Improving transferability of adversarial examples with input diversity",
+        "authors": [
+          "Xie, Cihang",
+          "Zhang, Zhishuai",
+          "Zhou, Yuyin",
+          "Bai, Song",
+          "Wang, Jianyu",
+          "Ren, Zhou",
+          "Yuille, Alan L"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2962847335",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Improving Transferability of Adversarial Examples With Input Diversity",
+        "year": 2019,
+        "authors": [
+          "Cihang Xie",
+          "Zhishuai Zhang",
+          "Yuyin Zhou",
+          "Song Bai",
+          "Jianyu Wang",
+          "Zhou Ren",
+          "Alan Yuille"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "wang2021admix",
+      "raw": {
+        "title": "Admix: Enhancing the transferability of adversarial attacks",
+        "authors": [
+          "Wang, Xiaosen",
+          "He, Xuanran",
+          "Wang, Jingdong",
+          "He, Kun"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3127807678",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Admix: Enhancing the Transferability of Adversarial Attacks",
+        "year": 2021,
+        "authors": [
+          "Xiaosen Wang",
+          "Xuanran He",
+          "Jingdong Wang",
+          "Kun He"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "wang2024boosting",
+      "raw": {
+        "title": "Boosting Adversarial Transferability by Block Shuffle and Rotation",
+        "authors": [
+          "Kunyu Wang",
+          "Xuanran He",
+          "Wenxuan Wang",
+          "Xiaosen Wang"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4402754002",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Boosting Adversarial Transferability by Block Shuffle and Rotation",
+        "year": 2024,
+        "authors": [
+          "Kunyu Wang",
+          "Xuanran He",
+          "Wenxuan Wang",
+          "Xiaosen Wang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "l2t",
+      "raw": {
+        "title": "Learning to Transform Dynamically for Better Adversarial Transferability",
+        "authors": [
+          "Zhu, Rongyi",
+          "Zhang, Zeliang",
+          "Liang, Susan",
+          "Liu, Zhuo",
+          "Xu, Chenliang"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4402716179",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Learning to Transform Dynamically for Better Adversarial Transferability",
+        "year": 2024,
+        "authors": [
+          "Rongyi Zhu",
+          "Zeliang Zhang",
+          "Zhuo Liu",
+          "Chenliang Xu",
+          "Susan Liang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "fda",
+      "raw": {
+        "title": "Fda: Feature disruptive attack",
+        "authors": [
+          "Ganeshan, Aditya",
+          "BS, Vivek",
+          "Babu, R Venkatesh"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2973110499",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "FDA: Feature Disruptive Attack",
+        "year": 2019,
+        "authors": [
+          "Aditya Ganeshan",
+          "B S Vivek",
+          "Venkatesh Babu Radhakrishnan"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "fia",
+      "raw": {
+        "title": "Feature importance-aware transferable adversarial attacks",
+        "authors": [
+          "Wang, Zhibo",
+          "Guo, Hengchang",
+          "Zhang, Zhifei",
+          "Liu, Wenxin",
+          "Qin, Zhan",
+          "Ren, Kui"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3186991201",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Feature Importance-aware Transferable Adversarial Attacks",
+        "year": 2021,
+        "authors": [
+          "Zhibo Wang",
+          "Hengchang Guo",
+          "Zhifei Zhang",
+          "Wenxin Liu",
+          "Zhan Qin",
+          "Kui Ren"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "naa",
+      "raw": {
+        "title": "Improving adversarial transferability via neuron attribution-based attacks",
+        "authors": [
+          "Zhang, Jianping",
+          "Wu, Weibin",
+          "Huang, Jen-tse",
+          "Huang, Yizhan",
+          "Wang, Wenxuan",
+          "Su, Yuxin",
+          "Lyu, Michael R"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4312790346",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Improving Adversarial Transferability via Neuron Attribution-based Attacks",
+        "year": 2022,
+        "authors": [
+          "Jianping Zhang",
+          "Weibin Wu",
+          "Jen-tse Huang",
+          "Yizhan Huang",
+          "Wenxuan Wang",
+          "Yuxin Su",
+          "Michael R. Lyu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "rpa",
+      "raw": {
+        "title": "Enhancing the Transferability of Adversarial Examples with Random Patch.",
+        "authors": [
+          "Zhang, Yaoyuan",
+          "Tan, Yu-an",
+          "Chen, Tian",
+          "Liu, Xinrui",
+          "Zhang, Quanxin",
+          "Li, Yuanzhang"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4285600276",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Enhancing the Transferability of Adversarial Examples with Random Patch",
+        "year": 2022,
+        "authors": [
+          "Yaoyuan Zhang",
+          "Yu‐an Tan",
+          "Tian Chen",
+          "Xinrui Liu",
+          "Quanxin Zhang",
+          "Yuanzhang Li"
+        ]
+      },
+      "title_similarity": 0.993006993006993,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "liang2025improving",
+      "raw": {
+        "title": "Improving Transferable Targeted Attacks with Feature Tuning Mixup",
+        "authors": [
+          "Liang, Kaisheng",
+          "Dai, Xuelong",
+          "Li, Yanjie",
+          "Wang, Dong",
+          "Xiao, Bin"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4413156932",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Improving Transferable Targeted Attacks with Feature Tuning Mixup",
+        "year": 2025,
+        "authors": [
+          "Kaisheng Liang",
+          "Xuelong Dai",
+          "Yanjie Li",
+          "Dong Wang",
+          "Bin Xiao"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "kurakin2018adversarial",
+      "raw": {
+        "title": "Adversarial examples in the physical world",
+        "authors": [
+          "Kurakin, Alexey",
+          "Goodfellow, Ian J",
+          "Bengio, Samy"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2460937040",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Adversarial Examples in the Physical World",
+        "year": 2018,
+        "authors": [
+          "Alexey Kurakin",
+          "Ian Goodfellow",
+          "Samy Bengio"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "huang2025x",
+      "raw": {
+        "title": "X-Transfer Attacks: Towards Super Transferable Adversarial Attacks on CLIP",
+        "authors": [
+          "Huang, Hanxun",
+          "Erfani, Sarah",
+          "Li, Yige",
+          "Ma, Xingjun",
+          "Bailey, James"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4417084373",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "X-Transfer Attacks: Towards Super Transferable Adversarial Attacks on CLIP",
+        "year": 2025,
+        "authors": [
+          "Hanxun Huang",
+          "Sarah Erfani",
+          "Yige Li",
+          "Xingjun Ma",
+          "James Bailey"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "zhang2025anyattack",
+      "raw": {
+        "title": "AnyAttack: Towards Large-scale Self-supervised Adversarial Attacks on Vision-language Models",
+        "authors": [
+          "Zhang, Jiaming",
+          "Ye, Junhong",
+          "Ma, Xingjun",
+          "Li, Yige",
+          "Yang, Yunfan",
+          "Chen, Yunhao",
+          "Sang, Jitao",
+          "Yeung, Dit-Yan"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4403346140",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "AnyAttack: Towards Large-scale Self-supervised Adversarial Attacks on Vision-language Models",
+        "year": 2024,
+        "authors": [
+          "Jiaming Zhang",
+          "Junhong Ye",
+          "Xingjun Ma",
+          "Yige Li",
+          "Yunfan Yang",
+          "Chen, Yunhao",
+          "Jitao Sang",
+          "Dit‐Yan Yeung"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "zhao2023evaluating",
+      "raw": {
+        "title": "On evaluating adversarial robustness of large vision-language models",
+        "authors": [
+          "Zhao, Yunqing",
+          "Pang, Tianyu",
+          "Du, Chao",
+          "Yang, Xiao",
+          "Li, Chongxuan",
+          "Cheung, Ngai-Man Man",
+          "Lin, Min"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4378718229",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "On Evaluating Adversarial Robustness of Large Vision-Language Models",
+        "year": 2023,
+        "authors": [
+          "Yunqing Zhao",
+          "Tianyu Pang",
+          "Chao‐Hai Du",
+          "Xiao Yang",
+          "Chongxuan Li",
+          "Ngai‐Man Cheung",
+          "Min Lin"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "guo2024efficient",
+      "raw": {
+        "title": "Efficient generation of targeted and transferable adversarial examples for vision-language models via diffusion models",
+        "authors": [
+          "Guo, Qi",
+          "Pang, Shanmin",
+          "Jia, Xiaojun",
+          "Liu, Yang",
+          "Guo, Qing"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4405718359",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Efficient Generation of Targeted and Transferable Adversarial Examples for Vision-Language Models via Diffusion Models",
+        "year": 2024,
+        "authors": [
+          "Qi Guo",
+          "Shanmin Pang",
+          "Xiaojun Jia",
+          "Yang Liu",
+          "Qing Guo"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "dong2023robust",
+      "raw": {
+        "title": "How robust is google's bard to adversarial image attacks?",
+        "authors": [
+          "Dong, Yinpeng",
+          "Chen, Huanran",
+          "Chen, Jiawei",
+          "Fang, Zhengwei",
+          "Yang, Xiao",
+          "Zhang, Yichi",
+          "Tian, Yu",
+          "Su, Hang",
+          "Zhu, Jun"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4386977422",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "How Robust is Google's Bard to Adversarial Image Attacks?",
+        "year": 2023,
+        "authors": [
+          "Yinpeng Dong",
+          "Huanran Chen",
+          "Jiawei Chen",
+          "Zhengwei Fang",
+          "Xiao Yang",
+          "Yichi Zhang",
+          "裕美子 増田",
+          "Hang Su",
+          "Jun Zhu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "moosavi2017universal",
+      "raw": {
+        "title": "Universal adversarial perturbations",
+        "authors": [
+          "Moosavi-Dezfooli, Seyed-Mohsen",
+          "Fawzi, Alhussein",
+          "Fawzi, Omar",
+          "Frossard, Pascal"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2543927648",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Universal Adversarial Perturbations",
+        "year": 2017,
+        "authors": [
+          "Seyed-Mohsen Moosavi-Dezfooli",
+          "Alhussein Fawzi",
+          "Omar Fawzi",
+          "Pascal Frossard"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "mopuri2018generalizable",
+      "raw": {
+        "title": "Generalizable data-free objective for crafting universal adversarial perturbations",
+        "authors": [
+          "Mopuri, Konda Reddy",
+          "Ganeshan, Aditya",
+          "Babu, R Venkatesh"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2784986255",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Generalizable Data-Free Objective for Crafting Universal Adversarial Perturbations",
+        "year": 2018,
+        "authors": [
+          "Konda Reddy Mopuri",
+          "Aditya Ganeshan",
+          "R. Venkatesh Babu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "zhou2023downstream",
+      "raw": {
+        "title": "Downstream-agnostic adversarial examples",
+        "authors": [
+          "Zhou, Ziqi",
+          "Hu, Shengshan",
+          "Zhao, Ruizhi",
+          "Wang, Qian",
+          "Zhang, Leo Yu",
+          "Hou, Junhui",
+          "Jin, Hai"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4387967929",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "AdvCLIP: Downstream-agnostic Adversarial Examples in Multimodal Contrastive Learning",
+        "year": 2023,
+        "authors": [
+          "Ziqi Zhou",
+          "Shengshan Hu",
+          "Minghui Li",
+          "Hangtao Zhang",
+          "Yechao Zhang",
+          "Hai Jin"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "gu2025improving",
+      "raw": {
+        "title": "Improving Adversarial Transferability in MLLMs via Dynamic Vision-Language Alignment Attack",
+        "authors": [
+          "Gu, Chenhe",
+          "Gu, Jindong",
+          "Hua, Andong",
+          "Qin, Yao"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4416149692",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Improving Adversarial Transferability in MLLMs via Dynamic Vision-Language Alignment Attack",
+        "year": 2025,
+        "authors": [
+          "Chen Gu",
+          "Jindong Gu",
+          "Andong Hua",
+          "Yao Qin"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "zhou2025vanish",
+      "raw": {
+        "title": "Vanish into thin air: Cross-prompt universal adversarial attacks for sam2",
+        "authors": [
+          "Zhou, Ziqi",
+          "Hu, Yifan",
+          "Song, Yufei",
+          "Li, Zijing",
+          "Hu, Shengshan",
+          "Zhang, Leo Yu",
+          "Yao, Dezhong",
+          "Zheng, Long",
+          "Jin, Hai"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/876aecb484e519204d120479e6a6166f9dc33943",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Vanish into Thin Air: Cross-prompt Universal Adversarial Attacks for SAM2",
+        "year": 2025,
+        "authors": [
+          "Ziqi Zhou",
+          "Yifan Hu",
+          "Yufei Song",
+          "Zijing Li",
+          "Shengshan Hu",
+          "Leo Yu Zhang",
+          "Dezhong Yao",
+          "Long Zheng",
+          "Hai Jin"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "zhou2023advclip",
+      "raw": {
+        "title": "Advclip: Downstream-agnostic adversarial examples in multimodal contrastive learning",
+        "authors": [
+          "Zhou, Ziqi",
+          "Hu, Shengshan",
+          "Li, Minghui",
+          "Zhang, Hangtao",
+          "Zhang, Yechao",
+          "Jin, Hai"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4387967929",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "AdvCLIP: Downstream-agnostic Adversarial Examples in Multimodal Contrastive Learning",
+        "year": 2023,
+        "authors": [
+          "Ziqi Zhou",
+          "Shengshan Hu",
+          "Minghui Li",
+          "Hangtao Zhang",
+          "Yechao Zhang",
+          "Hai Jin"
+        ]
+      },
+      "title_similarity": 0.9940828402366865,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "pan2025ufvideo",
+      "raw": {
+        "title": "UFVideo: Towards Unified Fine-Grained Video Cooperative Understanding with Large Language Models",
+        "authors": [
+          "Pan, Hewen",
+          "Wei, Cong",
+          "Liang, Dashuang",
+          "Huang, Zepeng",
+          "Gao, Pengfei",
+          "Zhou, Ziqi",
+          "Xue, Lulu",
+          "Yan, Pengfei",
+          "Wei, Xiaoming",
+          "Li, Minghui",
+          "others"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W7115607520",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "UFVideo: Towards Unified Fine-Grained Video Cooperative Understanding with Large Language Models",
+        "year": 2025,
+        "authors": [
+          "Pan, Hewen",
+          "Wei, Cong",
+          "Liang, Dashuang",
+          "Huang, Zepeng",
+          "Gao, Pengfei",
+          "Zhou, Ziqi",
+          "Xue, Lulu",
+          "Yan, Pengfei",
+          "Wei, Xiaoming",
+          "Li, Minghui",
+          "Hu, Shengshan"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "hirano2020simple",
+      "raw": {
+        "title": "Simple iterative method for generating targeted universal adversarial perturbations",
+        "authors": [
+          "Hirano, Hokuto",
+          "Takemoto, Kazuhiro"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3093647100",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Simple iterative method for generating targeted universal adversarial perturbations",
+        "year": 2020,
+        "authors": [
+          "Hirano, Hokuto",
+          "29507",
+          "Takemoto, Kazuhiro",
+          "24877",
+          "竹本, 和広",
+          "40512356",
+          "タケモト, カズヒロ",
+          "35270356700",
+          "0000-0002-6355-1366",
+          "100000509"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "cuturi2013sinkhorn",
+      "raw": {
+        "title": "Sinkhorn distances: Lightspeed computation of optimal transport",
+        "authors": [
+          "Cuturi, Marco"
+        ],
+        "year": 2013,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2158131535",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Sinkhorn Distances: Lightspeed Computation of Optimal Transport",
+        "year": 2013,
+        "authors": [
+          "Marco Cuturi"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "lin2014microsoft",
+      "raw": {
+        "title": "Microsoft coco: Common objects in context",
+        "authors": [
+          "Lin, Tsung-Yi",
+          "Maire, Michael",
+          "Belongie, Serge",
+          "Hays, James",
+          "Perona, Pietro",
+          "Ramanan, Deva",
+          "Doll{\\'a}r, Piotr",
+          "Zitnick, C Lawrence"
+        ],
+        "year": 2014,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W1861492603",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Microsoft COCO: Common Objects in Context",
+        "year": 2014,
+        "authors": [
+          "Tsung-Yi Lin",
+          "Michael Maire",
+          "Serge Belongie",
+          "James Hays",
+          "Pietro Perona",
+          "Deva Ramanan",
+          "Piotr Dollár",
+          "C. Lawrence Zitnick"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "nips-2017-defense-against-adversarial-attack",
+      "raw": {
+        "title": "NIPS 2017: Defense Against Adversarial Attack",
+        "authors": [
+          "Alex K",
+          "Ben Hamner",
+          "Ian Goodfellow"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "not_found",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "nichol2018first",
+      "raw": {
+        "title": "On first-order meta-learning algorithms",
+        "authors": [
+          "Nichol, Alex",
+          "Achiam, Joshua",
+          "Schulman, John"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2795900505",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "On First-Order Meta-Learning Algorithms",
+        "year": 2018,
+        "authors": [
+          "Alex Nichol",
+          "Joshua Achiam",
+          "John Schulman"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "dziugaite2016study",
+      "raw": {
+        "title": "A study of the effect of jpg compression on adversarial images",
+        "authors": [
+          "Dziugaite, Gintare Karolina",
+          "Ghahramani, Zoubin",
+          "Roy, Daniel M"
+        ],
+        "year": 2016,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2503523779",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "A study of the effect of JPG compression on adversarial images",
+        "year": 2016,
+        "authors": [
+          "Gintare Karolina Dziugaite",
+          "Zoubin Ghahramani",
+          "Daniel M. Roy"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "xu2018feature",
+      "raw": {
+        "title": "Feature Squeezing: Detecting Adversarial Examples in Deep Neural Networks",
+        "authors": [
+          "Xu, Weilin",
+          "Evans, David",
+          "Qi, Yanjun"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2607219512",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Feature Squeezing: Detecting Adversarial Examples in Deep Neural Networks",
+        "year": 2018,
+        "authors": [
+          "Weilin Xu",
+          "David Evans",
+          "Yanjun Qi"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "zhang2019defending",
+      "raw": {
+        "title": "Defending against whitebox adversarial attacks via randomized discretization",
+        "authors": [
+          "Zhang, Yuchen",
+          "Liang, Percy"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2921173985",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Defending against Whitebox Adversarial Attacks via Randomized Discretization",
+        "year": 2019,
+        "authors": [
+          "Yuchen Zhang",
+          "Percy Liang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "zhangbadrobot",
+      "raw": {
+        "title": "BadRobot: Jailbreaking Embodied LLM Agents in the Physical World",
+        "authors": [
+          "Zhang, Hangtao",
+          "Zhu, Chenyu",
+          "Wang, Xianlong",
+          "Zhou, Ziqi",
+          "Yin, Changgan",
+          "Li, Minghui",
+          "Xue, Lulu",
+          "Wang, Yichen",
+          "Hu, Shengshan",
+          "Liu, Aishan",
+          "others"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/75a606cea89b081cc189c89d9d6eadf294099b88",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "BadRobot: Jailbreaking Embodied LLM Agents in the Physical World",
+        "year": 2025,
+        "authors": [
+          "Hangtao Zhang",
+          "Chenyu Zhu",
+          "Xianlong Wang",
+          "Ziqi Zhou",
+          "Changgan Yin",
+          "Minghui Li",
+          "Lulu Xue",
+          "Yichen Wang",
+          "Shengshan Hu",
+          "Aishan Liu",
+          "Peijin Guo",
+          "Leo Yu Zhang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Zhang_2025_CVPR",
+      "raw": {
+        "title": "Test-Time Backdoor Detection for Object Detection Models",
+        "authors": [
+          "Zhang, Hangtao",
+          "Wang, Yichen",
+          "Yan, Shihui",
+          "Zhu, Chenyu",
+          "Zhou, Ziqi",
+          "Hou, Linshan",
+          "Hu, Shengshan",
+          "Li, Minghui",
+          "Zhang, Yanjun",
+          "Zhang, Leo Yu"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4413156607",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Test-Time Backdoor Detection for Object Detection Models",
+        "year": 2025,
+        "authors": [
+          "Hangtao Zhang",
+          "Yichen Wang",
+          "Shihui Yan",
+          "Chenyu Zhu",
+          "Ziqi Zhou",
+          "Linshan Hou",
+          "Shengshan Hu",
+          "Minghui Li",
+          "Yanjun Zhang",
+          "Leo Yu Zhang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "zhou2025darkhash",
+      "raw": {
+        "title": "Darkhash: A data-free backdoor attack against deep hashing",
+        "authors": [
+          "Zhou, Ziqi",
+          "Deng, Menghao",
+          "Song, Yufei",
+          "Zhang, Hangtao",
+          "Wan, Wei",
+          "Hu, Shengshan",
+          "Li, Minghui",
+          "Zhang, Leo Yu",
+          "Yao, Dezhong"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4412748153",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "DarkHash: A Data-Free Backdoor Attack Against Deep Hashing",
+        "year": 2025,
+        "authors": [
+          "Ziqi Zhou",
+          "Menghao Deng",
+          "Yufei Song",
+          "Hangtao Zhang",
+          "Wei Wan",
+          "Shengshan Hu",
+          "Minghui Li",
+          "Leo Yu Zhang",
+          "Dezhong Yao"
+        ]
+      },
+      "title_similarity": 0.9914529914529915,
+      "mismatches": [],
+      "error": null
+    }
+  ]
+}

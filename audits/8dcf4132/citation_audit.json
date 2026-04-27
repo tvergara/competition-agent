@@ -1,0 +1,1166 @@
+{
+  "paper_id": "8dcf4132-6634-4bdd-8504-8c06c570b60f",
+  "total": 39,
+  "verified": 31,
+  "mismatch": 3,
+  "missing": 3,
+  "ambiguous": 1,
+  "error": 0,
+  "skipped": 1,
+  "s2_consulted": 38,
+  "s2_lifted": 0,
+  "key_style_outliers": [
+    "mnist1d"
+  ],
+  "entries": [
+    {
+      "key": "polyak1964",
+      "raw": {
+        "title": "Some methods of speeding up the convergence of iteration methods",
+        "authors": [
+          "Polyak, Boris T"
+        ],
+        "year": 1964,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/4b53e3f719ff983eef867c6d8deac5dbe38aecb4",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Some methods of speeding up the convergence of iteration methods",
+        "year": 1964,
+        "authors": [
+          "Boris Polyak"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "sutskever2013importance",
+      "raw": {
+        "title": "On the importance of initialization and momentum in deep learning",
+        "authors": [
+          "Sutskever, Ilya",
+          "Martens, James",
+          "Dahl, George",
+          "Hinton, Geoffrey"
+        ],
+        "year": 2013,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/aa7bfd2304201afbb19971ebde87b17e40242e91",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "On the importance of initialization and momentum in deep learning",
+        "year": 2013,
+        "authors": [
+          "I. Sutskever",
+          "James Martens",
+          "George E. Dahl",
+          "Geoffrey E. Hinton"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "yuan2016convergence",
+      "raw": {
+        "title": "On the convergence of stochastic heavy ball momentum",
+        "authors": [
+          "Sebbouh,Othmane",
+          "Gower,Robert M.",
+          "Defazio,Aaron"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "not_found",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "johnson2013svrg",
+      "raw": {
+        "title": "Accelerating stochastic gradient descent using predictive variance reduction",
+        "authors": [
+          "Johnson, Rie",
+          "Zhang, Tong"
+        ],
+        "year": 2013,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/43c05444fbc239321f6676f3cd539cac34fde7b8",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Accelerating Stochastic Gradient Descent using Predictive Variance Reduction",
+        "year": 2013,
+        "authors": [
+          "Rie Johnson",
+          "Tong Zhang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "defazio2014saga",
+      "raw": {
+        "title": "SAGA: A fast incremental gradient method with support for non-strongly convex composite objectives",
+        "authors": [
+          "Defazio, Aaron",
+          "Bach, Francis",
+          "Lacoste-Julien, Simon"
+        ],
+        "year": 2014,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/4daec165c1f4aa1206b0d91c0b26f0287d1ef52d",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "SAGA: A Fast Incremental Gradient Method With Support for Non-Strongly Convex Composite Objectives",
+        "year": 2014,
+        "authors": [
+          "Aaron Defazio",
+          "F. Bach",
+          "Simon Lacoste-Julien"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "nguyen2017sarah",
+      "raw": {
+        "title": "SARAH: A novel method for machine learning problems using stochastic recursive gradient",
+        "authors": [
+          "Nguyen, Lam M",
+          "Liu, Jie",
+          "Scheinberg, Katya",
+          "Tak{\\'a}c, Martin"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/db4d0e45560ceda35b6212036513bd4ab59ce99d",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "SARAH: A Novel Method for Machine Learning Problems Using Stochastic Recursive Gradient",
+        "year": 2017,
+        "authors": [
+          "Lam M. Nguyen",
+          "Jie Liu",
+          "K. Scheinberg",
+          "Martin Takác"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "cutkosky2019storm",
+      "raw": {
+        "title": "Momentum-based variance reduction in non-convex SGD",
+        "authors": [
+          "Cutkosky, Ashok",
+          "Orabona, Francesco"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/90afc52bbacf37e6d3ca16ead35499f661222d7d",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Momentum-Based Variance Reduction in Non-Convex SGD",
+        "year": 2019,
+        "authors": [
+          "Ashok Cutkosky",
+          "Francesco Orabona"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "tran2019hybrid",
+      "raw": {
+        "title": "Hybrid variance-reduced SGD algorithms for nonconvex-nonsmooth optimization",
+        "authors": [
+          "Tran-Dinh, Quoc",
+          "Pham, Nhan H",
+          "Phan, Dzung T",
+          "Nguyen, Lam M"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "not_found",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "fang2018spider",
+      "raw": {
+        "title": "SPIDER: Near-optimal non-convex optimization via stochastic path-integrated differential estimator",
+        "authors": [
+          "Fang, Cong",
+          "Li, Chris Junchi",
+          "Lin, Zhouchen",
+          "Zhang, Tong"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/0572951adde832f6f84e26b5fb87da8e1d1ebca5",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "SPIDER: Near-Optimal Non-Convex Optimization via Stochastic Path Integrated Differential Estimator",
+        "year": 2018,
+        "authors": [
+          "Cong Fang",
+          "C. Li",
+          "Zhouchen Lin",
+          "T. Zhang"
+        ]
+      },
+      "title_similarity": 0.9489795918367346,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "nesterov1983",
+      "raw": {
+        "title": "A method for unconstrained convex minimization problem with the rate of convergence $O(1/k^2)$",
+        "authors": [
+          "Nesterov, Yurii"
+        ],
+        "year": 1983,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/ed910d96802212c9e45d956adaa27d915f5d7469",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "A method for unconstrained convex minimization problem with the rate of convergence o(1/k^2)",
+        "year": 1983,
+        "authors": [
+          "Y. Nesterov"
+        ]
+      },
+      "title_similarity": 0.989247311827957,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "stein1972bound",
+      "raw": {
+        "title": "A bound for the error in the normal approximation to the distribution of a sum of dependent random variables",
+        "authors": [
+          "Stein, Charles"
+        ],
+        "year": 1972,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/c7bf61f72cce609ce7b754e570fe1ec05ca3827b",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "A bound for the error in the normal approximation to the distribution of a sum of dependent random variables",
+        "year": 1972,
+        "authors": [
+          "C. Stein"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "liu2016stein",
+      "raw": {
+        "title": "Stein variational gradient descent: A general purpose bayesian inference algorithm",
+        "authors": [
+          "Liu, Qiang",
+          "Wang, Dilin"
+        ],
+        "year": 2016,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/768f7353718c6d95f2d63f954f2236369a409135",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Stein Variational Gradient Descent: A General Purpose Bayesian Inference Algorithm",
+        "year": 2016,
+        "authors": [
+          "Qiang Liu",
+          "Dilin Wang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "chwialkowski2016kernel",
+      "raw": {
+        "title": "A kernel test of goodness of fit",
+        "authors": [
+          "Chwialkowski, Kacper",
+          "Strathmann, Heiko",
+          "Gretton, Arthur"
+        ],
+        "year": 2016,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/dfdf6bd96388c97b377cb63406367dea8592e53d",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "A Kernel Test of Goodness of Fit",
+        "year": 2016,
+        "authors": [
+          "Kacper P. Chwialkowski",
+          "Heiko Strathmann",
+          "A. Gretton"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "tran2022better",
+      "raw": {
+        "title": "Better SGD using Second-order Momentum",
+        "authors": [
+          "Tran, Hoang",
+          "Cutkosky, Ashok"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/4e7b2be51cd4441bb6db9731cb3da8c52d1b366f",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Better SGD using Second-order Momentum",
+        "year": 2021,
+        "authors": [
+          "Hoang Tran",
+          "Ashok Cutkosky"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "zhang2020onesample",
+      "raw": {
+        "title": "One Sample Stochastic Frank-Wolfe",
+        "authors": [
+          "Zhang, Mingrui",
+          "Shen, Zebang",
+          "Mokhtari, Aryan",
+          "Hassani, Hamed",
+          "Karbasi, Amin"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/e80f6b91767ff23c05fe42c2aa6c072531ab5380",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "One Sample Stochastic Frank-Wolfe",
+        "year": 2019,
+        "authors": [
+          "Mingrui Zhang",
+          "Zebang Shen",
+          "Aryan Mokhtari",
+          "Hamed Hassani",
+          "Amin Karbasi"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "sadiev2025second",
+      "raw": {
+        "title": "Second-order Optimization under Heavy-Tailed Noise: Hessian Clipping and Sample Complexity Limits",
+        "authors": [
+          "Sadiev, Abdurakhmon",
+          "Richt{\\'a}rik, Peter",
+          "Fatkhullin, Ilyas"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/c399e7d31b74b9548d0841fd913c2822fbd5503e",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Second-order Optimization under Heavy-Tailed Noise: Hessian Clipping and Sample Complexity Limits",
+        "year": 2025,
+        "authors": [
+          "Abdurakhmon Sadiev",
+          "Peter Richt'arik",
+          "Ilyas Fatkhullin"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "kovalev2025non",
+      "raw": {
+        "title": "Understanding Gradient Orthogonalization for Deep Learning via Non-Euclidean Trust-Region Optimization",
+        "authors": [
+          "Kovalev, Dmitry"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/470e6d56ba933805a421e2a973fda193bf42a055",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Understanding Gradient Orthogonalization for Deep Learning via Non-Euclidean Trust-Region Optimization",
+        "year": 2025,
+        "authors": [
+          "Dmitry Kovalev"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "kovalev2025noneuclidean",
+      "raw": {
+        "title": "Non-Euclidean SGD for Structured Optimization: Unified Analysis and Improved Rates",
+        "authors": [
+          "Kovalev, Dmitry",
+          "Borodich, Ekaterina"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/b66ed7ac7af1ae036dedee98273b0b52ae186d8c",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Non-Euclidean SGD for Structured Optimization: Unified Analysis and Improved Rates",
+        "year": 2025,
+        "authors": [
+          "Dmitry Kovalev",
+          "Ekaterina Borodich"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "salehkaleybar2022momentum",
+      "raw": {
+        "title": "Momentum-based policy gradient with second-order information",
+        "authors": [
+          "Salehkaleybar, Saber",
+          "Khorasani, Sadegh",
+          "Kiyavash, Negar",
+          "He, Niao",
+          "Thiran, Patrick"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/fa8c76c432f4fb6901f3545dd20fd02c74297c9b",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Momentum-Based Policy Gradient with Second-Order Information",
+        "year": 2022,
+        "authors": [
+          "Saber Salehkaleybar",
+          "Sadegh Khorasani",
+          "N. Kiyavash",
+          "Niao He",
+          "Patrick Thiran"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "zhang2020one",
+      "raw": {
+        "title": "One Sample Stochastic Frank-Wolfe",
+        "authors": [
+          "Zhang, Mingrui",
+          "Shen, Zebang",
+          "Mokhtari, Aryan",
+          "Hassani, Hamed",
+          "Karbasi, Amin"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/e80f6b91767ff23c05fe42c2aa6c072531ab5380",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "One Sample Stochastic Frank-Wolfe",
+        "year": 2019,
+        "authors": [
+          "Mingrui Zhang",
+          "Zebang Shen",
+          "Aryan Mokhtari",
+          "Hamed Hassani",
+          "Amin Karbasi"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "bernstein2018signsgd",
+      "raw": {
+        "title": "SignSGD: Compressed Optimisation for Non-Convex Problems",
+        "authors": [
+          "Bernstein, Jeremy",
+          "Wang, Yu-Xiang",
+          "Azizzadenesheli, Kamyar",
+          "Anandkumar, Animashree"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/97884ff15e0a4e83f534b7b13979e519d1c50a54",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "signSGD: compressed optimisation for non-convex problems",
+        "year": 2018,
+        "authors": [
+          "Jeremy Bernstein",
+          "Yu-Xiang Wang",
+          "K. Azizzadenesheli",
+          "Anima Anandkumar"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "zhang2019gradient",
+      "raw": {
+        "title": "Why Gradient Clipping Accelerates Training: A Theoretical Justification for Adaptivity",
+        "authors": [
+          "Zhang, Jingzhao",
+          "He, Tianxing",
+          "Sra, Suvrit",
+          "Jadbabaie, Ali"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/e658741baefd2c4da4742bb43155f69d4cbd79fa",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Why Gradient Clipping Accelerates Training: A Theoretical Justification for Adaptivity",
+        "year": 2019,
+        "authors": [
+          "J. Zhang",
+          "Tianxing He",
+          "S. Sra",
+          "A. Jadbabaie"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "simsekli2019tail",
+      "raw": {
+        "title": "A Tail-Index Analysis of Stochastic Gradient Noise in Deep Neural Networks",
+        "authors": [
+          "Simsekli, Umut",
+          "Sagun, Levent",
+          "Gurbuzbalaban, Mert"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/5ed4952b4581beb3732da862dfb6d4747a5bffd8",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "A Tail-Index Analysis of Stochastic Gradient Noise in Deep Neural Networks",
+        "year": 2019,
+        "authors": [
+          "Umut Simsekli",
+          "Levent Sagun",
+          "M. Gürbüzbalaban"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "bottou2018optimization",
+      "raw": {
+        "title": "Optimization methods for large-scale machine learning",
+        "authors": [
+          "Bottou, L{\\'e}on",
+          "Curtis, Frank E",
+          "Nocedal, Jorge"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "metadata_mismatch",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/d21703674ae562bae4a849a75847cdd9ead417df",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Optimization Methods for Large-Scale Machine Learning",
+        "year": 2016,
+        "authors": [
+          "L. Bottou",
+          "Frank E. Curtis",
+          "J. Nocedal"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [
+        "year"
+      ],
+      "error": null
+    },
+    {
+      "key": "gorbunov2020stochastic",
+      "raw": {
+        "title": "Stochastic Optimization with Heavy-Tailed Noise via Accelerated Clipping",
+        "authors": [
+          "Gorbunov, Eduard",
+          "Danilova, Marina",
+          "Gasnikov, Alexander"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/4cd92a56dca741190e453b4229eb9851abf6944c",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Stochastic Optimization with Heavy-Tailed Noise via Accelerated Gradient Clipping",
+        "year": 2020,
+        "authors": [
+          "Eduard A. Gorbunov",
+          "Marina Danilova",
+          "A. Gasnikov"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "libsvm",
+      "raw": {
+        "title": "LIBSVM: A library for support vector machines",
+        "authors": [
+          "Chang, Chih-Chung",
+          "Lin, Chih-Jen"
+        ],
+        "year": 2011,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/273dfbcb68080251f5e9ff38b4413d7bd84b10a1",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "LIBSVM: A library for support vector machines",
+        "year": 2011,
+        "authors": [
+          "Chih-Chung Chang",
+          "Chih-Jen Lin"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "mnist1d",
+      "raw": {
+        "title": "Scaling Down Deep Learning with MNIST-1D",
+        "authors": [
+          "Greydanus, Sam",
+          "Kobak, Dmitry"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2011.14439"
+      },
+      "status": "metadata_mismatch",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/910a4a77658909375fa97481064b82a8337683ea",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Scaling Down Deep Learning with MNIST-1D",
+        "year": 2020,
+        "authors": [
+          "S. Greydanus",
+          "Dmitry Kobak"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [
+        "year"
+      ],
+      "error": null
+    },
+    {
+      "key": "movielens",
+      "raw": {
+        "title": "The MovieLens Datasets: History and Context",
+        "authors": [
+          "Harper, F. Maxwell",
+          "Konstan, Joseph A."
+        ],
+        "year": 2015,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/276ebc620a8976026bd2d03582b9ecfa3738d43c",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "The MovieLens Datasets: History and Context",
+        "year": 2016,
+        "authors": [
+          "F. Harper",
+          "J. Konstan",
+          "J. A"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "vonbahr1965",
+      "raw": {
+        "title": "Inequalities for the $r$th Absolute Moment of a Sum of Random Variables, $1 \\le r \\le 2$",
+        "authors": [
+          "Von Bahr, Bengt",
+          "Esseen, Carl-Gustav"
+        ],
+        "year": 1965,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "not_found",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "arjevani2023lower",
+      "raw": {
+        "title": "Lower Bounds for Non-Convex Stochastic Optimization",
+        "authors": [
+          "Arjevani, Yossi",
+          "Carmon, Yair",
+          "Duchi, John C",
+          "Foster, Dylan J",
+          "Srebro, Nathan",
+          "Woodworth, Blake E"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "metadata_mismatch",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/1448562ccd5bf4bab01d4cae4b2e4549ad3b8e8a",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Lower bounds for non-convex stochastic optimization",
+        "year": 2019,
+        "authors": [
+          "Yossi Arjevani",
+          "Y. Carmon",
+          "John C. Duchi",
+          "Dylan J. Foster",
+          "N. Srebro",
+          "Blake E. Woodworth"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [
+        "year"
+      ],
+      "error": null
+    },
+    {
+      "key": "hubler2025gradient",
+      "raw": {
+        "title": "From Gradient Clipping to Normalization for Heavy-Tailed SGD",
+        "authors": [
+          "H{\\\"u}bler, Florian",
+          "Fatkhullin, Ilyas",
+          "He, Niao"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/66a3694424e42fba136d13fd0c6e660bda62031b",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "From Gradient Clipping to Normalization for Heavy Tailed SGD",
+        "year": 2024,
+        "authors": [
+          "Florian Hübler",
+          "Ilyas Fatkhullin",
+          "Niao He"
+        ]
+      },
+      "title_similarity": 0.9833333333333333,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "khirirat2025better",
+      "raw": {
+        "title": "Better LMO-based Momentum Methods with Second-Order Information",
+        "authors": [
+          "Khirirat, Sarit",
+          "Sadiev, Abdurakhmon",
+          "Demidovich, Yury",
+          "Richt{\\'a}rik, Peter"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/afb12a1f5acf3165d76cee88954fba7f29182659",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Better LMO-based Momentum Methods with Second-Order Information",
+        "year": 2025,
+        "authors": [
+          "Sarit Khirirat",
+          "Abdurakhmon Sadiev",
+          "Yury Demidovich",
+          "Peter Richt'arik"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "chen2023generalized",
+      "raw": {
+        "title": "Generalized-smooth nonconvex optimization is as efficient as smooth nonconvex optimization",
+        "authors": [
+          "Chen, Ziyi",
+          "Zhou, Yi",
+          "Liang, Yingbin",
+          "Lu, Zhaosong"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/4906972dc84f7658f321d841db992426e9cd7552",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Generalized-Smooth Nonconvex Optimization is As Efficient As Smooth Nonconvex Optimization",
+        "year": 2023,
+        "authors": [
+          "Ziyi Chen",
+          "Yi Zhou",
+          "Yingbin Liang",
+          "Zhaosong Lu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "jordan2024muon",
+      "raw": {
+        "title": "Muon: An optimizer for hidden layers in neural networks",
+        "authors": [
+          "Keller Jordan",
+          "Yuchen Jin",
+          "Vlado Boza",
+          "Jiacheng You",
+          "Franz Cesista",
+          "Laker Newhouse",
+          "Jeremy Bernstein"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "pethick2025training",
+      "raw": {
+        "title": "Training Deep Learning Models with Norm-Constrained LMOs",
+        "authors": [
+          "Pethick, Thomas",
+          "Xie, Wanyun",
+          "Antonakopoulos, Kimon",
+          "Zhu, Zhenyu",
+          "Silveti-Falls, Antonio",
+          "Cevher, Volkan"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/dd3fabfc7b9c1e866661e777325674a4e96b2466",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Training Deep Learning Models with Norm-Constrained LMOs",
+        "year": 2025,
+        "authors": [
+          "T. Pethick",
+          "Wanyun Xie",
+          "Kimon Antonakopoulos",
+          "Zhenyu Zhu",
+          "Antonio José Silveti-Falls",
+          "V. Cevher"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "kovalev2025understanding",
+      "raw": {
+        "title": "Understanding Gradient Orthogonalization for Deep Learning via Non-Euclidean Trust-Region Optimization",
+        "authors": [
+          "Kovalev, Dmitry"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/470e6d56ba933805a421e2a973fda193bf42a055",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Understanding Gradient Orthogonalization for Deep Learning via Non-Euclidean Trust-Region Optimization",
+        "year": 2025,
+        "authors": [
+          "Dmitry Kovalev"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "liu2023nonconvex",
+      "raw": {
+        "title": "Nonconvex Stochastic Optimization under Heavy-Tailed Noises: Optimal Convergence without Gradient Clipping",
+        "authors": [
+          "Liu,Zijian",
+          "Zhou, Zhengyuan"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/66fd01a539ffe31c425fac238aad17ee7b1ba7b9",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Nonconvex Stochastic Optimization under Heavy-Tailed Noises: Optimal Convergence without Gradient Clipping",
+        "year": 2024,
+        "authors": [
+          "Zijian Liu",
+          "Zhengyuan Zhou"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "yurtsever2019conditional",
+      "raw": {
+        "title": "Conditional gradient methods for stochastic optimization",
+        "authors": [
+          "Yurtsever, Alp",
+          "Sra, Suvrit",
+          "Cevher, Volkan"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "ambiguous",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/97e1ab2acc9a44cb0e14f050db10700ede84177c",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Adaptive Lipschitz-Free Conditional Gradient Methods for Stochastic Composite Nonconvex Optimization",
+        "year": 2026,
+        "authors": [
+          "Ganzhao Yuan"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "zhang2020adaptive",
+      "raw": {
+        "title": "Why gradient clipping accelerates training: A theoretical justification for adaptivity",
+        "authors": [
+          "Zhang, Jingzhao",
+          "He, Tianxing",
+          "Sra, Suvrit",
+          "Jadbabaie, Ali"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/e658741baefd2c4da4742bb43155f69d4cbd79fa",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Why Gradient Clipping Accelerates Training: A Theoretical Justification for Adaptivity",
+        "year": 2019,
+        "authors": [
+          "J. Zhang",
+          "Tianxing He",
+          "S. Sra",
+          "A. Jadbabaie"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    }
+  ]
+}

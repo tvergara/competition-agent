@@ -1,0 +1,2431 @@
+{
+  "paper_id": "470d3040-06cf-40f5-a216-ae4ee9250eee",
+  "total": 96,
+  "verified": 10,
+  "mismatch": 0,
+  "missing": 0,
+  "ambiguous": 0,
+  "error": 64,
+  "skipped": 22,
+  "s2_consulted": 0,
+  "s2_lifted": 0,
+  "key_style_outliers": [
+    "kather2018100",
+    "DBLP:journals/corr/WestonCB14"
+  ],
+  "entries": [
+    {
+      "key": "muhamed2025saes",
+      "raw": {
+        "title": "Saes can improve unlearning: Dynamic sparse autoencoder guardrails for precision unlearning in llms",
+        "authors": [
+          "Muhamed, Aashiq",
+          "Bonato, Jacopo",
+          "Diab, Mona T",
+          "Smith, Virginia"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Saes+can+improve+unlearning%3A+Dynamic+sparse+autoencoder+guardrails+for+precision+unlearning+in+llms&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "guo2020certified",
+      "raw": {
+        "title": "Certified Data Removal from Machine Learning Models",
+        "authors": [
+          "Chuan Guo",
+          "Tom Goldstein",
+          "Awni Y. Hannun",
+          "Laurens van der Maaten"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "regun",
+      "raw": {
+        "title": "Reference-Guided Machine Unlearning",
+        "authors": [
+          "Mirlach, Jonas",
+          "Laguna, Sonia",
+          "Vogt, Julia E"
+        ],
+        "year": 2026,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Reference-Guided+Machine+Unlearning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ginart2019making",
+      "raw": {
+        "title": "Making AI Forget You: Data Deletion in Machine Learning",
+        "authors": [
+          "Antonio Ginart",
+          "Melody Y. Guan",
+          "Gregory Valiant",
+          "James Zou"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "mccloskey1989catastrophic",
+      "raw": {
+        "title": "Catastrophic interference in connectionist networks: The sequential learning problem",
+        "authors": [
+          "McCloskey, Michael",
+          "Cohen, Neal J"
+        ],
+        "year": 1989,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Catastrophic+interference+in+connectionist+networks%3A+The+sequential+learning+problem&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "georgiev2024attribute",
+      "raw": {
+        "title": "Attribute-to-delete: Machine unlearning via datamodel matching",
+        "authors": [
+          "Georgiev, Kristian",
+          "Rinberg, Roy",
+          "Park, Sung Min",
+          "Garg, Shivam",
+          "Ilyas, Andrew",
+          "Madry, Aleksander",
+          "Neel, Seth"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2410.23232"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2410.23232&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "cywinski2025saeuron",
+      "raw": {
+        "title": "SAeUron: Interpretable concept unlearning in diffusion models with sparse autoencoders",
+        "authors": [
+          "Cywi{\\'n}ski, Bartosz",
+          "Deja, Kamil"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2501.18052"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2501.18052&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "duan2025ready2unlearn",
+      "raw": {
+        "title": "Ready2Unlearn: A Learning-Time Approach for Preparing Models with Future Unlearning Readiness",
+        "authors": [
+          "Duan, Hanyu",
+          "Yang, Yi",
+          "Abbasi, Ahmed",
+          "Tam, Kar Yan"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2505.10845"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2505.10845&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "foster2024fast",
+      "raw": {
+        "title": "Fast Machine Unlearning without Retraining through Selective Synaptic Dampening",
+        "authors": [
+          "Jack Foster",
+          "Stefan Schoepf",
+          "Alexandra Brintrup"
+        ],
+        "year": 2024,
+        "doi": "10.1609/AAAI.V38I11.29092",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4393147285",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Fast Machine Unlearning without Retraining through Selective Synaptic Dampening",
+        "year": 2024,
+        "authors": [
+          "Jack Foster",
+          "Stefan Schoepf",
+          "Alexandra Brintrup"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "patel2025learning",
+      "raw": {
+        "title": "Learning to unlearn while retaining: Combating gradient conflicts in machine unlearning",
+        "authors": [
+          "Patel, Gaurav",
+          "Qiu, Qiang"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Learning+to+unlearn+while+retaining%3A+Combating+gradient+conflicts+in+machine+unlearning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "jia2023model",
+      "raw": {
+        "title": "Model Sparsity Can Simplify Machine Unlearning",
+        "authors": [
+          "Jinghan Jia",
+          "Jiancheng Liu",
+          "Parikshit Ram",
+          "Yuguang Yao",
+          "Gaowen Liu",
+          "Yang Liu",
+          "Pranay Sharma",
+          "Sijia Liu"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "dosovitskiy2020image",
+      "raw": {
+        "title": "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale",
+        "authors": [
+          "Alexey Dosovitskiy",
+          "Lucas Beyer",
+          "Alexander Kolesnikov",
+          "Dirk Weissenborn",
+          "Xiaohua Zhai",
+          "Thomas Unterthiner",
+          "Mostafa Dehghani",
+          "Matthias Minderer",
+          "Georg Heigold",
+          "Sylvain Gelly",
+          "Jakob Uszkoreit",
+          "Neil Houlsby"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "dong2025machine",
+      "raw": {
+        "title": "Machine unlearning via task simplex arithmetic",
+        "authors": [
+          "Dong, Junhao",
+          "Zhu, Hao",
+          "Zhang, Yifei",
+          "Qu, Xinghua",
+          "Ong, Yew-Soon",
+          "Koniusz, Piotr"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Machine+unlearning+via+task+simplex+arithmetic&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "oquab2024dinov2",
+      "raw": {
+        "title": "DINOv2: Learning Robust Visual Features without Supervision",
+        "authors": [
+          "Oquab, Maxime",
+          "Darcet, Timoth{\\'e}e",
+          "Moutakanni, Th{\\'e}o",
+          "Vo, Huy",
+          "Szafraniec, Marc",
+          "Khalidov, Vasil",
+          "Fernandez, Pierre",
+          "Haziza, Daniel",
+          "Massa, Francisco",
+          "El-Nouby, Alaaeldin",
+          "others"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=DINOv2%3A+Learning+Robust+Visual+Features+without+Supervision&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "radford2021learning",
+      "raw": {
+        "title": "Learning Transferable Visual Models From Natural Language Supervision",
+        "authors": [
+          "Alec Radford",
+          "Jong Wook Kim",
+          "Chris Hallacy",
+          "Aditya Ramesh",
+          "Gabriel Goh",
+          "Sandhini Agarwal",
+          "Girish Sastry",
+          "Amanda Askell",
+          "Pamela Mishkin",
+          "Jack Clark",
+          "Gretchen Krueger",
+          "Ilya Sutskever"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "leeruago",
+      "raw": {
+        "title": "RUAGO: Effective and Practical Retain-Free Unlearning via Adversarial Attack and OOD Generator",
+        "authors": [
+          "Lee, SangYong",
+          "Chung, Sangjun",
+          "Woo, Simon S"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=RUAGO%3A+Effective+and+Practical+Retain-Free+Unlearning+via+Adversarial+Attack+and+OOD+Generator&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "diadversarial",
+      "raw": {
+        "title": "Adversarial Machine Unlearning",
+        "authors": [
+          "Di, Zonglin",
+          "Yu, Sixie",
+          "Vorobeychik, Yevgeniy",
+          "Liu, Yang"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Adversarial+Machine+Unlearning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "hsuunseen",
+      "raw": {
+        "title": "The Unseen Threat: Residual Knowledge in Machine Unlearning under Perturbed Samples",
+        "authors": [
+          "Hsu, Hsiang",
+          "Niroula, Pradeep",
+          "He, Zichang",
+          "Brugere, Ivan",
+          "Lecue, Freddy",
+          "Chen, Chun-Fu"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=The+Unseen+Threat%3A+Residual+Knowledge+in+Machine+Unlearning+under+Perturbed+Samples&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ccpa2018",
+      "raw": {
+        "title": "California Consumer Privacy Act of 2018 (CCPA)",
+        "authors": [
+          "{California State Legislature}"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "bourtoule2021machine",
+      "raw": {
+        "title": "Machine unlearning",
+        "authors": [
+          "Bourtoule, Lucas",
+          "Chandrasekaran, Varun",
+          "Choquette-Choo, Christopher A",
+          "Jia, Hengrui",
+          "Travers, Adelin",
+          "Zhang, Baiwu",
+          "Lie, David",
+          "Papernot, Nicolas"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Machine+unlearning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "biswas2025cure",
+      "raw": {
+        "title": "CURE: Concept Unlearning via Orthogonal Representation Editing in Diffusion Models",
+        "authors": [
+          "Biswas, Shristi Das",
+          "Roy, Arani",
+          "Roy, Kaushik"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=CURE%3A+Concept+Unlearning+via+Orthogonal+Representation+Editing+in+Diffusion+Models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "gao2025meta",
+      "raw": {
+        "title": "Meta-unlearning on diffusion models: Preventing relearning unlearned concepts",
+        "authors": [
+          "Gao, Hongcheng",
+          "Pang, Tianyu",
+          "Du, Chao",
+          "Hu, Taihang",
+          "Deng, Zhijie",
+          "Lin, Min"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Meta-unlearning+on+diffusion+models%3A+Preventing+relearning+unlearned+concepts&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zhang2025targeted",
+      "raw": {
+        "title": "Targeted Forgetting of Image Subgroups in CLIP Models",
+        "authors": [
+          "Zhang, Zeliang",
+          "Liu, Gaowen",
+          "Fleming, Charles",
+          "Kompella, Ramana Rao",
+          "Xu, Chenliang"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Targeted+Forgetting+of+Image+Subgroups+in+CLIP+Models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "lee2025esc",
+      "raw": {
+        "title": "ESC: Erasing Space Concept for Knowledge Deletion",
+        "authors": [
+          "Lee, Tae-Young",
+          "Park, Sundong",
+          "Jeon, Minwoo",
+          "Hwang, Hyoseok",
+          "Park, Gyeong-Moon"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=ESC%3A+Erasing+Space+Concept+for+Knowledge+Deletion&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "feng2025fg",
+      "raw": {
+        "title": "FG-OrIU: Towards Better Forgetting via Feature-Gradient Orthogonality for Incremental Unlearning",
+        "authors": [
+          "Feng, Qian",
+          "Tu, JiaHang",
+          "Kang, Mintong",
+          "Zhao, Hanbin",
+          "Zhang, Chao",
+          "Qian, Hui"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=FG-OrIU%3A+Towards+Better+Forgetting+via+Feature-Gradient+Orthogonality+for+Incremental+Unlearning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "cywinskisaeuron",
+      "raw": {
+        "title": "SAeUron: Interpretable Concept Unlearning in Diffusion Models with Sparse Autoencoders",
+        "authors": [
+          "Cywi{\\'n}ski, Bartosz",
+          "Deja, Kamil"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=SAeUron%3A+Interpretable+Concept+Unlearning+in+Diffusion+Models+with+Sparse+Autoencoders&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "guomechanistic",
+      "raw": {
+        "title": "Mechanistic Unlearning: Robust Knowledge Unlearning and Editing via Mechanistic Localization",
+        "authors": [
+          "Guo, Phillip Huang",
+          "Syed, Aaquib",
+          "Sheshadri, Abhay",
+          "Ewart, Aidan",
+          "Dziugaite, Gintare Karolina"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Mechanistic+Unlearning%3A+Robust+Knowledge+Unlearning+and+Editing+via+Mechanistic+Localization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "shamsian2025go",
+      "raw": {
+        "title": "Go Beyond Your Means: Unlearning with Per-Sample Gradient Orthogonalization",
+        "authors": [
+          "Shamsian, Aviv",
+          "Shaar, Eitan",
+          "Navon, Aviv",
+          "Chechik, Gal",
+          "Fetaya, Ethan"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2503.02312"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2503.02312&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "gaolarge",
+      "raw": {
+        "title": "On Large Language Model Continual Unlearning",
+        "authors": [
+          "Gao, Chongyang",
+          "Wang, Lixu",
+          "Ding, Kaize",
+          "Weng, Chenkai",
+          "Wang, Xiao",
+          "Zhu, Qi"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=On+Large+Language+Model+Continual+Unlearning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "jang2023knowledge",
+      "raw": {
+        "title": "Knowledge Unlearning for Mitigating Privacy Risks in Language Models",
+        "authors": [
+          "Jang, Joel",
+          "Yoon, Dongkeun",
+          "Yang, Sohee",
+          "Cha, Sungmin",
+          "Lee, Moontae",
+          "Logeswaran, Lajanugen",
+          "Seo, Minjoon"
+        ],
+        "year": 2023,
+        "doi": "10.18653/v1/2023.acl-long.805",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4385572399",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Knowledge Unlearning for Mitigating Privacy Risks in Language Models",
+        "year": 2023,
+        "authors": [
+          "Joel Jang",
+          "Dongkeun Yoon",
+          "Sohee Yang",
+          "Sungmin Cha",
+          "Moontae Lee",
+          "Lajanugen Logeswaran",
+          "Minjoon Seo"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "zhou2025decoupled",
+      "raw": {
+        "title": "Decoupled distillation to erase: A general unlearning method for any class-centric tasks",
+        "authors": [
+          "Zhou, Yu",
+          "Zheng, Dian",
+          "Mo, Qijie",
+          "Lu, Renjie",
+          "Lin, Kun-Yu",
+          "Zheng, Wei-Shi"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Decoupled+distillation+to+erase%3A+A+general+unlearning+method+for+any+class-centric+tasks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "shen2024label",
+      "raw": {
+        "title": "Label-Agnostic Forgetting: A Supervision-Free Unlearning in Deep Models",
+        "authors": [
+          "Shaofei Shen",
+          "Chenhao Zhang",
+          "Yawen Zhao",
+          "Alina Bialkowski",
+          "Weitong Chen",
+          "Miao Xu"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "wu2024scissorhands",
+      "raw": {
+        "title": "Scissorhands: Scrub data influence via connection sensitivity in networks",
+        "authors": [
+          "Wu, Jing",
+          "Harandi, Mehrtash"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Scissorhands%3A+Scrub+data+influence+via+connection+sensitivity+in+networks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "goel2022towards",
+      "raw": {
+        "title": "Towards adversarial evaluations for inexact machine unlearning",
+        "authors": [
+          "Goel, Shashwat",
+          "Prabhu, Ameya",
+          "Sanyal, Amartya",
+          "Lim, Ser-Nam",
+          "Torr, Philip",
+          "Kumaraguru, Ponnurangam"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": "2201.06640"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2201.06640&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "kather2019predicting",
+      "raw": {
+        "title": "Predicting survival from colorectal cancer histology slides using deep learning: A retrospective multicenter study",
+        "authors": [
+          "Kather, Jakob Nikolas",
+          "Krisam, Johannes",
+          "Charoentong, Pornpimol",
+          "Luedde, Tom",
+          "Herpel, Esther",
+          "Weis, Cleo-Aron",
+          "Gaiser, Timo",
+          "Marx, Alexander",
+          "Valous, Nektarios A",
+          "Ferber, Dyke",
+          "others"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Predicting+survival+from+colorectal+cancer+histology+slides+using+deep+learning%3A+A+retrospective+multicenter+study&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "acevedo2020dataset",
+      "raw": {
+        "title": "A dataset of microscopic peripheral blood cell images for development of automatic recognition systems",
+        "authors": [
+          "Acevedo, Andrea",
+          "Merino, Anna",
+          "Alf{\\'e}rez, Santiago",
+          "Molina, {\\'A}ngel",
+          "Bold{\\'u}, Laura",
+          "Rodellar, Jos{\\'e}"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=A+dataset+of+microscopic+peripheral+blood+cell+images+for+development+of+automatic+recognition+systems&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "kather2018100",
+      "raw": {
+        "title": "100,000 histological images of human colorectal cancer and healthy tissue",
+        "authors": [
+          "Kather, Jakob Nikolas",
+          "Halama, Niels",
+          "Marx, Alexander"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=100%2C000+histological+images+of+human+colorectal+cancer+and+healthy+tissue&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "tschandl2018ham10000",
+      "raw": {
+        "title": "The HAM10000 dataset, a large collection of multi-source dermatoscopic images of common pigmented skin lesions",
+        "authors": [
+          "Tschandl, Philipp",
+          "Rosendahl, Cliff",
+          "Kittler, Harald"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=The+HAM10000+dataset%2C+a+large+collection+of+multi-source+dermatoscopic+images+of+common+pigmented+skin+lesions&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "codella2019skin",
+      "raw": {
+        "title": "Skin lesion analysis toward melanoma detection 2018: A challenge hosted by the international skin imaging collaboration (isic)",
+        "authors": [
+          "Codella, Noel",
+          "Rotemberg, Veronica",
+          "Tschandl, Philipp",
+          "Celebi, M Emre",
+          "Dusza, Stephen",
+          "Gutman, David",
+          "Helba, Brian",
+          "Kalloo, Aadi",
+          "Liopyris, Konstantinos",
+          "Marchetti, Michael",
+          "others"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": "1902.03368"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1902.03368&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "yang2023medmnist",
+      "raw": {
+        "title": "Medmnist v2-a large-scale lightweight benchmark for 2d and 3d biomedical image classification",
+        "authors": [
+          "Yang, Jiancheng",
+          "Shi, Rui",
+          "Wei, Donglai",
+          "Liu, Zequan",
+          "Zhao, Lin",
+          "Ke, Bilian",
+          "Pfister, Hanspeter",
+          "Ni, Bingbing"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Medmnist+v2-a+large-scale+lightweight+benchmark+for+2d+and+3d+biomedical+image+classification&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "krizhevsky2009learning",
+      "raw": {
+        "title": "Learning multiple layers of features from tiny images",
+        "authors": [
+          "Krizhevsky, Alex",
+          "Hinton, Geoffrey",
+          "others"
+        ],
+        "year": 2009,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Learning+multiple+layers+of+features+from+tiny+images&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "deng2009imagenet",
+      "raw": {
+        "title": "ImageNet: A large-scale hierarchical image database",
+        "authors": [
+          "Jia Deng",
+          "Wei Dong",
+          "Richard Socher",
+          "Li{-}Jia Li",
+          "Kai Li",
+          "Fei{-}Fei Li"
+        ],
+        "year": 2009,
+        "doi": "10.1109/CVPR.2009.5206848",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2108598243",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "ImageNet: A large-scale hierarchical image database",
+        "year": 2009,
+        "authors": [
+          "Jia Deng",
+          "Wei Dong",
+          "Richard Socher",
+          "Li-Jia Li",
+          "Kai Li",
+          "Li Fei-Fei"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "koloskova2025certified",
+      "raw": {
+        "title": "Certified Unlearning for Neural Networks",
+        "authors": [
+          "Koloskova, Anastasia",
+          "Allouah, Youssef",
+          "Jha, Animesh",
+          "Guerraoui, Rachid",
+          "Koyejo, Sanmi"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Certified+Unlearning+for+Neural+Networks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "khalilcoun",
+      "raw": {
+        "title": "CoUn: Empowering Machine Unlearning via Contrastive Learning",
+        "authors": [
+          "Khalil, Yasser H",
+          "Setayesh, Mehdi",
+          "Li, Hongliang"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=CoUn%3A+Empowering+Machine+Unlearning+via+Contrastive+Learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "lee2025distillation",
+      "raw": {
+        "title": "Distillation Robustifies Unlearning",
+        "authors": [
+          "Lee, Bruce W",
+          "Foote, Addie",
+          "Infanger, Alex",
+          "Shor, Leni",
+          "Kamath, Harish",
+          "Goldman-Wetzler, Jacob",
+          "Woodworth, Bryce",
+          "Cloud, Alex",
+          "Turner, Alexander Matt"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Distillation+Robustifies+Unlearning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "cao2015towards",
+      "raw": {
+        "title": "Towards making systems forget with machine unlearning",
+        "authors": [
+          "Cao, Yinzhi",
+          "Yang, Junfeng"
+        ],
+        "year": 2015,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Towards+making+systems+forget+with+machine+unlearning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ebrahimpournot",
+      "raw": {
+        "title": "Not All Wrong is Bad: Using Adversarial Examples for Unlearning",
+        "authors": [
+          "Ebrahimpour-Boroojeny, Ali",
+          "Sundaram, Hari",
+          "Chandrasekaran, Varun"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Not+All+Wrong+is+Bad%3A+Using+Adversarial+Examples+for+Unlearning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "fan2024salun",
+      "raw": {
+        "title": "SalUn: Empowering Machine Unlearning via Gradient-based Weight Saliency in Both Image Classification and Generation",
+        "authors": [
+          "Chongyu Fan",
+          "Jiancheng Liu",
+          "Yihua Zhang",
+          "Eric Wong",
+          "Dennis Wei",
+          "Sijia Liu"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "guo2020accelerating",
+      "raw": {
+        "title": "Accelerating Large-Scale Inference with Anisotropic Vector Quantization",
+        "authors": [
+          "Ruiqi Guo",
+          "Philip Sun",
+          "Erik Lindgren",
+          "Quan Geng",
+          "David Simcha",
+          "Felix Chern",
+          "Sanjiv Kumar"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "wu2025munba",
+      "raw": {
+        "title": "Munba: Machine unlearning via nash bargaining",
+        "authors": [
+          "Wu, Jing",
+          "Harandi, Mehrtash"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Munba%3A+Machine+unlearning+via+nash+bargaining&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "caitargeted",
+      "raw": {
+        "title": "Targeted Unlearning with Single Layer Unlearning Gradient",
+        "authors": [
+          "Cai, Zikui",
+          "Tan, Yaoteng",
+          "Asif, M Salman"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Targeted+Unlearning+with+Single+Layer+Unlearning+Gradient&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "geirhostowards",
+      "raw": {
+        "title": "Towards flexible perception with visual memory",
+        "authors": [
+          "Geirhos, Robert",
+          "Jaini, Priyank",
+          "Stone, Austin",
+          "Medapati, Sourabh",
+          "Yi, Xi",
+          "Toderici, George",
+          "Ogale, Abhijit",
+          "Shlens, Jonathon"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Towards+flexible+perception+with+visual+memory&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "triantafillou2024we",
+      "raw": {
+        "title": "Are we making progress in unlearning? Findings from the first NeurIPS unlearning competition",
+        "authors": [
+          "Triantafillou, Eleni",
+          "Kairouz, Peter",
+          "Pedregosa, Fabian",
+          "Hayes, Jamie",
+          "Kurmanji, Meghdad",
+          "Zhao, Kairan",
+          "Dumoulin, Vincent",
+          "J{\\'u}nior, J{\\'u}lio CS Jacques",
+          "Mitliagkas, Ioannis",
+          "Wan, Jun",
+          "others"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Are+we+making+progress+in+unlearning%3F+Findings+from+the+first+NeurIPS+unlearning+competition&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "poppi2024unlearning",
+      "raw": {
+        "title": "Unlearning vision transformers without retaining data via low-rank decompositions",
+        "authors": [
+          "Poppi, Samuele",
+          "Sarto, Sara",
+          "Cornia, Marcella",
+          "Baraldi, Lorenzo",
+          "Cucchiara, Rita"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Unlearning+vision+transformers+without+retaining+data+via+low-rank+decompositions&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "chen2025fast",
+      "raw": {
+        "title": "Fast yet versatile machine unlearning for deep neural networks",
+        "authors": [
+          "Chen, Kongyang",
+          "Zhang, Dongping",
+          "Mi, Bing",
+          "Huang, Yao",
+          "Li, Zhipeng"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Fast+yet+versatile+machine+unlearning+for+deep+neural+networks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "jia2022visual",
+      "raw": {
+        "title": "Visual prompt tuning",
+        "authors": [
+          "Jia, Menglin",
+          "Tang, Luming",
+          "Chen, Bor-Chun",
+          "Cardie, Claire",
+          "Belongie, Serge",
+          "Hariharan, Bharath",
+          "Lim, Ser-Nam"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Visual+prompt+tuning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "chen2024federated",
+      "raw": {
+        "title": "Federated unlearning for human activity recognition",
+        "authors": [
+          "Chen, Kongyang",
+          "Chai, Yaping",
+          "Zhang, Weibin",
+          "Wang, Shaowei",
+          "Shen, Jiaxing",
+          "others"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2404.03659"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2404.03659&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zhao2024makes",
+      "raw": {
+        "title": "What makes unlearning hard and what to do about it",
+        "authors": [
+          "Kairan Zhao",
+          "Meghdad Kurmanji",
+          "George{-}Octavian Barbulescu",
+          "Eleni Triantafillou",
+          "Peter Triantafillou"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "yao2024machine",
+      "raw": {
+        "title": "Machine unlearning of pre-trained large language models",
+        "authors": [
+          "Yao, Jin",
+          "Chien, Eli",
+          "Du, Minxin",
+          "Niu, Xinyao",
+          "Wang, Tianhao",
+          "Cheng, Zezhou",
+          "Yue, Xiang"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2402.15159"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2402.15159&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "mcinnes2018umap",
+      "raw": {
+        "title": "Umap: Uniform manifold approximation and projection for dimension reduction",
+        "authors": [
+          "McInnes, Leland",
+          "Healy, John",
+          "Melville, James"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": "1802.03426"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1802.03426&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "cha2024learning",
+      "raw": {
+        "title": "Learning to Unlearn: Instance-Wise Unlearning for Pre-trained Classifiers",
+        "authors": [
+          "Sungmin Cha",
+          "Sungjun Cho",
+          "Dasol Hwang",
+          "Honglak Lee",
+          "Taesup Moon",
+          "Moontae Lee"
+        ],
+        "year": 2024,
+        "doi": "10.1609/AAAI.V38I10.28996",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4393147425",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Learning to Unlearn: Instance-Wise Unlearning for Pre-trained Classifiers",
+        "year": 2024,
+        "authors": [
+          "Sungmin Cha",
+          "Sungjun Cho",
+          "Dasol Hwang",
+          "Honglak Lee",
+          "Taesup Moon",
+          "Moontae Lee"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "fix1985discriminatory",
+      "raw": {
+        "title": "Discriminatory analysis: nonparametric discrimination, consistency properties",
+        "authors": [
+          "Fix, Evelyn"
+        ],
+        "year": 1985,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Discriminatory+analysis%3A+nonparametric+discrimination%2C+consistency+properties&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ebrahimpour2025amun",
+      "raw": {
+        "title": "Adversarial Machine Unlearning",
+        "authors": [
+          "Zonglin Di",
+          "Sixie Yu",
+          "Yevgeniy Vorobeychik",
+          "Yang Liu"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "zhao2024pseudo",
+      "raw": {
+        "title": "Pseudo-Probability Unlearning: Towards Efficient and Privacy-Preserving Machine Unlearning",
+        "authors": [
+          "Zhao, Zihao",
+          "Li, Yijiang",
+          "Yang, Yuchen",
+          "Zhang, Wenqing",
+          "Vasconcelos, Nuno",
+          "Cao, Yinzhi"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2411.02622"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2411.02622&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "qin2024machine",
+      "raw": {
+        "title": "Machine Unlearning on Pre-trained Models by Residual Feature Alignment Using LoRA",
+        "authors": [
+          "Qin, Laiqiao",
+          "Zhu, Tianqing",
+          "Wang, Linlin",
+          "Zhou, Wanlei"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2411.08443"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2411.08443&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "chundawat2023can",
+      "raw": {
+        "title": "Can Bad Teaching Induce Forgetting? Unlearning in Deep Networks Using an Incompetent Teacher",
+        "authors": [
+          "Vikram S. Chundawat",
+          "Ayush K. Tarun",
+          "Murari Mandal",
+          "Mohan S. Kankanhalli"
+        ],
+        "year": 2023,
+        "doi": "10.1609/AAAI.V37I6.25879",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4382239683",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Can Bad Teaching Induce Forgetting? Unlearning in Deep Networks Using an Incompetent Teacher",
+        "year": 2023,
+        "authors": [
+          "Vikram S Chundawat",
+          "Ayush K Tarun",
+          "Murari Mandal",
+          "Mohan Kankanhalli"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "kurmanji2023towards",
+      "raw": {
+        "title": "Towards Unbounded Machine Unlearning",
+        "authors": [
+          "Meghdad Kurmanji",
+          "Peter Triantafillou",
+          "Jamie Hayes",
+          "Eleni Triantafillou"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "chen2022recommendation",
+      "raw": {
+        "title": "Recommendation Unlearning",
+        "authors": [
+          "Chong Chen",
+          "Fei Sun",
+          "Min Zhang",
+          "Bolin Ding"
+        ],
+        "year": 2022,
+        "doi": "10.1145/3485447.3511997",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4224325687",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Recommendation Unlearning",
+        "year": 2022,
+        "authors": [
+          "Chong Chen",
+          "Fei Sun",
+          "Min Zhang",
+          "Bolin Ding"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "sandler2022fine",
+      "raw": {
+        "title": "Fine-tuning Image Transformers using Learnable Memory",
+        "authors": [
+          "Mark Sandler",
+          "Andrey Zhmoginov",
+          "Max Vladymyrov",
+          "Andrew Jackson"
+        ],
+        "year": 2022,
+        "doi": "10.1109/CVPR52688.2022.01184",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4312642299",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Fine-tuning Image Transformers using Learnable Memory",
+        "year": 2022,
+        "authors": [
+          "M. Sandler",
+          "Andrey Zhmoginov",
+          "Max Vladymyrov",
+          "Andrew Jackson"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "wang2020makes",
+      "raw": {
+        "title": "What Makes Training Multi-Modal Classification Networks Hard?",
+        "authors": [
+          "Weiyao Wang",
+          "Du Tran",
+          "Matt Feiszli"
+        ],
+        "year": 2020,
+        "doi": "10.1109/CVPR42600.2020.01271",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3035333188",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "What Makes Training Multi-Modal Classification Networks Hard?",
+        "year": 2020,
+        "authors": [
+          "Wei‐Yao Wang",
+          "Du Tran",
+          "Matt Feiszli"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "hussen2020modality",
+      "raw": {
+        "title": "Modality dropout for improved performance-driven talking faces",
+        "authors": [
+          "Hussen Abdelaziz, Ahmed",
+          "Theobald, Barry-John",
+          "Dixon, Paul",
+          "Knothe, Reinhard",
+          "Apostoloff, Nicholas",
+          "Kajareker, Sachin"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Modality+dropout+for+improved+performance-driven+talking+faces&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "long2022retrieval",
+      "raw": {
+        "title": "Retrieval augmented classification for long-tail visual recognition",
+        "authors": [
+          "Long, Alexander",
+          "Yin, Wei",
+          "Ajanthan, Thalaiyasingam",
+          "Nguyen, Vu",
+          "Purkait, Pulak",
+          "Garg, Ravi",
+          "Blair, Alan",
+          "Shen, Chunhua",
+          "Van den Hengel, Anton"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Retrieval+augmented+classification+for+long-tail+visual+recognition&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "chen2022graph",
+      "raw": {
+        "title": "Graph unlearning",
+        "authors": [
+          "Chen, Min",
+          "Zhang, Zhikun",
+          "Wang, Tianhao",
+          "Backes, Michael",
+          "Humbert, Mathias",
+          "Zhang, Yang"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Graph+unlearning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "wangllm",
+      "raw": {
+        "title": "LLM Unlearning via Loss Adjustment with Only Forget Data",
+        "authors": [
+          "Wang, Yaxuan",
+          "Wei, Jiaheng",
+          "Liu, Chris Yuhao",
+          "Pang, Jinlong",
+          "Liu, Quan",
+          "Shah, Ankit",
+          "Bao, Yujia",
+          "Liu, Yang",
+          "Wei, Wei"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "nguyen2025survey",
+      "raw": {
+        "title": "A survey of machine unlearning",
+        "authors": [
+          "Nguyen, Thanh Tam",
+          "Huynh, Thanh Trung",
+          "Ren, Zhao",
+          "Nguyen, Phi Le",
+          "Liew, Alan Wee-Chung",
+          "Yin, Hongzhi",
+          "Nguyen, Quoc Viet Hung"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=A+survey+of+machine+unlearning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "huang2024learning",
+      "raw": {
+        "title": "Learning to unlearn for robust machine unlearning",
+        "authors": [
+          "Huang, Mark He",
+          "Foo, Lin Geng",
+          "Liu, Jun"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Learning+to+unlearn+for+robust+machine+unlearning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "perifanis2024sftc",
+      "raw": {
+        "title": "Sftc: Machine unlearning via selective fine-tuning and targeted confusion",
+        "authors": [
+          "Perifanis, Vasileios",
+          "Karypidis, Efstathios",
+          "Komodakis, Nikos",
+          "Efraimidis, Pavlos"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Sftc%3A+Machine+unlearning+via+selective+fine-tuning+and+targeted+confusion&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "graves2021amnesiac",
+      "raw": {
+        "title": "Amnesiac Machine Learning",
+        "authors": [
+          "Laura Graves",
+          "Vineel Nagisetty",
+          "Vijay Ganesh"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "mekala2025alternate",
+      "raw": {
+        "title": "Alternate preference optimization for unlearning factual knowledge in large language models",
+        "authors": [
+          "Mekala, Anmol Reddy",
+          "Dorna, Vineeth",
+          "Dubey, Shreya",
+          "Lalwani, Abhishek",
+          "Koleczek, David",
+          "Rungta, Mukund",
+          "Hasan, Sadid A",
+          "Lobo, Elita AA"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Alternate+preference+optimization+for+unlearning+factual+knowledge+in+large+language+models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "heng2023selective",
+      "raw": {
+        "title": "Selective Amnesia: A Continual Learning Approach to Forgetting in Deep Generative Models",
+        "authors": [
+          "Alvin Heng",
+          "Harold Soh"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "pochinkov2024dissecting",
+      "raw": {
+        "title": "Dissecting language models: Machine unlearning via selective pruning",
+        "authors": [
+          "Pochinkov, Nicholas",
+          "Schoots, Nandi"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2403.01267"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2403.01267&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "gandikota2023erasing",
+      "raw": {
+        "title": "Erasing Concepts from Diffusion Models",
+        "authors": [
+          "Rohit Gandikota",
+          "Joanna Materzynska",
+          "Jaden Fiotto{-}Kaufman",
+          "David Bau"
+        ],
+        "year": 2023,
+        "doi": "10.1109/ICCV51070.2023.00230",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4390871724",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Erasing Concepts from Diffusion Models",
+        "year": 2023,
+        "authors": [
+          "Rohit Gandikota",
+          "Joanna Materzyńska",
+          "Jaden Fiotto-Kaufman",
+          "David Bau"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "feng2024fine",
+      "raw": {
+        "title": "Fine-grained pluggable gradient ascent for knowledge unlearning in language models",
+        "authors": [
+          "Feng, XiaoHua",
+          "Chen, Chaochao",
+          "Li, Yuyuan",
+          "Lin, Zibin"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Fine-grained+pluggable+gradient+ascent+for+knowledge+unlearning+in+language+models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "fan2023salun",
+      "raw": {
+        "title": "SalUn: Empowering Machine Unlearning via Gradient-based Weight Saliency in Both Image Classification and Generation",
+        "authors": [
+          "Chongyu Fan",
+          "Jiancheng Liu",
+          "Yihua Zhang",
+          "Eric Wong",
+          "Dennis Wei",
+          "Sijia Liu"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "roy2025novo",
+      "raw": {
+        "title": "NOVO: Unlearning-Compliant Vision Transformers",
+        "authors": [
+          "Roy, Soumya",
+          "Banerjee, Soumya",
+          "Verma, Vinay",
+          "Dasgupta, Soumik",
+          "Gupta, Deepak",
+          "Rai, Piyush"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2507.03281"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2507.03281&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "lin2023erm",
+      "raw": {
+        "title": "ERM-KTP: Knowledge-Level Machine Unlearning via Knowledge Transfer",
+        "authors": [
+          "Shen Lin",
+          "Xiaoyu Zhang",
+          "Chenyang Chen",
+          "Xiaofeng Chen",
+          "Willy Susilo"
+        ],
+        "year": 2023,
+        "doi": "10.1109/CVPR52729.2023.01929",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4386065838",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "ERM-KTP: Knowledge-Level Machine Unlearning via Knowledge Transfer",
+        "year": 2023,
+        "authors": [
+          "Shen Lin",
+          "Xiaoyu Zhang",
+          "Chenyang Chen",
+          "Xiaofeng Chen",
+          "Willy Susilo"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "mantelero2013eu",
+      "raw": {
+        "title": "The eu proposal for a general data protection regulation and the roots of the ‘right to be forgotten’",
+        "authors": [
+          "Mantelero, Alessandro"
+        ],
+        "year": 2013,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=The+eu+proposal+for+a+general+data+protection+regulation+and+the+roots+of+the+%E2%80%98right+to+be+forgotten%E2%80%99&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "shokri2017membership",
+      "raw": {
+        "title": "Membership inference attacks against machine learning models",
+        "authors": [
+          "Shokri, Reza",
+          "Stronati, Marco",
+          "Song, Congzheng",
+          "Shmatikov, Vitaly"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Membership+inference+attacks+against+machine+learning+models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "arpit2017closer",
+      "raw": {
+        "title": "A Closer Look at Memorization in Deep Networks",
+        "authors": [
+          "Devansh Arpit",
+          "Stanislaw Jastrzebski",
+          "Nicolas Ballas",
+          "David Krueger",
+          "Emmanuel Bengio",
+          "Maxinder S. Kanwal",
+          "Tegan Maharaj",
+          "Asja Fischer",
+          "Aaron C. Courville",
+          "Yoshua Bengio",
+          "Simon Lacoste{-}Julien"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "madry2018towards",
+      "raw": {
+        "title": "Towards Deep Learning Models Resistant to Adversarial Attacks",
+        "authors": [
+          "Aleksander Madry",
+          "Aleksandar Makelov",
+          "Ludwig Schmidt",
+          "Dimitris Tsipras",
+          "Adrian Vladu"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "santoro2016meta",
+      "raw": {
+        "title": "Meta-Learning with Memory-Augmented Neural Networks",
+        "authors": [
+          "Adam Santoro",
+          "Sergey Bartunov",
+          "Matthew Botvinick",
+          "Daan Wierstra",
+          "Timothy P. Lillicrap"
+        ],
+        "year": 2016,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "lample2019large",
+      "raw": {
+        "title": "Large Memory Layers with Product Keys",
+        "authors": [
+          "Guillaume Lample",
+          "Alexandre Sablayrolles",
+          "Marc'Aurelio Ranzato",
+          "Ludovic Denoyer",
+          "Herv{\\'{e}} J{\\'{e}}gou"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "graves2014neural",
+      "raw": {
+        "title": "Neural turing machines",
+        "authors": [
+          "Graves, Alex",
+          "Wayne, Greg",
+          "Danihelka, Ivo"
+        ],
+        "year": 2014,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Neural+turing+machines&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "DBLP:journals/corr/WestonCB14",
+      "raw": {
+        "title": "Memory Networks",
+        "authors": [
+          "Jason Weston",
+          "Sumit Chopra",
+          "Antoine Bordes"
+        ],
+        "year": 2015,
+        "doi": null,
+        "arxiv_id": "1410.3916"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1410.3916&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "sukhbaatar2015end",
+      "raw": {
+        "title": "End-To-End Memory Networks",
+        "authors": [
+          "Sainbayar Sukhbaatar",
+          "Arthur Szlam",
+          "Jason Weston",
+          "Rob Fergus"
+        ],
+        "year": 2015,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "wu2022memorizing",
+      "raw": {
+        "title": "Memorizing Transformers",
+        "authors": [
+          "Yuhuai Wu",
+          "Markus Norman Rabe",
+          "DeLesley Hutchins",
+          "Christian Szegedy"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    }
+  ]
+}

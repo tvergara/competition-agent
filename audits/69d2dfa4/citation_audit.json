@@ -1,0 +1,2165 @@
+{
+  "paper_id": "69d2dfa4-2394-4c13-9c58-5194d304e51d",
+  "total": 73,
+  "verified": 1,
+  "mismatch": 0,
+  "missing": 0,
+  "ambiguous": 0,
+  "error": 69,
+  "skipped": 3,
+  "s2_consulted": 0,
+  "s2_lifted": 0,
+  "key_style_outliers": [
+    "pmlr-v229-zitkovich23a",
+    "pmlr-v164-shridhar22a",
+    "pmlr-v205-shridhar23a",
+    "pmlr-v229-huang23b",
+    "bhat20253d",
+    "gr00tn1_2025"
+  ],
+  "entries": [
+    {
+      "key": "kim2024openvla",
+      "raw": {
+        "title": "OpenVLA: An Open-Source Vision-Language-Action Model",
+        "authors": [
+          "Kim, Moo Jin",
+          "Pertsch, Karl",
+          "Karamcheti, Siddharth",
+          "Xiao, Ted",
+          "Balakrishna, Ashwin",
+          "Nair, Suraj",
+          "Rafailov, Rafael",
+          "Foster, Ethan",
+          "Lam, Grace",
+          "Sanketi, Pannag",
+          "Vuong, Quan",
+          "Kollar, Thomas",
+          "Burchfiel, Benjamin",
+          "Tedrake, Russ",
+          "Sadigh, Dorsa",
+          "Levine, Sergey",
+          "Liang, Percy",
+          "Finn, Chelsea"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=OpenVLA%3A+An+Open-Source+Vision-Language-Action+Model&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Peebles2022DiT",
+      "raw": {
+        "title": "Scalable Diffusion Models with Transformers",
+        "authors": [
+          "William Peebles",
+          "Saining Xie"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Scalable+Diffusion+Models+with+Transformers&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "pmlr-v229-zitkovich23a",
+      "raw": {
+        "title": "RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control",
+        "authors": [
+          "Zitkovich, Brianna",
+          "Joshi, Aviral",
+          "Brohan, Anthony",
+          "Brown, Noah",
+          "Chebotar, Yevgen",
+          "Cortes, Oscar",
+          "Ding, Tianli",
+          "Driess, Danny",
+          "Dubey, Avinava Kumar",
+          "Florence, Pete",
+          "Fu, Chuyuan",
+          "Gopalakrishnan, Keerthana",
+          "Han, Kehang",
+          "Hausman, Karol",
+          "Herzog, Alexander",
+          "Hsu, Jasmine",
+          "Ichter, Brian",
+          "Irpan, Alex",
+          "Kollar, Thomas",
+          "Lam, Grace",
+          "Levine, Sergey",
+          "Liang, Percy",
+          "Nair, Suraj",
+          "Narang, Yashraj",
+          "Pathak, Deepak",
+          "Radosavovic, Ilija",
+          "Raff, Edward",
+          "Rao, Kanishka",
+          "Rettinghouse, Zachary",
+          "Salazar, Julian",
+          "Sermanet, Pierre",
+          "Sievers, Tobias",
+          "Tan, Jie",
+          "Toussaint, Marc",
+          "Vanhoucke, Vincent",
+          "Vuong, Quan",
+          "Wulfmeier, Markus",
+          "Xiao, Ted",
+          "Finn, Chelsea",
+          "Guadarrama, Sergio"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "pmlr-v164-shridhar22a",
+      "raw": {
+        "title": "CLIPort: What and Where Pathways for Robotic Manipulation",
+        "authors": [
+          "Shridhar, Mohit",
+          "Manuelli, Lucas",
+          "Fox, Dieter"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "pmlr-v205-shridhar23a",
+      "raw": {
+        "title": "Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation",
+        "authors": [
+          "Shridhar, Mohit",
+          "Manuelli, Lucas",
+          "Fox, Dieter"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "pmlr-v229-huang23b",
+      "raw": {
+        "title": "VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models",
+        "authors": [
+          "Huang, Wenlong",
+          "Wang, Chen",
+          "Zhang, Ruohan",
+          "Li, Yunzhu",
+          "Wu, Jiajun",
+          "Fei-Fei, Li"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=VoxPoser%3A+Composable+3D+Value+Maps+for+Robotic+Manipulation+with+Language+Models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ranftl2021dpt",
+      "raw": {
+        "title": "Vision Transformers for Dense Prediction",
+        "authors": [
+          "Ranftl, Ren{\\'e}",
+          "Bochkovskiy, Alexey",
+          "Koltun, Vladlen"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Vision+Transformers+for+Dense+Prediction&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "yu2024representation",
+      "raw": {
+        "title": "Representation alignment for generation: Training diffusion transformers is easier than you think",
+        "authors": [
+          "Yu, Sihyun",
+          "Kwak, Sangkyung",
+          "Jang, Huiwon",
+          "Jeong, Jongheon",
+          "Huang, Jonathan",
+          "Shin, Jinwoo",
+          "Xie, Saining"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Representation+alignment+for+generation%3A+Training+diffusion+transformers+is+easier+than+you+think&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "wang2024reconstructive",
+      "raw": {
+        "title": "Reconstructive visual instruction tuning",
+        "authors": [
+          "Wang, Haochen",
+          "Zheng, Anlin",
+          "Zhao, Yucheng",
+          "Wang, Tiancai",
+          "Ge, Zheng",
+          "Zhang, Xiangyu",
+          "Zhang, Zhaoxiang"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Reconstructive+visual+instruction+tuning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "huang2025mllms",
+      "raw": {
+        "title": "MLLMs Need 3D-Aware Representation Supervision for Scene Understanding",
+        "authors": [
+          "Huang, Xiaohu",
+          "Wu, Jingjing",
+          "Xie, Qunyi",
+          "Han, Kai"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=MLLMs+Need+3D-Aware+Representation+Supervision+for+Scene+Understanding&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "li2025spatial",
+      "raw": {
+        "title": "Spatial Forcing: Implicit Spatial Representation Alignment for Vision-language-action Model",
+        "authors": [
+          "Li, Fuhao",
+          "Song, Wenxuan",
+          "Zhao, Han",
+          "Wang, Jingbo",
+          "Ding, Pengxiang",
+          "Wang, Donglin",
+          "Zeng, Long",
+          "Li, Haoang"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Spatial+Forcing%3A+Implicit+Spatial+Representation+Alignment+for+Vision-language-action+Model&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "lora2021",
+      "raw": {
+        "title": "LoRA: Low-Rank Adaptation of Large Language Models",
+        "authors": [
+          "Hu, Edward J",
+          "Shen, Yelong",
+          "Wallis, Phillip",
+          "others"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=LoRA%3A+Low-Rank+Adaptation+of+Large+Language+Models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "sun2019patient",
+      "raw": {
+        "title": "Patient knowledge distillation for bert model compression",
+        "authors": [
+          "Sun, Siqi",
+          "Cheng, Yu",
+          "Gan, Zhe",
+          "Liu, Jingjing"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Patient+knowledge+distillation+for+bert+model+compression&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "gromov2024unreasonable",
+      "raw": {
+        "title": "The unreasonable ineffectiveness of the deeper layers",
+        "authors": [
+          "Gromov, Andrey",
+          "Tirumala, Kushal",
+          "Shapourian, Hassan",
+          "Glorioso, Paolo",
+          "Roberts, Daniel A"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=The+unreasonable+ineffectiveness+of+the+deeper+layers&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "he2024matters",
+      "raw": {
+        "title": "What matters in transformers? not all attention is needed",
+        "authors": [
+          "He, Shwai",
+          "Sun, Guoheng",
+          "Shen, Zheyu",
+          "Li, Ang"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=What+matters+in+transformers%3F+not+all+attention+is+needed&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "liang2022mind",
+      "raw": {
+        "title": "Mind the gap: Understanding the modality gap in multi-modal contrastive representation learning",
+        "authors": [
+          "Liang, Victor Weixin",
+          "Zhang, Yuhui",
+          "Kwon, Yongchan",
+          "Yeung, Serena",
+          "Zou, James Y"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Mind+the+gap%3A+Understanding+the+modality+gap+in+multi-modal+contrastive+representation+learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "hasegawa2023exploring",
+      "raw": {
+        "title": "Exploring weight balancing on long-tailed recognition problem",
+        "authors": [
+          "Hasegawa, Naoya",
+          "Sato, Issei"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Exploring+weight+balancing+on+long-tailed+recognition+problem&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "chen2021distilling",
+      "raw": {
+        "title": "Distilling knowledge via knowledge review",
+        "authors": [
+          "Chen, Pengguang",
+          "Liu, Shu",
+          "Zhao, Hengshuang",
+          "Jia, Jiaya"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Distilling+knowledge+via+knowledge+review&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "kim2025fine",
+      "raw": {
+        "title": "Fine-tuning vision-language-action models: Optimizing speed and success",
+        "authors": [
+          "Kim, Moo Jin",
+          "Finn, Chelsea",
+          "Liang, Percy"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Fine-tuning+vision-language-action+models%3A+Optimizing+speed+and+success&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "black2024pi_0",
+      "raw": {
+        "title": "$\\pi_0$: A Vision-Language-Action Flow Model for General Robot Control",
+        "authors": [
+          "Black, Kevin",
+          "Brown, Noah",
+          "Driess, Danny",
+          "Esmail, Adnan",
+          "Equi, Michael",
+          "Finn, Chelsea",
+          "Fusai, Niccolo",
+          "Groom, Lachy",
+          "Hausman, Karol",
+          "Ichter, Brian",
+          "Jakubczak, Szymon",
+          "Jones, Tim",
+          "Ke, Liyiming",
+          "Levine, Sergey",
+          "Li-Bell, Adrian",
+          "Mothukuri, Mohith",
+          "Nair, Suraj",
+          "Pertsch, Karl",
+          "Shi, Lucy Xiaoyang",
+          "Tanner, James",
+          "Vuong, Quan",
+          "Walling, Anna",
+          "Wang, Haohuan",
+          "Zhilinsky, Ury"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2410.24164"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2410.24164&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "black2025pi05",
+      "raw": {
+        "title": "$\\pi_0.5$: a Vision-Language-Action Model with Open-World Generalization",
+        "authors": [
+          "Black, Kevin",
+          "Brown, Noah",
+          "Darpinian, James",
+          "Dhabalia, Karan",
+          "Driess, Danny",
+          "Esmail, Adnan",
+          "Equi, Michael",
+          "Finn, Chelsea",
+          "Fusai, Niccolo",
+          "Galliker, Manuel Y.",
+          "Ghosh, Dibya",
+          "Groom, Lachy",
+          "Hausman, Karol",
+          "Ichter, Brian",
+          "Jakubczak, Szymon",
+          "Jones, Tim",
+          "Ke, Liyiming",
+          "LeBlanc, Devin",
+          "Levine, Sergey",
+          "Li-Bell, Adrian",
+          "Mothukuri, Mohith",
+          "Nair, Suraj",
+          "Pertsch, Karl",
+          "Ren, Allen Z.",
+          "Shi, Lucy Xiaoyang",
+          "Smith, Laura",
+          "Springenberg, Jost Tobias",
+          "Stachowicz, Kyle",
+          "Tanner, James",
+          "Vuong, Quan",
+          "Walke, Homer",
+          "Walling, Anna",
+          "Wang, Haohuan",
+          "Yu, Lili",
+          "Zhilinsky, Ury"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=%24%5Cpi_0.5%24%3A+a+Vision-Language-Action+Model+with+Open-World+Generalization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "qu2025spatialvla",
+      "raw": {
+        "title": "Spatialvla: Exploring spatial representations for visual-language-action model",
+        "authors": [
+          "Qu, Delin",
+          "Song, Haoming",
+          "Chen, Qizhi",
+          "Yao, Yuanqi",
+          "Ye, Xinyi",
+          "Ding, Yan",
+          "Wang, Zhigang",
+          "Gu, JiaYuan",
+          "Zhao, Bin",
+          "Wang, Dong",
+          "Li, Xuelong"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Spatialvla%3A+Exploring+spatial+representations+for+visual-language-action+model&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "bhat20253d",
+      "raw": {
+        "title": "3D CAVLA: Leveraging Depth and 3D Context to Generalize Vision Language Action Models for Unseen Tasks",
+        "authors": [
+          "Bhat, Vineet",
+          "Lan, Yu-Hsiang",
+          "Krishnamurthy, Prashanth",
+          "Karri, Ramesh",
+          "Khorrami, Farshad"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=3D+CAVLA%3A+Leveraging+Depth+and+3D+Context+to+Generalize+Vision+Language+Action+Models+for+Unseen+Tasks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "wang2025vggt",
+      "raw": {
+        "title": "VGGT: Visual geometry grounded transformer",
+        "authors": [
+          "Wang, Jianyuan",
+          "Chen, Minghao",
+          "Karaev, Nikita",
+          "Vedaldi, Andrea",
+          "Rupprecht, Christian",
+          "Novotny, David"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=VGGT%3A+Visual+geometry+grounded+transformer&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "lin2025depth",
+      "raw": {
+        "title": "Depth anything 3: Recovering the visual space from any views",
+        "authors": [
+          "Lin, Haotong",
+          "Chen, Sili",
+          "Liew, Junhao",
+          "Chen, Donny Y",
+          "Li, Zhenyu",
+          "Shi, Guang",
+          "Feng, Jiashi",
+          "Kang, Bingyi"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Depth+anything+3%3A+Recovering+the+visual+space+from+any+views&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "gong-etal-2025-beyond",
+      "raw": {
+        "title": "Beyond Logits: Aligning Feature Dynamics for Effective Knowledge Distillation",
+        "authors": [
+          "Gong, Guoqiang",
+          "Wang, Jiaxing",
+          "Xu, Jin",
+          "Xiang, Deping",
+          "Zhang, Zicheng",
+          "Shen, Leqi",
+          "Zhang, Yifeng",
+          "JunhuaShu, JunhuaShu",
+          "ZhaolongXing, ZhaolongXing",
+          "Chen, Zhen",
+          "Liu, Pengzhang",
+          "Zhang, Ke"
+        ],
+        "year": 2025,
+        "doi": "10.18653/v1/2025.acl-long.1125",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4412944760",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Beyond Logits: Aligning Feature Dynamics for Effective Knowledge Distillation",
+        "year": 2025,
+        "authors": [
+          "Guoqiang Gong",
+          "Jiaxing Wang",
+          "Jin Xu",
+          "Deping Xiang",
+          "Zicheng Zhang",
+          "Leqi Shen",
+          "Yifeng Zhang",
+          "JunhuaShu JunhuaShu",
+          "ZhaolongXing ZhaolongXing",
+          "Zhen Chen",
+          "Pengzhang Liu",
+          "Ke Zhang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "miles2024understanding",
+      "raw": {
+        "title": "Understanding the role of the projector in knowledge distillation",
+        "authors": [
+          "Miles, Roy",
+          "Mikolajczyk, Krystian"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Understanding+the+role+of+the+projector+in+knowledge+distillation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "miles2024vkd",
+      "raw": {
+        "title": "Vkd: Improving knowledge distillation using orthogonal projections",
+        "authors": [
+          "Miles, Roy",
+          "Elezi, Ismail",
+          "Deng, Jiankang"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Vkd%3A+Improving+knowledge+distillation+using+orthogonal+projections&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "yu2020gradient",
+      "raw": {
+        "title": "Gradient surgery for multi-task learning",
+        "authors": [
+          "Yu, Tianhe",
+          "Kumar, Saurabh",
+          "Gupta, Abhishek",
+          "Levine, Sergey",
+          "Hausman, Karol",
+          "Finn, Chelsea"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Gradient+surgery+for+multi-task+learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "gao2019representation",
+      "raw": {
+        "title": "Representation degeneration problem in training natural language generation models",
+        "authors": [
+          "Gao, Jun",
+          "He, Di",
+          "Tan, Xu",
+          "Qin, Tao",
+          "Wang, Liwei",
+          "Liu, Tie-Yan"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Representation+degeneration+problem+in+training+natural+language+generation+models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "lipman2022flow",
+      "raw": {
+        "title": "Flow matching for generative modeling",
+        "authors": [
+          "Lipman, Yaron",
+          "Chen, Ricky TQ",
+          "Ben-Hamu, Heli",
+          "Nickel, Maximilian",
+          "Le, Matt"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Flow+matching+for+generative+modeling&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "sun2025geovla",
+      "raw": {
+        "title": "Geovla: Empowering 3d representations in vision-language-action models",
+        "authors": [
+          "Sun, Lin",
+          "Xie, Bin",
+          "Liu, Yingfei",
+          "Shi, Hao",
+          "Wang, Tiancai",
+          "Cao, Jiale"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Geovla%3A+Empowering+3d+representations+in+vision-language-action+models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "wang2025pi",
+      "raw": {
+        "title": "$\\pi^3$: Permutation-Equivariant Visual Geometry Learning",
+        "authors": [
+          "Wang, Yifan",
+          "Zhou, Jianjun",
+          "Zhu, Haoyi",
+          "Chang, Wenzheng",
+          "Zhou, Yang",
+          "Li, Zizun",
+          "Chen, Junyi",
+          "Pang, Jiangmiao",
+          "Shen, Chunhua",
+          "He, Tong"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=%24%5Cpi%5E3%24%3A+Permutation-Equivariant+Visual+Geometry+Learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zhai2023sigmoid",
+      "raw": {
+        "title": "Sigmoid loss for language image pre-training",
+        "authors": [
+          "Zhai, Xiaohua",
+          "Mustafa, Basil",
+          "Kolesnikov, Alexander",
+          "Beyer, Lucas"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Sigmoid+loss+for+language+image+pre-training&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "liu2023libero",
+      "raw": {
+        "title": "LIBERO: Benchmarking Knowledge Transfer for Lifelong Robot Learning",
+        "authors": [
+          "Liu, Haoyi",
+          "Zhu, Yuke",
+          "Anand, Anirudh",
+          "Guo, Zichen",
+          "Stone, Peter",
+          "Levine, Sergey"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=LIBERO%3A+Benchmarking+Knowledge+Transfer+for+Lifelong+Robot+Learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "chen2025robotwin",
+      "raw": {
+        "title": "RoboTwin 2.0: A Scalable Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation",
+        "authors": [
+          "Chen, Tianxing",
+          "Chen, Zanxin",
+          "Chen, Baijun",
+          "Cai, Zijian",
+          "Liu, Yibin",
+          "Li, Zixuan",
+          "Liang, Qiwei",
+          "Lin, Xianliang",
+          "Ge, Yiheng",
+          "Gu, Zhenyu",
+          "others"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=RoboTwin+2.0%3A+A+Scalable+Data+Generator+and+Benchmark+with+Strong+Domain+Randomization+for+Robust+Bimanual+Robotic+Manipulation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "oquab2023dinov2",
+      "raw": {
+        "title": "Dinov2: Learning robust visual features without supervision",
+        "authors": [
+          "Oquab, Maxime",
+          "Darcet, Timoth{\\'e}e",
+          "Moutakanni, Th{\\'e}o",
+          "Vo, Huy",
+          "Szafraniec, Marc",
+          "Khalidov, Vasil",
+          "Fernandez, Pierre",
+          "Haziza, Daniel",
+          "Massa, Francisco",
+          "El-Nouby, Alaaeldin",
+          "others"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Dinov2%3A+Learning+robust+visual+features+without+supervision&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "karamcheti2024prismatic",
+      "raw": {
+        "title": "Prismatic vlms: Investigating the design space of visually-conditioned language models",
+        "authors": [
+          "Karamcheti, Siddharth",
+          "Nair, Suraj",
+          "Balakrishna, Ashwin",
+          "Liang, Percy",
+          "Kollar, Thomas",
+          "Sadigh, Dorsa"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Prismatic+vlms%3A+Investigating+the+design+space+of+visually-conditioned+language+models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "touvron2023llama",
+      "raw": {
+        "title": "Llama 2: Open foundation and fine-tuned chat models",
+        "authors": [
+          "Hugo Touvron",
+          "Louis Martin",
+          "Kevin Stone",
+          "Peter Albert",
+          "Amjad Almahairi",
+          "Yasmine Babaei",
+          "Nikolay Bashlykov",
+          "Soumya Batra",
+          "Prajjwal Bhargava",
+          "Shruti Bhosale",
+          "Dan Bikel",
+          "Lukas Blecher",
+          "Cristian Canton Ferrer",
+          "Moya Chen",
+          "Guillem Cucurull",
+          "David Esiobu",
+          "Jude Fernandes",
+          "Jeremy Fu",
+          "Wenyin Fu",
+          "Brian Fuller",
+          "Cynthia Gao",
+          "Vedanuj Goswami",
+          "Naman Goyal",
+          "Anthony Hartshorn",
+          "Saghar Hosseini",
+          "Rui Hou",
+          "Hakan Inan",
+          "Marcin Kardas",
+          "Viktor Kerkez",
+          "Madian Khabsa",
+          "Isabel Kloumann",
+          "Artem Korenev",
+          "Punit Singh Koura",
+          "Marie-Anne Lachaux",
+          "Thibaut Lavril",
+          "Jenya Lee",
+          "Diana Liskovich",
+          "Yinghai Lu",
+          "Yuning Mao",
+          "Xavier Martinet",
+          "Todor Mihaylov",
+          "Pushkar Mishra",
+          "Igor Molybog",
+          "Yixin Nie",
+          "Andrew Poulton",
+          "Jeremy Reizenstein",
+          "Rashi Rungta",
+          "Kalyan Saladi",
+          "Alan Schelten",
+          "Ruan Silva",
+          "Eric Michael Smith",
+          "Ranjan Subramanian",
+          "Xiaoqing Ellen Tan",
+          "Binh Tang",
+          "Ross Taylor",
+          "Adina Williams",
+          "Jian Xiang Kuan",
+          "Puxin Xu",
+          "Zheng Yan",
+          "Iliyan Zarov",
+          "Yuchen Zhang",
+          "Angela Fan",
+          "Melanie Kambadur",
+          "Sharan Narang",
+          "Aurelien Rodriguez",
+          "Robert Stojnic",
+          "Sergey Edunov",
+          "Thomas Scialom"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Llama+2%3A+Open+foundation+and+fine-tuned+chat+models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "perez2018film",
+      "raw": {
+        "title": "FiLM: Visual reasoning with a general conditioning layer",
+        "authors": [
+          "Perez, Ethan",
+          "Strub, Florian",
+          "De Vries, Harm",
+          "Dumoulin, Vincent",
+          "Courville, Aaron"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=FiLM%3A+Visual+reasoning+with+a+general+conditioning+layer&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "beyer2024paligemma",
+      "raw": {
+        "title": "PaliGemma: A versatile 3B VLM for transfer",
+        "authors": [
+          "Beyer, Lucas",
+          "Steiner, Andreas",
+          "Pinto, Andr{\\'e} Susano",
+          "Kolesnikov, Alexander",
+          "Wang, Xiao",
+          "Salz, Daniel",
+          "Neumann, Maxim",
+          "Alabdulmohsin, Ibrahim",
+          "Tschannen, Michael",
+          "Bugliarello, Emanuele",
+          "Unterthiner, Thomas",
+          "Keysers, Daniel",
+          "Koppula, Skanda",
+          "Liu, Fangyu",
+          "Grycner, Adam",
+          "Gritsenko, Alexey",
+          "Houlsby, Neil",
+          "Kumar, Manoj",
+          "Rong, Keran",
+          "Eisenschlos, Julian",
+          "Kabra, Rishabh",
+          "Bauer, Matthias",
+          "Bo{\\v{s}}njak, Matko",
+          "Chen, Xi",
+          "Minderer, Matthias",
+          "Voigtlaender, Paul",
+          "Bica, Ioana",
+          "Balazevic, Ivana",
+          "Puigcerver, Joan",
+          "Papalampidi, Pinelopi",
+          "Henaff, Olivier",
+          "Xiong, Xi",
+          "Soricut, Radu",
+          "Harmsen, Jeremiah",
+          "Zhai, Xiaohua"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=PaliGemma%3A+A+versatile+3B+VLM+for+transfer&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "team2024gemma",
+      "raw": {
+        "title": "Gemma: Open models based on gemini research and technology",
+        "authors": [
+          "Mesnard, Thomas",
+          "Hardin, Cassidy",
+          "Dadashi, Robert",
+          "Bhupatiraju, Surya",
+          "Pathak, Shreya",
+          "Sifre, Laurent",
+          "Rivi{\\`e}re, Morgane",
+          "Kale, Mihir Sanjay",
+          "Love, Juliette",
+          "others"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Gemma%3A+Open+models+based+on+gemini+research+and+technology&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "chi2025diffusion",
+      "raw": {
+        "title": "Diffusion policy: Visuomotor policy learning via action diffusion",
+        "authors": [
+          "Chi, Cheng",
+          "Xu, Zhenjia",
+          "Feng, Siyuan",
+          "Cousineau, Eric",
+          "Du, Yilun",
+          "Burchfiel, Benjamin",
+          "Tedrake, Russ",
+          "Song, Shuran"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Diffusion+policy%3A+Visuomotor+policy+learning+via+action+diffusion&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zheng2024tracevla",
+      "raw": {
+        "title": "Tracevla: Visual trace prompting enhances spatial-temporal awareness for generalist robotic policies",
+        "authors": [
+          "Zheng, Ruijie",
+          "Liang, Yongyuan",
+          "Huang, Shuaiyi",
+          "Gao, Jianfeng",
+          "Daum{\\'e} III, Hal",
+          "Kolobov, Andrey",
+          "Huang, Furong",
+          "Yang, Jianwei"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Tracevla%3A+Visual+trace+prompting+enhances+spatial-temporal+awareness+for+generalist+robotic+policies&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ghosh2024octo",
+      "raw": {
+        "title": "Octo: An open-source generalist robot policy",
+        "authors": [
+          "Ghosh, Dibya",
+          "Walke, Homer",
+          "Pertsch, Karl",
+          "Black, Kevin",
+          "Mees, Oier",
+          "Dasari, Sudeep",
+          "Hejna, Joey",
+          "Kreiman, Tobias",
+          "Xu, Charles",
+          "Luo, Jianlan",
+          "Tan, You Liang",
+          "Chen, Lawrence Yunliang",
+          "Sanketi, Pannag",
+          "Vuong, Quan",
+          "Xiao, Ted",
+          "Sadigh, Dorsa",
+          "Finn, Chelsea",
+          "Levine, Sergey"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Octo%3A+An+open-source+generalist+robot+policy&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "hou2025dita",
+      "raw": {
+        "title": "Dita: Scaling diffusion transformer for generalist vision-language-action policy",
+        "authors": [
+          "Hou, Zhi",
+          "Zhang, Tianyi",
+          "Xiong, Yuwen",
+          "Duan, Haonan",
+          "Pu, Hengjun",
+          "Tong, Ronglei",
+          "Zhao, Chengyang",
+          "Zhu, Xizhou",
+          "Qiao, Yu",
+          "Dai, Jifeng",
+          "Chen, Yuntao"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Dita%3A+Scaling+diffusion+transformer+for+generalist+vision-language-action+policy&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zhao2025cot",
+      "raw": {
+        "title": "CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models",
+        "authors": [
+          "Zhao, Qingqing",
+          "Lu, Yao",
+          "Kim, Moo Jin",
+          "Fu, Zipeng",
+          "Zhang, Zhuoyang",
+          "Wu, Yecheng",
+          "Li, Zhaoshuo",
+          "Ma, Qianli",
+          "Han, Song",
+          "Finn, Chelsea",
+          "Handa, Ankur",
+          "Liu, Ming-Yu",
+          "Xiang, Donglai",
+          "Wetzstein, Gordon",
+          "Lin, Tsung-Yi"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=CoT-VLA%3A+Visual+Chain-of-Thought+Reasoning+for+Vision-Language-Action+Models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "pertsch2025fast",
+      "raw": {
+        "title": "Fast: Efficient action tokenization for vision-language-action models",
+        "authors": [
+          "Pertsch, Karl",
+          "Stachowicz, Kyle",
+          "Ichter, Brian",
+          "Driess, Danny",
+          "Nair, Suraj",
+          "Vuong, Quan",
+          "Mees, Oier",
+          "Finn, Chelsea",
+          "Levine, Sergey"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Fast%3A+Efficient+action+tokenization+for+vision-language-action+models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "bu2025univla",
+      "raw": {
+        "title": "Univla: Learning to act anywhere with task-centric latent actions",
+        "authors": [
+          "Bu, Qingwen",
+          "Yang, Yanting",
+          "Cai, Jisong",
+          "Gao, Shenyuan",
+          "Ren, Guanghui",
+          "Yao, Maoqing",
+          "Luo, Ping",
+          "Li, Hongyang"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Univla%3A+Learning+to+act+anywhere+with+task-centric+latent+actions&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zheng2025x",
+      "raw": {
+        "title": "X-vla: Soft-prompted transformer as scalable cross-embodiment vision-language-action model",
+        "authors": [
+          "Zheng, Jinliang",
+          "Li, Jianxiong",
+          "Wang, Zhihao",
+          "Liu, Dongxiu",
+          "Kang, Xirui",
+          "Feng, Yuchun",
+          "Zheng, Yinan",
+          "Zou, Jiayin",
+          "Chen, Yilun",
+          "Zeng, Jia",
+          "Zhang, Ya-Qin",
+          "Pang, Jiangmiao",
+          "Liu, Jingjing",
+          "Wang, Tai",
+          "Zhan, Xianyuan"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=X-vla%3A+Soft-prompted+transformer+as+scalable+cross-embodiment+vision-language-action+model&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "wang2025vla-adapter",
+      "raw": {
+        "title": "VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision-Language-Action Model",
+        "authors": [
+          "Wang, Yihao",
+          "Ding, Pengxiang",
+          "Li, Lingxiao",
+          "Cui, Can",
+          "Ge, Zirui",
+          "Tong, Xinyang",
+          "Song, Wenxuan",
+          "Zhao, Han",
+          "Zhao, Wei",
+          "Hou, Pengxu",
+          "Huang, Siteng",
+          "Tang, Yifan",
+          "Wang, Wenhui",
+          "Zhang, Ru",
+          "Liu, Jianyi",
+          "Wang, Donglin"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=VLA-Adapter%3A+An+Effective+Paradigm+for+Tiny-Scale+Vision-Language-Action+Model&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "guo2025glad",
+      "raw": {
+        "title": "GLaD: Geometric Latent Distillation for Vision-Language-Action Models",
+        "authors": [
+          "Guo, Minghao",
+          "Cao, Meng",
+          "Tao, Jiachen",
+          "Xu, Rongtao",
+          "Yan, Yan",
+          "Liang, Xiaodan",
+          "Laptev, Ivan",
+          "Chang, Xiaojun"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=GLaD%3A+Geometric+Latent+Distillation+for+Vision-Language-Action+Models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "gr00tn1_2025",
+      "raw": {
+        "title": "GR00T N1: An Open Foundation Model for Generalist Humanoid Robots",
+        "authors": [
+          "Johan Bjorck",
+          "Fernando Castañeda, Nikita Cherniadev",
+          "Xingye Da",
+          "Runyu Ding",
+          "Linxi \"Jim\" Fan",
+          "Yu Fang",
+          "Dieter Fox",
+          "Fengyuan Hu",
+          "Spencer Huang",
+          "Joel Jang",
+          "Zhenyu Jiang",
+          "Jan Kautz",
+          "Kaushil Kundalia",
+          "Lawrence Lao",
+          "Zhiqi Li",
+          "Zongyu Lin",
+          "Kevin Lin",
+          "Guilin Liu",
+          "Edith Llontop",
+          "Loic Magne",
+          "Ajay Mandlekar",
+          "Avnish Narayan",
+          "Soroush Nasiriany",
+          "Scott Reed",
+          "You Liang Tan",
+          "Guanzhi Wang",
+          "Zu Wang",
+          "Jing Wang",
+          "Qi Wang",
+          "Jiannan Xiang",
+          "Yuqi Xie",
+          "Yinzhen Xu",
+          "Zhenjia Xu",
+          "Seonghyeon Ye",
+          "Zhiding Yu",
+          "Ao Zhang",
+          "Hao Zhang",
+          "Yizhou Zhao",
+          "Ruijie Zheng",
+          "Yuke Zhu"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2503.14734"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2503.14734&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "chen2025internvla",
+      "raw": {
+        "title": "Internvla-m1: A spatially guided vision-language-action framework for generalist robot policy",
+        "authors": [
+          "Chen, Xinyi",
+          "Chen, Yilun",
+          "Fu, Yanwei",
+          "Gao, Ning",
+          "Jia, Jiaya",
+          "Jin, Weiyang",
+          "Li, Hao",
+          "Mu, Yao",
+          "Pang, Jiangmiao",
+          "Qiao, Yu",
+          "others"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Internvla-m1%3A+A+spatially+guided+vision-language-action+framework+for+generalist+robot+policy&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "yin2025deepthinkvla",
+      "raw": {
+        "title": "Deepthinkvla: Enhancing reasoning capability of vision-language-action models",
+        "authors": [
+          "Yin, Cheng",
+          "Lin, Yankai",
+          "Xu, Wang",
+          "Tam, Sikyuen",
+          "Zeng, Xiangrui",
+          "Liu, Zhiyuan",
+          "Yin, Zhouping"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Deepthinkvla%3A+Enhancing+reasoning+capability+of+vision-language-action+models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "cen2025worldvla",
+      "raw": {
+        "title": "WorldVLA: Towards Autoregressive Action World Model",
+        "authors": [
+          "Cen, Jun",
+          "Yu, Chaohui",
+          "Yuan, Hangjie",
+          "Jiang, Yuming",
+          "Huang, Siteng",
+          "Guo, Jiayan",
+          "Li, Xin",
+          "Song, Yibing",
+          "Luo, Hao",
+          "Wang, Fan",
+          "others"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=WorldVLA%3A+Towards+Autoregressive+Action+World+Model&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "lin2025vote",
+      "raw": {
+        "title": "Vote: vision-language-action optimization with trajectory ensemble voting",
+        "authors": [
+          "Lin, Juyi",
+          "Taherin, Amir",
+          "Akbari, Arash",
+          "Akbari, Arman",
+          "Lu, Lei",
+          "Chen, Guangyu",
+          "Padir, Taskin",
+          "Yang, Xiaomeng",
+          "Chen, Weiwei",
+          "Li, Yiqian",
+          "others"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Vote%3A+vision-language-action+optimization+with+trajectory+ensemble+voting&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "lee2025vlsi",
+      "raw": {
+        "title": "VLsI: Verbalized Layers-to-Interactions from Large to Small Vision Language Models",
+        "authors": [
+          "Lee, Byung-Kwan",
+          "Hachiuma, Ryo",
+          "Wang, Yu-Chiang Frank",
+          "Ro, Yong Man",
+          "Wu, Yueh-Hua"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=VLsI%3A+Verbalized+Layers-to-Interactions+from+Large+to+Small+Vision+Language+Models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Lewis2006BuildingAT",
+      "raw": {
+        "title": "Building a test collection for complex document information processing",
+        "authors": [
+          "David D. Lewis",
+          "Gady Agam",
+          "Shlomo Engelson Argamon",
+          "Ophir Frieder",
+          "David A. Grossman",
+          "Jefferson Heard"
+        ],
+        "year": 2006,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Building+a+test+collection+for+complex+document+information+processing&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "tan2025interactive",
+      "raw": {
+        "title": "Interactive Post-Training for Vision-Language-Action Models",
+        "authors": [
+          "Tan, Shuhan",
+          "Dou, Kairan",
+          "Zhao, Yue",
+          "Kr{\\\"a}henb{\\\"u}hl, Philipp"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Interactive+Post-Training+for+Vision-Language-Action+Models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "huang2025thinkact",
+      "raw": {
+        "title": "Thinkact: Vision-language-action reasoning via reinforced visual latent planning",
+        "authors": [
+          "Huang, Chi-Pin",
+          "Wu, Yueh-Hua",
+          "Chen, Min-Hung",
+          "Wang, Yu-Chiang Frank",
+          "Yang, Fu-En"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Thinkact%3A+Vision-language-action+reasoning+via+reinforced+visual+latent+planning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "yang2025fpc",
+      "raw": {
+        "title": "FPC-VLA: A Vision-Language-Action Framework with a Supervisor for Failure Prediction and Correction",
+        "authors": [
+          "Yang, Yifan",
+          "Duan, Zhixiang",
+          "Xie, Tianshi",
+          "Cao, Fuyu",
+          "Shen, Pinxi",
+          "Song, Peili",
+          "Jin, Piaopiao",
+          "Sun, Guokang",
+          "Xu, Shaoqing",
+          "You, Yangwei",
+          "Liu, Jingtai"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=FPC-VLA%3A+A+Vision-Language-Action+Framework+with+a+Supervisor+for+Failure+Prediction+and+Correction&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "shi2025memoryvla",
+      "raw": {
+        "title": "Memoryvla: Perceptual-cognitive memory in vision-language-action models for robotic manipulation",
+        "authors": [
+          "Shi, Hao",
+          "Xie, Bin",
+          "Liu, Yingfei",
+          "Sun, Lin",
+          "Liu, Fengrong",
+          "Wang, Tiancai",
+          "Zhou, Erjin",
+          "Fan, Haoqiang",
+          "Zhang, Xiangyu",
+          "Huang, Gao"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Memoryvla%3A+Perceptual-cognitive+memory+in+vision-language-action+models+for+robotic+manipulation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "chen2022improved",
+      "raw": {
+        "title": "Improved feature distillation via projector ensemble",
+        "authors": [
+          "Chen, Yudong",
+          "Wang, Sen",
+          "Liu, Jiajun",
+          "Xu, Xuwei",
+          "de Hoog, Frank",
+          "Huang, Zi"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Improved+feature+distillation+via+projector+ensemble&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "kusupati2022matryoshka",
+      "raw": {
+        "title": "Matryoshka representation learning",
+        "authors": [
+          "Kusupati, Aditya",
+          "Bhatt, Gantavya",
+          "Rege, Aniket",
+          "Wallingford, Matthew",
+          "Sinha, Aditya",
+          "Ramanujan, Vivek",
+          "Howard-Snyder, William",
+          "Chen, Kaifeng",
+          "Kakade, Sham",
+          "Jain, Prateek",
+          "others"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Matryoshka+representation+learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "skean2025layer",
+      "raw": {
+        "title": "Layer by layer: Uncovering hidden representations in language models",
+        "authors": [
+          "Skean, Oscar",
+          "Arefin, Md Rifat",
+          "Zhao, Dan",
+          "Patel, Niket",
+          "Naghiyev, Jalal",
+          "LeCun, Yann",
+          "Shwartz-Ziv, Ravid"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Layer+by+layer%3A+Uncovering+hidden+representations+in+language+models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "weinan2017proposal",
+      "raw": {
+        "title": "A proposal on machine learning via dynamical systems",
+        "authors": [
+          "Weinan, Ee"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=A+proposal+on+machine+learning+via+dynamical+systems&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "chang2017multi",
+      "raw": {
+        "title": "Multi-level residual networks from dynamical systems view",
+        "authors": [
+          "Chang, Bo",
+          "Meng, Lili",
+          "Haber, Eldad",
+          "Tung, Frederick",
+          "Begert, David"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Multi-level+residual+networks+from+dynamical+systems+view&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "hurst2024gpt",
+      "raw": {
+        "title": "Gpt-4o system card",
+        "authors": [
+          "Hurst, Aaron",
+          "Lerer, Adam",
+          "Goucher, Adam P",
+          "Perelman, Adam",
+          "Ramesh, Aditya",
+          "Clark, Aidan",
+          "Ostrow, AJ",
+          "Welihinda, Akila",
+          "Hayes, Alan",
+          "Radford, Alec",
+          "others"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Gpt-4o+system+card&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "aldaco2024aloha",
+      "raw": {
+        "title": "Aloha 2: An enhanced low-cost hardware for bimanual teleoperation",
+        "authors": [
+          "Aldaco, Jorge",
+          "Armstrong, Travis",
+          "Baruch, Robert",
+          "Bingham, Jeff",
+          "Chan, Sanky",
+          "Draper, Kenneth",
+          "Dwibedi, Debidatta",
+          "Finn, Chelsea",
+          "Florence, Pete",
+          "Goodrich, Spencer",
+          "others"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Aloha+2%3A+An+enhanced+low-cost+hardware+for+bimanual+teleoperation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "liu2024rdt",
+      "raw": {
+        "title": "RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation",
+        "authors": [
+          "Liu, Songming",
+          "Wu, Lingxuan",
+          "Li, Bangguo",
+          "Tan, Hengkai",
+          "Chen, Huayu",
+          "Wang, Zhengyi",
+          "Xu, Ke",
+          "Su, Hang",
+          "Zhu, Jun"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=RDT-1B%3A+a+Diffusion+Foundation+Model+for+Bimanual+Manipulation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "fei2025libero",
+      "raw": {
+        "title": "Libero-plus: In-depth robustness analysis of vision-language-action models",
+        "authors": [
+          "Fei, Senyu",
+          "Wang, Siyin",
+          "Shi, Junhao",
+          "Dai, Zihao",
+          "Cai, Jikun",
+          "Qian, Pengfang",
+          "Ji, Li",
+          "He, Xinzhe",
+          "Zhang, Shiduo",
+          "Fei, Zhaoye",
+          "others"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Libero-plus%3A+In-depth+robustness+analysis+of+vision-language-action+models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "cortes2012algorithms",
+      "raw": {
+        "title": "Algorithms for learning kernels based on centered alignment",
+        "authors": [
+          "Cortes, Corinna",
+          "Mohri, Mehryar",
+          "Rostamizadeh, Afshin"
+        ],
+        "year": 2012,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Algorithms+for+learning+kernels+based+on+centered+alignment&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    }
+  ]
+}

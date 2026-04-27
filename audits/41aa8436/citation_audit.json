@@ -1,0 +1,1403 @@
+{
+  "paper_id": "41aa8436-20fd-4ac4-aa77-7f59986e4e70",
+  "total": 38,
+  "verified": 26,
+  "mismatch": 8,
+  "missing": 0,
+  "ambiguous": 0,
+  "error": 0,
+  "skipped": 4,
+  "s2_consulted": 27,
+  "s2_lifted": 19,
+  "key_style_outliers": [],
+  "entries": [
+    {
+      "key": "burns2022discovering",
+      "raw": {
+        "title": "Discovering Latent Knowledge in Language Models Without Supervision",
+        "authors": [
+          "Burns, Collin",
+          "Ye, Haotian",
+          "Klein, Dan",
+          "Steinhardt, Jacob"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": "2212.03827"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4389925871",
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/89c3bd70ad33c4f8832f00ab98872b77861ee0ec",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Discovering Latent Knowledge in Language Models Without Supervision",
+        "year": 2022,
+        "authors": [
+          "Collin Burns",
+          "Haotian Ye",
+          "D. Klein",
+          "J. Steinhardt"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "betley2026emergent",
+      "raw": {
+        "title": "Training large language models on narrow tasks can lead to broad misalignment",
+        "authors": [
+          "Betley, Jan",
+          "Warncke, Niels",
+          "Sztyber-Betley, Anna",
+          "Tan, Daniel",
+          "Bao, Xuchan",
+          "Soto, Martín",
+          "Srivastava, Megha",
+          "Labenz, Nathan",
+          "Evans, Owain"
+        ],
+        "year": 2026,
+        "doi": "10.1038/s41586-025-09937-5",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W7124177090",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Training large language models on narrow tasks can lead to broad misalignment",
+        "year": 2026,
+        "authors": [
+          "Jan Betley",
+          "Niels Warncke",
+          "Anna Sztyber",
+          "Daniel C. H. Tan",
+          "Xuchan Bao",
+          "Martín Soto",
+          "Megha Srivastava",
+          "Nathan A. Labenz",
+          "Owain Evans"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "hubinger2019risks",
+      "raw": {
+        "title": "Risks from Learned Optimization in Advanced Machine Learning Systems",
+        "authors": [
+          "Hubinger, Evan",
+          "van Merwijk, Chris",
+          "Mikulik, Vladimir",
+          "Skalse, Joar",
+          "Garrabrant, Scott"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": "1906.01820"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4285225959",
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/7ee12d3bf8e0ce20d281b4550e39a1ee53839452",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Risks from Learned Optimization in Advanced Machine Learning Systems",
+        "year": 2019,
+        "authors": [
+          "Evan Hubinger",
+          "Chris van Merwijk",
+          "Vladimir Mikulik",
+          "J. Skalse",
+          "Scott Garrabrant"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "hubinger2024sleeper",
+      "raw": {
+        "title": "Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training",
+        "authors": [
+          "Hubinger, Evan",
+          "Denison, Carson",
+          "Mu, Jesse",
+          "Lambert, Mike",
+          "Tong, Meg",
+          "MacDiarmid, Monte",
+          "Lanham, Tamera",
+          "Ziegler, Daniel M.",
+          "Maxwell, Tim",
+          "Cheng, Newton",
+          "others"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2401.05566"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4398133596",
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/9363e8e1fe2be2a13b4d6f5fc61bbaed14ab9a23",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training",
+        "year": 2024,
+        "authors": [
+          "Evan Hubinger",
+          "Carson E. Denison",
+          "Jesse Mu",
+          "Mike Lambert",
+          "Meg Tong",
+          "M. MacDiarmid",
+          "Tamera Lanham",
+          "Daniel M. Ziegler",
+          "Tim Maxwell",
+          "Newton Cheng",
+          "Adam Jermyn",
+          "Amanda Askell",
+          "Ansh Radhakrishnan",
+          "Cem Anil",
+          "D. Duvenaud",
+          "Deep Ganguli",
+          "Fazl Barez",
+          "J. Clark",
+          "Kamal Ndousse",
+          "Kshitij Sachan",
+          "M. Sellitto",
+          "Mrinank Sharma",
+          "Nova Dassarma",
+          "Roger Grosse",
+          "Shauna Kravec",
+          "Yuntao Bai",
+          "Zachary Witten",
+          "Marina Favaro",
+          "J. Brauner",
+          "Holden Karnofsky",
+          "P. Christiano",
+          "Samuel R. Bowman",
+          "Logan Graham",
+          "Jared Kaplan",
+          "S. Mindermann",
+          "R. Greenblatt",
+          "Buck Shlegeris",
+          "Nicholas Schiefer",
+          "Ethan Perez"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "macdiarmid2024probes",
+      "raw": {
+        "title": "Simple probes can catch sleeper agents",
+        "authors": [
+          "MacDiarmid, Monte",
+          "Maxwell, Tim",
+          "Schiefer, Nicholas",
+          "Mu, Jesse",
+          "Kaplan, Jared",
+          "Duvenaud, David",
+          "Bowman, Samuel",
+          "Tamkin, Alex",
+          "Perez, Ethan",
+          "Sharma, Mrinank",
+          "Denison, Carson",
+          "Hubinger, Evan"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "azaria2023internal",
+      "raw": {
+        "title": "The Internal State of an LLM Knows When It's Lying",
+        "authors": [
+          "Azaria, Amos",
+          "Mitchell, Tom"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": "2304.13734"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4389520749",
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/f406aceba4f29cc7cfbe7edb2f52f01374486589",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "The Internal State of an LLM Knows When its Lying",
+        "year": 2023,
+        "authors": [
+          "A. Azaria",
+          "Tom M. Mitchell"
+        ]
+      },
+      "title_similarity": 0.98989898989899,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "marks2023geometry",
+      "raw": {
+        "title": "The Geometry of Truth: Emergent Linear Structure in Large Language Model Representations of True/False Datasets",
+        "authors": [
+          "Marks, Samuel",
+          "Tegmark, Max"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2310.06824"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4390490761",
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/d59523889679aee15992c4bf6e52b134186d07d3",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "The Geometry of Truth: Emergent Linear Structure in Large Language Model Representations of True/False Datasets",
+        "year": 2023,
+        "authors": [
+          "Samuel Marks",
+          "Max Tegmark"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "turner2025model",
+      "raw": {
+        "title": "Model Organisms for Emergent Misalignment",
+        "authors": [
+          "Turner, Edward",
+          "Soligo, Anna",
+          "Taylor, Mia",
+          "Rajamanoharan, Senthooran",
+          "Nanda, Neel"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2506.11613"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4415456690",
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/b52f7aa85ef5ddade34324f5e86cf04c01f404d2",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Model Organisms for Emergent Misalignment",
+        "year": 2025,
+        "authors": [
+          "Edward Turner",
+          "Anna Soligo",
+          "Mia Taylor",
+          "Senthooran Rajamanoharan",
+          "Neel Nanda"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "goldreich1986construct",
+      "raw": {
+        "title": "How to construct random functions",
+        "authors": [
+          "Goldreich, Oded",
+          "Goldwasser, Shafi",
+          "Micali, Silvio"
+        ],
+        "year": 1986,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2117362057",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "How to construct random functions",
+        "year": 1986,
+        "authors": [
+          "Oded Goldreich",
+          "Shafi Goldwasser",
+          "Silvio Micali"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "goldwasser2022planting",
+      "raw": {
+        "title": "Planting Undetectable Backdoors in Machine Learning Models",
+        "authors": [
+          "Goldwasser, Shafi",
+          "Kim, Michael P.",
+          "Vaikuntanathan, Vinod",
+          "Zamir, Or"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": "2204.06974"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4322736917",
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/38ab0972ea91d2b2d14abb18afe58c351018cf06",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Planting Undetectable Backdoors in Machine Learning Models : [Extended Abstract]",
+        "year": 2022,
+        "authors": [
+          "S. Goldwasser",
+          "Michael P. Kim",
+          "V. Vaikuntanathan",
+          "Or Zamir"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "christiano2025backdoor",
+      "raw": {
+        "title": "Backdoor Defense, Learnability and Obfuscation",
+        "authors": [
+          "Christiano, Paul",
+          "Hilton, Jacob",
+          "Lecomte, Victor",
+          "Xu, Mark"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2409.03077"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4404395887",
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/dae50ddbb55a0f8c6a79cce4b9bfa854e312ca50",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Backdoor defense, learnability and obfuscation",
+        "year": 2024,
+        "authors": [
+          "Paul F. Christiano",
+          "Jacob Hilton",
+          "Victor Lecomte",
+          "Xianzhong Mark Xu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "merrill2024cot",
+      "raw": {
+        "title": "The Expressive Power of Transformers with Chain of Thought",
+        "authors": [
+          "Merrill, William",
+          "Sabharwal, Ashish"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2310.07923"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4378942694",
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/6dccf6e8b6b3ca296fa540e5f8603ed36a715e25",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "The Expressive Power of Transformers with Chain of Thought",
+        "year": 2023,
+        "authors": [
+          "William Merrill",
+          "Ashish Sabharwal"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "pichler2024infeasibility",
+      "raw": {
+        "title": "On the (In)feasibility of ML Backdoor Detection as an Hypothesis Testing Problem",
+        "authors": [
+          "Pichler, Georg",
+          "Romanelli, Marco",
+          "Manivannan, Divya Prakash",
+          "Krishnamurthy, Prashanth",
+          "Khorrami, Farshad",
+          "Garg, Siddharth"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2402.16926"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W7144391067",
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/ddf266285d25607bddf6746c91557ce4adfdd28e",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "On the (In)feasibility of ML Backdoor Detection as an Hypothesis Testing Problem",
+        "year": 2024,
+        "authors": [
+          "Georg Pichler",
+          "Marco Romanelli",
+          "Divya Prakash Manivannan",
+          "P. Krishnamurthy",
+          "F. Khorrami",
+          "Siddharth Garg"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "boneh2013constrained",
+      "raw": {
+        "title": "Constrained Pseudorandom Functions and Their Applications",
+        "authors": [
+          "Boneh, Dan",
+          "Waters, Brent"
+        ],
+        "year": 2013,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W1963071371",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Constrained Pseudorandom Functions and Their Applications",
+        "year": 2013,
+        "authors": [
+          "Dan Boneh",
+          "Brent Waters"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "goldowsky2025detecting",
+      "raw": {
+        "title": "Detecting Strategic Deception Using Linear Probes",
+        "authors": [
+          "Goldowsky-Dill, Nicholas",
+          "Chughtai, Bilal",
+          "Heimersheim, Stefan",
+          "Hobbhahn, Marius"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2502.03407"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4412944208",
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/13c1ff15952da462a986270e86a430ebe6361da4",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Detecting Strategic Deception Using Linear Probes",
+        "year": 2025,
+        "authors": [
+          "Nicholas Goldowsky-Dill",
+          "Bilal Chughtai",
+          "Stefan Heimersheim",
+          "Marius Hobbhahn"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "boxo2025caught",
+      "raw": {
+        "title": "Caught in the Act: a mechanistic approach to detecting deception",
+        "authors": [
+          "Boxo, Gerard",
+          "Socha, Ryan",
+          "Yoo, Daniel",
+          "Raval, Shivam"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2508.19505"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W7144391067",
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/428c5570ce5d55521f7a59c9e4888dbe958c15be",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Caught in the Act: a mechanistic approach to detecting deception",
+        "year": 2025,
+        "authors": [
+          "Gerard Boxo",
+          "Ryan Socha",
+          "Daniel Yoo",
+          "Shivam Raval"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "nguyen2025probing",
+      "raw": {
+        "title": "Probing and Steering Evaluation Awareness of Language Models",
+        "authors": [
+          "Nguyen, Jord",
+          "Hoang, Khiem",
+          "Attubato, Carlo Leonardo",
+          "Hofstätter, Felix"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2507.01786"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W7137951783",
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/03c66241c8619a7e0c7ad7b712d2ca1371546075",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Probing and Steering Evaluation Awareness of Language Models",
+        "year": 2025,
+        "authors": [
+          "Jord Nguyen",
+          "Khiem Hoang",
+          "Carlo Leonardo Attubato",
+          "Felix Hofstätter"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "soligo2025convergent",
+      "raw": {
+        "title": "Convergent Linear Representations of Emergent Misalignment",
+        "authors": [
+          "Soligo, Anna",
+          "Turner, Edward",
+          "Rajamanoharan, Senthooran",
+          "Nanda, Neel"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2506.11618"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W7134016873",
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/8b97874ce9904c9f5e712054d24a8b45cc6fed5e",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Convergent Linear Representations of Emergent Misalignment",
+        "year": 2025,
+        "authors": [
+          "Anna Soligo",
+          "Edward Turner",
+          "Senthooran Rajamanoharan",
+          "Neel Nanda"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "rlo2025obfuscation",
+      "raw": {
+        "title": "RL-Obfuscation: Can Language Models Learn to Evade Latent-Space Monitors?",
+        "authors": [
+          "Gupta, Rohan",
+          "Jenner, Erik"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2506.14261"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W7128555531",
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/8d6059ab7537b58e86e62596d165ce7839e53156",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "RL-Obfuscation: Can Language Models Learn to Evade Latent-Space Monitors?",
+        "year": 2025,
+        "authors": [
+          "Rohan Gupta",
+          "Erik Jenner"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "macdiarmid2025natural",
+      "raw": {
+        "title": "Natural Emergent Misalignment from Reward Hacking in Production RL",
+        "authors": [
+          "MacDiarmid, Monte",
+          "Wright, Benjamin",
+          "Uesato, Jonathan",
+          "Benton, Joe",
+          "Kutasov, Jon",
+          "Price, Sara",
+          "Bouscal, Naia",
+          "Bowman, Sam",
+          "Bricken, Trenton",
+          "Cloud, Alex",
+          "Denison, Carson",
+          "Gasteiger, Johannes",
+          "Greenblatt, Ryan",
+          "Leike, Jan",
+          "Lindsey, Jack",
+          "Mikulik, Vlad",
+          "Perez, Ethan",
+          "Rodrigues, Alex",
+          "Thomas, Drake",
+          "Webson, Albert",
+          "Ziegler, Daniel",
+          "Hubinger, Evan"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2511.18397"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W7155244453",
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/f29cd5cab35c06518b9fab95168c11ab55ae2170",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Natural Emergent Misalignment from Reward Hacking in Production RL",
+        "year": 2025,
+        "authors": [
+          "M. MacDiarmid",
+          "Benjamin Wright",
+          "Jonathan Uesato",
+          "Joe Benton",
+          "Jonathan Kutasov",
+          "Sara Price",
+          "Naia Bouscal",
+          "Sam Bowman",
+          "Trenton Bricken",
+          "Alex Cloud",
+          "Carson E. Denison",
+          "Johannes Gasteiger",
+          "R. Greenblatt",
+          "Jan Leike",
+          "John Lindsey",
+          "Vladimir Mikulik",
+          "Ethan Perez",
+          "Alex Rodrigues",
+          "Drake Thomas",
+          "Albert Webson",
+          "Daniel Ziegler",
+          "Evan Hubinger"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "drori2025output",
+      "raw": {
+        "title": "Output Supervision Can Obfuscate the Chain of Thought",
+        "authors": [
+          "Drori, Jacob",
+          "Marks, Luke",
+          "Woodworth, Bryce",
+          "Cloud, Alex",
+          "Turner, Alexander Matt"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2511.11584"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W7144391067",
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/69b82b92dfc5fe0665da60245b8669aa4077f85a",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Output Supervision Can Obfuscate the Chain of Thought",
+        "year": 2025,
+        "authors": [
+          "Jacob Drori",
+          "Luke Marks",
+          "B. Woodworth",
+          "Alex Cloud",
+          "Alexander Matt Turner"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "openai2025monitorability",
+      "raw": {
+        "title": "Chain of Thought Monitorability: A New and Fragile Opportunity for AI Safety",
+        "authors": [
+          "Korbak, Tomek",
+          "Balesni, Mikita",
+          "Barnes, Elizabeth",
+          "Bengio, Yoshua",
+          "Benton, Joe",
+          "Bloom, Joseph",
+          "Chen, Mark",
+          "Cooney, Alan",
+          "Dafoe, Allan",
+          "Dragan, Anca",
+          "Emmons, Scott",
+          "Evans, Owain",
+          "Farhi, David",
+          "Greenblatt, Ryan",
+          "Hendrycks, Dan",
+          "Hobbhahn, Marius",
+          "Hubinger, Evan",
+          "Irving, Geoffrey",
+          "others"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2507.11473"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W7119232940",
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/79cdd3a41ec8f5cb050f87d38f0bc33fa16c6b3e",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Chain of Thought Monitorability: A New and Fragile Opportunity for AI Safety",
+        "year": 2025,
+        "authors": [
+          "Tomasz Korbak",
+          "Mikita Balesni",
+          "Eliza-beth Barnes",
+          "Y. Bengio",
+          "Joe Benton",
+          "Joseph Bloom",
+          "Mark Chen",
+          "Alan Cooney",
+          "Allan Dafoe",
+          "Anca Dragan",
+          "Scott Emmons",
+          "Owain Evans",
+          "David Farhi",
+          "R. Greenblatt",
+          "Dan Hendrycks",
+          "Marius Hobbhahn",
+          "Evan Hubinger",
+          "Geoffrey Irving",
+          "Erik Jenner",
+          "Daniel Kokotajlo",
+          "Victoria Krakovna",
+          "Shane Legg",
+          "David Lindner",
+          "D. Luan",
+          "Aleksander Mkadry",
+          "Julian Michael",
+          "Neel Nanda",
+          "Dave Orr",
+          "J. Pachocki",
+          "Ethan Perez",
+          "Mary Phuong",
+          "Fabien Roger",
+          "Joshua Saxe",
+          "Buck Shlegeris",
+          "Martín Soto",
+          "Eric Steinberger",
+          "Jasmine Wang",
+          "Wojciech Zaremba",
+          "Bowen Baker",
+          "Rohin Shah",
+          "Vladimir Mikulik"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "anthropic2025reasoning",
+      "raw": {
+        "title": "Reasoning Models Don't Always Say What They Think",
+        "authors": [
+          "Chen, Yanda",
+          "Benton, Joe",
+          "Radhakrishnan, Ansh",
+          "Uesato, Jonathan",
+          "Denison, Carson",
+          "Schulman, John",
+          "Somani, Arushi",
+          "Hase, Peter",
+          "Wagner, Misha",
+          "Roger, Fabien",
+          "Mikulik, Vlad",
+          "Bowman, Sam",
+          "Leike, Jan",
+          "Kaplan, Jared",
+          "Perez, Ethan"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "wei2022chain",
+      "raw": {
+        "title": "Chain-of-Thought Prompting Elicits Reasoning in Large Language Models",
+        "authors": [
+          "Wei, Jason",
+          "Wang, Xuezhi",
+          "Schuurmans, Dale",
+          "Bosma, Maarten",
+          "Ichter, Brian",
+          "Xia, Fei",
+          "Chi, Ed",
+          "Le, Quoc",
+          "Zhou, Denny"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": "2201.11903"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4384071683",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Large language models encode clinical knowledge",
+        "year": 2023,
+        "authors": [
+          "Karan Singhal",
+          "Shekoofeh Azizi",
+          "Tao Tu",
+          "S. Sara Mahdavi",
+          "Jason Lee",
+          "Hyung Won Chung",
+          "Nathan Scales",
+          "Ajay Kumar Tanwani",
+          "Heather Cole-Lewis",
+          "Stephen Pfohl",
+          "Perry W. Payne",
+          "Martin Seneviratne",
+          "Paul Gamble",
+          "Christopher Kelly",
+          "Abubakr Babiker",
+          "Nathanael Schärli",
+          "Aakanksha Chowdhery",
+          "P. Mansfield",
+          "Dina Demner‐Fushman",
+          "Blaise Agüera y Arcas",
+          "Dale R. Webster",
+          "Greg S. Corrado",
+          "Yossi Matias",
+          "Katherine Chou",
+          "Juraj Gottweis",
+          "Nenad Tomašev",
+          "Yun Liu",
+          "Alvin Rajkomar",
+          "Joëlle Barral",
+          "Christopher Semturs",
+          "Alan Karthikesalingam",
+          "Vivek Natarajan"
+        ]
+      },
+      "title_similarity": 0.6176470588235294,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "lanham2023cot",
+      "raw": {
+        "title": "Measuring Faithfulness in Chain-of-Thought Reasoning",
+        "authors": [
+          "Lanham, Tamera",
+          "Chen, Anna",
+          "Radhakrishnan, Ansh",
+          "Steiner, Benoit",
+          "Denison, Carson",
+          "Hernandez, Danny",
+          "Li, Dustin",
+          "Durmus, Esin",
+          "Hubinger, Evan",
+          "Kernion, Jackson",
+          "others"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": "2307.13702"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4390490761",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Explainability for Large Language Models: A Survey",
+        "year": 2024,
+        "authors": [
+          "Haiyan Zhao",
+          "Hanjie Chen",
+          "Fan Yang",
+          "Ninghao Liu",
+          "Huiqi Deng",
+          "Hengyi Cai",
+          "Shuaiqiang Wang",
+          "Dawei Yin",
+          "Mengnan Du"
+        ]
+      },
+      "title_similarity": 0.35294117647058826,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "chen2025hcot",
+      "raw": {
+        "title": "H-CoT: Hijacking the Chain-of-Thought Safety Reasoning Mechanism",
+        "authors": [
+          "Kuo, Martin",
+          "Zhang, Jianyi",
+          "Ding, Aolin",
+          "Wang, Qinsi",
+          "DiValentin, Louis",
+          "Bao, Yujia",
+          "Wei, Wei",
+          "Li, Hai",
+          "Chen, Yiran"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2502.12893"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4411204347",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Unable to forget: Proactive lnterference Reveals Working Memory Limits in LLMs Beyond Context Length",
+        "year": 2025,
+        "authors": [
+          "Chupei Wang",
+          "Jiaqiu vince Sun"
+        ]
+      },
+      "title_similarity": 0.3272727272727273,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "chen2026whatmatters",
+      "raw": {
+        "title": "What Matters For Safety Alignment?",
+        "authors": [
+          "Chen, Yifan",
+          "others"
+        ],
+        "year": 2026,
+        "doi": null,
+        "arxiv_id": "2601.03868"
+      },
+      "status": "metadata_mismatch",
+      "openalex_id": "https://openalex.org/W7155060482",
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/63e4f788a3534734fbeb268409194cf261b59d45",
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Isomeric Polarization: Internal Structural Divergence as Emergent Property of Computational Systems",
+        "year": 2026,
+        "authors": [
+          "Luis Jaime Ledesma Perez"
+        ]
+      },
+      "title_similarity": 0.34586466165413543,
+      "mismatches": [
+        "authors"
+      ],
+      "error": null
+    },
+    {
+      "key": "ball2025impossibility",
+      "raw": {
+        "title": "On the Impossibility of Separating Intelligence from Judgment: The Computational Intractability of Filtering for AI Alignment",
+        "authors": [
+          "Ball, Sarah",
+          "Gluch, Greg",
+          "Goldwasser, Shafi",
+          "Kreuter, Frauke",
+          "Reingold, Omer",
+          "Rothblum, Guy N."
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2507.07341"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W7118051294",
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/004dcf35abbce390779107c6a929fa62876b1f69",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "On the Impossibility of Separating Intelligence from Judgment: The Computational Intractability of Filtering for AI Alignment",
+        "year": 2025,
+        "authors": [
+          "Sarah Ball",
+          "Greg Gluch",
+          "S. Goldwasser",
+          "Frauke Kreuter",
+          "Omer Reingold",
+          "G. Rothblum"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "star2025safer",
+      "raw": {
+        "title": "STAR-1: Safer Alignment of Reasoning LLMs with 1K Data",
+        "authors": [
+          "{STAR Authors}"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2504.01903"
+      },
+      "status": "metadata_mismatch",
+      "openalex_id": "https://openalex.org/W4416035103",
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/2a35b18c5e697d1e7f7c5173128715dda3d39df5",
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Safety in Large Reasoning Models: A Survey",
+        "year": 2025,
+        "authors": [
+          "Cheng Wang",
+          "Yue Liu",
+          "Baoliang Bi",
+          "Duzhen Zhang",
+          "Zhongzhi Li",
+          "Yingwei Ma",
+          "Ying He",
+          "Shengju Yu",
+          "Xinfeng Li",
+          "Junfeng Fang",
+          "Jiaheng Zhang",
+          "Bryan Hooi"
+        ]
+      },
+      "title_similarity": 0.5416666666666666,
+      "mismatches": [
+        "authors"
+      ],
+      "error": null
+    },
+    {
+      "key": "realign2026",
+      "raw": {
+        "title": "ReAlign: Safety-Aligning Reasoning Models with Verifier-Guided RL",
+        "authors": [
+          "{ReAlign Authors}"
+        ],
+        "year": 2026,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "srr2025safety",
+      "raw": {
+        "title": "Advancing LLM Safe Alignment with Safety Representation Ranking",
+        "authors": [
+          "{SRR Authors}"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2505.15710"
+      },
+      "status": "metadata_mismatch",
+      "openalex_id": "https://openalex.org/W4414898111",
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/ecb91bd42e484d35b4de37f84528bc88308d2f1c",
+      "match_source": "openalex",
+      "best_match": {
+        "title": "ReGA: Model-Based Safeguard for LLMs via Representation-Guided Abstraction",
+        "year": 2025,
+        "authors": [
+          "Zeming Wei",
+          "Chengyuan Wu",
+          "Sun Meng"
+        ]
+      },
+      "title_similarity": 0.5217391304347826,
+      "mismatches": [
+        "authors"
+      ],
+      "error": null
+    },
+    {
+      "key": "refat2025robust",
+      "raw": {
+        "title": "Robust LLM Safeguarding via Refusal Feature Adversarial Training",
+        "authors": [
+          "{ReFAT Authors}"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2409.20089"
+      },
+      "status": "metadata_mismatch",
+      "openalex_id": "https://openalex.org/W4412877246",
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/57b7415577c0b81796de282b6c952e6cc5a6241e",
+      "match_source": "openalex",
+      "best_match": {
+        "title": "A Survey on Small Language Models in the Era of Large Language Models: Architecture, Capabilities, and Trustworthiness",
+        "year": 2025,
+        "authors": [
+          "Fali Wang",
+          "Minhua Lin",
+          "Yao Ma",
+          "Hui Liu",
+          "Qi He",
+          "Xianfeng Tang",
+          "Jiliang Tang",
+          "Jian Pei",
+          "Suhang Wang"
+        ]
+      },
+      "title_similarity": 0.34682080924855496,
+      "mismatches": [
+        "authors"
+      ],
+      "error": null
+    },
+    {
+      "key": "spa2026achieving",
+      "raw": {
+        "title": "SPA: Achieving Consensus in LLM Alignment via Self-Priority Optimization",
+        "authors": [
+          "{SPA Authors}"
+        ],
+        "year": 2026,
+        "doi": null,
+        "arxiv_id": "2511.06222"
+      },
+      "status": "metadata_mismatch",
+      "openalex_id": "https://openalex.org/W7131319105",
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/ef356bb11f5b174a1f4ad513866a7b1cacc6196a",
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Position: General Alignment Has Hit a Ceiling; Edge Alignment Must Be Taken Seriously",
+        "year": 2026,
+        "authors": [
+          "Han Bao",
+          "Yue Huang",
+          "Xiaoda Wang",
+          "Zheyuan Zhang",
+          "Yujun Zhou",
+          "Carl Yang",
+          "Xiangliang Zhang",
+          "Yanfang Ye"
+        ]
+      },
+      "title_similarity": 0.5442176870748299,
+      "mismatches": [
+        "authors"
+      ],
+      "error": null
+    },
+    {
+      "key": "wang2025modelsurgery",
+      "raw": {
+        "title": "Model Surgery: Modulating LLM's Behavior Via Simple Parameter Editing",
+        "authors": [
+          "Wang, Huanqian",
+          "Yue, Yang",
+          "Lu, Rui",
+          "Shi, Jingxin",
+          "Zhao, Andrew",
+          "Wang, Shenzhi",
+          "Song, Shiji",
+          "Huang, Gao"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2407.08770"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4404355191",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "DeeR-VLA: Dynamic Inference of Multimodal Large Language Models for Efficient Robot Execution",
+        "year": 2024,
+        "authors": [
+          "Yang Yue",
+          "Yulin Wang",
+          "Bingyi Kang",
+          "Yizeng Han",
+          "Shenzhi Wang",
+          "Shiji Song",
+          "Jiashi Feng",
+          "Gao Huang"
+        ]
+      },
+      "title_similarity": 0.36809815950920244,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "repsurgery2024",
+      "raw": {
+        "title": "Representation Surgery for Multi-Task Model Merging",
+        "authors": [
+          "Unknown"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2402.02705"
+      },
+      "status": "metadata_mismatch",
+      "openalex_id": "https://openalex.org/W4400488119",
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/9a4f03d132869db4a05c6789a4a1076575e2258b",
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Merge, Ensemble, and Cooperate! A Survey on Collaborative Strategies in the Era of Large Language Models",
+        "year": 2024,
+        "authors": [
+          "Jinliang Lu",
+          "Ziliang Pang",
+          "Min Xiao",
+          "Yaochen Zhu",
+          "Rui Xia",
+          "Jiajun Zhang"
+        ]
+      },
+      "title_similarity": 0.3741935483870968,
+      "mismatches": [
+        "authors"
+      ],
+      "error": null
+    },
+    {
+      "key": "gargiulo2025task",
+      "raw": {
+        "title": "Task Singular Vectors: Reducing Task Interference in Model Merging",
+        "authors": [
+          "Gargiulo, et al."
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "modelmerging2024",
+      "raw": {
+        "title": "Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities",
+        "authors": [
+          "Unknown"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2408.07666"
+      },
+      "status": "metadata_mismatch",
+      "openalex_id": "https://openalex.org/W4413169625",
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/1a638e5752e386612406d0479b7bad94877be8cb",
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Ensemble Large Language Models: A Survey",
+        "year": 2025,
+        "authors": [
+          "Ibomoiye Domor Mienye",
+          "Theo G. Swart"
+        ]
+      },
+      "title_similarity": 0.36220472440944884,
+      "mismatches": [
+        "authors"
+      ],
+      "error": null
+    },
+    {
+      "key": "safetynotfound2026",
+      "raw": {
+        "title": "Safety Not Found (404): Hidden Risks of LLM-Based Robotics",
+        "authors": [
+          "Unknown"
+        ],
+        "year": 2026,
+        "doi": null,
+        "arxiv_id": "2601.05529"
+      },
+      "status": "metadata_mismatch",
+      "openalex_id": "https://openalex.org/W7123371440",
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/0c2ad9d4a48367005dce0dc10350fbf4f5fae3df",
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Safety Not Found (404): Hidden Risks of LLM-Based Robotics Decision Making",
+        "year": 2026,
+        "authors": [
+          "Jua Han",
+          "Jaeyoon Seo",
+          "Jungbin Min",
+          "Jihie Kim",
+          "J. J. Oh"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [
+        "authors"
+      ],
+      "error": null
+    }
+  ]
+}

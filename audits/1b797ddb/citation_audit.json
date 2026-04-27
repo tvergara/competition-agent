@@ -1,0 +1,1309 @@
+{
+  "paper_id": "1b797ddb-4a6a-4447-bfb6-5f0cd7c217a5",
+  "total": 38,
+  "verified": 24,
+  "mismatch": 0,
+  "missing": 0,
+  "ambiguous": 0,
+  "error": 0,
+  "skipped": 14,
+  "s2_consulted": 23,
+  "s2_lifted": 0,
+  "key_style_outliers": [
+    "pmlr-v267-zhou25t",
+    "pmlr-v235-bruce24a"
+  ],
+  "entries": [
+    {
+      "key": "pmlr-v267-zhou25t",
+      "raw": {
+        "title": "DINO-WM: World Models on Pre-trained Visual Features enable Zero-shot Planning",
+        "authors": [
+          "Zhou, Gaoyue",
+          "Pan, Hengkai",
+          "Lecun, Yann",
+          "Pinto, Lerrel"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "assran2025vjepa2",
+      "raw": {
+        "title": "V-JEPA~2: Self-Supervised Video Models Enable Understanding, Prediction and Planning",
+        "authors": [
+          "Assran, Mahmoud",
+          "Bardes, Adrien",
+          "Fan, David",
+          "Garrido, Quentin",
+          "Howes, Russell",
+          "Komeili, Mojtaba",
+          "Muckley, Matthew",
+          "Rizvi, Ammar",
+          "Roberts, Claire",
+          "Sinha, Koustuv",
+          "Zholus, Artem",
+          "Arnaud, Sergio",
+          "Gejji, Abha",
+          "Martin, Ada",
+          "Robert Hogan, Francois",
+          "Dugas, Daniel",
+          "Bojanowski, Piotr",
+          "Khalidov, Vasil",
+          "Labatut, Patrick",
+          "Massa, Francisco",
+          "Szafraniec, Marc",
+          "Krishnakumar, Kapil",
+          "Li, Yong",
+          "Ma, Xiaodong",
+          "Chandar, Sarath",
+          "Meier, Franziska",
+          "LeCun, Yann",
+          "Rabbat, Michael",
+          "Ballas, Nicolas"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/b202faf38efbffcb26470c702e1140b047d6f6e7",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning",
+        "year": 2025,
+        "authors": [
+          "Mahmoud Assran",
+          "Adrien Bardes",
+          "David Fan",
+          "Q. Garrido",
+          "Russell Howes",
+          "Mojtaba Komeili",
+          "Matthew Muckley",
+          "Ammar Rizvi",
+          "Claire Roberts",
+          "Koustuv Sinha",
+          "Artem Zholus",
+          "Sergio Arnaud",
+          "Abha Gejji",
+          "Ada Martin",
+          "Francois Hogan",
+          "Daniel Dugas",
+          "Piotr Bojanowski",
+          "Vasil Khalidov",
+          "Patrick Labatut",
+          "Francisco Massa",
+          "Marc Szafraniec",
+          "K. Krishnakumar",
+          "Yong Li",
+          "Xiaodong Ma",
+          "Sarath Chandar",
+          "Franziska Meier",
+          "Yann LeCun",
+          "Michael Rabbat",
+          "Nicolas Ballas",
+          "Fair at Meta",
+          "M. Québec",
+          "AI Institute",
+          "P. Montréal"
+        ]
+      },
+      "title_similarity": 0.9642857142857143,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "hafner2025dreamerv3",
+      "raw": {
+        "title": "Mastering diverse control tasks through world models",
+        "authors": [
+          "Hafner, Danijar",
+          "Pasukonis, Jurgis",
+          "Ba, Jimmy",
+          "Lillicrap, Timothy"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/32720f16a4433ac6bb33a0f7d32bffb3cdda053e",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Mastering diverse control tasks through world models",
+        "year": 2025,
+        "authors": [
+          "Danijar Hafner",
+          "J. Pašukonis",
+          "Jimmy Ba",
+          "Timothy P. Lillicrap"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "seo2023masked",
+      "raw": {
+        "title": "Masked world models for visual control",
+        "authors": [
+          "Seo, Younggyo",
+          "Hafner, Danijar",
+          "Liu, Hao",
+          "Liu, Fangchen",
+          "James, Stephen",
+          "Lee, Kimin",
+          "Abbeel, Pieter"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/31d629bb161d8199e18b6f2ed7e4ecbda10b6797",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Masked World Models for Visual Control",
+        "year": 2022,
+        "authors": [
+          "Younggyo Seo",
+          "Danijar Hafner",
+          "Hao Liu",
+          "Fangchen Liu",
+          "Stephen James",
+          "Kimin Lee",
+          "P. Abbeel"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "chun2025sparseimaginationefficientvisual",
+      "raw": {
+        "title": "Sparse Imagination for Efficient Visual World Model Planning",
+        "authors": [
+          "Junha Chun",
+          "Youngjoon Jeong",
+          "Taesup Kim"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2506.01392"
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/006b1b538de4f43c9e2c72f470334b9ee3feca3d",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Sparse Imagination for Efficient Visual World Model Planning",
+        "year": 2025,
+        "authors": [
+          "Junha Chun",
+          "Youngjoon Jeong",
+          "Taesup Kim"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "iris2023",
+      "raw": {
+        "title": "Transformers are Sample-Efficient World Models",
+        "authors": [
+          "Vincent Micheli",
+          "Eloi Alonso",
+          "Fran{\\c{c}}ois Fleuret"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "gupta2023maskvit",
+      "raw": {
+        "title": "MaskViT: Masked Visual Pre-Training for Video Prediction",
+        "authors": [
+          "Agrim Gupta",
+          "Stephen Tian",
+          "Yunzhi Zhang",
+          "Jiajun Wu",
+          "Roberto Mart{'\\i}n-Mart{'\\i}n",
+          "Li Fei-Fei"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "micheli2024efficient",
+      "raw": {
+        "title": "Efficient World Models with Context-Aware Tokenization",
+        "authors": [
+          "Vincent Micheli",
+          "Eloi Alonso",
+          "François Fleuret"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "NEURIPS2018_2de5d166",
+      "raw": {
+        "title": "Recurrent World Models Facilitate Policy Evolution",
+        "authors": [
+          "Ha, David",
+          "Schmidhuber, J\"{u}rgen"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "hafner2019planet",
+      "raw": {
+        "title": "Learning Latent Dynamics for Planning from Pixels",
+        "authors": [
+          "Hafner, Danijar",
+          "Lillicrap, Timothy",
+          "Fischer, Ian",
+          "Villegas, Ruben",
+          "Ha, David",
+          "Lee, Honglak",
+          "Davidson, James"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/fea3e63c97c7292dc6fbcb3ffe7131eb54053986",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Learning Latent Dynamics for Planning from Pixels",
+        "year": 2018,
+        "authors": [
+          "Danijar Hafner",
+          "T. Lillicrap",
+          "Ian S. Fischer",
+          "Ruben Villegas",
+          "David R Ha",
+          "Honglak Lee",
+          "James Davidson"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Kipf2020Contrastive",
+      "raw": {
+        "title": "Contrastive Learning of Structured World Models",
+        "authors": [
+          "Thomas Kipf",
+          "Elise van der Pol",
+          "Max Welling"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "liu2023learning",
+      "raw": {
+        "title": "Learning world models with identifiable factorization",
+        "authors": [
+          "Liu, Yuren",
+          "Huang, Biwei",
+          "Zhu, Zhengmao",
+          "Tian, Honglong",
+          "Gong, Mingming",
+          "Yu, Yang",
+          "Zhang, Kun"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/18276220e1183e7dbd6729d296d51b5d0ae0d70c",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Learning World Models with Identifiable Factorization",
+        "year": 2023,
+        "authors": [
+          "Yu-Ren Liu",
+          "Biwei Huang",
+          "Zhengmao Zhu",
+          "Hong Tian",
+          "Mingming Gong",
+          "Yang Yu",
+          "Kun Zhang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "ferraro2025focus",
+      "raw": {
+        "title": "FOCUS: object-centric world models for robotic manipulation",
+        "authors": [
+          "Ferraro, Stefano",
+          "Mazzaglia, Pietro",
+          "Verbelen, Tim",
+          "Dhoedt, Bart"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/6c4d6224244557e0ad7ffe423390d388b6a1e736",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "FOCUS: object-centric world models for robotic manipulation",
+        "year": 2025,
+        "authors": [
+          "Stefano Ferraro",
+          "Pietro Mazzaglia",
+          "Tim Verbelen",
+          "Bart Dhoedt"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Hafner2020Dream",
+      "raw": {
+        "title": "Dream to Control: Learning Behaviors by Latent Imagination",
+        "authors": [
+          "Danijar Hafner",
+          "Timothy Lillicrap",
+          "Jimmy Ba",
+          "Mohammad Norouzi"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "hafner2021mastering",
+      "raw": {
+        "title": "Mastering Atari with Discrete World Models",
+        "authors": [
+          "Danijar Hafner",
+          "Timothy P Lillicrap",
+          "Mohammad Norouzi",
+          "Jimmy Ba"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "deng2022dreamerpro",
+      "raw": {
+        "title": "Dreamerpro: Reconstruction-free model-based reinforcement learning with prototypical representations",
+        "authors": [
+          "Deng, Fei",
+          "Jang, Ingook",
+          "Ahn, Sungjin"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/48632df62a1e1c8ed7ad04b3ffd1bc62c133b3af",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "DreamerPro: Reconstruction-Free Model-Based Reinforcement Learning with Prototypical Representations",
+        "year": 2021,
+        "authors": [
+          "Fei Deng",
+          "Ingook Jang",
+          "Sungjin Ahn"
+        ]
+      },
+      "title_similarity": 0.9950248756218906,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Kaiser2020Model",
+      "raw": {
+        "title": "Model Based Reinforcement Learning for Atari",
+        "authors": [
+          "Łukasz Kaiser",
+          "Mohammad Babaeizadeh",
+          "Piotr Miłos",
+          "Błażej Osiński",
+          "Roy H Campbell",
+          "Konrad Czechowski",
+          "Dumitru Erhan",
+          "Chelsea Finn",
+          "Piotr Kozakowski",
+          "Sergey Levine",
+          "Afroz Mohiuddin",
+          "Ryan Sepassi",
+          "George Tucker",
+          "Henryk Michalewski"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "zhang2023storm",
+      "raw": {
+        "title": "STORM: Efficient Stochastic Transformer based World Models for Reinforcement Learning",
+        "authors": [
+          "Weipu Zhang",
+          "Gang Wang",
+          "Jian Sun",
+          "Yetian Yuan",
+          "Gao Huang"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "meo2025maskedgenerativepriorsimprove",
+      "raw": {
+        "title": "Masked Generative Priors Improve World Models Sequence Modelling Capabilities",
+        "authors": [
+          "Cristian Meo",
+          "Mircea Lica",
+          "Zarif Ikram",
+          "Akihiro Nakano",
+          "Vedant Shah",
+          "Aniket Rajiv Didolkar",
+          "Dianbo Liu",
+          "Anirudh Goyal",
+          "Justin Dauwels"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2410.07836"
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/53f0f7639707a4684679a3349a7ecc3d09ac343a",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Masked Generative Priors Improve World Models Sequence Modelling Capabilities",
+        "year": 2024,
+        "authors": [
+          "Cristian Meo",
+          "Mircea Lica",
+          "Zarif Ikram",
+          "Akihiro Nakano",
+          "Vedant Shah",
+          "A. Didolkar",
+          "Dianbo Liu",
+          "Anirudh Goyal",
+          "Justin Dauwels"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "russell2025gaia2controllablemultiviewgenerative",
+      "raw": {
+        "title": "GAIA-2: A Controllable Multi-View Generative World Model for Autonomous Driving",
+        "authors": [
+          "Lloyd Russell",
+          "Anthony Hu",
+          "Lorenzo Bertoni",
+          "George Fedoseev",
+          "Jamie Shotton",
+          "Elahe Arani",
+          "Gianluca Corrado"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2503.20523"
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/234159e46e429d0ccd3718110861ec81d9c5dfe1",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "GAIA-2: A Controllable Multi-View Generative World Model for Autonomous Driving",
+        "year": 2025,
+        "authors": [
+          "Lloyd Russell",
+          "Anthony Hu",
+          "Lorenzo Bertoni",
+          "George Fedoseev",
+          "Jamie Shotton",
+          "Elahe Arani",
+          "Gianluca Corrado"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "pmlr-v235-bruce24a",
+      "raw": {
+        "title": "Genie: Generative Interactive Environments",
+        "authors": [
+          "Bruce, Jake",
+          "Dennis, Michael D",
+          "Edwards, Ashley",
+          "Parker-Holder, Jack",
+          "Shi, Yuge",
+          "Hughes, Edward",
+          "Lai, Matthew",
+          "Mavalankar, Aditi",
+          "Steigerwald, Richie",
+          "Apps, Chris",
+          "Aytar, Yusuf",
+          "Bechtle, Sarah Maria Elisabeth",
+          "Behbahani, Feryal",
+          "Chan, Stephanie C.Y.",
+          "Heess, Nicolas",
+          "Gonzalez, Lucy",
+          "Osindero, Simon",
+          "Ozair, Sherjil",
+          "Reed, Scott",
+          "Zhang, Jingwei",
+          "Zolna, Konrad",
+          "Clune, Jeff",
+          "Freitas, Nando De",
+          "Singh, Satinder",
+          "Rockt\"{a}schel, Tim"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "wang2023worlddreamer",
+      "raw": {
+        "title": "WorldDreamer: Towards General World Models for Video Generation via Predicting Masked Tokens",
+        "authors": [
+          "Xiaofeng Wang",
+          "Zheng Zhu",
+          "Guan Huang",
+          "Boyuan Wang",
+          "Xinze Chen",
+          "Jiwen Lu"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/43c44948874dd19dbb4df4b3127e6b248cb3c7e2",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "WorldDreamer: Towards General World Models for Video Generation via Predicting Masked Tokens",
+        "year": 2024,
+        "authors": [
+          "Xiaofeng Wang",
+          "Zheng Zhu",
+          "Guan Huang",
+          "Boyuan Wang",
+          "Xinze Chen",
+          "Jiwen Lu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "zhang2025objectsmatterobjectcentricworld",
+      "raw": {
+        "title": "Objects matter: object-centric world models improve reinforcement learning in visually complex environments",
+        "authors": [
+          "Weipu Zhang",
+          "Adam Jelley",
+          "Trevor McInroe",
+          "Amos Storkey"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2501.16443"
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/34b54610581c4873cf2ea4db72b4e2a59ee46e67",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Object-Centric World Models from Few-Shot Annotations for Sample-Efficient Reinforcement Learning",
+        "year": 2025,
+        "authors": [
+          "Weipu Zhang",
+          "Adam Jelley",
+          "Trevor A. McInroe",
+          "A. Storkey"
+        ]
+      },
+      "title_similarity": 0.6802721088435374,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "guo2026flowdreamer",
+      "raw": {
+        "title": "FlowDreamer: A RGB-D World Model with Flow-based Motion Representations for Robot Manipulation",
+        "authors": [
+          "Guo, Jun",
+          "Ma, Xiaojian",
+          "Wang, Yikai",
+          "Yang, Min",
+          "Liu, Huaping",
+          "Li, Qing"
+        ],
+        "year": 2026,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/2d1c66a1cdcd58e91b272b934f5b50c1566bbec0",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "FlowDreamer: A RGB-D World Model With Flow-Based Motion Representations for Robot Manipulation",
+        "year": 2025,
+        "authors": [
+          "Jun Guo",
+          "Xiaojian Ma",
+          "Yikai Wang",
+          "Min Yang",
+          "Huaping Liu",
+          "Qing Li"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "locatello2020object",
+      "raw": {
+        "title": "Object-centric learning with slot attention",
+        "authors": [
+          "Locatello, Francesco",
+          "Weissenborn, Dirk",
+          "Unterthiner, Thomas",
+          "Mahendran, Aravindh",
+          "Heigold, Georg",
+          "Uszkoreit, Jakob",
+          "Dosovitskiy, Alexey",
+          "Kipf, Thomas"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/5156381d63bb3e873533b08f203cb56c2d79b6c9",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Object-Centric Learning with Slot Attention",
+        "year": 2020,
+        "authors": [
+          "Francesco Locatello",
+          "Dirk Weissenborn",
+          "Thomas Unterthiner",
+          "Aravindh Mahendran",
+          "G. Heigold",
+          "Jakob Uszkoreit",
+          "Alexey Dosovitskiy",
+          "Thomas Kipf"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "rao2021dynamicvit",
+      "raw": {
+        "title": "DynamicViT: Efficient Vision Transformers with Dynamic Token Sparsification",
+        "authors": [
+          "Rao, Yongming",
+          "Zhao, Wenliang",
+          "Liu, Benlin",
+          "Lu, Jiwen",
+          "Zhou, Jie",
+          "Hsieh, Cho-Jui"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/dbdcabd0444ad50b68ee09e30f39b66e9068f5d2",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "DynamicViT: Efficient Vision Transformers with Dynamic Token Sparsification",
+        "year": 2021,
+        "authors": [
+          "Yongming Rao",
+          "Wenliang Zhao",
+          "Benlin Liu",
+          "Jiwen Lu",
+          "Jie Zhou",
+          "Cho-Jui Hsieh"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "NEURIPS2021_6a30e32e",
+      "raw": {
+        "title": "TokenLearner: Adaptive Space-Time Tokenization for Videos",
+        "authors": [
+          "Ryoo, Michael",
+          "Piergiovanni, AJ",
+          "Arnab, Anurag",
+          "Dehghani, Mostafa",
+          "Angelova, Anelia"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "tong2022videomae",
+      "raw": {
+        "title": "VideoMAE: Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training",
+        "authors": [
+          "Zhan Tong",
+          "Yibing Song",
+          "Jue Wang",
+          "Limin Wang"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/4990f7542f0600e0501a7e7a931b32eb7cb804d5",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "VideoMAE: Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training",
+        "year": 2022,
+        "authors": [
+          "Zhan Tong",
+          "Yibing Song",
+          "Jue Wang",
+          "Limin Wang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "wang2020glance",
+      "raw": {
+        "title": "Glance and focus: a dynamic approach to reducing spatial redundancy in image classification",
+        "authors": [
+          "Wang, Yulin",
+          "Lv, Kangchen",
+          "Huang, Rui",
+          "Song, Shiji",
+          "Yang, Le",
+          "Huang, Gao"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/9fa283d4f9c2ed991383c0434ef6043bee0dc8e2",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Glance and Focus: a Dynamic Approach to Reducing Spatial Redundancy in Image Classification",
+        "year": 2020,
+        "authors": [
+          "Yulin Wang",
+          "Kangchen Lv",
+          "Rui Huang",
+          "Shiji Song",
+          "Le Yang",
+          "Gao Huang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "he2022masked",
+      "raw": {
+        "title": "Masked autoencoders are scalable vision learners",
+        "authors": [
+          "He, Kaiming",
+          "Chen, Xinlei",
+          "Xie, Saining",
+          "Li, Yanghao",
+          "Doll{'a}r, Piotr",
+          "Girshick, Ross"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/6351ebb4a3287f5f3e1273464b3b91e5df5a16d7",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Masked Autoencoders Are Scalable Vision Learners",
+        "year": 2021,
+        "authors": [
+          "Kaiming He",
+          "Xinlei Chen",
+          "Saining Xie",
+          "Yanghao Li",
+          "Piotr Doll'ar",
+          "Ross B. Girshick"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "dosovitskiy2021an",
+      "raw": {
+        "title": "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale",
+        "authors": [
+          "Alexey Dosovitskiy",
+          "Lucas Beyer",
+          "Alexander Kolesnikov",
+          "Dirk Weissenborn",
+          "Xiaohua Zhai",
+          "Thomas Unterthiner",
+          "Mostafa Dehghani",
+          "Matthias Minderer",
+          "Georg Heigold",
+          "Sylvain Gelly",
+          "Jakob Uszkoreit",
+          "Neil Houlsby"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "oquab2024dinov",
+      "raw": {
+        "title": "DINOv2: Learning Robust Visual Features without Supervision",
+        "authors": [
+          "Maxime Oquab",
+          "Timoth{\\'e}e Darcet",
+          "Th{\\'e}o Moutakanni",
+          "Huy V. Vo",
+          "Marc Szafraniec",
+          "Vasil Khalidov",
+          "Pierre Fernandez",
+          "Daniel HAZIZA",
+          "Francisco Massa",
+          "Alaaeldin El-Nouby",
+          "Mido Assran",
+          "Nicolas Ballas",
+          "Wojciech Galuba",
+          "Russell Howes",
+          "Po-Yao Huang",
+          "Shang-Wen Li",
+          "Ishan Misra",
+          "Michael Rabbat",
+          "Vasu Sharma",
+          "Gabriel Synnaeve",
+          "Hu Xu",
+          "Herve Jegou",
+          "Julien Mairal",
+          "Patrick Labatut",
+          "Armand Joulin",
+          "Piotr Bojanowski"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "garcia1989model",
+      "raw": {
+        "title": "Model predictive control: Theory and practice—A survey",
+        "authors": [
+          "Garcia, Carlos E",
+          "Prett, David M",
+          "Morari, Manfred"
+        ],
+        "year": 1989,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/8c11def05d9701db9a78589e2289e12f8262b928",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Model predictive control: Theory and practice - A survey",
+        "year": 1989,
+        "authors": [
+          "Carlos E. Garcia",
+          "D. M. Prett",
+          "M. Morari"
+        ]
+      },
+      "title_similarity": 0.9454545454545454,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "liu2025aligning",
+      "raw": {
+        "title": "Aligning Cyber Space With Physical World: A Comprehensive Survey on Embodied AI",
+        "authors": [
+          "Liu, Yang",
+          "Chen, Weixing",
+          "Bai, Yongjie",
+          "Liang, Xiaodan",
+          "Li, Guanbin",
+          "Gao, Wen",
+          "Lin, Liang"
+        ],
+        "year": 2025,
+        "doi": "10.1109/TMECH.2025.3574943",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4412722243",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Aligning Cyber Space With Physical World: A Comprehensive Survey on Embodied AI",
+        "year": 2025,
+        "authors": [
+          "Yang Liu",
+          "Weixing Chen",
+          "Yongjie Bai",
+          "Xiaodan Liang",
+          "Guanbin Li",
+          "Wen Gao",
+          "Liang Lin"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "fu2021d4rldatasetsdeepdatadriven",
+      "raw": {
+        "title": "D4RL: Datasets for Deep Data-Driven Reinforcement Learning",
+        "authors": [
+          "Justin Fu",
+          "Aviral Kumar",
+          "Ofir Nachum",
+          "George Tucker",
+          "Sergey Levine"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": "2004.07219"
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/a326d9f2d2d351001fece788165dbcbb524da2e4",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "D4RL: Datasets for Deep Data-Driven Reinforcement Learning",
+        "year": 2020,
+        "authors": [
+          "Justin Fu",
+          "Aviral Kumar",
+          "Ofir Nachum",
+          "G. Tucker",
+          "S. Levine"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "tassa2018deepmindcontrolsuite",
+      "raw": {
+        "title": "DeepMind Control Suite",
+        "authors": [
+          "Yuval Tassa",
+          "Yotam Doron",
+          "Alistair Muldal",
+          "Tom Erez",
+          "Yazhe Li",
+          "Diego de Las Casas",
+          "David Budden",
+          "Abbas Abdolmaleki",
+          "Josh Merel",
+          "Andrew Lefrancq",
+          "Timothy Lillicrap",
+          "Martin Riedmiller"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": "1801.00690"
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/a9a3ed69c94a3e1c08ef1f833d9199f57736238b",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "DeepMind Control Suite",
+        "year": 2018,
+        "authors": [
+          "Yuval Tassa",
+          "Yotam Doron",
+          "Alistair Muldal",
+          "Tom Erez",
+          "Yazhe Li",
+          "Diego de Las Casas",
+          "D. Budden",
+          "A. Abdolmaleki",
+          "J. Merel",
+          "Andrew Lefrancq",
+          "T. Lillicrap",
+          "Martin A. Riedmiller"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "chi2024diffusionpolicyvisuomotorpolicy",
+      "raw": {
+        "title": "Diffusion Policy: Visuomotor Policy Learning via Action Diffusion",
+        "authors": [
+          "Cheng Chi",
+          "Zhenjia Xu",
+          "Siyuan Feng",
+          "Eric Cousineau",
+          "Yilun Du",
+          "Benjamin Burchfiel",
+          "Russ Tedrake",
+          "Shuran Song"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/bdba3bd30a49ea4c5b20b43dbd8f0eb59e9d80e2",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Diffusion policy: Visuomotor policy learning via action diffusion",
+        "year": 2023,
+        "authors": [
+          "Cheng Chi",
+          "S. Feng",
+          "Yilun Du",
+          "Zhenjia Xu",
+          "Eric Cousineau",
+          "B. Burchfiel",
+          "Shuran Song"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "zhang2024adaptigraphmaterialadaptivegraphbasedneural",
+      "raw": {
+        "title": "AdaptiGraph: Material-Adaptive Graph-Based Neural Dynamics for Robotic Manipulation",
+        "authors": [
+          "Zhang, Kaifeng",
+          "Li, Baoyu",
+          "Hauser, Kris",
+          "Li, Yunzhu"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/06d79953e85f7981f8a2cabad2165ca739af35af",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "AdaptiGraph: Material-Adaptive Graph-Based Neural Dynamics for Robotic Manipulation",
+        "year": 2024,
+        "authors": [
+          "Kaifeng Zhang",
+          "Baoyu Li",
+          "Kris Hauser",
+          "Yunzhu Li"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    }
+  ]
+}

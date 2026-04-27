@@ -1,0 +1,1860 @@
+{
+  "paper_id": "4bf69710-879e-49f9-be08-6f7450bcb304",
+  "total": 55,
+  "verified": 17,
+  "mismatch": 0,
+  "missing": 0,
+  "ambiguous": 0,
+  "error": 25,
+  "skipped": 13,
+  "s2_consulted": 0,
+  "s2_lifted": 0,
+  "key_style_outliers": [],
+  "entries": [
+    {
+      "key": "chen2021spreadsheetcoder",
+      "raw": {
+        "title": "SpreadsheetCoder: Formula Prediction from Semi-structured Context",
+        "authors": [
+          "Chen, Xinyun",
+          "Maniatis, Petros",
+          "Singh, Rishabh",
+          "Sutton, Charles",
+          "Dai, Hanjun",
+          "Lin, Max",
+          "Zhou, Denny"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "dong2024spreadsheetllmencoding",
+      "raw": {
+        "title": "Encoding Spreadsheets for Large Language Models",
+        "authors": [
+          "Dong, Haoyu",
+          "Zhao, Jianbo",
+          "Tian, Yuzhang",
+          "Xiong, Junyu",
+          "Zhou, Mengyu",
+          "Lin, Yun",
+          "Cambronero, Jos{\\'e}",
+          "He, Yeye",
+          "Han, Shi",
+          "Zhang, Dongmei"
+        ],
+        "year": 2024,
+        "doi": "10.18653/v1/2024.emnlp-main.1154",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4404782145",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Encoding Spreadsheets for Large Language Models",
+        "year": 2024,
+        "authors": [
+          "Haoyu Dong",
+          "Jianbo Zhao",
+          "Yuzhang Tian",
+          "Junyu Xiong",
+          "Mengyu Zhou",
+          "Yun Lin",
+          "José Cambronero",
+          "Yeye He",
+          "Han Shi",
+          "Dongmei Zhang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "zhao2024nl2formula",
+      "raw": {
+        "title": "NL2Formula: Generating Spreadsheet Formulas from Natural Language Queries",
+        "authors": [
+          "Zhao, Wei",
+          "Hou, Zhitao",
+          "Wu, Siyuan",
+          "Gao, Yan",
+          "Dong, Haoyu",
+          "Wan, Yao",
+          "Zhang, Hongyu",
+          "Sui, Yulei",
+          "Zhang, Haidong"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "ma2024spreadsheetbench",
+      "raw": {
+        "title": "SpreadsheetBench: Towards Challenging Real World Spreadsheet Manipulation",
+        "authors": [
+          "Ma, Zeyao",
+          "Zhang, Bohan",
+          "Zhang, Jing",
+          "Yu, Jifan",
+          "Zhang, Xiaokang",
+          "Zhang, Xiaohan",
+          "Luo, Sijia",
+          "Wang, Xi",
+          "Tang, Jie"
+        ],
+        "year": 2024,
+        "doi": "10.52202/079017-3007",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4415796311",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "SpreadsheetBench: Towards Challenging Real World Spreadsheet Manipulation",
+        "year": 2024,
+        "authors": [
+          "Sijia Luo",
+          "Zeyao Ma",
+          "Jie Tang",
+          "Xi Vincent Wang",
+          "Jifan Yu",
+          "Bohan Zhang",
+          "Jing Zhang",
+          "Xiaohan Zhang",
+          "Xiaokang Zhang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "chen2025SheetRMagent",
+      "raw": {
+        "title": "SheetAgent: Towards a Generalist Agent for Spreadsheet Reasoning and Manipulation via Large Language Models",
+        "authors": [
+          "Chen, Yibin",
+          "Yuan, Yifu",
+          "Zhang, Zeyu",
+          "Zheng, Yan",
+          "Liu, Jinyi",
+          "Ni, Fei",
+          "Hao, Jianye",
+          "Mao, Hangyu",
+          "Zhang, Fuzheng"
+        ],
+        "year": 2025,
+        "doi": "10.1145/3696410.3714962",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4409657286",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "SheetAgent: Towards a Generalist Agent for Spreadsheet Reasoning and Manipulation via Large Language Models",
+        "year": 2025,
+        "authors": [
+          "Yibin Chen",
+          "Yifu Yuan",
+          "Zeyu Zhang",
+          "Yan Zheng",
+          "Jinyi Liu",
+          "Fei Ni",
+          "Jianye Hao",
+          "Hangyu Mao",
+          "Fuzheng Zhang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "chen2025sheetdesignermultimodal",
+      "raw": {
+        "title": "SheetDesigner: MLLM-Powered Spreadsheet Layout Generation with Rule-Based and Vision-Based Reflection",
+        "authors": [
+          "Chen, Qin",
+          "Ren, Yuanyi",
+          "Ma, Xiaojun",
+          "Liu, Mugeng",
+          "Han, Shi",
+          "Zhang, Dongmei"
+        ],
+        "year": 2025,
+        "doi": "10.18653/v1/2025.emnlp-main.957",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4416036553",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "SheetDesigner: MLLM-Powered Spreadsheet Layout Generation with Rule-Based and Vision-Based Reflection",
+        "year": 2025,
+        "authors": [
+          "Qin Chen",
+          "Yuanyi Ren",
+          "Xiaojun Ma",
+          "Mugeng Liu",
+          "Shi Han",
+          "Dongmei Zhang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "zhang2024survey",
+      "raw": {
+        "title": "A Survey of Table Reasoning with Large Language Models",
+        "authors": [
+          "Zhang, Xuanliang",
+          "Wang, Dingzirui",
+          "Dou, Longxu",
+          "Zhu, Qingfu",
+          "Che, Wanxiang"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=A+Survey+of+Table+Reasoning+with+Large+Language+Models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "li2025mimotable",
+      "raw": {
+        "title": "MiMoTable: A Multi-scale Spreadsheet Benchmark with Meta Operations for Table Reasoning",
+        "authors": [
+          "Li, Zheng",
+          "Du, Yang",
+          "Zheng, Mao",
+          "Song, Mingyang"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "akyurek2025prbench",
+      "raw": {
+        "title": "PRBench: Large-Scale Expert Rubrics for Evaluating High-Stakes Professional Reasoning",
+        "authors": [
+          "Afra Feyza Akyürek",
+          "Advait Gosai",
+          "Chen Bo Calvin Zhang",
+          "Vipul Gupta",
+          "Jaehwan Jeong",
+          "Anisha Gunjal",
+          "Tahseen Rabbani",
+          "Maria Mazzone",
+          "David Randolph",
+          "Mohammad Mahmoudi Meymand",
+          "Gurshaan Chattha",
+          "Paula Rodriguez",
+          "Diego Mares",
+          "Pavit Singh",
+          "Michael Liu",
+          "Subodh Chawla",
+          "Pete Cline",
+          "Lucy Ogaz",
+          "Ernesto Hernandez",
+          "Zihao Wang",
+          "Pavi Bhatter",
+          "Marcos Ayestaran",
+          "Bing Liu",
+          "Yunzhong He"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2511.11562"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2511.11562&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "chiang2024chatbotlmarena",
+      "raw": {
+        "title": "Chatbot arena: an open platform for evaluating LLMs by human preference",
+        "authors": [
+          "Chiang, Wei-Lin",
+          "Zheng, Lianmin",
+          "Sheng, Ying",
+          "Angelopoulos, Anastasios N.",
+          "Li, Tianle",
+          "Li, Dacheng",
+          "Zhu, Banghua",
+          "Zhang, Hao",
+          "Jordan, Michael I.",
+          "Gonzalez, Joseph E.",
+          "Stoica, Ion"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Chatbot+arena%3A+an+open+platform+for+evaluating+LLMs+by+human+preference&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "scaleai2025sealshowdown",
+      "raw": {
+        "title": "SEAL Showdown: Technical Report",
+        "authors": [
+          "{Scale AI}"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "cai2025disentanglinglengthbiaspreference",
+      "raw": {
+        "title": "Disentangling Length Bias In Preference Learning Via Response-Conditioned Modeling",
+        "authors": [
+          "Jianfeng Cai",
+          "Jinhua Zhu",
+          "Ruopei Sun",
+          "Yue Wang",
+          "Li Li",
+          "Wengang Zhou",
+          "Houqiang Li"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2502.00814"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2502.00814&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "lei2025spider2",
+      "raw": {
+        "title": "Spider 2.0: Evaluating Language Models on Real-World Enterprise Text-to-SQL Workflows",
+        "authors": [
+          "Lei, Fangyu",
+          "Chen, Jixuan",
+          "Ye, Yuxiao",
+          "Cao, Ruisheng",
+          "Shin, Dongchan",
+          "SU, Hongjin",
+          "Suo, Zhaoqing",
+          "Gao, Hongcheng",
+          "Hu, Wenjing",
+          "Yin, Pengcheng",
+          "Zhong, Victor",
+          "Xiong, Caiming",
+          "Sun, Ruoxi",
+          "Liu, Qian",
+          "Wang, Sida",
+          "Yu, Tao"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "yu-etal-2018-spider",
+      "raw": {
+        "title": "Spider: A Large-Scale Human-Labeled Dataset for Complex and Cross-Domain Semantic Parsing and Text-to-SQL Task",
+        "authors": [
+          "Yu, Tao",
+          "Zhang, Rui",
+          "Yang, Kai",
+          "Yasunaga, Michihiro",
+          "Wang, Dongxu",
+          "Li, Zifan",
+          "Ma, James",
+          "Li, Irene",
+          "Yao, Qingning",
+          "Roman, Shanelle",
+          "Zhang, Zilin",
+          "Radev, Dragomir"
+        ],
+        "year": 2018,
+        "doi": "10.18653/v1/D18-1425",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2890431379",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Spider: A Large-Scale Human-Labeled Dataset for Complex and Cross-Domain Semantic Parsing and Text-to-SQL Task",
+        "year": 2018,
+        "authors": [
+          "Tao Yu",
+          "Rui Zhang",
+          "Kai Yang",
+          "Michihiro Yasunaga",
+          "Dongxu Wang",
+          "Zifan Li",
+          "James Ma",
+          "Irene Li",
+          "Qingning Yao",
+          "Shanelle Roman",
+          "Zilin Zhang",
+          "Dragomir Radev"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "zhang-etal-2024-tablellama",
+      "raw": {
+        "title": "TableLlama: Towards Open Large Generalist Models for Tables",
+        "authors": [
+          "Zhang, Tianshu",
+          "Yue, Xiang",
+          "Li, Yifei",
+          "Sun, Huan"
+        ],
+        "year": 2024,
+        "doi": "10.18653/v1/2024.naacl-long.335",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4401042314",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "TableLlama: Towards Open Large Generalist Models for Tables",
+        "year": 2024,
+        "authors": [
+          "Tianshu Zhang",
+          "Xiang Yue",
+          "Yifei Li",
+          "Huan Sun"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "tang-etal-2024-strucbench",
+      "raw": {
+        "title": "Struc-Bench: Are Large Language Models Good at Generating Complex Structured Tabular Data?",
+        "authors": [
+          "Tang, Xiangru",
+          "Zong, Yiming",
+          "Phang, Jason",
+          "Zhao, Yilun",
+          "Zhou, Wangchunshu",
+          "Cohan, Arman",
+          "Gerstein, Mark"
+        ],
+        "year": 2024,
+        "doi": "10.18653/v1/2024.naacl-short.2",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4401042866",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Struc-Bench: Are Large Language Models Good at Generating Complex Structured Tabular Data?",
+        "year": 2024,
+        "authors": [
+          "Xiangru Tang",
+          "Yiming Zong",
+          "Jason Phang",
+          "Yilun Zhao",
+          "Wangchunshu Zhou",
+          "Arman Cohan",
+          "Mark Gerstein"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "du-etal-2025-codearena",
+      "raw": {
+        "title": "CodeArena: A Collective Evaluation Platform for LLM Code Generation",
+        "authors": [
+          "Du, Mingzhe",
+          "Luu, Anh Tuan",
+          "Ji, Bin",
+          "Wu, Xiaobao",
+          "Qing, Yuhao",
+          "Huang, Dong",
+          "Zhuo, Terry Yue",
+          "Liu, Qian",
+          "Ng, See-Kiong"
+        ],
+        "year": 2025,
+        "doi": "10.18653/v1/2025.acl-demo.48",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4412887032",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "CodeArena: A Collective Evaluation Platform for LLM Code Generation",
+        "year": 2025,
+        "authors": [
+          "Mingzhe Du",
+          "Anh Tuan Luu",
+          "Bin Ji",
+          "Xiaobao Wu",
+          "Yuhao Qing",
+          "Dong Huang",
+          "Terry Yue Zhuo",
+          "Qian Liu",
+          "See-Kiong Ng"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "geng2025jsonschemabench",
+      "raw": {
+        "title": "JSONSchemaBench: A Rigorous Benchmark of Structured Outputs for Language Models",
+        "authors": [
+          "Saibo Geng",
+          "Hudson Cooper",
+          "Michał Moskal",
+          "Samuel Jenkins",
+          "Julian Berman",
+          "Nathan Ranchin",
+          "Robert West",
+          "Eric Horvitz",
+          "Harsha Nori"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2501.10868"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2501.10868&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "chen2021evaluatinglargelanguagemodelscodex",
+      "raw": {
+        "title": "Evaluating Large Language Models Trained on Code",
+        "authors": [
+          "Mark Chen",
+          "Jerry Tworek",
+          "Heewoo Jun",
+          "Qiming Yuan",
+          "Henrique Ponde de Oliveira Pinto",
+          "Jared Kaplan",
+          "Harri Edwards",
+          "Yuri Burda",
+          "Nicholas Joseph",
+          "Greg Brockman",
+          "Alex Ray",
+          "Raul Puri",
+          "Gretchen Krueger",
+          "Michael Petrov",
+          "Heidy Khlaaf",
+          "Girish Sastry",
+          "Pamela Mishkin",
+          "Brooke Chan",
+          "Scott Gray",
+          "Nick Ryder",
+          "Mikhail Pavlov",
+          "Alethea Power",
+          "Lukasz Kaiser",
+          "Mohammad Bavarian",
+          "Clemens Winter",
+          "Philippe Tillet",
+          "Felipe Petroski Such",
+          "Dave Cummings",
+          "Matthias Plappert",
+          "Fotios Chantzis",
+          "Elizabeth Barnes",
+          "Ariel Herbert-Voss",
+          "William Hebgen Guss",
+          "Alex Nichol",
+          "Alex Paino",
+          "Nikolas Tezak",
+          "Jie Tang",
+          "Igor Babuschkin",
+          "Suchir Balaji",
+          "Shantanu Jain",
+          "William Saunders",
+          "Christopher Hesse",
+          "Andrew N. Carr",
+          "Jan Leike",
+          "Josh Achiam",
+          "Vedant Misra",
+          "Evan Morikawa",
+          "Alec Radford",
+          "Matthew Knight",
+          "Miles Brundage",
+          "Mira Murati",
+          "Katie Mayer",
+          "Peter Welinder",
+          "Bob McGrew",
+          "Dario Amodei",
+          "Sam McCandlish",
+          "Ilya Sutskever",
+          "Wojciech Zaremba"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": "2107.03374"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2107.03374&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "roziere2024codellamaopenfoundation",
+      "raw": {
+        "title": "Code Llama: Open Foundation Models for Code",
+        "authors": [
+          "Baptiste Rozière",
+          "Jonas Gehring",
+          "Fabian Gloeckle",
+          "Sten Sootla",
+          "Itai Gat",
+          "Xiaoqing Ellen Tan",
+          "Yossi Adi",
+          "Jingyu Liu",
+          "Romain Sauvestre",
+          "Tal Remez",
+          "Jérémy Rapin",
+          "Artyom Kozhevnikov",
+          "Ivan Evtimov",
+          "Joanna Bitton",
+          "Manish Bhatt",
+          "Cristian Canton Ferrer",
+          "Aaron Grattafiori",
+          "Wenhan Xiong",
+          "Alexandre Défossez",
+          "Jade Copet",
+          "Faisal Azhar",
+          "Hugo Touvron",
+          "Louis Martin",
+          "Nicolas Usunier",
+          "Thomas Scialom",
+          "Gabriel Synnaeve"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2308.12950"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2308.12950&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "jannach2014automatedspreadsheetQA",
+      "raw": {
+        "title": "Avoiding, finding and fixing spreadsheet errors – A survey of automated approaches for spreadsheet QA",
+        "authors": [
+          "Dietmar Jannach",
+          "Thomas Schmitz",
+          "Birgit Hofer",
+          "Franz Wotawa"
+        ],
+        "year": 2014,
+        "doi": "https://doi.org/10.1016/j.jss.2014.03.058",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2022114557",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Avoiding, finding and fixing spreadsheet errors – A survey of automated approaches for spreadsheet QA",
+        "year": 2014,
+        "authors": [
+          "Dietmar Jannach",
+          "Thomas Schmitz",
+          "Birgit Hofer",
+          "Franz Wotawa"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "poon2024spreadsheetQAsurvey",
+      "raw": {
+        "title": "Spreadsheet quality assurance: a literature review",
+        "authors": [
+          "Poon, Pak-Lok",
+          "Lau, Man Fai",
+          "Yu, Yuen Tak",
+          "Tang, Sau-Fun"
+        ],
+        "year": 2024,
+        "doi": "10.1007/s11704-023-2384-6",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4391106309",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Spreadsheet quality assurance: a literature review",
+        "year": 2024,
+        "authors": [
+          "Pak‐Lok Poon",
+          "Man Fai Lau",
+          "Yuen Tak Yu",
+          "Sau-Fun Tang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "coulom2007elo",
+      "raw": {
+        "title": "COMPUTING ``ELO RATINGS'' OF MOVE PATTERNS IN THE GAME OF GO1",
+        "authors": [
+          "Rémi Coulom"
+        ],
+        "year": 2007,
+        "doi": "10.3233/ICG-2007-30403",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W1500868819",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "COMPUTING “ELO RATINGS” OF MOVE PATTERNS IN THE GAME OF GO1",
+        "year": 2007,
+        "authors": [
+          "Rémi Coulom"
+        ]
+      },
+      "title_similarity": 0.8771929824561403,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "bradleyterry1952rank",
+      "raw": {
+        "title": "Rank Analysis of Incomplete Block Designs: I. The Method of Paired Comparisons",
+        "authors": [
+          "Ralph Allan Bradley",
+          "Milton E. Terry"
+        ],
+        "year": 1952,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "panko2010taxonomy",
+      "raw": {
+        "title": "Revising the Panko-Halverson taxonomy of spreadsheet errors",
+        "authors": [
+          "Raymond R. Panko",
+          "Salvatore Aurigemma"
+        ],
+        "year": 2010,
+        "doi": "https://doi.org/10.1016/j.dss.2010.02.009",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W1974365737",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Revising the Panko–Halverson taxonomy of spreadsheet errors",
+        "year": 2010,
+        "authors": [
+          "Raymond R. Panko",
+          "Salvatore Aurigemma"
+        ]
+      },
+      "title_similarity": 0.9830508474576272,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "hendrycks2021measuringcodingchallengecompetence",
+      "raw": {
+        "title": "Measuring Coding Challenge Competence With APPS",
+        "authors": [
+          "Hendrycks, Dan",
+          "Basart, Steven",
+          "Kadavath, Saurav",
+          "Mazeika, Mantas",
+          "Arora, Akul",
+          "Guo, Ethan",
+          "Burns, Collin",
+          "Puranik, Samir",
+          "He, Horace",
+          "Song, Dawn",
+          "Steinhardt, Jacob"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "soldaini-etal-2024-dolma",
+      "raw": {
+        "title": "Dolma: an Open Corpus of Three Trillion Tokens for Language Model Pretraining Research",
+        "authors": [
+          "Soldaini, Luca",
+          "Kinney, Rodney",
+          "Bhagia, Akshita",
+          "Schwenk, Dustin",
+          "Atkinson, David",
+          "Authur, Russell",
+          "Bogin, Ben",
+          "Chandu, Khyathi",
+          "Dumas, Jennifer",
+          "Elazar, Yanai",
+          "Hofmann, Valentin",
+          "Jha, Ananya",
+          "Kumar, Sachin",
+          "Lucy, Li",
+          "Lyu, Xinxi",
+          "Lambert, Nathan",
+          "Magnusson, Ian",
+          "Morrison, Jacob",
+          "Muennighoff, Niklas",
+          "Naik, Aakanksha",
+          "Nam, Crystal",
+          "Peters, Matthew",
+          "Ravichander, Abhilasha",
+          "Richardson, Kyle",
+          "Shen, Zejiang",
+          "Strubell, Emma",
+          "Subramani, Nishant",
+          "Tafjord, Oyvind",
+          "Walsh, Evan",
+          "Zettlemoyer, Luke",
+          "Smith, Noah",
+          "Hajishirzi, Hannaneh",
+          "Beltagy, Iz",
+          "Groeneveld, Dirk",
+          "Dodge, Jesse",
+          "Lo, Kyle"
+        ],
+        "year": 2024,
+        "doi": "10.18653/v1/2024.acl-long.840",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4402671286",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Dolma: an Open Corpus of Three Trillion Tokens for Language Model Pretraining Research",
+        "year": 2024,
+        "authors": [
+          "Luca Soldaini",
+          "Rodney Kinney",
+          "Akshita Bhagia",
+          "Dustin Schwenk",
+          "David Atkinson",
+          "Russell Authur",
+          "Ben Bogin",
+          "Khyathi Raghavi Chandu",
+          "Jennifer Dumas",
+          "Yanai Elazar",
+          "Valentin Hofmann",
+          "Ananya Jha",
+          "Sachin Kumar",
+          "Li Lucy",
+          "Xinxi Lyu",
+          "Nathan Lambert",
+          "Ian Magnusson",
+          "Jacob Morrison",
+          "Niklas Muennighoff",
+          "Aakanksha Naik",
+          "Crystal Nam",
+          "Matthew E. Peters",
+          "Abhilasha Ravichander",
+          "Kyle Richardson",
+          "Zejiang Shen",
+          "Emma Strubell",
+          "Nishant Subramani",
+          "Oyvind Tafjord",
+          "Evan Walsh",
+          "Luke Zettlemoyer",
+          "Noah A. Smith",
+          "Hannaneh Hajishirzi",
+          "Iz Beltagy",
+          "Dirk Groeneveld",
+          "Jesse Dodge",
+          "Kyle Lo"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "gao2020pile800gbdatasetdiverse",
+      "raw": {
+        "title": "The Pile: An 800GB Dataset of Diverse Text for Language Modeling",
+        "authors": [
+          "Leo Gao",
+          "Stella Biderman",
+          "Sid Black",
+          "Laurence Golding",
+          "Travis Hoppe",
+          "Charles Foster",
+          "Jason Phang",
+          "Horace He",
+          "Anish Thite",
+          "Noa Nabeshima",
+          "Shawn Presser",
+          "Connor Leahy"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": "2101.00027"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2101.00027&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "kandpal2025thecommonpile",
+      "raw": {
+        "title": "The Common Pile v0.1: An 8TB Dataset of Public Domain and Openly Licensed Text",
+        "authors": [
+          "Nikhil Kandpal",
+          "Brian Lester",
+          "Colin Raffel",
+          "Sebastian Majstorovic",
+          "Stella Biderman",
+          "Baber Abbasi",
+          "Luca Soldaini",
+          "Enrico Shippole",
+          "A. Feder Cooper",
+          "Aviya Skowron",
+          "Shayne Longpre",
+          "Lintang Sutawika",
+          "Alon Albalak",
+          "Zhenlin Xu",
+          "Guilherme Penedo",
+          "Loubna Ben allal",
+          "Elie Bakouch",
+          "John David Pressman",
+          "Honglu Fan",
+          "Dashiell Stander",
+          "Guangyu Song",
+          "Aaron Gokaslan",
+          "John Kirchenbauer",
+          "Tom Goldstein",
+          "Brian R. Bartoldson",
+          "Bhavya Kailkhura",
+          "Tyler Murray"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "langlais2026commoncorpus",
+      "raw": {
+        "title": "Common Corpus: The Largest Collection of Ethical Data for LLM Pre-Training",
+        "authors": [
+          "Pierre-Carl Langlais",
+          "Carlos Rosas Hinostroza",
+          "Mattia Nee",
+          "Catherine Arnett",
+          "Pavel Chizhov",
+          "Eliot Krzystof Jones",
+          "Irène Girard",
+          "David Mach",
+          "Anastasia Stasenko",
+          "Ivan P. Yamshchikov"
+        ],
+        "year": 2026,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "lambert2025tulu",
+      "raw": {
+        "title": "Tulu 3: Pushing Frontiers in Open Language Model Post-Training",
+        "authors": [
+          "Nathan Lambert",
+          "Jacob Morrison",
+          "Valentina Pyatkin",
+          "Shengyi Huang",
+          "Hamish Ivison",
+          "Faeze Brahman",
+          "Lester James Validad Miranda",
+          "Alisa Liu",
+          "Nouha Dziri",
+          "Xinxi Lyu",
+          "Yuling Gu",
+          "Saumya Malik",
+          "Victoria Graf",
+          "Jena D. Hwang",
+          "Jiangjiang Yang",
+          "Ronan Le Bras",
+          "Oyvind Tafjord",
+          "Christopher Wilhelm",
+          "Luca Soldaini",
+          "Noah A. Smith",
+          "Yizhong Wang",
+          "Pradeep Dasigi",
+          "Hannaneh Hajishirzi"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "jiminez2024swebench",
+      "raw": {
+        "title": "SWE-bench: Can Language Models Resolve Real-world Github Issues?",
+        "authors": [
+          "Jimenez, Carlos E",
+          "Yang, John",
+          "Wettig, Alexander",
+          "Yao, Shunyu",
+          "Pei, Kexin",
+          "Press, Ofir",
+          "Narasimhan, Karthik"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "deng2025swe",
+      "raw": {
+        "title": "SWE-Bench Pro: Can AI Agents Solve Long-Horizon Software Engineering Tasks?",
+        "authors": [
+          "Deng, Xiang",
+          "Da, Jeff",
+          "Pan, Edwin",
+          "He, Yannis Yiming",
+          "Ide, Charles",
+          "Garg, Kanak",
+          "Lauffer, Niklas",
+          "Park, Andrew",
+          "Pasari, Nitin",
+          "Rane, Chetan",
+          "others"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=SWE-Bench+Pro%3A+Can+AI+Agents+Solve+Long-Horizon+Software+Engineering+Tasks%3F&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "yaghmazadeh2017sqlizer",
+      "raw": {
+        "title": "SQLizer: query synthesis from natural language",
+        "authors": [
+          "Yaghmazadeh, Navid",
+          "Wang, Yuepeng",
+          "Dillig, Isil",
+          "Dillig, Thomas"
+        ],
+        "year": 2017,
+        "doi": "10.1145/3133887",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2762513422",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "SQLizer: query synthesis from natural language",
+        "year": 2017,
+        "authors": [
+          "Navid Yaghmazadeh",
+          "Yuepeng Wang",
+          "Işıl Dillig",
+          "Thomas Dillig"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "FAST2015",
+      "raw": {
+        "title": "FAST Modeling Best Practice Handbook",
+        "authors": [
+          "{FAST Standard Organization}"
+        ],
+        "year": 2015,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=FAST+Modeling+Best+Practice+Handbook&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "WallStreetPrepModeling2020",
+      "raw": {
+        "title": "Financial Modeling Best Practices",
+        "authors": [
+          "{Wall Street Prep}"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Financial+Modeling+Best+Practices&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "christiano2017deep",
+      "raw": {
+        "title": "Deep reinforcement learning from human preferences",
+        "authors": [
+          "Christiano, Paul F",
+          "Leike, Jan",
+          "Brown, Tom",
+          "Martic, Miljan",
+          "Legg, Shane",
+          "Amodei, Dario"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Deep+reinforcement+learning+from+human+preferences&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "rafailov2023direct",
+      "raw": {
+        "title": "Direct preference optimization: Your language model is secretly a reward model",
+        "authors": [
+          "Rafailov, Rafael",
+          "Sharma, Archit",
+          "Mitchell, Eric",
+          "Manning, Christopher D",
+          "Ermon, Stefano",
+          "Finn, Chelsea"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Direct+preference+optimization%3A+Your+language+model+is+secretly+a+reward+model&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "mazeika2025remote",
+      "raw": {
+        "title": "Remote labor index: Measuring ai automation of remote work",
+        "authors": [
+          "Mazeika, Mantas",
+          "Gatti, Alice",
+          "Menghini, Cristina",
+          "Sehwag, Udari Madhushani",
+          "Singhal, Shivam",
+          "Orlovskiy, Yury",
+          "Basart, Steven",
+          "Sharma, Manasi",
+          "Peskoff, Denis",
+          "Lau, Elaine",
+          "others"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Remote+labor+index%3A+Measuring+ai+automation+of+remote+work&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "schulman2017ppo",
+      "raw": {
+        "title": "Proximal Policy Optimization Algorithms",
+        "authors": [
+          "Schulman, John",
+          "Wolski, Filip",
+          "Dhariwal, Prafulla",
+          "Radford, Alec",
+          "Klimov, Oleg"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": "1707.06347"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1707.06347&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ouyang2022training",
+      "raw": {
+        "title": "Training Language Models to Follow Instructions with Human Feedback",
+        "authors": [
+          "Ouyang, Long",
+          "Wu, Jeff",
+          "Jiang, Xu",
+          "Almeida, Diogo",
+          "Wainwright, Carroll L.",
+          "Mishkin, Pamela",
+          "Zhang, Chong",
+          "Agarwal, Sandhini",
+          "Slama, Katarina",
+          "Ray, Alex",
+          "Schulman, John",
+          "Hilton, Jacob",
+          "Kelton, Fraser",
+          "Miller, Luke",
+          "Simens, Maddie",
+          "Askell, Amanda",
+          "Welinder, Peter",
+          "Christiano, Paul F.",
+          "Leike, Jan",
+          "Lowe, Ryan"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "arora2025healthbench",
+      "raw": {
+        "title": "HealthBench: Evaluating Large Language Models Towards Improved Human Health",
+        "authors": [
+          "Arora, Rahul K.",
+          "Wei, Jason",
+          "Soskin Hicks, Rebecca",
+          "Bowman, Preston",
+          "Quiñonero-Candela, Joaquin",
+          "Tsimpourlas, Foivos",
+          "Sharman, Michael",
+          "Shah, Meghan",
+          "Vallone, Andrea",
+          "Beutel, Alex",
+          "Heidecke, Johannes",
+          "Singhal, Karan"
+        ],
+        "year": 2025,
+        "doi": "10.48550/arXiv.2505.08775",
+        "arxiv_id": "2505.08775"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W6891853064",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "HealthBench: Evaluating Large Language Models Towards Improved Human Health",
+        "year": 2025,
+        "authors": [
+          "Arora, Rahul K.",
+          "Wei, Jason",
+          "Hicks, Rebecca Soskin",
+          "Bowman, Preston",
+          "Quiñonero-Candela, Joaquin",
+          "Tsimpourlas, Foivos",
+          "Sharman, Michael",
+          "Shah, Meghan",
+          "Vallone, Andrea",
+          "Beutel, Alex",
+          "Heidecke, Johannes",
+          "Singhal, Karan"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "lin2024wildbench",
+      "raw": {
+        "title": "WildBench: Benchmarking LLMs with Challenging Tasks from Real Users in the Wild",
+        "authors": [
+          "Lin, Bill Yuchen",
+          "Deng, Yuntian",
+          "Chandu, Khyathi",
+          "Brahman, Faeze",
+          "Ravichander, Abhilasha",
+          "Pyatkin, Valentina",
+          "Dziri, Nouha",
+          "Le Bras, Ronan",
+          "Choi, Yejin"
+        ],
+        "year": 2024,
+        "doi": "10.48550/arXiv.2406.04770",
+        "arxiv_id": "2406.04770"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4399511950",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "WildBench: Benchmarking LLMs with Challenging Tasks from Real Users in the Wild",
+        "year": 2024,
+        "authors": [
+          "Bill Yuchen Lin",
+          "Yuntian Deng",
+          "Khyathi Raghavi Chandu",
+          "Faeze Brahman",
+          "Abhilasha Ravichander",
+          "Valentina Pyatkin",
+          "Nouha Dziri",
+          "Ronan Le Bras",
+          "Yejin Choi"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "gu2024structbench",
+      "raw": {
+        "title": "StructBench: An Autogenerated Benchmark for Evaluating Large Language Model's Ability in Structure-Rich Text Understanding",
+        "authors": [
+          "Gu, Zhouhong",
+          "Ye, Haoning",
+          "Zhou, Zeyang",
+          "Feng, Hongwei",
+          "Xiao, Yanghua"
+        ],
+        "year": 2024,
+        "doi": "10.48550/arXiv.2406.10621",
+        "arxiv_id": "2406.10621"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4399830185",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "StrucText-Eval: Evaluating Large Language Model's Reasoning Ability in Structure-Rich Text",
+        "year": 2024,
+        "authors": [
+          "Zhouhong Gu",
+          "Haoning Ye",
+          "Chen, Xingzhou",
+          "Zeyang Zhou",
+          "Hongwei Feng",
+          "Yanghua Xiao"
+        ]
+      },
+      "title_similarity": 0.8258064516129032,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "scaffidi2005estimating",
+      "raw": {
+        "title": "Estimating the numbers of end users and end user programmers",
+        "authors": [
+          "Scaffidi, Christopher",
+          "Shaw, Mary",
+          "Myers, Brad"
+        ],
+        "year": 2005,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Estimating+the+numbers+of+end+users+and+end+user+programmers&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "cattelan2012modelsforpairedcomparison",
+      "raw": {
+        "title": "Models for Paired Comparison Data: A Review with Emphasis on Dependent Data",
+        "authors": [
+          "Manuela Cattelan"
+        ],
+        "year": 2012,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "wu2023bloomberggptlargelanguagemodel",
+      "raw": {
+        "title": "BloombergGPT: A Large Language Model for Finance",
+        "authors": [
+          "Shijie Wu",
+          "Ozan Irsoy",
+          "Steven Lu",
+          "Vadim Dabravolski",
+          "Mark Dredze",
+          "Sebastian Gehrmann",
+          "Prabhanjan Kambadur",
+          "David Rosenberg",
+          "Gideon Mann"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": "2303.17564"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2303.17564&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "yang2025fingptopensourcefinanciallarge",
+      "raw": {
+        "title": "FinGPT: Open-Source Financial Large Language Models",
+        "authors": [
+          "Hongyang Yang",
+          "Xiao-Yang Liu",
+          "Christina Dan Wang"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2306.06031"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2306.06031&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "xie2023pixiulargelanguagemodel",
+      "raw": {
+        "title": "PIXIU: A Large Language Model, Instruction Data and Evaluation Benchmark for Finance",
+        "authors": [
+          "Qianqian Xie",
+          "Weiguang Han",
+          "Xiao Zhang",
+          "Yanzhao Lai",
+          "Min Peng",
+          "Alejandro Lopez-Lira",
+          "Jimin Huang"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": "2306.05443"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2306.05443&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "xie2024finbenholisticfinancialbenchmark",
+      "raw": {
+        "title": "FinBen: A Holistic Financial Benchmark for Large Language Models",
+        "authors": [
+          "Qianqian Xie",
+          "Weiguang Han",
+          "Zhengyu Chen",
+          "Ruoyu Xiang",
+          "Xiao Zhang",
+          "Yueru He",
+          "Mengxi Xiao",
+          "Dong Li",
+          "Yongfu Dai",
+          "Duanyu Feng",
+          "Yijing Xu",
+          "Haoqiang Kang",
+          "Ziyan Kuang",
+          "Chenhan Yuan",
+          "Kailai Yang",
+          "Zheheng Luo",
+          "Tianlin Zhang",
+          "Zhiwei Liu",
+          "Guojun Xiong",
+          "Zhiyang Deng",
+          "Yuechen Jiang",
+          "Zhiyuan Yao",
+          "Haohang Li",
+          "Yangyang Yu",
+          "Gang Hu",
+          "Jiajia Huang",
+          "Xiao-Yang Liu",
+          "Alejandro Lopez-Lira",
+          "Benyou Wang",
+          "Yanzhao Lai",
+          "Hao Wang",
+          "Min Peng",
+          "Sophia Ananiadou",
+          "Jimin Huang"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2402.12659"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2402.12659&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zhu2021tatqaquestionansweringbenchmark",
+      "raw": {
+        "title": "TAT-QA: A Question Answering Benchmark on a Hybrid of Tabular and Textual Content in Finance",
+        "authors": [
+          "Fengbin Zhu",
+          "Wenqiang Lei",
+          "Youcheng Huang",
+          "Chao Wang",
+          "Shuo Zhang",
+          "Jiancheng Lv",
+          "Fuli Feng",
+          "Tat-Seng Chua"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": "2105.07624"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2105.07624&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "chen2022finqadatasetnumericalreasoning",
+      "raw": {
+        "title": "FinQA: A Dataset of Numerical Reasoning over Financial Data",
+        "authors": [
+          "Zhiyu Chen",
+          "Wenhu Chen",
+          "Charese Smiley",
+          "Sameena Shah",
+          "Iana Borova",
+          "Dylan Langdon",
+          "Reema Moussa",
+          "Matt Beane",
+          "Ting-Hao Huang",
+          "Bryan Routledge",
+          "William Yang Wang"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": "2109.00122"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2109.00122&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "dong2025spreadsheetllmencodingspreadsheetslarge",
+      "raw": {
+        "title": "SpreadsheetLLM: Encoding Spreadsheets for Large Language Models",
+        "authors": [
+          "Haoyu Dong",
+          "Jianbo Zhao",
+          "Yuzhang Tian",
+          "Junyu Xiong",
+          "Shiyu Xia",
+          "Mengyu Zhou",
+          "Yun Lin",
+          "José Cambronero",
+          "Yeye He",
+          "Shi Han",
+          "Dongmei Zhang"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2407.09025"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2407.09025&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "hu2025explaininglengthbiasllmbased",
+      "raw": {
+        "title": "Explaining Length Bias in LLM-Based Preference Evaluations",
+        "authors": [
+          "Zhengyu Hu",
+          "Linxin Song",
+          "Jieyu Zhang",
+          "Zheyuan Xiao",
+          "Tianfu Wang",
+          "Zhengyu Chen",
+          "Nicholas Jing Yuan",
+          "Jianxun Lian",
+          "Kaize Ding",
+          "Hui Xiong"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2407.01085"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2407.01085&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "grootendorst2022bertopicneuraltopicmodeling",
+      "raw": {
+        "title": "BERTopic: Neural topic modeling with a class-based TF-IDF procedure",
+        "authors": [
+          "Maarten Grootendorst"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": "2203.05794"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2203.05794&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    }
+  ]
+}

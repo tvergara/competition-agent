@@ -1,0 +1,888 @@
+{
+  "paper_id": "768ad01b-f48a-4757-9f9f-dca91b4b4a92",
+  "total": 37,
+  "verified": 7,
+  "mismatch": 0,
+  "missing": 0,
+  "ambiguous": 0,
+  "error": 19,
+  "skipped": 11,
+  "s2_consulted": 0,
+  "s2_lifted": 0,
+  "key_style_outliers": [],
+  "entries": [
+    {
+      "key": "kveton2015tight",
+      "raw": {
+        "title": "Tight regret bounds for stochastic combinatorial semi-bandits",
+        "authors": [
+          "Kveton, Branislav",
+          "Wen, Zheng",
+          "Ashkan, Azin",
+          "Szepesvari, Csaba"
+        ],
+        "year": 2015,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Tight+regret+bounds+for+stochastic+combinatorial+semi-bandits&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "cesa2006prediction",
+      "raw": {
+        "title": "Prediction, learning, and games",
+        "authors": [
+          "Cesa-Bianchi, Nicolo",
+          "Lugosi, G{\\'a}bor"
+        ],
+        "year": 2006,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Prediction%2C+learning%2C+and+games&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "howard2020timeuniform",
+      "raw": {
+        "title": "Time-uniform Chernoff bounds via nonnegative supermartingales",
+        "authors": [
+          "Steven R. Howard",
+          "Aaditya Ramdas",
+          "Jon McAuliffe",
+          "Jasjeet Sekhon"
+        ],
+        "year": 2020,
+        "doi": "10.1214/18-PS321",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3025268392",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Time-uniform Chernoff bounds via nonnegative supermartingales",
+        "year": 2020,
+        "authors": [
+          "Steven R. Howard",
+          "Aaditya Ramdas",
+          "Jon McAuliffe",
+          "Jasjeet S. Sekhon"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "howard2021timeuniformnonparam",
+      "raw": {
+        "title": "TIME-UNIFORM, NONPARAMETRIC, NONASYMPTOTIC CONFIDENCE SEQUENCES",
+        "authors": [
+          "Steven R. Howard",
+          "Aaditya Ramdas",
+          "Jon McAuliffe",
+          "Jasjeet Sekhon"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "gandhi2006dependent",
+      "raw": {
+        "title": "Dependent rounding and its applications to approximation algorithms",
+        "authors": [
+          "Gandhi, Rajiv",
+          "Khuller, Samir",
+          "Parthasarathy, Srinivasan",
+          "Srinivasan, Aravind"
+        ],
+        "year": 2006,
+        "doi": "10.1145/1147954.1147956",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2007604989",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Dependent rounding and its applications to approximation algorithms",
+        "year": 2006,
+        "authors": [
+          "Rajiv Gandhi",
+          "Samir Khuller",
+          "Srinivasan Parthasarathy",
+          "Aravind Srinivasan"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "sarkar2025revisitingsocialwelfarebandits",
+      "raw": {
+        "title": "Revisiting Social Welfare in Bandits: UCB is (Nearly) All You Need",
+        "authors": [
+          "Dhruv Sarkar",
+          "Nishant Pandey",
+          "Sayak Ray Chowdhury"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2510.21312"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2510.21312&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "cousins2023revisitingFairPAC",
+      "raw": {
+        "title": "Revisiting Fair-PAC Learning and the Axioms of Cardinal Welfare",
+        "authors": [
+          "Cousins, Cyrus"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "cousins2021axiomatic",
+      "raw": {
+        "title": "An Axiomatic Theory of Provably-Fair Welfare-Centric Machine Learning",
+        "authors": [
+          "Cousins, Cyrus"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "pardeshi2024learningSWF",
+      "raw": {
+        "title": "Learning Social Welfare Functions",
+        "authors": [
+          "Pardeshi, Kanad Shrikar",
+          "Shapira, Itai",
+          "Procaccia, Ariel D.",
+          "Singh, Aarti"
+        ],
+        "year": 2024,
+        "doi": "10.52202/079017-1320",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4415798123",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Learning Social Welfare Functions",
+        "year": 2024,
+        "authors": [
+          "Kanad Pardeshi",
+          "Ariel D. Procaccia",
+          "Itai Shapira",
+          "Aarti Singh"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "auer2002finitetime",
+      "raw": {
+        "title": "Finite-time Analysis of the Multiarmed Bandit Problem",
+        "authors": [
+          "Auer, Peter",
+          "Cesa-Bianchi, Nicol{\\`o}",
+          "Fischer, Paul"
+        ],
+        "year": 2002,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Finite-time+Analysis+of+the+Multiarmed+Bandit+Problem&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "anantharam1987asymptotically",
+      "raw": {
+        "title": "Asymptotically efficient allocation rules for the multiarmed bandit problem with multiple plays-Part I: I.I.D. rewards",
+        "authors": [
+          "Anantharam, V.",
+          "Varaiya, P.",
+          "Walrand, J."
+        ],
+        "year": 1987,
+        "doi": "10.1109/TAC.1987.1104491",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2125724988",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Asymptotically efficient allocation rules for the multiarmed bandit problem with multiple plays-Part I: I.I.D. rewards",
+        "year": 1987,
+        "authors": [
+          "Venkat Anantharam",
+          "Pravin Varaiya",
+          "Jean Walrand"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "chen2013combinatorial",
+      "raw": {
+        "title": "Combinatorial Multi-Armed Bandit: General Framework and Applications",
+        "authors": [
+          "Chen, Wei",
+          "Wang, Yajun",
+          "Yuan, Yang"
+        ],
+        "year": 2013,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "barman2023fairness",
+      "raw": {
+        "title": "Fairness and Welfare Quantification for Regret in Multi-Armed Bandits",
+        "authors": [
+          "Barman, Siddharth",
+          "Khan, Arindam",
+          "Maiti, Arnab",
+          "Sawarni, Ayush"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Fairness+and+Welfare+Quantification+for+Regret+in+Multi-Armed+Bandits&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "sawarni2023nash",
+      "raw": {
+        "title": "Nash Regret Guarantees for Linear Bandits",
+        "authors": [
+          "Sawarni, Ayush",
+          "Pal, Soumyabrata",
+          "Barman, Siddharth"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "krishna2025pmean",
+      "raw": {
+        "title": "p-Mean Regret for Stochastic Bandits",
+        "authors": [
+          "Krishna, Anand",
+          "John, Philips George",
+          "Barik, Adarsh",
+          "Tan, Vincent YF"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=p-Mean+Regret+for+Stochastic+Bandits&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zhang2024noregret",
+      "raw": {
+        "title": "No-Regret Learning for Fair Multi-Agent Social Welfare Optimization",
+        "authors": [
+          "Zhang, Mengxiao",
+          "Deo-Campo Vuong, Ramiro",
+          "Luo, Haipeng"
+        ],
+        "year": 2024,
+        "doi": "10.52202/079017-1839",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W7103748079",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "No-Regret Learning for Fair Multi-Agent Social Welfare Optimization",
+        "year": 2024,
+        "authors": [
+          "Ramiro Deo-Campo Vuong",
+          "Haipeng Luo",
+          "Mengxiao Zhang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "hossain2021fair",
+      "raw": {
+        "title": "Fair Algorithms for Multi-Agent Multi-Armed Bandits",
+        "authors": [
+          "Hossain, Safwan",
+          "Micha, Evi",
+          "Shah, Nisarg"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "jones2023efficient",
+      "raw": {
+        "title": "An Efficient Algorithm for Fair Multi-Agent Multi-Armed Bandit with Low Regret",
+        "authors": [
+          "Jones, William",
+          "Nguyen, Xuan",
+          "Nguyen, Quan"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=An+Efficient+Algorithm+for+Fair+Multi-Agent+Multi-Armed+Bandit+with+Low+Regret&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "bistritz2020distributed",
+      "raw": {
+        "title": "Distributed Multi-Player Bandits - a Game of Thrones Approach",
+        "authors": [
+          "Bistritz, Ilai",
+          "Leshem, Amir"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "atkinson1970measurement",
+      "raw": {
+        "title": "On the Measurement of Inequality",
+        "authors": [
+          "Atkinson, Anthony B."
+        ],
+        "year": 1970,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=On+the+Measurement+of+Inequality&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "kolm1976unequal",
+      "raw": {
+        "title": "Unequal Inequalities. I",
+        "authors": [
+          "Kolm, Serge-Christophe"
+        ],
+        "year": 1976,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Unequal+Inequalities.+I&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "weymark1981generalized",
+      "raw": {
+        "title": "Generalized Gini Inequality Indices",
+        "authors": [
+          "Weymark, John A."
+        ],
+        "year": 1981,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Generalized+Gini+Inequality+Indices&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Best1990ActiveSA",
+      "raw": {
+        "title": "Active set algorithms for isotonic regression; A unifying framework",
+        "authors": [
+          "Michael J. Best",
+          "Nilotpal Chakravarti"
+        ],
+        "year": 1990,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "ramdas2020admissible",
+      "raw": {
+        "title": "Admissible anytime-valid sequential inference must rely on nonnegative martingales",
+        "authors": [
+          "Ramdas, Aaditya",
+          "Ruf, Johannes",
+          "Larsson, Martin",
+          "Koolen, Wouter"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Admissible+anytime-valid+sequential+inference+must+rely+on+nonnegative+martingales&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "karampatziakis2021off",
+      "raw": {
+        "title": "Off-Policy Confidence Sequences",
+        "authors": [
+          "Karampatziakis, Nikos",
+          "Mineiro, Paul",
+          "Ramdas, Aaditya"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "lim2024stochastic",
+      "raw": {
+        "title": "Stochastic Bandits for Egalitarian Assignment",
+        "authors": [
+          "Lim, Eugene",
+          "Tan, Vincent YF",
+          "Soh, Harold"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Stochastic+Bandits+for+Egalitarian+Assignment&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "gai2012combinatorial",
+      "raw": {
+        "title": "Combinatorial network optimization with unknown variables: Multi-armed bandits with linear rewards and individual observations",
+        "authors": [
+          "Gai, Yi",
+          "Krishnamachari, Bhaskar",
+          "Jain, Rahul"
+        ],
+        "year": 2012,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Combinatorial+network+optimization+with+unknown+variables%3A+Multi-armed+bandits+with+linear+rewards+and+individual+observations&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "cesa2012combinatorial",
+      "raw": {
+        "title": "Combinatorial bandits",
+        "authors": [
+          "Nicolò Cesa-Bianchi",
+          "Gábor Lugosi"
+        ],
+        "year": 2012,
+        "doi": "https://doi.org/10.1016/j.jcss.2012.01.001",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2914156981",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Combinatorial bandits",
+        "year": 2012,
+        "authors": [
+          "Nicolò Cesa‐Bianchi",
+          "Gábor Lugosi"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "chen2020fair",
+      "raw": {
+        "title": "The fair contextual multi-armed bandit",
+        "authors": [
+          "Chen, Yifang",
+          "Cuellar, Alex",
+          "Luo, Haipeng",
+          "Modi, Jignesh",
+          "Nemlekar, Heramb",
+          "Nikolaidis, Stefanos"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=The+fair+contextual+multi-armed+bandit&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "wang2021fairness",
+      "raw": {
+        "title": "Fairness of exposure in stochastic bandits",
+        "authors": [
+          "Wang, Lequn",
+          "Bai, Yiwei",
+          "Sun, Wen",
+          "Joachims, Thorsten"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Fairness+of+exposure+in+stochastic+bandits&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "joseph2016fairness",
+      "raw": {
+        "title": "Fairness in learning: Classic and contextual bandits",
+        "authors": [
+          "Joseph, Matthew",
+          "Kearns, Michael",
+          "Morgenstern, Jamie H",
+          "Roth, Aaron"
+        ],
+        "year": 2016,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Fairness+in+learning%3A+Classic+and+contextual+bandits&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "joseph2018meritocratic",
+      "raw": {
+        "title": "Meritocratic Fairness for Infinite and Contextual Bandits",
+        "authors": [
+          "Joseph, Matthew",
+          "Kearns, Michael",
+          "Morgenstern, Jamie",
+          "Neel, Seth",
+          "Roth, Aaron"
+        ],
+        "year": 2018,
+        "doi": "10.1145/3278721.3278764",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2909878761",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Meritocratic Fairness for Infinite and Contextual Bandits",
+        "year": 2018,
+        "authors": [
+          "Matthew Joseph",
+          "Michael Kearns",
+          "Jamie Morgenstern",
+          "Seth Neel",
+          "Aaron Roth"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "whittle1988restless",
+      "raw": {
+        "title": "Restless bandits: Activity allocation in a changing world",
+        "authors": [
+          "Whittle, Peter"
+        ],
+        "year": 1988,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Restless+bandits%3A+Activity+allocation+in+a+changing+world&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "wang2020restless",
+      "raw": {
+        "title": "Restless-UCB, an Efficient and Low-complexity Algorithm for Online Restless Bandits",
+        "authors": [
+          "Wang, Siwei",
+          "Huang, Longbo",
+          "Lui, John C. S."
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "neu2010online",
+      "raw": {
+        "title": "Online Markov Decision Processes under Bandit Feedback",
+        "authors": [
+          "Neu, Gergely",
+          "Antos, Andras",
+          "Gy\\\"{o}rgy, Andr\\'{a}s",
+          "Szepesv\\'{a}ri, Csaba"
+        ],
+        "year": 2010,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "ortner2012regret",
+      "raw": {
+        "title": "Regret bounds for restless markov bandits",
+        "authors": [
+          "Ortner, Ronald",
+          "Ryabko, Daniil",
+          "Auer, Peter",
+          "Munos, R{\\'e}mi"
+        ],
+        "year": 2012,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Regret+bounds+for+restless+markov+bandits&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "grafstrom2010entropy",
+      "raw": {
+        "title": "Entropy of unequal probability sampling designs",
+        "authors": [
+          "Grafstr{\\\"o}m, Anton"
+        ],
+        "year": 2010,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Entropy+of+unequal+probability+sampling+designs&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    }
+  ]
+}

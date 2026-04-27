@@ -1,0 +1,2689 @@
+{
+  "paper_id": "45341e1a-1269-40fa-805e-1aef13c24e60",
+  "total": 64,
+  "verified": 54,
+  "mismatch": 1,
+  "missing": 5,
+  "ambiguous": 0,
+  "error": 0,
+  "skipped": 4,
+  "s2_consulted": 12,
+  "s2_lifted": 6,
+  "key_style_outliers": [
+    "zhaocommit0",
+    "gpt5_o3",
+    "gemini3",
+    "qwen25_coder2024"
+  ],
+  "entries": [
+    {
+      "key": "li2024humaneval",
+      "raw": {
+        "title": "HumanEval on Latest GPT Models--2024",
+        "authors": [
+          "Li, Daniel",
+          "Murr, Lincoln"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "not_found",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "pantraining",
+      "raw": {
+        "title": "Training Software Engineering Agents and Verifiers with SWE-Gym",
+        "authors": [
+          "Pan, Jiayi",
+          "Wang, Xingyao",
+          "Neubig, Graham",
+          "Jaitly, Navdeep",
+          "Ji, Heng",
+          "Suhr, Alane",
+          "Zhang, Yizhe"
+        ],
+        "year": null,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4405957747",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Training Software Engineering Agents and Verifiers with SWE-Gym",
+        "year": 2024,
+        "authors": [
+          "Jiayi Pan",
+          "Xingyao Wang",
+          "Graham Neubig",
+          "Navdeep Jaitly",
+          "Heng Ji",
+          "Alane Suhr",
+          "Yizhe Zhang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "yangswe",
+      "raw": {
+        "title": "SWE-bench Multimodal: Do AI Systems Generalize to Visual Software Domains?",
+        "authors": [
+          "Yang, John",
+          "Jimenez, Carlos E",
+          "Zhang, Alex L",
+          "Lieret, Kilian",
+          "Yang, Joyce",
+          "Wu, Xindi",
+          "Press, Ori",
+          "Muennighoff, Niklas",
+          "Synnaeve, Gabriel",
+          "Narasimhan, Karthik R",
+          "others"
+        ],
+        "year": null,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4403322180",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "SWE-bench Multimodal: Do AI Systems Generalize to Visual Software Domains?",
+        "year": 2024,
+        "authors": [
+          "John Yang",
+          "Carlos Jimenez-Gomez",
+          "Alex Zhang",
+          "K. Lieret",
+          "Joyce Yang",
+          "Xindi Wu",
+          "Ori Press",
+          "Niklas Muennighoff",
+          "Gabriel Synnaeve",
+          "Karthik Narasimhan",
+          "Diyi Yang",
+          "Sida I. Wang",
+          "Ofir Press"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "zhaocommit0",
+      "raw": {
+        "title": "Commit0: Library Generation from Scratch",
+        "authors": [
+          "Zhao, Wenting",
+          "Jiang, Nan",
+          "Lee, Celine",
+          "Chiu, Justin T",
+          "Cardie, Claire",
+          "Gall{\\'e}, Matthias",
+          "Rush, Alexander M"
+        ],
+        "year": null,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4405035083",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Commit0: Library Generation from Scratch",
+        "year": 2024,
+        "authors": [
+          "Wenting Zhao",
+          "Nan Jiang",
+          "C. Y. Lee",
+          "Justin Chiu",
+          "Claire Cardie",
+          "Matthias Gallé",
+          "Alexander M. Rush"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "yao2025tau",
+      "raw": {
+        "title": "$\\tau$-bench: A benchmark for \\underlineTool-\\underlineAgent-\\underlineUser interaction in real-world domains",
+        "authors": [
+          "Yao, Shunyu",
+          "Shinn, Noah",
+          "Razavi, Pedram",
+          "Narasimhan, Karthik R"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "not_found",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "xie2024travelplanner",
+      "raw": {
+        "title": "TravelPlanner: a benchmark for real-world planning with language agents",
+        "authors": [
+          "Xie, Jian",
+          "Zhang, Kai",
+          "Chen, Jiangjie",
+          "Zhu, Tinghui",
+          "Lou, Renze",
+          "Tian, Yuandong",
+          "Xiao, Yanghua",
+          "Su, Yu"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4391591592",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "TravelPlanner: A Benchmark for Real-World Planning with Language Agents",
+        "year": 2024,
+        "authors": [
+          "Jian Xie",
+          "Kai Zhang",
+          "Jiangjie Chen",
+          "Tinghui Zhu",
+          "Renze Lou",
+          "Yuandong Tian",
+          "Yanghua Xiao",
+          "Yu Su"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "fan2025mcptoolbench++",
+      "raw": {
+        "title": "Mcptoolbench++: A large scale ai agent model context protocol mcp tool use benchmark",
+        "authors": [
+          "Fan, Shiqing",
+          "Ding, Xichen",
+          "Zhang, Liang",
+          "Mo, Linjian"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4416242557",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "MCPToolBench++: A Large Scale AI Agent Model Context Protocol MCP Tool Use Benchmark",
+        "year": 2025,
+        "authors": [
+          "S. J. Fan",
+          "Xichen Ding",
+          "Zhang, Liang",
+          "Linjian Mo"
+        ]
+      },
+      "title_similarity": 0.911242603550296,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "vishwakarma2025can",
+      "raw": {
+        "title": "Can LLMs Help You at Work? A Sandbox for Evaluating LLM Agents in Enterprise Environments",
+        "authors": [
+          "Vishwakarma, Harsh",
+          "Agarwal, Ankush",
+          "Patil, Ojas",
+          "Devaguptapu, Chaitanya",
+          "Chandran, Mahesh"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4416036585",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Can LLMs Help You at Work? A Sandbox for Evaluating LLM Agents in Enterprise Environments",
+        "year": 2025,
+        "authors": [
+          "Harsh Vishwakarma",
+          "Ankush Agarwal",
+          "Ojas Patil",
+          "Chaitanya Devaguptapu",
+          "Mahesh Chandran"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "wang2025odysseybench",
+      "raw": {
+        "title": "Odysseybench: Evaluating llm agents on long-horizon complex office application workflows",
+        "authors": [
+          "Wang, Weixuan",
+          "Han, Dongge",
+          "Diaz, Daniel Madrigal",
+          "Xu, Jin",
+          "R{\\\"u}hle, Victor",
+          "Rajmohan, Saravan"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4416870030",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "OdysseyBench: Evaluating LLM Agents on Long-Horizon Complex Office Application Workflows",
+        "year": 2025,
+        "authors": [
+          "W. Wang",
+          "Han, Dongge",
+          "Daniel Madrigal Diaz",
+          "Jin Xu",
+          "Victor Rühle",
+          "Saravan Rajmohan"
+        ]
+      },
+      "title_similarity": 0.9265536723163842,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "mialon2023gaia",
+      "raw": {
+        "title": "Gaia: a benchmark for general ai assistants",
+        "authors": [
+          "Mialon, Gr{\\'e}goire",
+          "Fourrier, Cl{\\'e}mentine",
+          "Wolf, Thomas",
+          "LeCun, Yann",
+          "Scialom, Thomas"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4388964563",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "GAIA: a benchmark for General AI Assistants",
+        "year": 2023,
+        "authors": [
+          "Grégoire Mialon",
+          "Clémentine Fourrier",
+          "Craig Swift",
+          "Thomas Wolf",
+          "Yann LeCun",
+          "Thomas Scialom"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "shridharalfworld",
+      "raw": {
+        "title": "ALFWorld: Aligning Text and Embodied Environments for Interactive Learning",
+        "authors": [
+          "Shridhar, Mohit",
+          "Yuan, Xingdi",
+          "Cote, Marc-Alexandre",
+          "Bisk, Yonatan",
+          "Trischler, Adam",
+          "Hausknecht, Matthew"
+        ],
+        "year": null,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3126325318",
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/398a0625e8707a0b41ac58eaec51e8feb87dd7cb",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "ALFWorld: Aligning Text and Embodied Environments for Interactive Learning",
+        "year": 2020,
+        "authors": [
+          "Mohit Shridhar",
+          "Xingdi Yuan",
+          "Marc-Alexandre Côté",
+          "Yonatan Bisk",
+          "Adam Trischler",
+          "Matthew J. Hausknecht"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "liutoolace",
+      "raw": {
+        "title": "ToolACE: Winning the Points of LLM Function Calling",
+        "authors": [
+          "Liu, Weiwen",
+          "Huang, Xu",
+          "Zeng, Xingshan",
+          "Yu, Shuai",
+          "Li, Dexun",
+          "Wang, Shuai",
+          "Gan, Weinan",
+          "Liu, Zhengying",
+          "Yu, Yuanqing",
+          "WANG, Zezhong",
+          "others"
+        ],
+        "year": null,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4402954204",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "ToolACE: Winning the Points of LLM Function Calling",
+        "year": 2024,
+        "authors": [
+          "Weiwen Liu",
+          "Xu Huang",
+          "Xingshan Zeng",
+          "Xinlong Hao",
+          "Shuai Yu",
+          "Dexun Li",
+          "Shuai Wang",
+          "Weinan Gan",
+          "Zhengying Liu",
+          "Yuanqing Yu",
+          "Z. Wang",
+          "Yuxian Wang",
+          "Ning Wu",
+          "Yutai Hou",
+          "Bin Wang",
+          "Chuhan Wu",
+          "Xinzhi Wang",
+          "Yong Liu",
+          "Yasheng Wang",
+          "Duyu Tang",
+          "Dandan Tu",
+          "Lifeng Shang",
+          "Xin Jiang",
+          "Ruiming Tang",
+          "Defu Lian",
+          "Qun Liu",
+          "Enhong Chen"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "claude_sonnet",
+      "raw": {
+        "title": "Claude 4.5 Sonnet Model Card",
+        "authors": [
+          "{Anthropic}"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "gpt5_o3",
+      "raw": {
+        "title": "GPT-5 System Card",
+        "authors": [
+          "{OpenAI}"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "gemini3",
+      "raw": {
+        "title": "Gemini 3 Technical Report",
+        "authors": [
+          "{Gemini Team}",
+          "{Google DeepMind}"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "qwen25_coder2024",
+      "raw": {
+        "title": "Qwen2.5-Coder Technical Report",
+        "authors": [
+          "Hui, Binyuan",
+          "Yang, Jian",
+          "Cui, Zeyu",
+          "others"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2409.12186"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4376167433",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Privacy-Preserving Parameter-Efficient Fine-Tuning for Large Language Model Services",
+        "year": 2023,
+        "authors": [
+          "Yansong Li",
+          "Zhixing Tan",
+          "Branco, Paula",
+          "Liu, Yang"
+        ]
+      },
+      "title_similarity": 0.26315789473684204,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "huang2024planning",
+      "raw": {
+        "title": "Planning, Creation, Usage: Benchmarking LLMs for Comprehensive Tool Utilization in Real-World Complex Scenarios",
+        "authors": [
+          "Huang, Shijue",
+          "Zhong, Wanjun",
+          "Lu, Jianqiao",
+          "Zhu, Qi",
+          "Gao, Jiahui",
+          "Liu, Weiwen",
+          "Hou, Yutai",
+          "Zeng, Xingshan",
+          "Wang, Yasheng",
+          "Shang, Lifeng",
+          "others"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4402684345",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Planning, Creation, Usage: Benchmarking LLMs for Comprehensive Tool Utilization in Real-World Complex Scenarios",
+        "year": 2024,
+        "authors": [
+          "Shijue Huang",
+          "Wanjun Zhong",
+          "Jianqiao Lu",
+          "Qi Zhu",
+          "Jiahui Gao",
+          "Weiwen Liu",
+          "Yutai Hou",
+          "Xingshan Zeng",
+          "Yasheng Wang",
+          "Lifeng Shang",
+          "Xin Jiang",
+          "Ruifeng Xu",
+          "Qun Liu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "qintoolllm",
+      "raw": {
+        "title": "ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs",
+        "authors": [
+          "Qin, Yujia",
+          "Liang, Shihao",
+          "Ye, Yining",
+          "Zhu, Kunlun",
+          "Yan, Lan",
+          "Lu, Yaxi",
+          "Lin, Yankai",
+          "Cong, Xin",
+          "Tang, Xiangru",
+          "Qian, Bill",
+          "others"
+        ],
+        "year": null,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/0bfc804e31eecfd77f45e4ee7f4d629fffdcd628",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs",
+        "year": 2023,
+        "authors": [
+          "Yujia Qin",
+          "Shi Liang",
+          "Yining Ye",
+          "Kunlun Zhu",
+          "Lan Yan",
+          "Ya-Ting Lu",
+          "Yankai Lin",
+          "X. Cong",
+          "Xiangru Tang",
+          "Bill Qian",
+          "Sihan Zhao",
+          "Runchu Tian",
+          "Ruobing Xie",
+          "Jie Zhou",
+          "Marc H. Gerstein",
+          "Dahai Li",
+          "Zhiyuan Liu",
+          "Maosong Sun"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "qu2025tool",
+      "raw": {
+        "title": "Tool learning with large language models: A survey",
+        "authors": [
+          "Qu, Changle",
+          "Dai, Sunhao",
+          "Wei, Xiaochi",
+          "Cai, Hengyi",
+          "Wang, Shuaiqiang",
+          "Yin, Dawei",
+          "Xu, Jun",
+          "Wen, Ji-Rong"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4406297511",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Tool learning with large language models: a survey",
+        "year": 2025,
+        "authors": [
+          "Changle Qu",
+          "Sunhao Dai",
+          "Xiaochi Wei",
+          "Hengyi Cai",
+          "Shuaiqiang Wang",
+          "Dawei Yin",
+          "Jun Xu",
+          "Ji-Rong Wen"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "rafailov2023direct",
+      "raw": {
+        "title": "Direct preference optimization: Your language model is secretly a reward model",
+        "authors": [
+          "Rafailov, Rafael",
+          "Sharma, Archit",
+          "Mitchell, Eric",
+          "Manning, Christopher D",
+          "Ermon, Stefano",
+          "Finn, Chelsea"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4378771755",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Direct Preference Optimization: Your Language Model is Secretly a Reward Model",
+        "year": 2023,
+        "authors": [
+          "Rafael Rafailov",
+          "Archit Sharma",
+          "Eric Mitchell",
+          "Stefano Ermon",
+          "Christopher D. Manning",
+          "Chelsea Finn"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "shao2024deepseekmath",
+      "raw": {
+        "title": "Deepseekmath: Pushing the limits of mathematical reasoning in open language models",
+        "authors": [
+          "Shao, Zhihong",
+          "Wang, Peiyi",
+          "Zhu, Qihao",
+          "Xu, Runxin",
+          "Song, Junxiao",
+          "Bi, Xiao",
+          "Zhang, Haowei",
+          "Zhang, Mingchuan",
+          "Li, YK",
+          "others"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/35b142ea69598e6241f0011312128031df55895c",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "year": 2024,
+        "authors": [
+          "Zhihong Shao",
+          "Peiyi Wang",
+          "Qihao Zhu",
+          "R. Xu",
+          "Jun-Mei Song",
+          "Mingchuan Zhang",
+          "Y. K. Li",
+          "Yu Wu",
+          "Daya Guo"
+        ]
+      },
+      "title_similarity": 0.9397590361445783,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "hurst2024gpt",
+      "raw": {
+        "title": "Gpt-4o system card",
+        "authors": [
+          "Hurst, Aaron",
+          "Lerer, Adam",
+          "Goucher, Adam P",
+          "Perelman, Adam",
+          "Ramesh, Aditya",
+          "Clark, Aidan",
+          "Ostrow, AJ",
+          "Welihinda, Akila",
+          "Hayes, Alan",
+          "Radford, Alec",
+          "others"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4404330874",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "GPT-4o System Card",
+        "year": 2024,
+        "authors": [
+          "OpenAI",
+          ":",
+          "A. M. Hurst",
+          "Adam Lerer",
+          "Adam P. Goucher",
+          "Adam Perelman",
+          "Aditya Ramesh",
+          "Aidan Clark",
+          "AJ Ostrow",
+          "Akila Welihinda",
+          "Alan Hayes",
+          "Alec Radford",
+          "Aleksander Mądry",
+          "Alex Baker-Whitcomb",
+          "Alex Beutel",
+          "Alex Borzunov",
+          "Alex Carney",
+          "Chow, Alex",
+          "Alex Kirillov",
+          "Alex Nichol",
+          "Alex Paino",
+          "Alex Renzin",
+          "Alex Tachard Passos",
+          "Alexander M. Kirillov",
+          "Alexi Christakis",
+          "Alexis Conneau",
+          "Ali Reza Kamali",
+          "Allan Jabri",
+          "Allison Moyer",
+          "Allison Tam",
+          "Amadou Crookes",
+          "Amin Tootoochian",
+          "Amin Tootoonchian",
+          "Ananya Kumar",
+          "Andrea Vallone",
+          "Andrej Karpathy",
+          "Andrew Braunstein",
+          "A Mc Cann",
+          "Andrew Codispoti",
+          "Andrew Galu",
+          "Andrew Kondrich",
+          "Andrew Tulloch",
+          "Mishchenko, Andrey",
+          "Baek, Angela",
+          "Angela Jiang",
+          "Antoine Pelisse",
+          "Antonia Woodford",
+          "Anuj Gosalia",
+          "Dhar, Arka",
+          "Ashley Pantuliano",
+          "Nayak, Avi",
+          "Avital Oliver",
+          "Barret Zoph",
+          "Behrooz Ghorbani",
+          "Ben Leimberger",
+          "Ben Rossen",
+          "Ben Sokolowsky",
+          "Ben Wang",
+          "Benjamin Zweig",
+          "Hoover, Beth",
+          "Blake Samic",
+          "Bob McGrew",
+          "Bobby Spero",
+          "Bogo Giertler",
+          "Bowen Cheng",
+          "Brad Lightcap",
+          "Brandon Walkin",
+          "B. Quinn",
+          "Brian Guarraci",
+          "Brian Hsu",
+          "Bright Kellogg",
+          "Brydon Eastman",
+          "Camillo Lugaresi",
+          "Carroll L. Wainwright",
+          "Cary Bassin",
+          "Hudson, Cary",
+          "Casey Chu",
+          "Nelson, Chad",
+          "Chak Li",
+          "Chan Jun Shern",
+          "Channing Conger",
+          "Charlotte Barette",
+          "Chelsea Voss",
+          "Chen Ding",
+          "Chang Lu",
+          "Chong Zhang",
+          "Beaumont, Chris",
+          "Chris Hallacy",
+          "Christopher Koch",
+          "Gibson, Christian",
+          "Christina Kim",
+          "Choi, Christine",
+          "Christine McLeavey",
+          "Christopher Hesse",
+          "C. Fischer",
+          "Clemens Winter",
+          "Coley Czarnecki",
+          "C. Jarvis",
+          "Colin Wei",
+          "Constantin Koumouzelis"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "anthropiclaude",
+      "raw": {
+        "title": "Claude 3.5 Sonnet and Computer Use Public Beta",
+        "authors": [
+          "{Anthropic}"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "yang2025qwen3",
+      "raw": {
+        "title": "Qwen3 technical report",
+        "authors": [
+          "Yang, An",
+          "Li, Anfeng",
+          "Yang, Baosong",
+          "Zhang, Beichen",
+          "Hui, Binyuan",
+          "Zheng, Bo",
+          "Yu, Bowen",
+          "Gao, Chang",
+          "Huang, Chengen",
+          "Lv, Chenxu",
+          "others"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4414939355",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Qwen3 Technical Report",
+        "year": 2025,
+        "authors": [
+          "An Yang",
+          "Anfeng Li",
+          "Baosong Yang",
+          "Beichen Zhang",
+          "Binyuan Hui",
+          "Bo Zheng",
+          "B. X. Yu",
+          "Chang Gao",
+          "C. Huang",
+          "Chenxu Lv",
+          "Chujie Zheng",
+          "Dayiheng Liu",
+          "Fan Zhou",
+          "Fei Huang",
+          "H Feng",
+          "Hao Ge",
+          "Haoran Wei",
+          "Lin Huan",
+          "Jialong Tang",
+          "Jian Yang",
+          "Jianhong Tu",
+          "Jianwei Zhang",
+          "Jianxin Yang",
+          "Jiaxi Yang",
+          "Jing Zhou",
+          "Jingren Zhou",
+          "Junyang Lin",
+          "Kai Dang",
+          "Keqin Bao",
+          "Kexin Yang",
+          "Le Yu",
+          "Deng, Lianghao",
+          "Mei Li",
+          "Mingfeng Xue",
+          "Mingze Li",
+          "Pei Zhang",
+          "Peng Wang",
+          "Qin Zhu",
+          "Rui Men",
+          "Ruize Gao",
+          "Shixuan Liu",
+          "Shuang Luo",
+          "Tianhao Li",
+          "Tianyi Tang",
+          "Wenbiao Yin",
+          "Xingzhang Ren",
+          "Xinyu Wang",
+          "Xinyu Zhang",
+          "Xuancheng Ren",
+          "Fan Yang",
+          "Su Yang",
+          "Yichang Zhang",
+          "Yinger Zhang",
+          "Yu Wan",
+          "Yuqiong Liu",
+          "Zekun Wang",
+          "Zeyu Cui",
+          "Zhenru Zhang",
+          "Zhipeng Zhou",
+          "Zihan Qiu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "huang2025crmarena",
+      "raw": {
+        "title": "Crmarena: Understanding the capacity of llm agents to perform professional crm tasks in realistic environments",
+        "authors": [
+          "Huang, Kung-Hsiang",
+          "Prabhakar, Akshara",
+          "Dhawan, Sidharth",
+          "Mao, Yixin",
+          "Wang, Huan",
+          "Savarese, Silvio",
+          "Xiong, Caiming",
+          "Laban, Philippe",
+          "Wu, Chien-Sheng"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4411120185",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "CRMArena: Understanding the Capacity of LLM Agents to Perform Professional CRM Tasks in Realistic Environments",
+        "year": 2025,
+        "authors": [
+          "Kung-Hsiang Huang",
+          "Akshara Prabhakar",
+          "Sidharth Dhawan",
+          "Yixin Mao",
+          "Huan Wang",
+          "Silvio Savarese",
+          "Caiming Xiong",
+          "Philippe Laban",
+          "Chien-Sheng Wu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "schick2023toolformer",
+      "raw": {
+        "title": "Toolformer: Language models can teach themselves to use tools",
+        "authors": [
+          "Schick, Timo",
+          "Dwivedi-Yu, Jane",
+          "Dess{\\`\\i}, Roberto",
+          "Raileanu, Roberta",
+          "Lomeli, Maria",
+          "Hambro, Eric",
+          "Zettlemoyer, Luke",
+          "Cancedda, Nicola",
+          "Scialom, Thomas"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4320165837",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+        "year": 2023,
+        "authors": [
+          "Timo Schick",
+          "Jane Dwivedi-Yu",
+          "Roberto Dessì",
+          "Roberta Răileanu",
+          "María Lomelí",
+          "Luke Zettlemoyer",
+          "Nicola Cancedda",
+          "Thomas Scialom"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "qian2023toolalpaca",
+      "raw": {
+        "title": "ToolAlpaca: Generalized Tool Learning for Language Models with 3000 Simulated Cases",
+        "authors": [
+          "Qian, Chen",
+          "Liu, Xin",
+          "Lin, Keqin",
+          "Lin, Huadong",
+          "Zhang, Zijun",
+          "Mu, Yulin",
+          "Sun, Xuanjing",
+          "Li, Jiayu",
+          "Zhou, Tiejun",
+          "others"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4380136738",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "ToolAlpaca: Generalized Tool Learning for Language Models with 3000 Simulated Cases",
+        "year": 2023,
+        "authors": [
+          "Qiaoyu Tang",
+          "Ziliang Deng",
+          "Hongyu Lin",
+          "Xianpei Han",
+          "Qiao Liang",
+          "Cao, Boxi",
+          "Sun, Le"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "qu2024exploration",
+      "raw": {
+        "title": "From exploration to mastery: Enabling llms to master tools via self-driven interactions",
+        "authors": [
+          "Qu, Changle",
+          "Dai, Sunhao",
+          "Wei, Xiaochi",
+          "Cai, Hengyi",
+          "Wang, Shuaiqiang",
+          "Yin, Dawei",
+          "Xu, Jun",
+          "Wen, Ji-Rong"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4403365491",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "From Exploration to Mastery: Enabling LLMs to Master Tools via Self-Driven Interactions",
+        "year": 2024,
+        "authors": [
+          "Changle Qu",
+          "Sunhao Dai",
+          "Xiaochi Wei",
+          "Hengyi Cai",
+          "Shuaiqiang Wang",
+          "Dawei Yin",
+          "Jun Xu",
+          "Ji-Rong Wen"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "zhouwebarena",
+      "raw": {
+        "title": "WebArena: A Realistic Web Environment for Building Autonomous Agents",
+        "authors": [
+          "Zhou, Shuyan",
+          "Xu, Frank F",
+          "Zhu, Hao",
+          "Zhou, Xuhui",
+          "Lo, Robert",
+          "Sridhar, Abishek",
+          "Cheng, Xianyi",
+          "Ou, Tianyue",
+          "Bisk, Yonatan",
+          "Fried, Daniel",
+          "others"
+        ],
+        "year": null,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/e41482f4ee984f17382f6cdd900df094d928be06",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "WebArena: A Realistic Web Environment for Building Autonomous Agents",
+        "year": 2023,
+        "authors": [
+          "Shuyan Zhou",
+          "Frank F. Xu",
+          "Hao Zhu",
+          "Xuhui Zhou",
+          "Robert Lo",
+          "Abishek Sridhar",
+          "Xianyi Cheng",
+          "Yonatan Bisk",
+          "Daniel Fried",
+          "Uri Alon",
+          "Graham Neubig"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "xu2024theagentcompany",
+      "raw": {
+        "title": "Theagentcompany: benchmarking llm agents on consequential real world tasks",
+        "authors": [
+          "Xu, Frank F",
+          "Song, Yufan",
+          "Li, Boxuan",
+          "Tang, Yuxuan",
+          "Jain, Kritanjali",
+          "Bao, Mengxue",
+          "Wang, Zora Z",
+          "Zhou, Xuhui",
+          "Guo, Zhitong",
+          "Cao, Murong",
+          "others"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4405627213",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "TheAgentCompany: Benchmarking LLM Agents on Consequential Real World Tasks",
+        "year": 2024,
+        "authors": [
+          "Frank F. Xu",
+          "Yufan Song",
+          "Boxuan Li",
+          "Yuxuan Tang",
+          "Kritanjali Jain",
+          "Mengxue Bao",
+          "Zora Zhiruo Wang",
+          "Xuhui Zhou",
+          "Zichang Guo",
+          "Murong Cao",
+          "Yang, Mingyang",
+          "Hao Lu",
+          "Martin, Amaad",
+          "Zhixun Su",
+          "Leander Maben",
+          "Raj Mehta",
+          "Wayne Chi",
+          "Lawrence Jang",
+          "Yiqing Xie",
+          "Shuyan Zhou",
+          "Graham Neubig"
+        ]
+      },
+      "title_similarity": 0.9466666666666668,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "li2023api",
+      "raw": {
+        "title": "API-Bank: A Comprehensive Benchmark for Tool-Augmented LLMs",
+        "authors": [
+          "Li, Minghao",
+          "Zhao, Yingxiu",
+          "Yu, Bowen",
+          "Song, Feifan",
+          "Li, Hangyu",
+          "Yu, Haiyang",
+          "Li, Zhoujun",
+          "Huang, Fei",
+          "Li, Yongbin"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4389518608",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "API-Bank: A Comprehensive Benchmark for Tool-Augmented LLMs",
+        "year": 2023,
+        "authors": [
+          "Minghao Li",
+          "Yingxiu Zhao",
+          "Bowen Yu",
+          "Feifan Song",
+          "Hangyu Li",
+          "Haiyang Yu",
+          "Zhoujun Li",
+          "Fei Huang",
+          "Yongbin Li"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "shen2024small",
+      "raw": {
+        "title": "Small LLMs Are Weak Tool Learners: A Multi-LLM Agent",
+        "authors": [
+          "Shen, Weizhou",
+          "Li, Chenliang",
+          "Chen, Hongzhan",
+          "Yan, Ming",
+          "Quan, Xiaojun",
+          "Chen, Hehong",
+          "Zhang, Ji",
+          "Huang, Fei"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4404782859",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Small LLMs Are Weak Tool Learners: A Multi-LLM Agent",
+        "year": 2024,
+        "authors": [
+          "Weizhou Shen",
+          "Chenliang Li",
+          "Hongzhan Chen",
+          "Ming Yan",
+          "Xiaojun Quan",
+          "Hehong Chen",
+          "Ji Zhang",
+          "Fei Huang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "manduzio2024improving",
+      "raw": {
+        "title": "Improving Small-Scale Large Language Models Function Calling for Reasoning Tasks",
+        "authors": [
+          "Manduzio, Graziano A",
+          "Galatolo, Federico A",
+          "Cimino, Mario GCA",
+          "Scilingo, Enzo Pasquale",
+          "Cominelli, Lorenzo"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4404307471",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Improving Small-Scale Large Language Models Function Calling for Reasoning Tasks",
+        "year": 2024,
+        "authors": [
+          "Graziano A. Manduzio",
+          "Federico A. Galatolo",
+          "Mario G. C. A. Cimino",
+          "Enzo Pasquale Scilingo",
+          "Lorenzo Cominelli"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "singh2025agentic",
+      "raw": {
+        "title": "Agentic reasoning and tool integration for llms via reinforcement learning",
+        "authors": [
+          "Singh, Joykirat",
+          "Magazine, Raghav",
+          "Pandya, Yash",
+          "Nambi, Akshay"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4415025988",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Agentic Reasoning and Tool Integration for LLMs via Reinforcement Learning",
+        "year": 2025,
+        "authors": [
+          "Joykirat Singh",
+          "Raghav Magazine",
+          "Yash Pandya",
+          "Akshay Nambi"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "weifinetuned",
+      "raw": {
+        "title": "Finetuned Language Models are Zero-Shot Learners",
+        "authors": [
+          "Wei, Jason",
+          "Bosma, Maarten",
+          "Zhao, Vincent",
+          "Guu, Kelvin",
+          "Yu, Adams Wei",
+          "Lester, Brian",
+          "Du, Nan",
+          "Dai, Andrew M",
+          "Le, Quoc V"
+        ],
+        "year": null,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3198002980",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Finetuned Language Models Are Zero-Shot Learners",
+        "year": 2021,
+        "authors": [
+          "Jason Wei",
+          "Maarten Bosma",
+          "Vincent Y. Zhao",
+          "Kelvin Guu",
+          "Adams Wei Yu",
+          "Brian Lester",
+          "Nan Du",
+          "Andrew M. Dai",
+          "Quoc V. Le"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "huang2025crmarenapro",
+      "raw": {
+        "title": "Crmarena-pro: Holistic assessment of llm agents across diverse business scenarios and interactions",
+        "authors": [
+          "Huang, Kung-Hsiang",
+          "Prabhakar, Akshara",
+          "Thorat, Onkar",
+          "Agarwal, Divyansh",
+          "Choubey, Prafulla Kumar",
+          "Mao, Yixin",
+          "Savarese, Silvio",
+          "Xiong, Caiming",
+          "Wu, Chien-Sheng"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4414581779",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "CRMArena-Pro: Holistic Assessment of LLM Agents Across Diverse Business Scenarios and Interactions",
+        "year": 2025,
+        "authors": [
+          "Kung-Hsiang Huang",
+          "Akshara Prabhakar",
+          "Onkar Thorat",
+          "Divyansh Agarwal",
+          "Prafulla Kumar Choubey",
+          "Yixin Mao",
+          "Silvio Savarese",
+          "Caiming Xiong",
+          "Chien-Sheng Wu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "liu2024agentbench",
+      "raw": {
+        "title": "AgentBench: Evaluating LLMs as Agents",
+        "authors": [
+          "Liu, Xiao",
+          "Yu, Hao",
+          "Zhang, Hanchen",
+          "Xu, Yifan",
+          "Lei, Xuanyu",
+          "Lai, Hanyu",
+          "Gu, Yu",
+          "Ding, Hangliang",
+          "Men, Kaiwen",
+          "Yang, Kejuan",
+          "others"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4385682136",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "AgentBench: Evaluating LLMs as Agents",
+        "year": 2023,
+        "authors": [
+          "Xiao Liu",
+          "Hao Yu",
+          "Hanchen Zhang",
+          "Yifan Xu",
+          "Xuanyu Lei",
+          "Hanyu Lai",
+          "Yu‐Cheng Gu",
+          "Hangliang Ding",
+          "Kaiwen Men",
+          "Kejuan Yang",
+          "Shudan Zhang",
+          "Xiang Deng",
+          "Aohan Zeng",
+          "Zhengxiao Du",
+          "Chenhui Zhang",
+          "Sheng Shen",
+          "Tianjun Zhang",
+          "Yu Su",
+          "Huan Sun",
+          "Minlie Huang",
+          "Yuxiao Dong",
+          "Jie Tang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "drouin2024workarena",
+      "raw": {
+        "title": "WorkArena: how capable are web agents at solving common knowledge work tasks?",
+        "authors": [
+          "Drouin, Alexandre",
+          "Gasse, Maxime",
+          "Caccia, Massimo",
+          "Laradji, Issam H",
+          "Verme, Manuel Del",
+          "Marty, Tom",
+          "Vazquez, David",
+          "Chapados, Nicolas",
+          "Lacoste, Alexandre"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4392781346",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "WorkArena: How Capable Are Web Agents at Solving Common Knowledge Work Tasks?",
+        "year": 2024,
+        "authors": [
+          "Alexandre Drouin",
+          "Maxime Gasse",
+          "M. Caccia",
+          "Issam Laradji",
+          "Manuel Del Verme",
+          "Tom Marty",
+          "Léo Boisvert",
+          "Megh Thakkar",
+          "Quentin Cappart",
+          "David Vázquez",
+          "Nicolas Chapados",
+          "Alexandre Lacoste"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "touvron2023llama",
+      "raw": {
+        "title": "Llama 2: Open foundation and fine-tuned chat models",
+        "authors": [
+          "Touvron, Hugo",
+          "Martin, Louis",
+          "Stone, Kevin",
+          "Albert, Peter",
+          "Almahairi, Amjad",
+          "Babaei, Yasmine",
+          "Bashlykov, Nikolay",
+          "Batra, Soumya",
+          "Bhargava, Prajjwal",
+          "Bhosale, Shruti",
+          "others"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4384918448",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Llama 2: Open Foundation and Fine-Tuned Chat Models",
+        "year": 2023,
+        "authors": [
+          "Hugo Touvron",
+          "Louis Martin",
+          "Kevin H. Stone",
+          "Peter J. Albert",
+          "Amjad Almahairi",
+          "Yasmine Babaei",
+          "Nikolay Bashlykov",
+          "Soumya Batra",
+          "Prajjwal Bhargava",
+          "Shruti Bhosale",
+          "Dan Bikel",
+          "Lukas Blecher",
+          "Cristian Canton Ferrer",
+          "Moya Chen",
+          "Guillem Cucurull",
+          "David Esiobu",
+          "Jude Fernandes",
+          "Jeremy Fu",
+          "Wenyin Fu",
+          "Brian Fuller",
+          "Cynthia Gao",
+          "Vedanuj Goswami",
+          "Naman Goyal",
+          "Anthony S. Hartshorn",
+          "Saghar Hosseini",
+          "Rui Hou",
+          "Hakan Inan",
+          "Marcin Kardas",
+          "Viktor Kerkez",
+          "Madian Khabsa",
+          "Isabel M. Kloumann",
+          "Artem Korenev",
+          "Punit Singh Koura",
+          "Marie-Anne Lachaux",
+          "Thibaut Lavril",
+          "Jenya Lee",
+          "Diana Liskovich",
+          "Yinghai Lu",
+          "Yuning Mao",
+          "Xavier Martinet",
+          "Todor Mihaylov",
+          "Pushkar Mishra",
+          "Igor Molybog",
+          "Yixin Nie",
+          "Andrew M. Poulton",
+          "Jeremy Reizenstein",
+          "Rashi Rungta",
+          "Kalyan Saladi",
+          "Alan Schelten",
+          "Ruan Silva",
+          "Eric M. Smith",
+          "Ranjan Subramanian",
+          "Xiaoqing Ellen Tan",
+          "Binh Tang",
+          "Ross Taylor",
+          "Adina Williams",
+          "Jian Xiang Kuan",
+          "Puxin Xu",
+          "Zheng Yan",
+          "Iliyan Zarov",
+          "Yuchen Zhang",
+          "Angela Fan",
+          "Melanie Kambadur",
+          "Sharan Narang",
+          "Aurelien Rodriguez",
+          "Robert Stojnic",
+          "Sergey Edunov",
+          "Thomas Scialom"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "sun2025genesis",
+      "raw": {
+        "title": "Os-genesis: Automating gui agent trajectory construction via reverse task synthesis",
+        "authors": [
+          "Sun, Qiushi",
+          "Cheng, Kanzhi",
+          "Ding, Zichen",
+          "Jin, Chuanyang",
+          "Wang, Yian",
+          "Xu, Fangzhi",
+          "Wu, Zhenyu",
+          "Jia, Chengyou",
+          "Chen, Liheng",
+          "Liu, Zhoumianze",
+          "others"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4412945695",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis",
+        "year": 2025,
+        "authors": [
+          "Qiushi Sun",
+          "Kanzhi Cheng",
+          "Zichen Ding",
+          "Chuanyang Jin",
+          "Yian Wang",
+          "Fangzhi Xu",
+          "Zhenyu Wu",
+          "Chengyou Jia",
+          "L. Chen",
+          "Zhoumianze Liu",
+          "Ben Kao",
+          "Guohao Li",
+          "Junxian He",
+          "Yu Qiao",
+          "Zhiyong Wu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "goldstein1998summarization",
+      "raw": {
+        "title": "Summarization:(1) using MMR for diversity-based reranking and (2) evaluating summaries",
+        "authors": [
+          "Goldstein, Jade",
+          "Carbonell, Jaime G"
+        ],
+        "year": 1998,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "not_found",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "hu2022lora",
+      "raw": {
+        "title": "Lora: Low-rank adaptation of large language models.",
+        "authors": [
+          "Hu, Edward J",
+          "Shen, Yelong",
+          "Wallis, Phillip",
+          "Allen-Zhu, Zeyuan",
+          "Li, Yuanzhi",
+          "Wang, Shean",
+          "Wang, Lu",
+          "Chen, Weizhu",
+          "others"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3168867926",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "LoRA: Low-Rank Adaptation of Large Language Models",
+        "year": 2021,
+        "authors": [
+          "J. Edward Hu",
+          "Yelong Shen",
+          "Phillip Wallis",
+          "Zeyuan Allen-Zhu",
+          "Yuanzhi Li",
+          "Shean Wang",
+          "Wang, Lu",
+          "Chen, Weizhu"
+        ]
+      },
+      "title_similarity": 0.9215686274509803,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "yao2022react",
+      "raw": {
+        "title": "React: Synergizing reasoning and acting in language models",
+        "authors": [
+          "Yao, Shunyu",
+          "Zhao, Jeffrey",
+          "Yu, Dian",
+          "Du, Nan",
+          "Shafran, Izhak",
+          "Narasimhan, Karthik R",
+          "Cao, Yuan"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/99832586d55f540f603637e458a292406a0ed75d",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "year": 2022,
+        "authors": [
+          "Shunyu Yao",
+          "Jeffrey Zhao",
+          "Dian Yu",
+          "Nan Du",
+          "Izhak Shafran",
+          "Karthik Narasimhan",
+          "Yuan Cao"
+        ]
+      },
+      "title_similarity": 0.9572649572649573,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "hong2025multi",
+      "raw": {
+        "title": "Multi-Agent Deep Research: Training Multi-Agent Systems with M-GRPO",
+        "authors": [
+          "Hong, Haoyang",
+          "Yin, Jiajun",
+          "Wang, Yuan",
+          "Liu, Jingnan",
+          "Chen, Zhe",
+          "Yu, Ailing",
+          "Li, Ji",
+          "Ye, Zhiling",
+          "Xiao, Hansong",
+          "Chen, Yefei",
+          "others"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4416361863",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Multi-Agent Deep Research: Training Multi-Agent Systems with M-GRPO",
+        "year": 2025,
+        "authors": [
+          "Haoyang Hong",
+          "Yin, Jiajun",
+          "Yuan Wang",
+          "Jingnan Liu",
+          "Zhe Chen",
+          "Ailing Yu",
+          "Ji Li",
+          "Zhiling Ye",
+          "Xiao, Hansong",
+          "Yefei Chen",
+          "Zhou, Hualei",
+          "Yun Yue",
+          "Minghui Yang",
+          "Chunxiao Guo",
+          "Junwei Liu",
+          "Wei Peng",
+          "Jinjie Gu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "liu2025mcpeval",
+      "raw": {
+        "title": "Mcpeval: Automatic mcp-based deep evaluation for ai agent models",
+        "authors": [
+          "Liu, Zhiwei",
+          "Qiu, Jielin",
+          "Wang, Shiyu",
+          "Zhang, Jianguo",
+          "Liu, Zuxin",
+          "Ram, Roshan",
+          "Chen, Haolin",
+          "Yao, Weiran",
+          "Heinecke, Shelby",
+          "Savarese, Silvio",
+          "others"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4416037900",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "MCPEval: Automatic MCP-based Deep Evaluation for AI Agent Models",
+        "year": 2025,
+        "authors": [
+          "Zhiwei Liu",
+          "Jielin Qiu",
+          "Shiyu Wang",
+          "Jianguo Zhang",
+          "Zuxin Liu",
+          "Roshan Ram",
+          "Haolin Chen",
+          "Weiran Yao",
+          "Shelby Heinecke",
+          "Silvio Savarese",
+          "Huan Wang",
+          "Caiming Xiong"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "lai2024autowebglm",
+      "raw": {
+        "title": "Autowebglm: A large language model-based web navigating agent",
+        "authors": [
+          "Lai, Hanyu",
+          "Liu, Xiao",
+          "Iong, Iat Long",
+          "Yao, Shuntian",
+          "Chen, Yuxuan",
+          "Shen, Pengbo",
+          "Yu, Hao",
+          "Zhang, Hanchen",
+          "Zhang, Xiaohan",
+          "Dong, Yuxiao",
+          "others"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4401856679",
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/6c00f661c46391642208a5292f38b5a9e0e09cae",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "AutoWebGLM: A Large Language Model-based Web Navigating Agent",
+        "year": 2024,
+        "authors": [
+          "Hanyu Lai",
+          "Xiao Liu",
+          "Iat Long Iong",
+          "Shuntian Yao",
+          "Yuxuan Chen",
+          "Pengbo Shen",
+          "Hao Yu",
+          "Hanchen Zhang",
+          "Xiaohan Zhang",
+          "Yuxiao Dong",
+          "Jie Tang"
+        ]
+      },
+      "title_similarity": 0.9666666666666667,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "murty2024bagel",
+      "raw": {
+        "title": "BAGEL: bootstrapping agents by guiding exploration with language",
+        "authors": [
+          "Murty, Shikhar",
+          "Manning, Christopher D",
+          "Shaw, Peter",
+          "Joshi, Mandar",
+          "Lee, Kenton"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4392822311",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "BAGEL: Bootstrapping Agents by Guiding Exploration with Language",
+        "year": 2024,
+        "authors": [
+          "Shikhar Murty",
+          "Christopher D. Manning",
+          "Peter J. Shaw",
+          "Mandar Joshi",
+          "Kenton Lee"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "murty2024nnetnav",
+      "raw": {
+        "title": "Nnetnav: Unsupervised learning of browser agents through environment interaction in the wild",
+        "authors": [
+          "Murty, Shikhar",
+          "Zhu, Hao",
+          "Bahdanau, Dzmitry",
+          "Manning, Christopher D"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4403885431",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "NNetNav: Unsupervised Learning of Browser Agents Through Environment Interaction in the Wild",
+        "year": 2024,
+        "authors": [
+          "Shikhar Murty",
+          "Zhu, Hao",
+          "Dzmitry Bahdanau",
+          "Christopher D. Manning"
+        ]
+      },
+      "title_similarity": 0.9513513513513513,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "ou2024synatra",
+      "raw": {
+        "title": "Synatra: Turning indirect knowledge into direct demonstrations for digital agents at scale",
+        "authors": [
+          "Ou, Tianyue",
+          "Xu, Frank F",
+          "Madaan, Aman",
+          "Liu, Jiarui",
+          "Lo, Robert",
+          "Sridhar, Abishek",
+          "Sengupta, Sudipta",
+          "Roth, Dan",
+          "Neubig, Graham",
+          "Zhou, Shuyan"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4403786520",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Synatra: Turning Indirect Knowledge into Direct Demonstrations for Digital Agents at Scale",
+        "year": 2024,
+        "authors": [
+          "Tianyue Ou",
+          "Frank F. Xu",
+          "Aman Madaan",
+          "Jiarui Liu",
+          "Robert Lo",
+          "S. Abishek",
+          "Sudipta Sengupta",
+          "Danica L. Roth",
+          "Graham Neubig",
+          "Shuyan Zhou"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "gandhi2025go",
+      "raw": {
+        "title": "Go-Browse: Training Web Agents with Structured Exploration",
+        "authors": [
+          "Gandhi, Apurva",
+          "Neubig, Graham"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4416073049",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Go-Browse: Training Web Agents with Structured Exploration",
+        "year": 2025,
+        "authors": [
+          "Apurva Gandhi",
+          "Graham Neubig"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "chen2025graph2eval",
+      "raw": {
+        "title": "Graph2Eval: Automatic Multimodal Task Generation for Agents via Knowledge Graphs",
+        "authors": [
+          "Chen, Yurun",
+          "Hu, Xavier",
+          "Liu, Yuhan",
+          "Wang, Ziqi",
+          "Liao, Zeyi",
+          "Chen, Lin",
+          "Wei, Feng",
+          "Qian, Yuxi",
+          "Zheng, Bo",
+          "Yin, Keting",
+          "Zhang, Shengyu"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4415272274",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Graph2Eval: Automatic Multimodal Task Generation for Agents via Knowledge Graphs",
+        "year": 2025,
+        "authors": [
+          "Chen, Yurun",
+          "Xiaohong Hu",
+          "Liu, Yuhan",
+          "Ziqi Wang",
+          "Zeyi Liao",
+          "Lin Chen",
+          "Wei Feng",
+          "Yuxi Qian",
+          "Bo Zheng",
+          "Keting Yin",
+          "Shengyu Zhang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "ramrakhya2025scaling",
+      "raw": {
+        "title": "Scaling synthetic task generation for agents via exploration",
+        "authors": [
+          "Ramrakhya, Ram",
+          "Szot, Andrew",
+          "Attia, Omar",
+          "Yang, Yuhao",
+          "Nguyen, Anh",
+          "Mazoure, Bogdan",
+          "Gan, Zhe",
+          "Agrawal, Harsh",
+          "Toshev, Alexander"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4415337587",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Scaling Synthetic Task Generation for Agents via Exploration",
+        "year": 2025,
+        "authors": [
+          "Ram Ramrakhya",
+          "Andrew Szot",
+          "Omar Attia",
+          "Yuhao Yang",
+          "Anh Trung Nguyen",
+          "Bogdan Mazoure",
+          "Gan, Zhe",
+          "Harsh Agrawal",
+          "Alexander Toshev"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "prabhakar2025apigen",
+      "raw": {
+        "title": "APIGen-MT: Agentic Pipeline for Multi-Turn Data Generation via Simulated Agent-Human Interplay",
+        "authors": [
+          "Prabhakar, Akshara",
+          "Liu, Zuxin",
+          "Zhu, Ming",
+          "Zhang, Jianguo",
+          "Awalgaonkar, Tulika",
+          "Wang, Shiyu",
+          "Liu, Zhiwei",
+          "Chen, Haolin",
+          "Hoang, Thai",
+          "Niebles, Juan Carlos",
+          "others"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4415980674",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "APIGen-MT: Agentic Pipeline for Multi-Turn Data Generation via Simulated Agent-Human Interplay",
+        "year": 2025,
+        "authors": [
+          "Akshara Prabhakar",
+          "Zuxin Liu",
+          "Ming Zhu",
+          "Jianguo Zhang",
+          "Tulika Awalgaonkar",
+          "Shiyu Wang",
+          "Zhiwei Liu",
+          "Haolin Chen",
+          "Thai Hoang",
+          "Juan Carlos Niebles",
+          "Shelby Heinecke",
+          "Weiran Yao",
+          "Huan Wang",
+          "Silvio Savarese",
+          "Caiming Xiong"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "havrilla2024surveying",
+      "raw": {
+        "title": "Surveying the effects of quality, diversity, and complexity in synthetic data from large language models",
+        "authors": [
+          "Havrilla, Alex",
+          "Dai, Andrew",
+          "O'Mahony, Laura",
+          "Oostermeijer, Koen",
+          "Zisler, Vera",
+          "Albalak, Alon",
+          "Milo, Fabrizio",
+          "Raparthy, Sharath Chandra",
+          "Gandhi, Kanishk",
+          "Abbasi, Baber",
+          "others"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4405089011",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Surveying the Effects of Quality, Diversity, and Complexity in Synthetic Data From Large Language Models",
+        "year": 2024,
+        "authors": [
+          "Alex Havrilla",
+          "Andrew M. Dai",
+          "Laura O'Mahony",
+          "Koen Oostermeijer",
+          "Vera Zisler",
+          "Alon Albalak",
+          "Fabrizio Milo",
+          "Sharath Chandra Raparthy",
+          "Kanishk Gandhi",
+          "Baber Abbasi",
+          "Duy Phung",
+          "Maia Iyer",
+          "Dakota Mahan",
+          "Blagden, Chase",
+          "Srishti Gureja",
+          "Mohammed Hamdy",
+          "Weizhong Li",
+          "Giovanni Paolini",
+          "Pawan Sasanka Ammanamanchi",
+          "Elliot Meyerson"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "zhu2018texygen",
+      "raw": {
+        "title": "Texygen: A benchmarking platform for text generation models",
+        "authors": [
+          "Zhu, Yaoming",
+          "Lu, Sidi",
+          "Zheng, Lei",
+          "Guo, Jiaxian",
+          "Zhang, Weinan",
+          "Wang, Jun",
+          "Yu, Yong"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2785896739",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Texygen: A Benchmarking Platform for Text Generation Models",
+        "year": 2018,
+        "authors": [
+          "Yaoming Zhu",
+          "Sidi Lu",
+          "Lei Zheng",
+          "Jiaxian Guo",
+          "Weinan Zhang",
+          "Jun Wang",
+          "Yong Yu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "kandogan2025enterprise",
+      "raw": {
+        "title": "Orchestrating Agents and Data for Enterprise: A Blueprint Architecture for Compound AI",
+        "authors": [
+          "Kandogan, Eser",
+          "Bhutani, Nikita",
+          "Zhang, Dan",
+          "Chen, Rafael Li",
+          "Gurajada, Sairam",
+          "Hruschka, Estevam"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4413460102",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Orchestrating Agents and Data for Enterprise: A Blueprint Architecture for Compound AI",
+        "year": 2025,
+        "authors": [
+          "Eser Kandogan",
+          "Nikita Bhutani",
+          "Dan Zhang",
+          "Rafael Li Chen",
+          "Sairam Gurajada",
+          "Estevam Hruschka"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "glean2025platform",
+      "raw": {
+        "title": "Glean Customer Stories: The Work AI Platform with Enterprise Graph and Assistant 3.0",
+        "authors": [
+          "{Glean Technologies, Inc.}"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "not_found",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "belcak2025small",
+      "raw": {
+        "title": "Small Language Models are the Future of Agentic AI",
+        "authors": [
+          "Belcak, Peter",
+          "Heinrich, Greg",
+          "Diao, Shizhe",
+          "Fu, Yonggan",
+          "Dong, Xin",
+          "Muralidharan, Saurav",
+          "Lin, Yingyan Celine",
+          "Molchanov, Pavlo"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4415130727",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Small Language Models are the Future of Agentic AI",
+        "year": 2025,
+        "authors": [
+          "Peter Belcak",
+          "Greg Heinrich",
+          "Shizhe Diao",
+          "Yonggan Fu",
+          "Xin Dong",
+          "Saurav Muralidharan",
+          "Yingyan Celine Lin",
+          "Pavlo Molchanov"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "gururangan2020dont",
+      "raw": {
+        "title": "Don’t Stop Pretraining: Adapt Language Models to Domains and Tasks",
+        "authors": [
+          "Gururangan, Suchin",
+          "Marasovi{\\'c}, Ana",
+          "Swayamdipta, Swabha",
+          "Lo, Kyle",
+          "Beltagy, Iz",
+          "Downey, Doug",
+          "Smith, Noah A"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3017961061",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Don’t Stop Pretraining: Adapt Language Models to Domains and Tasks",
+        "year": 2020,
+        "authors": [
+          "Suchin Gururangan",
+          "Ana Marasović",
+          "Swabha Swayamdipta",
+          "Kyle Lo",
+          "Iz Beltagy",
+          "Doug Downey",
+          "Noah A. Smith"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "wang2024docllm",
+      "raw": {
+        "title": "Docllm: A layout-aware generative language model for multimodal document understanding",
+        "authors": [
+          "Wang, Dongsheng",
+          "Raman, Natraj",
+          "Sibue, Mathieu",
+          "Ma, Zhiqiang",
+          "Babkin, Petr",
+          "Kaur, Simerjot",
+          "Pei, Yulong",
+          "Nourbakhsh, Armineh",
+          "Liu, Xiaomo"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4402671775",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "DocLLM: A Layout-Aware Generative Language Model for Multimodal Document Understanding",
+        "year": 2024,
+        "authors": [
+          "Dongsheng Wang",
+          "Natraj Raman",
+          "Mathieu Sibue",
+          "Zhiqiang Ma",
+          "Petr Babkin",
+          "Simerjot Kaur",
+          "Yulong Pei",
+          "Armineh Nourbakhsh",
+          "Xiaomo Liu"
+        ]
+      },
+      "title_similarity": 0.9942196531791907,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "zeng2025toolace",
+      "raw": {
+        "title": "ToolACE-R: Tool Learning with Adaptive Self-Refinement",
+        "authors": [
+          "Zeng, Xingshan",
+          "Liu, Weiwen",
+          "Huang, Xu",
+          "Wang, Zezhong",
+          "Wang, Lingzhi",
+          "Li, Liangyou",
+          "Wang, Yasheng",
+          "Shang, Lifeng",
+          "Jiang, Xin",
+          "Tang, Ruiming",
+          "others"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "not_found",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "bodensohn2025unveiling",
+      "raw": {
+        "title": "Unveiling challenges for llms in enterprise data engineering",
+        "authors": [
+          "Bodensohn, Jan-Micha",
+          "Brackmann, Ulf",
+          "Vogel, Liane",
+          "Sanghi, Anupam",
+          "Binnig, Carsten"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4415161265",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Unveiling Challenges for LLMs in Enterprise Data Engineering",
+        "year": 2025,
+        "authors": [
+          "Jan-Micha Bodensohn",
+          "Ulf Brackmann",
+          "Liane Vogel",
+          "Anupam Sanghi",
+          "Carsten Binnig"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "warrier2023managing",
+      "raw": {
+        "title": "Managing Complexity with Multiple API Gateways",
+        "authors": [
+          "Warrier, A"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "metadata_mismatch",
+      "openalex_id": "https://openalex.org/W4414530969",
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/97e3f62b172ade634f5bd9d0af03c05286365859",
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Managing Complexity with Multiple API Gateways",
+        "year": 2025,
+        "authors": [
+          "Arjun Warrier"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [
+        "year"
+      ],
+      "error": null
+    },
+    {
+      "key": "marro2025llm",
+      "raw": {
+        "title": "LLM Agents Are the Antidote to Walled Gardens",
+        "authors": [
+          "Marro, Samuele",
+          "Torr, Philip"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4414687620",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "LLM Agents Are the Antidote to Walled Gardens",
+        "year": 2025,
+        "authors": [
+          "Samuele Marro",
+          "Philip H. S. Torr"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    }
+  ]
+}

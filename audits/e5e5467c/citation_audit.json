@@ -1,0 +1,1050 @@
+{
+  "paper_id": "e5e5467c-27e4-495d-9c20-f078ae58431e",
+  "total": 42,
+  "verified": 0,
+  "mismatch": 0,
+  "missing": 0,
+  "ambiguous": 0,
+  "error": 39,
+  "skipped": 3,
+  "s2_consulted": 0,
+  "s2_lifted": 0,
+  "key_style_outliers": [],
+  "entries": [
+    {
+      "key": "li2026les",
+      "raw": {
+        "title": "Les Dissonances: Cross-Tool Harvesting and Polluting in Pool-of-Tools Empowered LLM Agents",
+        "authors": [
+          "Li, Zichuan",
+          "Cui, Jian",
+          "Liao, Xiaojing",
+          "Xing, Luyi"
+        ],
+        "year": 2026,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Les+Dissonances%3A+Cross-Tool+Harvesting+and+Polluting+in+Pool-of-Tools+Empowered+LLM+Agents&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "wu2025iso",
+      "raw": {
+        "title": "IsolateGPT: An Execution Isolation Architecture for LLM-Based Agentic Systems",
+        "authors": [
+          "Wu, Yuhao",
+          "Roesner, Franziska",
+          "Kohno, Tadayoshi",
+          "Zhang, Ning",
+          "Iqbal, Umar"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=IsolateGPT%3A+An+Execution+Isolation+Architecture+for+LLM-Based+Agentic+Systems&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "anwar2024remembr",
+      "raw": {
+        "title": "ReMEmbR: Building and Reasoning Over Long-Horizon Spatio-Temporal Memory for Robot Navigation",
+        "authors": [
+          "Anwar, Abrar",
+          "Welsh, John",
+          "Biswas, Joydeep",
+          "Pouya, Soha",
+          "Chang, Yan"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=ReMEmbR%3A+Building+and+Reasoning+Over+Long-Horizon+Spatio-Temporal+Memory+for+Robot+Navigation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "chen2024agentpoison",
+      "raw": {
+        "title": "AgentPoison: Red-teaming LLM Agents via Poisoning Memory or Knowledge Bases",
+        "authors": [
+          "Chen, Zhaorun",
+          "Xiang, Zhen",
+          "Xiao, Chaowei",
+          "Song, Dawn",
+          "Li, Bo"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2407.12784"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2407.12784&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zhan2024injecagent",
+      "raw": {
+        "title": "InjecAgent: Benchmarking Indirect Prompt Injections in Tool-Integrated Large Language Model Agents",
+        "authors": [
+          "Zhan, Qiusi",
+          "Liang, Zhixiang",
+          "Ying, Zifan",
+          "Kang, Daniel"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2403.02691"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2403.02691&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "fu2024imprompter",
+      "raw": {
+        "title": "Imprompter: Tricking LLM Agents into Improper Tool Use",
+        "authors": [
+          "Fu, Xiaohan",
+          "Li, Shuheng",
+          "Wang, Zihan",
+          "Liu, Yihao",
+          "Gupta, Rajesh K.",
+          "Berg-Kirkpatrick, Taylor",
+          "Fernandes, Earlence"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2410.14923"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2410.14923&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "mo2025attractive",
+      "raw": {
+        "title": "Attractive Metadata Attack: Inducing LLM Agents to Invoke Malicious Tools",
+        "authors": [
+          "Mo, Kanghua",
+          "Hu, Li",
+          "Long, Yucheng",
+          "Li, Zhihao"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2508.02110"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2508.02110&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zhang2025deep",
+      "raw": {
+        "title": "Deep Video Discovery: Agentic Search with Tool Use for Long-form Video Understanding",
+        "authors": [
+          "Zhang, Xiaoyi",
+          "Jia, Zhaoyang",
+          "Guo, Zongyu",
+          "Li, Jiahao",
+          "Li, Bin",
+          "Li, Houqiang",
+          "Lu, Yan"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2505.18079"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2505.18079&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "fan2025tool",
+      "raw": {
+        "title": "Tool-Augmented Spatiotemporal Reasoning for Streamlining Video Question Answering Task",
+        "authors": [
+          "Fan, Sunqi",
+          "Cui, Jiashuo",
+          "Guo, Meng-Hao",
+          "Yang, Shuojin"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2512.10359"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2512.10359&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "qian2025toolrl",
+      "raw": {
+        "title": "ToolRL: Reward is All Tool Learning Needs",
+        "authors": [
+          "Qian, Cheng",
+          "Acikgoz, Emre Can",
+          "He, Qi",
+          "Wang, Hongru",
+          "Chen, Xiusi",
+          "Hakkani-T{\\\"u}r, Dilek",
+          "Tur, Gokhan",
+          "Ji, Heng"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2504.13958"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2504.13958&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "liu2025tool",
+      "raw": {
+        "title": "Tool-Planner: Task Planning with Clusters across Multiple Tools",
+        "authors": [
+          "Liu, Yanming",
+          "Peng, Xinyue",
+          "Cao, Jiannan",
+          "Zhang, Yuwei",
+          "Zhang, Xuhong",
+          "Cheng, Sheng",
+          "Wang, Xun",
+          "Yin, Jianwei",
+          "Du, Tianyu"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2406.03807"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2406.03807&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "patil2025berkeley",
+      "raw": {
+        "title": "The Berkeley Function Calling Leaderboard (BFCL): From Tool Use to Agentic Evaluation of Large Language Models",
+        "authors": [
+          "Patil, Shishir G",
+          "Mao, Huanzhi",
+          "Yan, Fanjia",
+          "Ji, Charlie Cheng-Jie",
+          "Suresh, Vishnu",
+          "Stoica, Ion",
+          "Gonzalez, Joseph E."
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=The+Berkeley+Function+Calling+Leaderboard+%28BFCL%29%3A+From+Tool+Use+to+Agentic+Evaluation+of+Large+Language+Models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "wang2025mplus",
+      "raw": {
+        "title": "M+: Extending MemoryLLM with Scalable Long-Term Memory",
+        "authors": [
+          "Wang, Yu",
+          "Krotov, Dmitry",
+          "Hu, Yuanzhe",
+          "Gao, Yifan",
+          "Zhou, Wangchunshu",
+          "McAuley, Julian",
+          "Gutfreund, Dan",
+          "Feris, Rogerio",
+          "He, Zexue"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2502.00592"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2502.00592&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "jimenez2025from",
+      "raw": {
+        "title": "From RAG to Memory: Non-Parametric Continual Learning for Large Language Models",
+        "authors": [
+          "Jim{\\'e}nez Guti{\\'e}rrez, Bernal",
+          "Shu, Yiheng",
+          "Qi, Weijian",
+          "Zhou, Sizhe",
+          "Su, Yu"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2502.14802"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2502.14802&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zhong2024memorybank",
+      "raw": {
+        "title": "MemoryBank: Enhancing Large Language Models with Long-Term Memory",
+        "authors": [
+          "Zhong, Wanjun",
+          "Guo, Lianghong",
+          "Gao, Qiqi",
+          "Ye, He",
+          "Wang, Yanlin"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "packer2024memgpt",
+      "raw": {
+        "title": "MemGPT: Towards LLMs as Operating Systems",
+        "authors": [
+          "Packer, Charles",
+          "Wooders, Sarah",
+          "Lin, Kevin",
+          "Fang, Vivian",
+          "Patil, Shishir G.",
+          "Stoica, Ion",
+          "Gonzalez, Joseph E."
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=MemGPT%3A+Towards+LLMs+as+Operating+Systems&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "chhikara2025mem0",
+      "raw": {
+        "title": "Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory",
+        "authors": [
+          "Chhikara, Prateek",
+          "Khant, Dev",
+          "Aryan, Saket",
+          "Singh, Taranjeet",
+          "Yadav, Deshraj"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2504.19413"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2504.19413&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "park2023generative",
+      "raw": {
+        "title": "Generative Agents: Interactive Simulacra of Human Behavior",
+        "authors": [
+          "Park, Joon Sung",
+          "O'Brien, Joseph C.",
+          "Cai, Carrie J.",
+          "Morris, Meredith Ringel",
+          "Liang, Percy",
+          "Bernstein, Michael S."
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "wang2025agent",
+      "raw": {
+        "title": "Agent Workflow Memory",
+        "authors": [
+          "Wang, Zora Zhiruo",
+          "Mao, Jiayuan",
+          "Fried, Daniel",
+          "Neubig, Graham"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2409.07429"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2409.07429&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zhang2025breaking",
+      "raw": {
+        "title": "Breaking Agents: Compromising Autonomous LLM Agents Through Malfunction Amplification",
+        "authors": [
+          "Zhang, Boyang",
+          "Tan, Yicong",
+          "Shen, Yun",
+          "Salem, Ahmed",
+          "Backes, Michael",
+          "Zannettou, Savvas",
+          "Zhang, Yang"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Breaking+Agents%3A+Compromising+Autonomous+LLM+Agents+Through+Malfunction+Amplification&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zhang2025agent",
+      "raw": {
+        "title": "Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-Based Agents",
+        "authors": [
+          "Zhang, Hanrong",
+          "Huang, Jingyuan",
+          "Mei, Kai",
+          "Yao, Yifei",
+          "Wang, Zhenting",
+          "Zhan, Chenlu",
+          "Wang, Hongwei",
+          "Zhang, Yongfeng"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Agent+Security+Bench+%28ASB%29%3A+Formalizing+and+Benchmarking+Attacks+and+Defenses+in+LLM-Based+Agents&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zhang2024agentsafetybench",
+      "raw": {
+        "title": "Agent-SafetyBench: Evaluating the Safety of LLM Agents",
+        "authors": [
+          "Zhang, Zhexin",
+          "Cui, Shiyao",
+          "Lu, Yida",
+          "Zhou, Jingzhuo",
+          "Yang, Junxiao",
+          "Wang, Hongning",
+          "Huang, Minlie"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Agent-SafetyBench%3A+Evaluating+the+Safety+of+LLM+Agents&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "schick2023toolformer",
+      "raw": {
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+        "authors": [
+          "Schick, Timo",
+          "Dwivedi-Yu, Jane",
+          "Dess{\\`\\i}, Roberto",
+          "Raileanu, Roberta",
+          "Lomeli, Maria",
+          "Zettlemoyer, Luke",
+          "Cancedda, Nicola",
+          "Scialom, Thomas"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Toolformer%3A+Language+Models+Can+Teach+Themselves+to+Use+Tools&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "fu2023misusing",
+      "raw": {
+        "title": "Misusing Tools in Large Language Models With Visual Adversarial Examples",
+        "authors": [
+          "Fu, Xiaohan",
+          "Wang, Zihan",
+          "Li, Shuheng",
+          "Gupta, Rajesh K.",
+          "Mireshghallah, Niloofar",
+          "Berg-Kirkpatrick, Taylor",
+          "Fernandes, Earlence"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Misusing+Tools+in+Large+Language+Models+With+Visual+Adversarial+Examples&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zhao2024attacks",
+      "raw": {
+        "title": "Attacks on Third-Party APIs of Large Language Models",
+        "authors": [
+          "Zhao, Wanru",
+          "Khazanchi, Vidit",
+          "Xing, Haodi",
+          "He, Xuanli",
+          "Xu, Qiongkai",
+          "Lane, Nicholas Donald"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Attacks+on+Third-Party+APIs+of+Large+Language+Models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "wei2025amemguard",
+      "raw": {
+        "title": "A-MemGuard: A Proactive Defense Framework for LLM-Based Agent Memory",
+        "authors": [
+          "Wei, Qianshan",
+          "Yang, Tengchao",
+          "Wang, Yaochen",
+          "Li, Xinfeng",
+          "Li, Lijun",
+          "Yin, Zhenfei",
+          "Zhan, Yi",
+          "Holz, Thorsten",
+          "Lin, Zhiqiang",
+          "Wang, XiaoFeng"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=A-MemGuard%3A+A+Proactive+Defense+Framework+for+LLM-Based+Agent+Memory&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "dong2025memory",
+      "raw": {
+        "title": "Memory Injection Attacks on LLM Agents via Query-Only Interaction",
+        "authors": [
+          "Dong, Shen",
+          "Xu, Shaochen",
+          "He, Pengfei",
+          "Li, Yige",
+          "Tang, Jiliang",
+          "Liu, Tianming",
+          "Liu, Hui",
+          "Xiang, Zhen"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Memory+Injection+Attacks+on+LLM+Agents+via+Query-Only+Interaction&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "xiang2024badchain",
+      "raw": {
+        "title": "BadChain: Backdoor Chain-of-Thought Prompting for Large Language Models",
+        "authors": [
+          "Xiang, Zhen",
+          "Jiang, Fengqing",
+          "Xiong, Zidi",
+          "Ramasubramanian, Bhaskar",
+          "Poovendran, Radha",
+          "Li, Bo"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=BadChain%3A+Backdoor+Chain-of-Thought+Prompting+for+Large+Language+Models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "wang2025unveiling",
+      "raw": {
+        "title": "Unveiling Privacy Risks in LLM Agent Memory",
+        "authors": [
+          "Wang, Bo",
+          "He, Weiyi",
+          "Zeng, Shenglai",
+          "Xiang, Zhen",
+          "Xing, Yue",
+          "Tang, Jiliang",
+          "He, Pengfei"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Unveiling+Privacy+Risks+in+LLM+Agent+Memory&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "inan2023llama",
+      "raw": {
+        "title": "Llama Guard: LLM-based Input-Output Safeguard for Human-AI Conversations",
+        "authors": [
+          "Inan, Hakan",
+          "Upasani, Kartikeya",
+          "Chi, Jianfeng",
+          "Rungta, Rashi",
+          "Iyer, Krithika",
+          "Mao, Yuning",
+          "Tontchev, Michael",
+          "Hu, Qing",
+          "Fuller, Brian",
+          "Testuggine, Davide",
+          "Khabsa, Madian"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Llama+Guard%3A+LLM-based+Input-Output+Safeguard+for+Human-AI+Conversations&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "wu2025isolategpt",
+      "raw": {
+        "title": "IsolateGPT: An Execution Isolation Architecture for LLM-Based Agentic Systems",
+        "authors": [
+          "Wu, Yuhao",
+          "Roesner, Franziska",
+          "Kohno, Tadayoshi",
+          "Zhang, Ning",
+          "Iqbal, Umar"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=IsolateGPT%3A+An+Execution+Isolation+Architecture+for+LLM-Based+Agentic+Systems&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "anthropic2025claude",
+      "raw": {
+        "title": "Claude 4.5 Sonnet",
+        "authors": [
+          "{Anthropic}"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Claude+4.5+Sonnet&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "openai2025gpt5",
+      "raw": {
+        "title": "Introducing GPT-5",
+        "authors": [
+          "{OpenAI}"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Introducing+GPT-5&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "google2025gemini",
+      "raw": {
+        "title": "Gemini",
+        "authors": [
+          "{Google}"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Gemini&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "chase2026langchain",
+      "raw": {
+        "title": "LangChain Official Github Repository",
+        "authors": [
+          "{LangChain}"
+        ],
+        "year": 2026,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "llamaindex2026llamahub",
+      "raw": {
+        "title": "LlamaHub",
+        "authors": [
+          "{LlamaIndex}"
+        ],
+        "year": 2026,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=LlamaHub&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "debenedetti2024agentdojo",
+      "raw": {
+        "title": "AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attacks and Defenses for LLM Agents",
+        "authors": [
+          "Debenedetti, Edoardo",
+          "Zhang, Jie",
+          "Balunovi{\\'c}, Mislav",
+          "Beurer-Kellner, Luca",
+          "Fischer, Marc",
+          "Tram{\\`e}r, Florian"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=AgentDojo%3A+A+Dynamic+Environment+to+Evaluate+Prompt+Injection+Attacks+and+Defenses+for+LLM+Agents&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "xu2025reducing",
+      "raw": {
+        "title": "Reducing Tool Hallucination via Reliability Alignment",
+        "authors": [
+          "Xu, Hongshen",
+          "Zhu, Zichen",
+          "Pan, Lei",
+          "Wang, Zihan",
+          "Zhu, Su",
+          "Ma, Da",
+          "Cao, Ruisheng",
+          "Chen, Lu",
+          "Yu, Kai"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Reducing+Tool+Hallucination+via+Reliability+Alignment&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "yu2026defense",
+      "raw": {
+        "title": "Defense Against Indirect Prompt Injection via Tool Result Parsing",
+        "authors": [
+          "Yu, Qiang",
+          "Cheng, Xinran",
+          "Liu, Chuanyi"
+        ],
+        "year": 2026,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Defense+Against+Indirect+Prompt+Injection+via+Tool+Result+Parsing&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "lin2026vigil",
+      "raw": {
+        "title": "VIGIL: Defending LLM Agents Against Tool Stream Injection via Verify-Before-Commit",
+        "authors": [
+          "Lin, Junda",
+          "Zhou, Zhaomeng",
+          "Zheng, Zhi",
+          "Liu, Shuochen",
+          "Xu, Tong",
+          "Chen, Yong",
+          "Chen, Enhong"
+        ],
+        "year": 2026,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=VIGIL%3A+Defending+LLM+Agents+Against+Tool+Stream+Injection+via+Verify-Before-Commit&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "seetharam2025malicious_arxiv",
+      "raw": {
+        "title": "Malicious GenAI Chrome Extensions: Unpacking Data Exfiltration and Malicious Behaviours",
+        "authors": [
+          "Seetharam, Shresta B.",
+          "Nabeel, Mohamed",
+          "Melicher, William"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Malicious+GenAI+Chrome+Extensions%3A+Unpacking+Data+Exfiltration+and+Malicious+Behaviours&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "jia2025task",
+      "raw": {
+        "title": "The Task Shield: Enforcing Task Alignment to Defend Against Indirect Prompt Injection in LLM Agents",
+        "authors": [
+          "Jia, Feiran",
+          "Wu, Tong",
+          "Qin, Xin",
+          "Squicciarini, Anna"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=The+Task+Shield%3A+Enforcing+Task+Alignment+to+Defend+Against+Indirect+Prompt+Injection+in+LLM+Agents&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    }
+  ]
+}

@@ -1,0 +1,2081 @@
+{
+  "paper_id": "128665d3-0120-4562-9a8e-e14732ec4896",
+  "total": 82,
+  "verified": 0,
+  "mismatch": 0,
+  "missing": 0,
+  "ambiguous": 0,
+  "error": 78,
+  "skipped": 4,
+  "s2_consulted": 0,
+  "s2_lifted": 0,
+  "key_style_outliers": [
+    "melodist24acl",
+    "songcomposer25acl",
+    "SchreiberM19_CNNKeyTempo_SMC",
+    "suno_v4_5_2025",
+    "udio_v1_5_2024",
+    "niu26steermusic",
+    "yang25tvsmusicgen",
+    "singnet23icassp",
+    "novack25presto",
+    "zhang25inspiremusic",
+    "ParkCJKP19"
+  ],
+  "entries": [
+    {
+      "key": "musicgen",
+      "raw": {
+        "title": "Simple and controllable music generation",
+        "authors": [
+          "Copet, Jade",
+          "Kreuk, Felix",
+          "Gat, Itai",
+          "Remez, Tal",
+          "Kant, David",
+          "Synnaeve, Gabriel",
+          "Adi, Yossi",
+          "D{\\'e}fossez, Alexandre"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Simple+and+controllable+music+generation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "dhariwal2020jukebox",
+      "raw": {
+        "title": "Jukebox: A Generative Model for Music",
+        "authors": [
+          "Prafulla Dhariwal",
+          "Heewoo Jun",
+          "Christine Payne",
+          "Jong Wook Kim",
+          "Alec Radford",
+          "Ilya Sutskever"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Jukebox%3A+A+Generative+Model+for+Music&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "agostinelli2023musiclm",
+      "raw": {
+        "title": "MusicLM: Generating music from text",
+        "authors": [
+          "Agostinelli, Andrea",
+          "Denk, Timo I",
+          "Borsos, Zal{\\'a}n",
+          "Engel, Jesse",
+          "Verzetti, Mauro",
+          "Caillon, Antoine",
+          "Huang, Qingqing",
+          "Jansen, Aren",
+          "Roberts, Adam",
+          "Tagliasacchi, Marco",
+          "others"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=MusicLM%3A+Generating+music+from+text&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "borsos2023audiolm",
+      "raw": {
+        "title": "Audiolm: a language modeling approach to audio generation",
+        "authors": [
+          "Borsos, Zal{\\'a}n",
+          "Marinier, Rapha{\\\"e}l",
+          "Vincent, Damien",
+          "Kharitonov, Eugene",
+          "Pietquin, Olivier",
+          "Sharifi, Matt",
+          "Roblek, Dominik",
+          "Teboul, Olivier",
+          "Grangier, David",
+          "Tagliasacchi, Marco",
+          "others"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Audiolm%3A+a+language+modeling+approach+to+audio+generation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "evans2025stable",
+      "raw": {
+        "title": "Stable Audio Open",
+        "authors": [
+          "Evans, Zach",
+          "Parker, Julian D",
+          "Carr, CJ",
+          "Zukowski, Zack",
+          "Taylor, Josiah",
+          "Pons, Jordi"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Stable+Audio+Open&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "melodist24acl",
+      "raw": {
+        "title": "Text-to-Song: Towards Controllable Music Generation Incorporating Vocals and Accompaniment",
+        "authors": [
+          "Zhiqing Hong",
+          "Rongjie Huang",
+          "Xize Cheng",
+          "Yongqi Wang",
+          "Ruiqi Li",
+          "Fuming You",
+          "Zhou Zhao",
+          "Zhimeng Zhang"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Text-to-Song%3A+Towards+Controllable+Music+Generation+Incorporating+Vocals+and+Accompaniment&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "songcomposer25acl",
+      "raw": {
+        "title": "SongComposer: A Large Language Model for Lyric and Melody Generation in Song Composition",
+        "authors": [
+          "Shuangrui Ding",
+          "Zihan Liu",
+          "Xiaoyi Dong",
+          "Pan Zhang",
+          "Rui Qian",
+          "Junhao Huang",
+          "Conghui He",
+          "Dahua Lin",
+          "Jiaqi Wang"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=SongComposer%3A+A+Large+Language+Model+for+Lyric+and+Melody+Generation+in+Song+Composition&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "hou2025editing",
+      "raw": {
+        "title": "Editing music with melody and text: Using ControlNet for diffusion Transformer",
+        "authors": [
+          "Hou, Siyuan",
+          "Liu, Shansong",
+          "Yuan, Ruibin",
+          "Xue, Wei",
+          "Shan, Ying",
+          "Zhao, Mangsuo",
+          "Zhang, Chao"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Editing+music+with+melody+and+text%3A+Using+ControlNet+for+diffusion+Transformer&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "tsai2025musecontrollite",
+      "raw": {
+        "title": "MuseControlLite: Multifunctional Music Generation with Lightweight Conditioners",
+        "authors": [
+          "Tsai, Fang-Duo",
+          "Wu, Shih-Lun",
+          "Lee, Weijaw",
+          "Yang, Sheng-Ping",
+          "Chen, Bo-Rui",
+          "Cheng, Hao-Chung",
+          "Yang, Yi-Hsuan"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=MuseControlLite%3A+Multifunctional+Music+Generation+with+Lightweight+Conditioners&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "tsai2024audio",
+      "raw": {
+        "title": "Audio prompt adapter: Unleashing music editing abilities for text-to-music with lightweight finetuning",
+        "authors": [
+          "Tsai, Fang-Duo",
+          "Wu, Shih-Lun",
+          "Kim, Haven",
+          "Chen, Bo-Yu",
+          "Cheng, Hao-Chung",
+          "Yang, Yi-Hsuan"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Audio+prompt+adapter%3A+Unleashing+music+editing+abilities+for+text-to-music+with+lightweight+finetuning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "wu2024music",
+      "raw": {
+        "title": "Music controlnet: Multiple time-varying controls for music generation",
+        "authors": [
+          "Wu, Shih-Lun",
+          "Donahue, Chris",
+          "Watanabe, Shinji",
+          "Bryan, Nicholas J"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Music+controlnet%3A+Multiple+time-varying+controls+for+music+generation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "tal2024joint",
+      "raw": {
+        "title": "Joint audio and symbolic conditioning for temporally controlled text-to-music generation",
+        "authors": [
+          "Tal, Or",
+          "Ziv, Alon",
+          "Gat, Itai",
+          "Kreuk, Felix",
+          "Adi, Yossi"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Joint+audio+and+symbolic+conditioning+for+temporally+controlled+text-to-music+generation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zhang2023adding",
+      "raw": {
+        "title": "Adding conditional control to text-to-image diffusion models",
+        "authors": [
+          "Zhang, Lvmin",
+          "Rao, Anyi",
+          "Agrawala, Maneesh"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Adding+conditional+control+to+text-to-image+diffusion+models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "donahue2023singsong",
+      "raw": {
+        "title": "SingSong: Generating musical accompaniments from singing",
+        "authors": [
+          "Donahue, Chris",
+          "Caillon, Antoine",
+          "Roberts, Adam",
+          "Manilow, Ethan",
+          "Esling, Philippe",
+          "Agostinelli, Andrea",
+          "Verzetti, Mauro",
+          "Simon, Ian",
+          "Pietquin, Olivier",
+          "Zeghidour, Neil",
+          "others"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=SingSong%3A+Generating+musical+accompaniments+from+singing&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "kim2021kuielab",
+      "raw": {
+        "title": "KUIELab-MDX-Net: A two-stream neural network for music demixing",
+        "authors": [
+          "Kim, Minseok",
+          "Choi, Woosung",
+          "Chung, Jaehwa",
+          "Lee, Daewon",
+          "Jung, Soonyoung"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=KUIELab-MDX-Net%3A+A+two-stream+neural+network+for+music+demixing&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "chen2024fastsag",
+      "raw": {
+        "title": "FastSAG: towards fast non-autoregressive singing accompaniment generation",
+        "authors": [
+          "Chen, Jianyi",
+          "Xue, Wei",
+          "Tan, Xu",
+          "Ye, Zhen",
+          "Liu, Qifeng",
+          "Guo, Yike"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=FastSAG%3A+towards+fast+non-autoregressive+singing+accompaniment+generation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "heydari2021beatnet",
+      "raw": {
+        "title": "Beatnet: Crnn and particle filtering for online joint beat downbeat and meter tracking",
+        "authors": [
+          "Heydari, Mojtaba",
+          "Cwitkowitz, Frank",
+          "Duan, Zhiyao"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Beatnet%3A+Crnn+and+particle+filtering+for+online+joint+beat+downbeat+and+meter+tracking&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "SchreiberM19_CNNKeyTempo_SMC",
+      "raw": {
+        "title": "Musical Tempo and Key Estimation using Convolutional Neural Networks with Directional Filters",
+        "authors": [
+          "Hendrik Schreiber",
+          "Meinard M{\\\"u}ller"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Musical+Tempo+and+Key+Estimation+using+Convolutional+Neural+Networks+with+Directional+Filters&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "wang2023mel",
+      "raw": {
+        "title": "Mel-band RoFormer for music source separation",
+        "authors": [
+          "Wang, Ju-Chiang",
+          "Lu, Wei-Tsung",
+          "Won, Minz"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Mel-band+RoFormer+for+music+source+separation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "kim2023all",
+      "raw": {
+        "title": "All-in-one metrical and functional structure analysis with neighborhood attentions on demixed audio",
+        "authors": [
+          "Kim, Taejun",
+          "Nam, Juhan"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=All-in-one+metrical+and+functional+structure+analysis+with+neighborhood+attentions+on+demixed+audio&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "suno_v4_5_2025",
+      "raw": {
+        "title": "Introducing v4.5",
+        "authors": [
+          "Suno, Inc."
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Introducing+v4.5&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "udio_v1_5_2024",
+      "raw": {
+        "title": "Introducing v1.5",
+        "authors": [
+          "{Udio, Inc.}"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Introducing+v1.5&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "yuan2025yue",
+      "raw": {
+        "title": "YuE: Scaling open foundation models for long-form music generation",
+        "authors": [
+          "Yuan, Ruibin",
+          "Lin, Hanfeng",
+          "Guo, Shuyue",
+          "Zhang, Ge",
+          "Pan, Jiahao",
+          "Zang, Yongyi",
+          "Liu, Haohe",
+          "Liang, Yiming",
+          "Ma, Wenye",
+          "Du, Xingjian",
+          "others"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=YuE%3A+Scaling+open+foundation+models+for+long-form+music+generation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ning2025diffrhythm",
+      "raw": {
+        "title": "DiffRhythm: Blazingly fast and embarrassingly simple end-to-end full-length song generation with latent diffusion",
+        "authors": [
+          "Ning, Ziqian",
+          "Chen, Huakang",
+          "Jiang, Yuepeng",
+          "Hao, Chunbo",
+          "Ma, Guobin",
+          "Wang, Shuai",
+          "Yao, Jixun",
+          "Xie, Lei"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=DiffRhythm%3A+Blazingly+fast+and+embarrassingly+simple+end-to-end+full-length+song+generation+with+latent+diffusion&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "gong2025ace",
+      "raw": {
+        "title": "Ace-step: A step towards music generation foundation model",
+        "authors": [
+          "Gong, Junmin",
+          "Zhao, Sean",
+          "Wang, Sen",
+          "Xu, Shengyuan",
+          "Guo, Joe"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Ace-step%3A+A+step+towards+music+generation+foundation+model&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "liu2025jam",
+      "raw": {
+        "title": "JAM: A Tiny Flow-based Song Generator with Fine-grained Controllability and Aesthetic Alignment",
+        "authors": [
+          "Liu, Renhang",
+          "Hung, Chia-Yu",
+          "Majumder, Navonil",
+          "Gautreaux, Taylor",
+          "Bagherzadeh, Amir Ali",
+          "Li, Chuan",
+          "Herremans, Dorien",
+          "Poria, Soujanya"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=JAM%3A+A+Tiny+Flow-based+Song+Generator+with+Fine-grained+Controllability+and+Aesthetic+Alignment&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "lei2025levo",
+      "raw": {
+        "title": "LeVo: High-Quality Song Generation with Multi-Preference Alignment",
+        "authors": [
+          "Lei, Shun",
+          "Xu, Yaoxun",
+          "Lin, Zhiwei",
+          "Zhang, Huaicheng",
+          "Tan, Wei",
+          "Chen, Hangting",
+          "Yu, Jianwei",
+          "Zhang, Yixuan",
+          "Yang, Chenyu",
+          "Zhu, Haina",
+          "others"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=LeVo%3A+High-Quality+Song+Generation+with+Multi-Preference+Alignment&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "liu2025songgen",
+      "raw": {
+        "title": "SongGen: A single stage auto-regressive transformer for text-to-song generation",
+        "authors": [
+          "Liu, Zihan",
+          "Ding, Shuangrui",
+          "Zhang, Zhixiong",
+          "Dong, Xiaoyi",
+          "Zhang, Pan",
+          "Zang, Yuhang",
+          "Cao, Yuhang",
+          "Lin, Dahua",
+          "Wang, Jiaqi"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=SongGen%3A+A+single+stage+auto-regressive+transformer+for+text-to-song+generation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "yang2025songbloom",
+      "raw": {
+        "title": "SongBloom: Coherent Song Generation via Interleaved Autoregressive Sketching and Diffusion Refinement",
+        "authors": [
+          "Yang, Chenyu",
+          "Wang, Shuai",
+          "Chen, Hangting",
+          "Tan, Wei",
+          "Yu, Jianwei",
+          "Li, Haizhou"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=SongBloom%3A+Coherent+Song+Generation+via+Interleaved+Autoregressive+Sketching+and+Diffusion+Refinement&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "niu26steermusic",
+      "raw": {
+        "title": "SteerMusic: Enhanced Musical Consistency for Zero-shot Text-guided and Personalized Music Editing",
+        "authors": [
+          "Xinlei Niu",
+          "Kin Wai Cheuk",
+          "Jing Zhang",
+          "Naoki Murata",
+          "Chieh-Hsin Lai",
+          "Michele Mancusi",
+          "Woosung Choi",
+          "Giorgio Fabbro",
+          "Wei-Hsiang Liao",
+          "Charles Patrick Martin",
+          "Yuki Mitsufuji"
+        ],
+        "year": 2026,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=SteerMusic%3A+Enhanced+Musical+Consistency+for+Zero-shot+Text-guided+and+Personalized+Music+Editing&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "chai2025csl",
+      "raw": {
+        "title": "CSL-L2M: Controllable Song-Level Lyric-to-Melody Generation Based on Conditional Transformer with Fine-Grained Lyric and Musical Controls",
+        "authors": [
+          "Chai, Li",
+          "Wang, Donglin"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=CSL-L2M%3A+Controllable+Song-Level+Lyric-to-Melody+Generation+Based+on+Conditional+Transformer+with+Fine-Grained+Lyric+and+Musical+Controls&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "yi2022accomontage2",
+      "raw": {
+        "title": "Accomontage2: A complete harmonization and accompaniment arrangement system",
+        "authors": [
+          "Yi, Li",
+          "Hu, Haochen",
+          "Zhao, Jingwei",
+          "Xia, Gus"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Accomontage2%3A+A+complete+harmonization+and+accompaniment+arrangement+system&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ren2020fastspeech",
+      "raw": {
+        "title": "FastSpeech 2: Fast and high-quality end-to-end text to speech",
+        "authors": [
+          "Ren, Yi",
+          "Hu, Chenxu",
+          "Tan, Xu",
+          "Qin, Tao",
+          "Zhao, Sheng",
+          "Zhao, Zhou",
+          "Liu, Tie-Yan"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=FastSpeech+2%3A+Fast+and+high-quality+end-to-end+text+to+speech&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Forsgren_Martiros_2022",
+      "raw": {
+        "title": "Riffusion - Stable diffusion for real-time music generation",
+        "authors": [
+          "Forsgren, Seth",
+          "Martiros, Hayk"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "liu2024audioldm",
+      "raw": {
+        "title": "Audioldm 2: Learning holistic audio generation with self-supervised pretraining",
+        "authors": [
+          "Liu, Haohe",
+          "Yuan, Yi",
+          "Liu, Xubo",
+          "Mei, Xinhao",
+          "Kong, Qiuqiang",
+          "Tian, Qiao",
+          "Wang, Yuping",
+          "Wang, Wenwu",
+          "Wang, Yuxuan",
+          "Plumbley, Mark D"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Audioldm+2%3A+Learning+holistic+audio+generation+with+self-supervised+pretraining&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "yang25tvsmusicgen",
+      "raw": {
+        "title": "TVC-MusicGen: Time-Varying Structure Control for Background Music Generation via Self-Supervised Training",
+        "authors": [
+          "Chenyu Yang",
+          "Hangting Chen",
+          "Shuai Wang",
+          "Haina Zhu",
+          "Haizhou Li"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=TVC-MusicGen%3A+Time-Varying+Structure+Control+for+Background+Music+Generation+via+Self-Supervised+Training&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "singnet23icassp",
+      "raw": {
+        "title": "SingNet: A Real-time Singing Voice Beat and Downbeat Tracking System",
+        "authors": [
+          "Mojtaba Heydari",
+          "Ju-Chiang Wang",
+          "Zhiyao Duan"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=SingNet%3A+A+Real-time+Singing+Voice+Beat+and+Downbeat+Tracking+System&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "novack25presto",
+      "raw": {
+        "title": "Presto! Distilling Steps and Layers for Accelerating Music Generation",
+        "authors": [
+          "Zachary Novack",
+          "Ge Zhu",
+          "Jonah Casebeer",
+          "Julian McAuley",
+          "Taylor Berg-Kirkpatrick",
+          "Nicholas J. Bryan"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Presto%21+Distilling+Steps+and+Layers+for+Accelerating+Music+Generation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "chen2024musicldm",
+      "raw": {
+        "title": "Musicldm: Enhancing novelty in text-to-music generation using beat-synchronous mixup strategies",
+        "authors": [
+          "Chen, Ke",
+          "Wu, Yusong",
+          "Liu, Haohe",
+          "Nezhurina, Marianna",
+          "Berg-Kirkpatrick, Taylor",
+          "Dubnov, Shlomo"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Musicldm%3A+Enhancing+novelty+in+text-to-music+generation+using+beat-synchronous+mixup+strategies&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "kong2020hifi",
+      "raw": {
+        "title": "Hifi-gan: Generative adversarial networks for efficient and high fidelity speech synthesis",
+        "authors": [
+          "Kong, Jungil",
+          "Kim, Jaehyeon",
+          "Bae, Jaekyoung"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Hifi-gan%3A+Generative+adversarial+networks+for+efficient+and+high+fidelity+speech+synthesis&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zhang25inspiremusic",
+      "raw": {
+        "title": "InspireMusic: Integrating Super Resolution and Large Language Model for High-Fidelity Long-Form Music Generation",
+        "authors": [
+          "Chong Zhang",
+          "Yukun Ma",
+          "Qian Chen",
+          "Wen Wang",
+          "Shengkui Zhao",
+          "Zexu Pan",
+          "Hao Wang",
+          "Chongjia Ni",
+          "Trung Hieu Nguyen",
+          "Kun Zhou",
+          "Yidi Jiang",
+          "Chaohong Tan",
+          "Zhifu Gao",
+          "Zhihao Du",
+          "Bin Ma"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=InspireMusic%3A+Integrating+Super+Resolution+and+Large+Language+Model+for+High-Fidelity+Long-Form+Music+Generation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "evans2024long",
+      "raw": {
+        "title": "Long-form music generation with latent diffusion",
+        "authors": [
+          "Evans, Zach",
+          "Parker, Julian D",
+          "Carr, CJ",
+          "Zukowski, Zack",
+          "Taylor, Josiah",
+          "Pons, Jordi"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Long-form+music+generation+with+latent+diffusion&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "evans2024fast",
+      "raw": {
+        "title": "Fast timing-conditioned latent audio diffusion",
+        "authors": [
+          "Evans, Zach",
+          "Carr, CJ",
+          "Taylor, Josiah",
+          "Hawley, Scott H",
+          "Pons, Jordi"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Fast+timing-conditioned+latent+audio+diffusion&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "fei2024flux",
+      "raw": {
+        "title": "FLUX that Plays Music",
+        "authors": [
+          "Zhengcong Fei",
+          "Mingyuan Fan",
+          "Changqian Yu",
+          "Junshi Huang"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=FLUX+that+Plays+Music&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "hung2024tangoflux",
+      "raw": {
+        "title": "Tangoflux: Super fast and faithful text to audio generation with flow matching and clap-ranked preference optimization",
+        "authors": [
+          "Hung, Chia-Yu",
+          "Majumder, Navonil",
+          "Kong, Zhifeng",
+          "Mehrish, Ambuj",
+          "Bagherzadeh, Amir Ali",
+          "Li, Chuan",
+          "Valle, Rafael",
+          "Catanzaro, Bryan",
+          "Poria, Soujanya"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Tangoflux%3A+Super+fast+and+faithful+text+to+audio+generation+with+flow+matching+and+clap-ranked+preference+optimization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "majumder2024tango",
+      "raw": {
+        "title": "Tango 2: Aligning diffusion-based text-to-audio generations through direct preference optimization",
+        "authors": [
+          "Majumder, Navonil",
+          "Hung, Chia-Yu",
+          "Ghosal, Deepanway",
+          "Hsu, Wei-Ning",
+          "Mihalcea, Rada",
+          "Poria, Soujanya"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Tango+2%3A+Aligning+diffusion-based+text-to-audio+generations+through+direct+preference+optimization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "defossez2022high",
+      "raw": {
+        "title": "High fidelity neural audio compression",
+        "authors": [
+          "D{\\'e}fossez, Alexandre",
+          "Copet, Jade",
+          "Synnaeve, Gabriel",
+          "Adi, Yossi"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=High+fidelity+neural+audio+compression&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "yu2021conditional",
+      "raw": {
+        "title": "Conditional LSTM-GAN for melody generation from lyrics",
+        "authors": [
+          "Yu, Yi",
+          "Srivastava, Abhishek",
+          "Canales, Simon"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Conditional+LSTM-GAN+for+melody+generation+from+lyrics&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "sheng2021songmass",
+      "raw": {
+        "title": "SongMASS: Automatic song writing with pre-training and alignment constraint",
+        "authors": [
+          "Sheng, Zhonghao",
+          "Song, Kaitao",
+          "Tan, Xu",
+          "Ren, Yi",
+          "Ye, Wei",
+          "Zhang, Shikun",
+          "Qin, Tao"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=SongMASS%3A+Automatic+song+writing+with+pre-training+and+alignment+constraint&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ju2021telemelody",
+      "raw": {
+        "title": "TeleMelody: Lyric-to-melody generation with a template-based two-stage method",
+        "authors": [
+          "Ju, Zeqian",
+          "Lu, Peiling",
+          "Tan, Xu",
+          "Wang, Rui",
+          "Zhang, Chen",
+          "Wu, Songruoyao",
+          "Zhang, Kejun",
+          "Li, Xiangyang",
+          "Qin, Tao",
+          "Liu, Tie-Yan"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=TeleMelody%3A+Lyric-to-melody+generation+with+a+template-based+two-stage+method&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zhang2022relyme",
+      "raw": {
+        "title": "Relyme: Improving lyric-to-melody generation by incorporating lyric-melody relationships",
+        "authors": [
+          "Zhang, Chen",
+          "Chang, Luchin",
+          "Wu, Songruoyao",
+          "Tan, Xu",
+          "Qin, Tao",
+          "Liu, Tie-Yan",
+          "Zhang, Kejun"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Relyme%3A+Improving+lyric-to-melody+generation+by+incorporating+lyric-melody+relationships&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "liu2022diffsinger",
+      "raw": {
+        "title": "DiffSinger: Singing voice synthesis via shallow diffusion mechanism",
+        "authors": [
+          "Liu, Jinglin",
+          "Li, Chengxi",
+          "Ren, Yi",
+          "Chen, Feiyang",
+          "Zhao, Zhou"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=DiffSinger%3A+Singing+voice+synthesis+via+shallow+diffusion+mechanism&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "lu2020xiaoicesing",
+      "raw": {
+        "title": "XiaoiceSing: A high-quality and integrated singing voice synthesis system",
+        "authors": [
+          "Lu, Peiling",
+          "Wu, Jie",
+          "Luan, Jian",
+          "Tan, Xu",
+          "Zhou, Li"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=XiaoiceSing%3A+A+high-quality+and+integrated+singing+voice+synthesis+system&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "chen2020hifisinger",
+      "raw": {
+        "title": "Hifisinger: Towards high-fidelity neural singing voice synthesis",
+        "authors": [
+          "Chen, Jiawei",
+          "Tan, Xu",
+          "Luan, Jian",
+          "Qin, Tao",
+          "Liu, Tie-Yan"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Hifisinger%3A+Towards+high-fidelity+neural+singing+voice+synthesis&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "trinh2024sing",
+      "raw": {
+        "title": "Sing-On-Your-Beat: Simple Text-Controllable Accompaniment Generations",
+        "authors": [
+          "Trinh, Quoc-Huy",
+          "Nguyen, Minh-Van",
+          "Mau, Trong-Hieu Nguyen",
+          "Tran, Khoa",
+          "Do, Thanh"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Sing-On-Your-Beat%3A+Simple+Text-Controllable+Accompaniment+Generations&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "touvron2023llama",
+      "raw": {
+        "title": "Llama 2: Open foundation and fine-tuned chat models",
+        "authors": [
+          "Touvron, Hugo",
+          "Martin, Louis",
+          "Stone, Kevin",
+          "Albert, Peter",
+          "Almahairi, Amjad",
+          "Babaei, Yasmine",
+          "Bashlykov, Nikolay",
+          "Batra, Soumya",
+          "Bhargava, Prajjwal",
+          "Bhosale, Shruti",
+          "others"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Llama+2%3A+Open+foundation+and+fine-tuned+chat+models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "wu2023musemorphose",
+      "raw": {
+        "title": "MuseMorphose: Full-song and fine-grained piano music style transfer with one transformer VAE",
+        "authors": [
+          "Wu, Shih-Lun",
+          "Yang, Yi-Hsuan"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=MuseMorphose%3A+Full-song+and+fine-grained+piano+music+style+transfer+with+one+transformer+VAE&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "miditok2021",
+      "raw": {
+        "title": "MidiTok: A Python package for MIDI file tokenization",
+        "authors": [
+          "Fradet, Nathan",
+          "Briot, Jean-Pierre",
+          "Chhel, Fabien",
+          "El Fallah Seghrouchni, Amal",
+          "Gutowski, Nicolas"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "ParkCJKP19",
+      "raw": {
+        "title": "A Bi-Directional Transformer for Musical Chord Recognition",
+        "authors": [
+          "Jonggwon Park",
+          "Kyoyun Choi",
+          "Sungwook Jeon",
+          "Dokyun Kim",
+          "Jonghun Park"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=A+Bi-Directional+Transformer+for+Musical+Chord+Recognition&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "park2019bi",
+      "raw": {
+        "title": "A bi-directional transformer for musical chord recognition",
+        "authors": [
+          "Park, Jonggwon",
+          "Choi, Kyoyun",
+          "Jeon, Sungwook",
+          "Kim, Dokyun",
+          "Park, Jonghun"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=A+bi-directional+transformer+for+musical+chord+recognition&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "goel2025audio",
+      "raw": {
+        "title": "Audio Flamingo 3: Advancing audio intelligence with fully open large audio language models",
+        "authors": [
+          "Goel, Arushi",
+          "Ghosh, Sreyan",
+          "Kim, Jaehyeon",
+          "Kumar, Sonal",
+          "Kong, Zhifeng",
+          "Lee, Sang-gil",
+          "Yang, Chao-Han Huck",
+          "Duraiswami, Ramani",
+          "Manocha, Dinesh",
+          "Valle, Rafael",
+          "others"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Audio+Flamingo+3%3A+Advancing+audio+intelligence+with+fully+open+large+audio+language+models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "yamamoto2020parallel",
+      "raw": {
+        "title": "Parallel WaveGAN: A fast waveform generation model based on generative adversarial networks with multi-resolution spectrogram",
+        "authors": [
+          "Yamamoto, Ryuichi",
+          "Song, Eunwoo",
+          "Kim, Jae-Min"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Parallel+WaveGAN%3A+A+fast+waveform+generation+model+based+on+generative+adversarial+networks+with+multi-resolution+spectrogram&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "rombach2022high",
+      "raw": {
+        "title": "High-resolution image synthesis with latent diffusion models",
+        "authors": [
+          "Rombach, Robin",
+          "Blattmann, Andreas",
+          "Lorenz, Dominik",
+          "Esser, Patrick",
+          "Ommer, Bj{\\\"o}rn"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=High-resolution+image+synthesis+with+latent+diffusion+models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "radford2022robustspeechrecognitionlargescale",
+      "raw": {
+        "title": "Robust Speech Recognition via Large-Scale Weak Supervision",
+        "authors": [
+          "Alec Radford",
+          "Jong Wook Kim",
+          "Tao Xu",
+          "Greg Brockman",
+          "Christine McLeavey",
+          "Ilya Sutskever"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": "2212.04356"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2212.04356&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "wu2024largescalecontrastivelanguageaudiopretraining",
+      "raw": {
+        "title": "Large-scale Contrastive Language-Audio Pretraining with Feature Fusion and Keyword-to-Caption Augmentation",
+        "authors": [
+          "Yusong Wu",
+          "Ke Chen",
+          "Tianyu Zhang",
+          "Yuchen Hui",
+          "Marianna Nezhurina",
+          "Taylor Berg-Kirkpatrick",
+          "Shlomo Dubnov"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2211.06687"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2211.06687&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "yao2025songevalbenchmarkdatasetsong",
+      "raw": {
+        "title": "SongEval: A Benchmark Dataset for Song Aesthetics Evaluation",
+        "authors": [
+          "Jixun Yao",
+          "Guobin Ma",
+          "Huixin Xue",
+          "Huakang Chen",
+          "Chunbo Hao",
+          "Yuepeng Jiang",
+          "Haohe Liu",
+          "Ruibin Yuan",
+          "Jin Xu",
+          "Wei Xue",
+          "Hao Liu",
+          "Lei Xie"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2505.10793"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2505.10793&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "tjandra2025metaaudioboxaestheticsunified",
+      "raw": {
+        "title": "Meta Audiobox Aesthetics: Unified Automatic Quality Assessment for Speech, Music, and Sound",
+        "authors": [
+          "Andros Tjandra",
+          "Yi-Chiao Wu",
+          "Baishan Guo",
+          "John Hoffman",
+          "Brian Ellis",
+          "Apoorv Vyas",
+          "Bowen Shi",
+          "Sanyuan Chen",
+          "Matt Le",
+          "Nick Zacharov",
+          "Carleigh Wood",
+          "Ann Lee",
+          "Wei-Ning Hsu"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2502.05139"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2502.05139&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "mirex2018alignment",
+      "raw": {
+        "title": "MIREX 2018: Automatic Lyrics-to-Audio Alignment",
+        "authors": [
+          "{Music Information Retrieval Evaluation eXchange (MIREX)}"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=MIREX+2018%3A+Automatic+Lyrics-to-Audio+Alignment&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "tsaidemonstrating",
+      "raw": {
+        "title": "Demonstrating Singing accompaniment capabilities for MuseControlLite",
+        "authors": [
+          "Tsai, Fang-Duo",
+          "Yang, Yi-Hsuan"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Demonstrating+Singing+accompaniment+capabilities+for+MuseControlLite&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "lee2025exploring",
+      "raw": {
+        "title": "Exploring state-space-model based language model in music generation",
+        "authors": [
+          "Lee, Wei-Jaw",
+          "Hsieh, Fang-Chih",
+          "Chen, Xuanjun",
+          "Tsai, Fang-Duo",
+          "Yang, Yi-Hsuan"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Exploring+state-space-model+based+language+model+in+music+generation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zhang2025anyaccomp",
+      "raw": {
+        "title": "AnyAccomp: Generalizable Accompaniment Generation via Quantized Melodic Bottleneck",
+        "authors": [
+          "Zhang, Junan",
+          "Zhang, Yunjia",
+          "Zhang, Xueyao",
+          "Wu, Zhizheng"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=AnyAccomp%3A+Generalizable+Accompaniment+Generation+via+Quantized+Melodic+Bottleneck&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zhang2025versatile",
+      "raw": {
+        "title": "Versatile framework for song generation with prompt-based control",
+        "authors": [
+          "Zhang, Yu",
+          "Guo, Wenxiang",
+          "Pan, Changhao",
+          "Zhu, Zhiyuan",
+          "Li, Ruiqi",
+          "Lu, Jingyu",
+          "Huang, Rongjie",
+          "Zhang, Ruiyuan",
+          "Hong, Zhiqing",
+          "Jiang, Ziyue",
+          "others"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Versatile+framework+for+song+generation+with+prompt-based+control&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "jiang2025diffrhythm",
+      "raw": {
+        "title": "DiffRhythm 2: Efficient and High Fidelity Song Generation via Block Flow Matching",
+        "authors": [
+          "Jiang, Yuepeng",
+          "Chen, Huakang",
+          "Ning, Ziqian",
+          "Yao, Jixun",
+          "Han, Zerui",
+          "Wu, Di",
+          "Meng, Meng",
+          "Luan, Jian",
+          "Fu, Zhonghua",
+          "Xie, Lei"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=DiffRhythm+2%3A+Efficient+and+High+Fidelity+Song+Generation+via+Block+Flow+Matching&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "yang2026heartmula",
+      "raw": {
+        "title": "HeartMuLa: A Family of Open Sourced Music Foundation Models",
+        "authors": [
+          "Yang, Dongchao",
+          "Xie, Yuxin",
+          "Yin, Yuguo",
+          "Wang, Zheyu",
+          "Yi, Xiaoyu",
+          "Zhu, Gongxi",
+          "Weng, Xiaolong",
+          "Xiong, Zihan",
+          "Ma, Yingzhe",
+          "Cong, Dading",
+          "others"
+        ],
+        "year": 2026,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=HeartMuLa%3A+A+Family+of+Open+Sourced+Music+Foundation+Models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "openvpi_some",
+      "raw": {
+        "title": "SOME: Singing-Oriented MIDI Extractor",
+        "authors": [
+          "openvpi"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "heydari2022singing",
+      "raw": {
+        "title": "Singing beat tracking with self-supervised front-end and linear transformers",
+        "authors": [
+          "Heydari, Mojtaba",
+          "Duan, Zhiyao"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Singing+beat+tracking+with+self-supervised+front-end+and+linear+transformers&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "bock2016joint",
+      "raw": {
+        "title": "Joint Beat and Downbeat Tracking with Recurrent Neural Networks.",
+        "authors": [
+          "B{\\\"o}ck, Sebastian",
+          "Krebs, Florian",
+          "Widmer, Gerhard"
+        ],
+        "year": 2016,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Joint+Beat+and+Downbeat+Tracking+with+Recurrent+Neural+Networks.&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "silero_vad",
+      "raw": {
+        "title": "Silero VAD: pre-trained enterprise-grade Voice Activity Detector (VAD), Number Detector and Language Classifier",
+        "authors": [
+          "{Silero Team}"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "grachten2025accompaniment",
+      "raw": {
+        "title": "Accompaniment Prompt Adherence: A measure for evaluating music accompaniment systems",
+        "authors": [
+          "Grachten, Maarten",
+          "Nistal, Javier"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Accompaniment+Prompt+Adherence%3A+A+measure+for+evaluating+music+accompaniment+systems&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "kilgour2018fr",
+      "raw": {
+        "title": "Fr$\\backslash$'echet audio distance: A metric for evaluating music enhancement algorithms",
+        "authors": [
+          "Kilgour, Kevin",
+          "Zuluaga, Mauricio",
+          "Roblek, Dominik",
+          "Sharifi, Matthew"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Fr%24%5Cbackslash%24%27echet+audio+distance%3A+A+metric+for+evaluating+music+enhancement+algorithms&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "rafii2017musdb18",
+      "raw": {
+        "title": "The MUSDB18 corpus for music separation",
+        "authors": [
+          "Rafii, Zafar",
+          "Liutkus, Antoine",
+          "St{\\\"o}ter, Fabian-Robert",
+          "Mimilakis, Stylianos Ioannis",
+          "Bittner, Rachel"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=The+MUSDB18+corpus+for+music+separation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "chu2024qwen2",
+      "raw": {
+        "title": "Qwen2-audio technical report",
+        "authors": [
+          "Chu, Yunfei",
+          "Xu, Jin",
+          "Yang, Qian",
+          "Wei, Haojie",
+          "Wei, Xipin",
+          "Guo, Zhifang",
+          "Leng, Yichong",
+          "Lv, Yuanjun",
+          "He, Jinzheng",
+          "Lin, Junyang",
+          "others"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Qwen2-audio+technical+report&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    }
+  ]
+}

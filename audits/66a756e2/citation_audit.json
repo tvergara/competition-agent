@@ -1,0 +1,2168 @@
+{
+  "paper_id": "66a756e2-c084-495f-b9d8-3f0ac4332cea",
+  "total": 84,
+  "verified": 0,
+  "mismatch": 0,
+  "missing": 0,
+  "ambiguous": 0,
+  "error": 82,
+  "skipped": 2,
+  "s2_consulted": 0,
+  "s2_lifted": 0,
+  "key_style_outliers": [
+    "Magic3D",
+    "zero123",
+    "3dtopia-xl",
+    "hunyuan3d",
+    "sing3d",
+    "gen3dsr",
+    "3dfront",
+    "kerbl3Dgaussians",
+    "Magic3D",
+    "zero123",
+    "3dtopia-xl",
+    "hunyuan3d",
+    "sing3d",
+    "gen3dsr",
+    "3dfront",
+    "kerbl3Dgaussians"
+  ],
+  "entries": [
+    {
+      "key": "midi",
+      "raw": {
+        "title": "Midi: Multi-instance diffusion for single image to 3d scene generation",
+        "authors": [
+          "Huang, Zehuan",
+          "Guo, Yuan-Chen",
+          "An, Xingqiao",
+          "Yang, Yunhan",
+          "Li, Yangguang",
+          "Zou, Zi-Xin",
+          "Liang, Ding",
+          "Liu, Xihui",
+          "Cao, Yan-Pei",
+          "Sheng, Lu"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Midi%3A+Multi-instance+diffusion+for+single+image+to+3d+scene+generation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "real-data",
+      "raw": {
+        "title": "Recognizing indoor scenes",
+        "authors": [
+          "Quattoni, Ariadna",
+          "Torralba, Antonio"
+        ],
+        "year": 2009,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Recognizing+indoor+scenes&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "DPA",
+      "raw": {
+        "title": "Zero-shot scene reconstruction from single images with deep prior assembly",
+        "authors": [
+          "Zhou, Junsheng",
+          "Liu, Yu-Shen",
+          "Han, Zhizhong"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Zero-shot+scene+reconstruction+from+single+images+with+deep+prior+assembly&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "dit",
+      "raw": {
+        "title": "Scalable diffusion models with transformers",
+        "authors": [
+          "Peebles, William",
+          "Xie, Saining"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Scalable+diffusion+models+with+transformers&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "dreamfusion",
+      "raw": {
+        "title": "DreamFusion: Text-to-3D using 2D Diffusion",
+        "authors": [
+          "Ben Poole",
+          "Ajay Jain",
+          "Jonathan T. Barron",
+          "Ben Mildenhall"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=DreamFusion%3A+Text-to-3D+using+2D+Diffusion&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Magic3D",
+      "raw": {
+        "title": "Magic3D: High-Resolution Text-to-3D Content Creation",
+        "authors": [
+          "Chen{-}Hsuan Lin",
+          "Jun Gao",
+          "Luming Tang",
+          "Towaki Takikawa",
+          "Xiaohui Zeng",
+          "Xun Huang",
+          "Karsten Kreis",
+          "Sanja Fidler",
+          "Ming{-}Yu Liu",
+          "Tsung{-}Yi Lin"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Magic3D%3A+High-Resolution+Text-to-3D+Content+Creation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zero123",
+      "raw": {
+        "title": "Zero-1-to-3: Zero-shot One Image to 3D Object",
+        "authors": [
+          "Ruoshi Liu",
+          "Rundi Wu",
+          "Basile Van Hoorick",
+          "Pavel Tokmakov",
+          "Sergey Zakharov",
+          "Carl Vondrick"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Zero-1-to-3%3A+Zero-shot+One+Image+to+3D+Object&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "lgm",
+      "raw": {
+        "title": "Lgm: Large multi-view gaussian model for high-resolution 3d content creation",
+        "authors": [
+          "Tang, Jiaxiang",
+          "Chen, Zhaoxi",
+          "Chen, Xiaokang",
+          "Wang, Tengfei",
+          "Zeng, Gang",
+          "Liu, Ziwei"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Lgm%3A+Large+multi-view+gaussian+model+for+high-resolution+3d+content+creation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "3dtopia-xl",
+      "raw": {
+        "title": "3dtopia-xl: Scaling high-quality 3d asset generation via primitive diffusion",
+        "authors": [
+          "Chen, Zhaoxi",
+          "Tang, Jiaxiang",
+          "Dong, Yuhao",
+          "Cao, Ziang",
+          "Hong, Fangzhou",
+          "Lan, Yushi",
+          "Wang, Tengfei",
+          "Xie, Haozhe",
+          "Wu, Tong",
+          "Saito, Shunsuke",
+          "others"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=3dtopia-xl%3A+Scaling+high-quality+3d+asset+generation+via+primitive+diffusion&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "trellis",
+      "raw": {
+        "title": "Structured 3d latents for scalable and versatile 3d generation",
+        "authors": [
+          "Xiang, Jianfeng",
+          "Lv, Zelong",
+          "Xu, Sicheng",
+          "Deng, Yu",
+          "Wang, Ruicheng",
+          "Zhang, Bowen",
+          "Chen, Dong",
+          "Tong, Xin",
+          "Yang, Jiaolong"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Structured+3d+latents+for+scalable+and+versatile+3d+generation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "hunyuan3d",
+      "raw": {
+        "title": "Hunyuan3D 2.0: Scaling Diffusion Models for High Resolution Textured 3D Assets Generation",
+        "authors": [
+          "Tencent Hunyuan3D Team"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Hunyuan3D+2.0%3A+Scaling+Diffusion+Models+for+High+Resolution+Textured+3D+Assets+Generation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "reparo",
+      "raw": {
+        "title": "Reparo: Compositional 3d assets generation with differentiable 3d layout alignment",
+        "authors": [
+          "Han, Haonan",
+          "Yang, Rui",
+          "Liao, Huan",
+          "Xing, Jiankai",
+          "Xu, Zunnan",
+          "Yu, Xiaoming",
+          "Zha, Junwei",
+          "Li, Xiu",
+          "Li, Wanhua"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Reparo%3A+Compositional+3d+assets+generation+with+differentiable+3d+layout+alignment&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "sing3d",
+      "raw": {
+        "title": "Towards geometric and textural consistency 3d scene generation via single image-guided model generation and layout optimization",
+        "authors": [
+          "Tang, Xiang",
+          "Li, Ruotong",
+          "Fan, Xiaopeng"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Towards+geometric+and+textural+consistency+3d+scene+generation+via+single+image-guided+model+generation+and+layout+optimization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "gen3dsr",
+      "raw": {
+        "title": "Generalizable 3D Scene Reconstruction via Divide and Conquer from a Single View",
+        "authors": [
+          "Ardelean, Andreea",
+          "Özer, Mert",
+          "Egger, Bernhard"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Generalizable+3D+Scene+Reconstruction+via+Divide+and+Conquer+from+a+Single+View&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "CAST",
+      "raw": {
+        "title": "CAST: Component-Aligned 3D Scene Reconstruction from an RGB Image",
+        "authors": [
+          "Kaixin Yao",
+          "Longwen Zhang",
+          "Xinhao Yan",
+          "Yan Zeng",
+          "Qixuan Zhang",
+          "Lan Xu",
+          "Wei Yang",
+          "Jiayuan Gu",
+          "Jingyi Yu"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=CAST%3A+Component-Aligned+3D+Scene+Reconstruction+from+an+RGB+Image&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "3dfront",
+      "raw": {
+        "title": "3d-front: 3d furnished rooms with layouts and semantics",
+        "authors": [
+          "Fu, Huan",
+          "Cai, Bowen",
+          "Gao, Lin",
+          "Zhang, Ling-Xiao",
+          "Wang, Jiaming",
+          "Li, Cao",
+          "Zeng, Qixun",
+          "Sun, Chengyue",
+          "Jia, Rongfei",
+          "Zhao, Binqiang",
+          "others"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=3d-front%3A+3d+furnished+rooms+with+layouts+and+semantics&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "flux",
+      "raw": {
+        "title": "FLUX. 1 Kontext: Flow Matching for In-Context Image Generation and Editing in Latent Space",
+        "authors": [
+          "Labs, Black Forest",
+          "Batifol, Stephen",
+          "Blattmann, Andreas",
+          "Boesel, Frederic",
+          "Consul, Saksham",
+          "Diagne, Cyril",
+          "Dockhorn, Tim",
+          "English, Jack",
+          "English, Zion",
+          "Esser, Patrick",
+          "others"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=FLUX.+1+Kontext%3A+Flow+Matching+for+In-Context+Image+Generation+and+Editing+in+Latent+Space&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "nie2020total3dunderstanding",
+      "raw": {
+        "title": "Total3dunderstanding: Joint layout, object pose and mesh reconstruction for indoor scenes from a single image",
+        "authors": [
+          "Nie, Yinyu",
+          "Han, Xiaoguang",
+          "Guo, Shihui",
+          "Zheng, Yujian",
+          "Chang, Jian",
+          "Zhang, Jian Jun"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Total3dunderstanding%3A+Joint+layout%2C+object+pose+and+mesh+reconstruction+for+indoor+scenes+from+a+single+image&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "kerbl3Dgaussians",
+      "raw": {
+        "title": "3D Gaussian Splatting for Real-Time Radiance Field Rendering",
+        "authors": [
+          "Kerbl, Bernhard",
+          "Kopanas, Georgios",
+          "Leimk{\\\"u}hler, Thomas",
+          "Drettakis, George"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "shuang2025direct3d",
+      "raw": {
+        "title": "Direct3D: Scalable Image-to-3D Generation via 3D Latent Diffusion Transformer",
+        "authors": [
+          "Shuang, Wu",
+          "Lin, Youtian",
+          "Zeng, Yifei",
+          "Zhang, Feihu",
+          "Xu, Jingxi",
+          "Torr, Philip",
+          "Cao, Xun",
+          "Yao, Yao"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Direct3D%3A+Scalable+Image-to-3D+Generation+via+3D+Latent+Diffusion+Transformer&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ren2024grounded",
+      "raw": {
+        "title": "Grounded sam: Assembling open-world models for diverse visual tasks",
+        "authors": [
+          "Ren, Tianhe",
+          "Liu, Shilong",
+          "Zeng, Ailing",
+          "Lin, Jing",
+          "Li, Kunchang",
+          "Cao, He",
+          "Chen, Jiayu",
+          "Huang, Xinyu",
+          "Chen, Yukang",
+          "Yan, Feng",
+          "others"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Grounded+sam%3A+Assembling+open-world+models+for+diverse+visual+tasks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "CLIP",
+      "raw": {
+        "title": "Learning Transferable Visual Models From Natural Language Supervision",
+        "authors": [
+          "Alec Radford",
+          "Jong Wook Kim",
+          "Chris Hallacy",
+          "Aditya Ramesh",
+          "Gabriel Goh",
+          "Sandhini Agarwal",
+          "Girish Sastry",
+          "Amanda Askell",
+          "Pamela Mishkin",
+          "Jack Clark",
+          "Gretchen Krueger",
+          "Ilya Sutskever"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Learning+Transferable+Visual+Models+From+Natural+Language+Supervision&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "dino",
+      "raw": {
+        "title": "Emerging Properties in Self-Supervised Vision Transformers",
+        "authors": [
+          "Caron, Mathilde",
+          "Touvron, Hugo",
+          "Misra, Ishan",
+          "J\\'egou, Herv\\'e",
+          "Mairal, Julien",
+          "Bojanowski, Piotr",
+          "Joulin, Armand"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Emerging+Properties+in+Self-Supervised+Vision+Transformers&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "liang2024luciddreamer",
+      "raw": {
+        "title": "Luciddreamer: Towards high-fidelity text-to-3d generation via interval score matching",
+        "authors": [
+          "Liang, Yixun",
+          "Yang, Xin",
+          "Lin, Jiantao",
+          "Li, Haodong",
+          "Xu, Xiaogang",
+          "Chen, Yingcong"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Luciddreamer%3A+Towards+high-fidelity+text-to-3d+generation+via+interval+score+matching&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ProlificDreamer",
+      "raw": {
+        "title": "ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation",
+        "authors": [
+          "Zhengyi Wang",
+          "Cheng Lu",
+          "Yikai Wang",
+          "Fan Bao",
+          "Chongxuan Li",
+          "Hang Su",
+          "Jun Zhu"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=ProlificDreamer%3A+High-Fidelity+and+Diverse+Text-to-3D+Generation+with+Variational+Score+Distillation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "chen2024comboverse",
+      "raw": {
+        "title": "Comboverse: Compositional 3d assets creation using spatially-aware diffusion guidance",
+        "authors": [
+          "Chen, Yongwei",
+          "Wang, Tengfei",
+          "Wu, Tong",
+          "Pan, Xingang",
+          "Jia, Kui",
+          "Liu, Ziwei"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Comboverse%3A+Compositional+3d+assets+creation+using+spatially-aware+diffusion+guidance&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "xu2024instantmesh",
+      "raw": {
+        "title": "Instantmesh: Efficient 3d mesh generation from a single image with sparse-view large reconstruction models",
+        "authors": [
+          "Xu, Jiale",
+          "Cheng, Weihao",
+          "Gao, Yiming",
+          "Wang, Xintao",
+          "Gao, Shenghua",
+          "Shan, Ying"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Instantmesh%3A+Efficient+3d+mesh+generation+from+a+single+image+with+sparse-view+large+reconstruction+models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "MVDream",
+      "raw": {
+        "title": "MVDream: Multi-view Diffusion for 3D Generation",
+        "authors": [
+          "Shi, Yichun",
+          "Wang, Peng",
+          "Ye, Jianglong",
+          "Mai, Long",
+          "Li, Kejie",
+          "Yang, Xiao"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=MVDream%3A+Multi-view+Diffusion+for+3D+Generation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zou2024triplane",
+      "raw": {
+        "title": "Triplane meets gaussian splatting: Fast and generalizable single-view 3d reconstruction with transformers",
+        "authors": [
+          "Zou, Zi-Xin",
+          "Yu, Zhipeng",
+          "Guo, Yuan-Chen",
+          "Li, Yangguang",
+          "Liang, Ding",
+          "Cao, Yan-Pei",
+          "Zhang, Song-Hai"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Triplane+meets+gaussian+splatting%3A+Fast+and+generalizable+single-view+3d+reconstruction+with+transformers&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "chu2023buol",
+      "raw": {
+        "title": "Buol: A bottom-up framework with occupancy-aware lifting for panoptic 3d scene reconstruction from a single image",
+        "authors": [
+          "Chu, Tao",
+          "Zhang, Pan",
+          "Liu, Qiong",
+          "Wang, Jiaqi"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Buol%3A+A+bottom-up+framework+with+occupancy-aware+lifting+for+panoptic+3d+scene+reconstruction+from+a+single+image&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "liu2022towards",
+      "raw": {
+        "title": "Towards high-fidelity single-view holistic reconstruction of indoor scenes",
+        "authors": [
+          "Liu, Haolin",
+          "Zheng, Yujian",
+          "Chen, Guanying",
+          "Cui, Shuguang",
+          "Han, Xiaoguang"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Towards+high-fidelity+single-view+holistic+reconstruction+of+indoor+scenes&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "paschalidou2021atiss",
+      "raw": {
+        "title": "Atiss: Autoregressive transformers for indoor scene synthesis",
+        "authors": [
+          "Paschalidou, Despoina",
+          "Kar, Amlan",
+          "Shugrina, Maria",
+          "Kreis, Karsten",
+          "Geiger, Andreas",
+          "Fidler, Sanja"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Atiss%3A+Autoregressive+transformers+for+indoor+scene+synthesis&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "gao2024diffcad",
+      "raw": {
+        "title": "Diffcad: Weakly-supervised probabilistic cad model retrieval and alignment from an rgb image",
+        "authors": [
+          "Gao, Daoyi",
+          "Rozenberszki, D{\\'a}vid",
+          "Leutenegger, Stefan",
+          "Dai, Angela"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Diffcad%3A+Weakly-supervised+probabilistic+cad+model+retrieval+and+alignment+from+an+rgb+image&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "gumeli2022roca",
+      "raw": {
+        "title": "Roca: Robust cad model retrieval and alignment from a single image",
+        "authors": [
+          "G{\\\"u}meli, Can",
+          "Dai, Angela",
+          "Nie{\\ss}ner, Matthias"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Roca%3A+Robust+cad+model+retrieval+and+alignment+from+a+single+image&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "kuo2021patch2cad",
+      "raw": {
+        "title": "Patch2cad: Patchwise embedding learning for in-the-wild shape retrieval from a single image",
+        "authors": [
+          "Kuo, Weicheng",
+          "Angelova, Anelia",
+          "Lin, Tsung-Yi",
+          "Dai, Angela"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Patch2cad%3A+Patchwise+embedding+learning+for+in-the-wild+shape+retrieval+from+a+single+image&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "chen2023fantasia3d",
+      "raw": {
+        "title": "Fantasia3d: Disentangling geometry and appearance for high-quality text-to-3d content creation",
+        "authors": [
+          "Chen, Rui",
+          "Chen, Yongwei",
+          "Jiao, Ningxin",
+          "Jia, Kui"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Fantasia3d%3A+Disentangling+geometry+and+appearance+for+high-quality+text-to-3d+content+creation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "DreamView",
+      "raw": {
+        "title": "DreamView: Injecting View-specific Text Guidance into Text-to-3D Generation",
+        "authors": [
+          "Yan, Junkai",
+          "Gao, Yipeng",
+          "Yang, Qize",
+          "Wei, Xihan",
+          "Xie, Xuansong",
+          "Wu, Ancong",
+          "Zheng, Wei-Shi"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=DreamView%3A+Injecting+View-specific+Text+Guidance+into+Text-to-3D+Generation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "tang2024diffuscene",
+      "raw": {
+        "title": "Diffuscene: Denoising diffusion models for generative indoor scene synthesis",
+        "authors": [
+          "Tang, Jiapeng",
+          "Nie, Yinyu",
+          "Markhasin, Lev",
+          "Dai, Angela",
+          "Thies, Justus",
+          "Nie{\\ss}ner, Matthias"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Diffuscene%3A+Denoising+diffusion+models+for+generative+indoor+scene+synthesis&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "rahamim2024lay",
+      "raw": {
+        "title": "Lay-a-scene: Personalized 3d object arrangement using text-to-image priors",
+        "authors": [
+          "Rahamim, Ohad",
+          "Segev, Hilit",
+          "Achituve, Idan",
+          "Atzmon, Yuval",
+          "Kasten, Yoni",
+          "Chechik, Gal"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Lay-a-scene%3A+Personalized+3d+object+arrangement+using+text-to-image+priors&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "liu2024one",
+      "raw": {
+        "title": "One-2-3-45++: Fast single image to 3d objects with consistent multi-view generation and 3d diffusion",
+        "authors": [
+          "Liu, Minghua",
+          "Shi, Ruoxi",
+          "Chen, Linghao",
+          "Zhang, Zhuoyang",
+          "Xu, Chao",
+          "Wei, Xinyue",
+          "Chen, Hansheng",
+          "Zeng, Chong",
+          "Gu, Jiayuan",
+          "Su, Hao"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=One-2-3-45%2B%2B%3A+Fast+single+image+to+3d+objects+with+consistent+multi-view+generation+and+3d+diffusion&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "voleti2024sv3d",
+      "raw": {
+        "title": "Sv3d: Novel multi-view synthesis and 3d generation from a single image using latent video diffusion",
+        "authors": [
+          "Voleti, Vikram",
+          "Yao, Chun-Han",
+          "Boss, Mark",
+          "Letts, Adam",
+          "Pankratz, David",
+          "Tochilkin, Dmitry",
+          "Laforte, Christian",
+          "Rombach, Robin",
+          "Jampani, Varun"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Sv3d%3A+Novel+multi-view+synthesis+and+3d+generation+from+a+single+image+using+latent+video+diffusion&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "mildenhall2021nerf",
+      "raw": {
+        "title": "Nerf: Representing scenes as neural radiance fields for view synthesis",
+        "authors": [
+          "Mildenhall, Ben",
+          "Srinivasan, Pratul P",
+          "Tancik, Matthew",
+          "Barron, Jonathan T",
+          "Ramamoorthi, Ravi",
+          "Ng, Ren"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Nerf%3A+Representing+scenes+as+neural+radiance+fields+for+view+synthesis&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "midi",
+      "raw": {
+        "title": "Midi: Multi-instance diffusion for single image to 3d scene generation",
+        "authors": [
+          "Huang, Zehuan",
+          "Guo, Yuan-Chen",
+          "An, Xingqiao",
+          "Yang, Yunhan",
+          "Li, Yangguang",
+          "Zou, Zi-Xin",
+          "Liang, Ding",
+          "Liu, Xihui",
+          "Cao, Yan-Pei",
+          "Sheng, Lu"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Midi%3A+Multi-instance+diffusion+for+single+image+to+3d+scene+generation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "real-data",
+      "raw": {
+        "title": "Recognizing indoor scenes",
+        "authors": [
+          "Quattoni, Ariadna",
+          "Torralba, Antonio"
+        ],
+        "year": 2009,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Recognizing+indoor+scenes&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "DPA",
+      "raw": {
+        "title": "Zero-shot scene reconstruction from single images with deep prior assembly",
+        "authors": [
+          "Zhou, Junsheng",
+          "Liu, Yu-Shen",
+          "Han, Zhizhong"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Zero-shot+scene+reconstruction+from+single+images+with+deep+prior+assembly&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "dit",
+      "raw": {
+        "title": "Scalable diffusion models with transformers",
+        "authors": [
+          "Peebles, William",
+          "Xie, Saining"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Scalable+diffusion+models+with+transformers&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "dreamfusion",
+      "raw": {
+        "title": "DreamFusion: Text-to-3D using 2D Diffusion",
+        "authors": [
+          "Ben Poole",
+          "Ajay Jain",
+          "Jonathan T. Barron",
+          "Ben Mildenhall"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=DreamFusion%3A+Text-to-3D+using+2D+Diffusion&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Magic3D",
+      "raw": {
+        "title": "Magic3D: High-Resolution Text-to-3D Content Creation",
+        "authors": [
+          "Chen{-}Hsuan Lin",
+          "Jun Gao",
+          "Luming Tang",
+          "Towaki Takikawa",
+          "Xiaohui Zeng",
+          "Xun Huang",
+          "Karsten Kreis",
+          "Sanja Fidler",
+          "Ming{-}Yu Liu",
+          "Tsung{-}Yi Lin"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Magic3D%3A+High-Resolution+Text-to-3D+Content+Creation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zero123",
+      "raw": {
+        "title": "Zero-1-to-3: Zero-shot One Image to 3D Object",
+        "authors": [
+          "Ruoshi Liu",
+          "Rundi Wu",
+          "Basile Van Hoorick",
+          "Pavel Tokmakov",
+          "Sergey Zakharov",
+          "Carl Vondrick"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Zero-1-to-3%3A+Zero-shot+One+Image+to+3D+Object&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "lgm",
+      "raw": {
+        "title": "Lgm: Large multi-view gaussian model for high-resolution 3d content creation",
+        "authors": [
+          "Tang, Jiaxiang",
+          "Chen, Zhaoxi",
+          "Chen, Xiaokang",
+          "Wang, Tengfei",
+          "Zeng, Gang",
+          "Liu, Ziwei"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Lgm%3A+Large+multi-view+gaussian+model+for+high-resolution+3d+content+creation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "3dtopia-xl",
+      "raw": {
+        "title": "3dtopia-xl: Scaling high-quality 3d asset generation via primitive diffusion",
+        "authors": [
+          "Chen, Zhaoxi",
+          "Tang, Jiaxiang",
+          "Dong, Yuhao",
+          "Cao, Ziang",
+          "Hong, Fangzhou",
+          "Lan, Yushi",
+          "Wang, Tengfei",
+          "Xie, Haozhe",
+          "Wu, Tong",
+          "Saito, Shunsuke",
+          "others"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=3dtopia-xl%3A+Scaling+high-quality+3d+asset+generation+via+primitive+diffusion&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "trellis",
+      "raw": {
+        "title": "Structured 3d latents for scalable and versatile 3d generation",
+        "authors": [
+          "Xiang, Jianfeng",
+          "Lv, Zelong",
+          "Xu, Sicheng",
+          "Deng, Yu",
+          "Wang, Ruicheng",
+          "Zhang, Bowen",
+          "Chen, Dong",
+          "Tong, Xin",
+          "Yang, Jiaolong"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Structured+3d+latents+for+scalable+and+versatile+3d+generation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "hunyuan3d",
+      "raw": {
+        "title": "Hunyuan3D 2.0: Scaling Diffusion Models for High Resolution Textured 3D Assets Generation",
+        "authors": [
+          "Tencent Hunyuan3D Team"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Hunyuan3D+2.0%3A+Scaling+Diffusion+Models+for+High+Resolution+Textured+3D+Assets+Generation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "reparo",
+      "raw": {
+        "title": "Reparo: Compositional 3d assets generation with differentiable 3d layout alignment",
+        "authors": [
+          "Han, Haonan",
+          "Yang, Rui",
+          "Liao, Huan",
+          "Xing, Jiankai",
+          "Xu, Zunnan",
+          "Yu, Xiaoming",
+          "Zha, Junwei",
+          "Li, Xiu",
+          "Li, Wanhua"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Reparo%3A+Compositional+3d+assets+generation+with+differentiable+3d+layout+alignment&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "sing3d",
+      "raw": {
+        "title": "Towards geometric and textural consistency 3d scene generation via single image-guided model generation and layout optimization",
+        "authors": [
+          "Tang, Xiang",
+          "Li, Ruotong",
+          "Fan, Xiaopeng"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Towards+geometric+and+textural+consistency+3d+scene+generation+via+single+image-guided+model+generation+and+layout+optimization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "gen3dsr",
+      "raw": {
+        "title": "Generalizable 3D Scene Reconstruction via Divide and Conquer from a Single View",
+        "authors": [
+          "Ardelean, Andreea",
+          "Özer, Mert",
+          "Egger, Bernhard"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Generalizable+3D+Scene+Reconstruction+via+Divide+and+Conquer+from+a+Single+View&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "CAST",
+      "raw": {
+        "title": "CAST: Component-Aligned 3D Scene Reconstruction from an RGB Image",
+        "authors": [
+          "Kaixin Yao",
+          "Longwen Zhang",
+          "Xinhao Yan",
+          "Yan Zeng",
+          "Qixuan Zhang",
+          "Lan Xu",
+          "Wei Yang",
+          "Jiayuan Gu",
+          "Jingyi Yu"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=CAST%3A+Component-Aligned+3D+Scene+Reconstruction+from+an+RGB+Image&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "3dfront",
+      "raw": {
+        "title": "3d-front: 3d furnished rooms with layouts and semantics",
+        "authors": [
+          "Fu, Huan",
+          "Cai, Bowen",
+          "Gao, Lin",
+          "Zhang, Ling-Xiao",
+          "Wang, Jiaming",
+          "Li, Cao",
+          "Zeng, Qixun",
+          "Sun, Chengyue",
+          "Jia, Rongfei",
+          "Zhao, Binqiang",
+          "others"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=3d-front%3A+3d+furnished+rooms+with+layouts+and+semantics&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "flux",
+      "raw": {
+        "title": "FLUX. 1 Kontext: Flow Matching for In-Context Image Generation and Editing in Latent Space",
+        "authors": [
+          "Labs, Black Forest",
+          "Batifol, Stephen",
+          "Blattmann, Andreas",
+          "Boesel, Frederic",
+          "Consul, Saksham",
+          "Diagne, Cyril",
+          "Dockhorn, Tim",
+          "English, Jack",
+          "English, Zion",
+          "Esser, Patrick",
+          "others"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=FLUX.+1+Kontext%3A+Flow+Matching+for+In-Context+Image+Generation+and+Editing+in+Latent+Space&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "nie2020total3dunderstanding",
+      "raw": {
+        "title": "Total3dunderstanding: Joint layout, object pose and mesh reconstruction for indoor scenes from a single image",
+        "authors": [
+          "Nie, Yinyu",
+          "Han, Xiaoguang",
+          "Guo, Shihui",
+          "Zheng, Yujian",
+          "Chang, Jian",
+          "Zhang, Jian Jun"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Total3dunderstanding%3A+Joint+layout%2C+object+pose+and+mesh+reconstruction+for+indoor+scenes+from+a+single+image&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "kerbl3Dgaussians",
+      "raw": {
+        "title": "3D Gaussian Splatting for Real-Time Radiance Field Rendering",
+        "authors": [
+          "Kerbl, Bernhard",
+          "Kopanas, Georgios",
+          "Leimk{\\\"u}hler, Thomas",
+          "Drettakis, George"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "shuang2025direct3d",
+      "raw": {
+        "title": "Direct3D: Scalable Image-to-3D Generation via 3D Latent Diffusion Transformer",
+        "authors": [
+          "Shuang, Wu",
+          "Lin, Youtian",
+          "Zeng, Yifei",
+          "Zhang, Feihu",
+          "Xu, Jingxi",
+          "Torr, Philip",
+          "Cao, Xun",
+          "Yao, Yao"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Direct3D%3A+Scalable+Image-to-3D+Generation+via+3D+Latent+Diffusion+Transformer&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ren2024grounded",
+      "raw": {
+        "title": "Grounded sam: Assembling open-world models for diverse visual tasks",
+        "authors": [
+          "Ren, Tianhe",
+          "Liu, Shilong",
+          "Zeng, Ailing",
+          "Lin, Jing",
+          "Li, Kunchang",
+          "Cao, He",
+          "Chen, Jiayu",
+          "Huang, Xinyu",
+          "Chen, Yukang",
+          "Yan, Feng",
+          "others"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Grounded+sam%3A+Assembling+open-world+models+for+diverse+visual+tasks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "CLIP",
+      "raw": {
+        "title": "Learning Transferable Visual Models From Natural Language Supervision",
+        "authors": [
+          "Alec Radford",
+          "Jong Wook Kim",
+          "Chris Hallacy",
+          "Aditya Ramesh",
+          "Gabriel Goh",
+          "Sandhini Agarwal",
+          "Girish Sastry",
+          "Amanda Askell",
+          "Pamela Mishkin",
+          "Jack Clark",
+          "Gretchen Krueger",
+          "Ilya Sutskever"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Learning+Transferable+Visual+Models+From+Natural+Language+Supervision&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "dino",
+      "raw": {
+        "title": "Emerging Properties in Self-Supervised Vision Transformers",
+        "authors": [
+          "Caron, Mathilde",
+          "Touvron, Hugo",
+          "Misra, Ishan",
+          "J\\'egou, Herv\\'e",
+          "Mairal, Julien",
+          "Bojanowski, Piotr",
+          "Joulin, Armand"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Emerging+Properties+in+Self-Supervised+Vision+Transformers&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "liang2024luciddreamer",
+      "raw": {
+        "title": "Luciddreamer: Towards high-fidelity text-to-3d generation via interval score matching",
+        "authors": [
+          "Liang, Yixun",
+          "Yang, Xin",
+          "Lin, Jiantao",
+          "Li, Haodong",
+          "Xu, Xiaogang",
+          "Chen, Yingcong"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Luciddreamer%3A+Towards+high-fidelity+text-to-3d+generation+via+interval+score+matching&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ProlificDreamer",
+      "raw": {
+        "title": "ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation",
+        "authors": [
+          "Zhengyi Wang",
+          "Cheng Lu",
+          "Yikai Wang",
+          "Fan Bao",
+          "Chongxuan Li",
+          "Hang Su",
+          "Jun Zhu"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=ProlificDreamer%3A+High-Fidelity+and+Diverse+Text-to-3D+Generation+with+Variational+Score+Distillation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "chen2024comboverse",
+      "raw": {
+        "title": "Comboverse: Compositional 3d assets creation using spatially-aware diffusion guidance",
+        "authors": [
+          "Chen, Yongwei",
+          "Wang, Tengfei",
+          "Wu, Tong",
+          "Pan, Xingang",
+          "Jia, Kui",
+          "Liu, Ziwei"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Comboverse%3A+Compositional+3d+assets+creation+using+spatially-aware+diffusion+guidance&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "xu2024instantmesh",
+      "raw": {
+        "title": "Instantmesh: Efficient 3d mesh generation from a single image with sparse-view large reconstruction models",
+        "authors": [
+          "Xu, Jiale",
+          "Cheng, Weihao",
+          "Gao, Yiming",
+          "Wang, Xintao",
+          "Gao, Shenghua",
+          "Shan, Ying"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Instantmesh%3A+Efficient+3d+mesh+generation+from+a+single+image+with+sparse-view+large+reconstruction+models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "MVDream",
+      "raw": {
+        "title": "MVDream: Multi-view Diffusion for 3D Generation",
+        "authors": [
+          "Shi, Yichun",
+          "Wang, Peng",
+          "Ye, Jianglong",
+          "Mai, Long",
+          "Li, Kejie",
+          "Yang, Xiao"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=MVDream%3A+Multi-view+Diffusion+for+3D+Generation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zou2024triplane",
+      "raw": {
+        "title": "Triplane meets gaussian splatting: Fast and generalizable single-view 3d reconstruction with transformers",
+        "authors": [
+          "Zou, Zi-Xin",
+          "Yu, Zhipeng",
+          "Guo, Yuan-Chen",
+          "Li, Yangguang",
+          "Liang, Ding",
+          "Cao, Yan-Pei",
+          "Zhang, Song-Hai"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Triplane+meets+gaussian+splatting%3A+Fast+and+generalizable+single-view+3d+reconstruction+with+transformers&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "chu2023buol",
+      "raw": {
+        "title": "Buol: A bottom-up framework with occupancy-aware lifting for panoptic 3d scene reconstruction from a single image",
+        "authors": [
+          "Chu, Tao",
+          "Zhang, Pan",
+          "Liu, Qiong",
+          "Wang, Jiaqi"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Buol%3A+A+bottom-up+framework+with+occupancy-aware+lifting+for+panoptic+3d+scene+reconstruction+from+a+single+image&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "liu2022towards",
+      "raw": {
+        "title": "Towards high-fidelity single-view holistic reconstruction of indoor scenes",
+        "authors": [
+          "Liu, Haolin",
+          "Zheng, Yujian",
+          "Chen, Guanying",
+          "Cui, Shuguang",
+          "Han, Xiaoguang"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Towards+high-fidelity+single-view+holistic+reconstruction+of+indoor+scenes&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "paschalidou2021atiss",
+      "raw": {
+        "title": "Atiss: Autoregressive transformers for indoor scene synthesis",
+        "authors": [
+          "Paschalidou, Despoina",
+          "Kar, Amlan",
+          "Shugrina, Maria",
+          "Kreis, Karsten",
+          "Geiger, Andreas",
+          "Fidler, Sanja"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Atiss%3A+Autoregressive+transformers+for+indoor+scene+synthesis&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "gao2024diffcad",
+      "raw": {
+        "title": "Diffcad: Weakly-supervised probabilistic cad model retrieval and alignment from an rgb image",
+        "authors": [
+          "Gao, Daoyi",
+          "Rozenberszki, D{\\'a}vid",
+          "Leutenegger, Stefan",
+          "Dai, Angela"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Diffcad%3A+Weakly-supervised+probabilistic+cad+model+retrieval+and+alignment+from+an+rgb+image&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "gumeli2022roca",
+      "raw": {
+        "title": "Roca: Robust cad model retrieval and alignment from a single image",
+        "authors": [
+          "G{\\\"u}meli, Can",
+          "Dai, Angela",
+          "Nie{\\ss}ner, Matthias"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Roca%3A+Robust+cad+model+retrieval+and+alignment+from+a+single+image&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "kuo2021patch2cad",
+      "raw": {
+        "title": "Patch2cad: Patchwise embedding learning for in-the-wild shape retrieval from a single image",
+        "authors": [
+          "Kuo, Weicheng",
+          "Angelova, Anelia",
+          "Lin, Tsung-Yi",
+          "Dai, Angela"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Patch2cad%3A+Patchwise+embedding+learning+for+in-the-wild+shape+retrieval+from+a+single+image&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "chen2023fantasia3d",
+      "raw": {
+        "title": "Fantasia3d: Disentangling geometry and appearance for high-quality text-to-3d content creation",
+        "authors": [
+          "Chen, Rui",
+          "Chen, Yongwei",
+          "Jiao, Ningxin",
+          "Jia, Kui"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Fantasia3d%3A+Disentangling+geometry+and+appearance+for+high-quality+text-to-3d+content+creation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "DreamView",
+      "raw": {
+        "title": "DreamView: Injecting View-specific Text Guidance into Text-to-3D Generation",
+        "authors": [
+          "Yan, Junkai",
+          "Gao, Yipeng",
+          "Yang, Qize",
+          "Wei, Xihan",
+          "Xie, Xuansong",
+          "Wu, Ancong",
+          "Zheng, Wei-Shi"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=DreamView%3A+Injecting+View-specific+Text+Guidance+into+Text-to-3D+Generation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "tang2024diffuscene",
+      "raw": {
+        "title": "Diffuscene: Denoising diffusion models for generative indoor scene synthesis",
+        "authors": [
+          "Tang, Jiapeng",
+          "Nie, Yinyu",
+          "Markhasin, Lev",
+          "Dai, Angela",
+          "Thies, Justus",
+          "Nie{\\ss}ner, Matthias"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Diffuscene%3A+Denoising+diffusion+models+for+generative+indoor+scene+synthesis&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "rahamim2024lay",
+      "raw": {
+        "title": "Lay-a-scene: Personalized 3d object arrangement using text-to-image priors",
+        "authors": [
+          "Rahamim, Ohad",
+          "Segev, Hilit",
+          "Achituve, Idan",
+          "Atzmon, Yuval",
+          "Kasten, Yoni",
+          "Chechik, Gal"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Lay-a-scene%3A+Personalized+3d+object+arrangement+using+text-to-image+priors&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "liu2024one",
+      "raw": {
+        "title": "One-2-3-45++: Fast single image to 3d objects with consistent multi-view generation and 3d diffusion",
+        "authors": [
+          "Liu, Minghua",
+          "Shi, Ruoxi",
+          "Chen, Linghao",
+          "Zhang, Zhuoyang",
+          "Xu, Chao",
+          "Wei, Xinyue",
+          "Chen, Hansheng",
+          "Zeng, Chong",
+          "Gu, Jiayuan",
+          "Su, Hao"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=One-2-3-45%2B%2B%3A+Fast+single+image+to+3d+objects+with+consistent+multi-view+generation+and+3d+diffusion&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "voleti2024sv3d",
+      "raw": {
+        "title": "Sv3d: Novel multi-view synthesis and 3d generation from a single image using latent video diffusion",
+        "authors": [
+          "Voleti, Vikram",
+          "Yao, Chun-Han",
+          "Boss, Mark",
+          "Letts, Adam",
+          "Pankratz, David",
+          "Tochilkin, Dmitry",
+          "Laforte, Christian",
+          "Rombach, Robin",
+          "Jampani, Varun"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Sv3d%3A+Novel+multi-view+synthesis+and+3d+generation+from+a+single+image+using+latent+video+diffusion&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "mildenhall2021nerf",
+      "raw": {
+        "title": "Nerf: Representing scenes as neural radiance fields for view synthesis",
+        "authors": [
+          "Mildenhall, Ben",
+          "Srinivasan, Pratul P",
+          "Tancik, Matthew",
+          "Barron, Jonathan T",
+          "Ramamoorthi, Ravi",
+          "Ng, Ren"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Nerf%3A+Representing+scenes+as+neural+radiance+fields+for+view+synthesis&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    }
+  ]
+}

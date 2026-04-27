@@ -1,0 +1,980 @@
+{
+  "paper_id": "1dd610c9-998a-4de3-b341-4e5651697af1",
+  "total": 42,
+  "verified": 0,
+  "mismatch": 0,
+  "missing": 1,
+  "ambiguous": 0,
+  "error": 40,
+  "skipped": 1,
+  "s2_consulted": 1,
+  "s2_lifted": 0,
+  "key_style_outliers": [
+    "langley00",
+    "mitchell80",
+    "kearns89",
+    "DudaHart2nd",
+    "Newell81",
+    "Samuel59"
+  ],
+  "entries": [
+    {
+      "key": "langley00",
+      "raw": {
+        "title": "Crafting Papers on Machine Learning",
+        "authors": [
+          "P. Langley"
+        ],
+        "year": 2000,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Crafting+Papers+on+Machine+Learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "mitchell80",
+      "raw": {
+        "title": "The Need for Biases in Learning Generalizations",
+        "authors": [
+          "T. M. Mitchell"
+        ],
+        "year": 1980,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=The+Need+for+Biases+in+Learning+Generalizations&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "kearns89",
+      "raw": {
+        "title": "Computational Complexity of Machine Learning",
+        "authors": [
+          "M. J. Kearns"
+        ],
+        "year": 1989,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Computational+Complexity+of+Machine+Learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "MachineLearningI",
+      "raw": {
+        "title": "Machine Learning: An Artificial Intelligence Approach, Vol. I",
+        "authors": [],
+        "year": 1983,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Machine+Learning%3A+An+Artificial+Intelligence+Approach%2C+Vol.+I&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "DudaHart2nd",
+      "raw": {
+        "title": "Pattern Classification",
+        "authors": [
+          "R. O. Duda",
+          "P. E. Hart",
+          "D. G. Stork"
+        ],
+        "year": 2000,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Pattern+Classification&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "anonymous",
+      "raw": {
+        "title": "Suppressed for Anonymity",
+        "authors": [
+          "Author, N. N."
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Suppressed+for+Anonymity&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Newell81",
+      "raw": {
+        "title": "Mechanisms of Skill Acquisition and the Law of Practice",
+        "authors": [
+          "A. Newell",
+          "P. S. Rosenbloom"
+        ],
+        "year": 1981,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Mechanisms+of+Skill+Acquisition+and+the+Law+of+Practice&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Samuel59",
+      "raw": {
+        "title": "Some Studies in Machine Learning Using the Game of Checkers",
+        "authors": [
+          "A. L. Samuel"
+        ],
+        "year": 1959,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Some+Studies+in+Machine+Learning+Using+the+Game+of+Checkers&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "AkyurekSchuurmansAndreasMaZhou2022",
+      "raw": {
+        "title": "What learning algorithm is in-context learning? Investigations with linear models",
+        "authors": [
+          "Ekin Aky{\\\"u}rek",
+          "Dale Schuurmans",
+          "Jacob Andreas",
+          "Tengyu Ma",
+          "Denny Zhou"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": "2211.15661"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2211.15661&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "vonOswaldNiklassonRandazzoSacramentoMordvintsevZhmoginovVladymyrov2022",
+      "raw": {
+        "title": "Transformers Learn In-Context by Gradient Descent",
+        "authors": [
+          "von Oswald, Johannes",
+          "Niklasson, Erik",
+          "Randazzo, Edoardo",
+          "Sacramento, Jo{\\~a}o",
+          "Mordvintsev, Alexander",
+          "Zhmoginov, Andrey",
+          "Vladymyrov, Maksym"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Transformers+Learn+In-Context+by+Gradient+Descent&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Ahn2023",
+      "raw": {
+        "title": "Transformers Learn to Implement Preconditioned Gradient Descent for In-Context Learning",
+        "authors": [
+          "Ahn, Kwangjun",
+          "Cheng, Xuchen",
+          "Daneshmand, Hadi",
+          "Sra, Suvrit"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Transformers+Learn+to+Implement+Preconditioned+Gradient+Descent+for+In-Context+Learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "DaiSunDongHaoMaSuiWei2022",
+      "raw": {
+        "title": "Why Can GPT Learn In-Context? Language Models Implicitly Perform Gradient Descent as Meta-Optimizers",
+        "authors": [
+          "Damai Dai",
+          "Yutao Sun",
+          "Li Dong",
+          "Yaru Hao",
+          "Shuming Ma",
+          "Zhifang Sui",
+          "Furu Wei"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": "2212.10559"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2212.10559&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "WangJiangLi2024",
+      "raw": {
+        "title": "In-context Learning on Function Classes Unveiled for Transformers",
+        "authors": [
+          "Zhijie Wang",
+          "Bo Jiang",
+          "Shuai Li"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=In-context+Learning+on+Function+Classes+Unveiled+for+Transformers&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "DongLiDaiZhengMaLiXiaXuWuLiuChangSunSui2023",
+      "raw": {
+        "title": "A Survey on In-context Learning",
+        "authors": [
+          "Qingxiu Dong",
+          "Lei Li",
+          "Damai Dai",
+          "Ce Zheng",
+          "Jingyuan Ma",
+          "Rui Li",
+          "Heming Xia",
+          "Jingjing Xu",
+          "Zhiyong Wu",
+          "Tianyu Liu",
+          "Baobao Chang",
+          "Xu Sun",
+          "Zhifang Sui"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": "2301.00234"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2301.00234&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "WeiTayTranWebsonLuChenLiuHuangZhouMa2023",
+      "raw": {
+        "title": "Larger Language Models Do In-Context Learning Differently",
+        "authors": [
+          "Wei, Jason",
+          "Wei, Jason",
+          "Tay, Yi",
+          "Tran, Dustin",
+          "Webson, Albert",
+          "Lu, Yujia",
+          "others"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Larger+Language+Models+Do+In-Context+Learning+Differently&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "LuYu2025",
+      "raw": {
+        "title": "Transformer Learns the Cross-Task Prior and Regularization for In-Context Learning",
+        "authors": [
+          "Lu, Feng",
+          "Yu, Yao"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Transformer+Learns+the+Cross-Task+Prior+and+Regularization+for+In-Context+Learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "BaiChenWangXiongMei2023",
+      "raw": {
+        "title": "Transformers as Statisticians: Provable In-Context Learning with In-Context Algorithm Selection",
+        "authors": [
+          "Bai, Yu",
+          "Chen, Fancheng",
+          "Wang, Haoyu",
+          "Xiong, Chenyan",
+          "Mei, Song"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Transformers+as+Statisticians%3A+Provable+In-Context+Learning+with+In-Context+Algorithm+Selection&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "XieRaghunathanLiMa2021",
+      "raw": {
+        "title": "An Explanation of In-Context Learning as Implicit Bayesian Inference",
+        "authors": [
+          "Xie, Sang Michael",
+          "Raghunathan, Aditi",
+          "Liang, Percy",
+          "Ma, Tengyu"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=An+Explanation+of+In-Context+Learning+as+Implicit+Bayesian+Inference&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "wakayama2025incontext",
+      "raw": {
+        "title": "In-Context Learning Is Provably Bayesian Inference: A Generalization Theory for Meta-Learning",
+        "authors": [
+          "Wakayama, Tomoya",
+          "Suzuki, Taiji"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=In-Context+Learning+Is+Provably+Bayesian+Inference%3A+A+Generalization+Theory+for+Meta-Learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ChanSantoroLampinenWangSinghRichemondMcClellandHill2022",
+      "raw": {
+        "title": "Data Distributional Properties Drive Emergent In-Context Learning in Transformers",
+        "authors": [
+          "Stephanie C.Y. Chan",
+          "Adam Santoro",
+          "Andrew K. Lampinen",
+          "Jane X. Wang",
+          "Aaditya Singh",
+          "Pierre H. Richemond",
+          "Jay McClelland",
+          "Felix Hill"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": "2205.05055"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2205.05055&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "KirschHarrisonSohlDicksteinMetz2022",
+      "raw": {
+        "title": "General-Purpose In-Context Learning by Meta-Learning Transformers",
+        "authors": [
+          "Louis Kirsch",
+          "James Harrison",
+          "Jascha Sohl-Dickstein",
+          "Luke Metz"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": "2212.04458"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2212.04458&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "MinLyuHoltzmanArtetxeLewisHajishirziZettlemoyer2022",
+      "raw": {
+        "title": "Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?",
+        "authors": [
+          "Sewon Min",
+          "Xinxi Lyu",
+          "Ari Holtzman",
+          "Mikel Artetxe",
+          "Mike Lewis",
+          "Hannaneh Hajishirzi",
+          "Luke Zettlemoyer"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": "2202.12837"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2202.12837&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ren2024representation",
+      "raw": {
+        "title": "Towards Understanding How Transformers Learn In-Context Through a Representation Learning Lens",
+        "authors": [
+          "Ren, Rui",
+          "Liu, Yiming"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Towards+Understanding+How+Transformers+Learn+In-Context+Through+a+Representation+Learning+Lens&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "bhattamishra2024understanding",
+      "raw": {
+        "title": "Understanding In-Context Learning in Transformers and LLMs by Learning to Learn Discrete Functions",
+        "authors": [
+          "Satwik Bhattamishra",
+          "Arkil Patel",
+          "Phil Blunsom",
+          "Varun Kanade"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Understanding+In-Context+Learning+in+Transformers+and+LLMs+by+Learning+to+Learn+Discrete+Functions&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "li2023icl_alg",
+      "raw": {
+        "title": "What and how does in-context learning learn? Bayesian model averaging, parameterization, and generalization",
+        "authors": [
+          "Zhang, Y.",
+          "Zhang, F.",
+          "Yang, Z.",
+          "Wang, Z."
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=What+and+how+does+in-context+learning+learn%3F+Bayesian+model+averaging%2C+parameterization%2C+and+generalization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zhang2024trained",
+      "raw": {
+        "title": "Trained Transformers Learn Linear Models In-Context",
+        "authors": [
+          "Zhang, Ruiqi",
+          "Frei, Spencer",
+          "Bartlett, Peter L."
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Trained+Transformers+Learn+Linear+Models+In-Context&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "garg2022what",
+      "raw": {
+        "title": "What Can Transformers Learn In-Context? A Case Study of Simple Function Classes",
+        "authors": [
+          "Garg, Shivam",
+          "Tsipras, Dimitris",
+          "Liang, Percy S.",
+          "Valiant, Gregory"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=What+Can+Transformers+Learn+In-Context%3F+A+Case+Study+of+Simple+Function+Classes&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "chen2022transinr",
+      "raw": {
+        "title": "Transformers as Meta-Learners for Implicit Neural Representations",
+        "authors": [
+          "Chen, Yujin",
+          "Wang, Xin"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Transformers+as+Meta-Learners+for+Implicit+Neural+Representations&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "fu2023transformers_higher_order",
+      "raw": {
+        "title": "Transformers Learn Higher-Order Optimization Methods for In-Context Learning: A Study with Linear Models",
+        "authors": [
+          "Deqing Fu",
+          "Tianqi Chen",
+          "Robin Jia",
+          "Vatsal Sharan"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "shi2024exploring",
+      "raw": {
+        "title": "Exploring the Robustness of In-Context Learning with Noisy Labels",
+        "authors": [
+          "Cheng, Chen",
+          "others"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Exploring+the+Robustness+of+In-Context+Learning+with+Noisy+Labels&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "azizian2025how",
+      "raw": {
+        "title": "How Does the Pretraining Distribution Shape In-Context Learning? Task Selection, Generalization, and Robustness",
+        "authors": [
+          "Azizian, Wa{\\\"{i}}ss",
+          "Hasan, Ali"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=How+Does+the+Pretraining+Distribution+Shape+In-Context+Learning%3F+Task+Selection%2C+Generalization%2C+and+Robustness&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "brown2020language_models_few_shot",
+      "raw": {
+        "title": "Language Models Are Few-Shot Learners",
+        "authors": [
+          "Brown, Tom B.",
+          "Mann, Benjamin",
+          "Ryder, Nicholas",
+          "Subbiah, Megha",
+          "Kaplan, Jared D.",
+          "Dhariwal, Prafulla",
+          "others"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Language+Models+Are+Few-Shot+Learners&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "anwar2025understanding",
+      "raw": {
+        "title": "Understanding In-Context Learning of Linear Models in Transformers Through an Adversarial Lens",
+        "authors": [
+          "Anwar, Umer",
+          "von Oswald, Johannes",
+          "Kirsch, Louis",
+          "Krueger, David",
+          "Frei, Spencer"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Understanding+In-Context+Learning+of+Linear+Models+in+Transformers+Through+an+Adversarial+Lens&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Reuter2025",
+      "raw": {
+        "title": "Can Transformers Learn Full Bayesian Inference in Context?",
+        "authors": [
+          "Reuter, Alexander",
+          "Rudner, Tim G.",
+          "Fortuin, Vincent",
+          "R{\\\"u}gamer, David"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Can+Transformers+Learn+Full+Bayesian+Inference+in+Context%3F&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Hill2025",
+      "raw": {
+        "title": "Transformers Don't In-Context Learn Least Squares Regression",
+        "authors": [
+          "Hill, James",
+          "Eyre, Benjamin",
+          "Creager, Elliot"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Transformers+Don%27t+In-Context+Learn+Least+Squares+Regression&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Radford2018Improving",
+      "raw": {
+        "title": "Improving Language Understanding by Generative Pre-Training",
+        "authors": [
+          "Radford, Alec",
+          "Narasimhan, Karthik",
+          "Salimans, Tim",
+          "Sutskever, Ilya"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Improving+Language+Understanding+by+Generative+Pre-Training&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "mywebsite",
+      "raw": {
+        "title": "",
+        "authors": [],
+        "year": null,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "not_found",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "bengio2009curriculum",
+      "raw": {
+        "title": "Curriculum Learning",
+        "authors": [
+          "Bengio, Yoshua",
+          "Louradour, J{\\'e}r{\\^o}me",
+          "Collobert, Ronan",
+          "Weston, Jason"
+        ],
+        "year": 2009,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Curriculum+Learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "soviany2022curriculum",
+      "raw": {
+        "title": "Curriculum Learning: A Survey",
+        "authors": [
+          "Soviany, Paul",
+          "Ionescu, Radu Tudor",
+          "Rota, Petru",
+          "Sebe, Nicu"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Curriculum+Learning%3A+A+Survey&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "kong2021adaptive",
+      "raw": {
+        "title": "Adaptive Curriculum Learning",
+        "authors": [
+          "Kong, Yao",
+          "Liu, Li",
+          "Wang, Jingdong",
+          "Tao, Dacheng"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Adaptive+Curriculum+Learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "agarwal2024manyshot",
+      "raw": {
+        "title": "Many-shot In-Context Learning",
+        "authors": [
+          "Agarwal, Rishabh",
+          "Singh, Amanpreet",
+          "Zhang, Lei",
+          "Bohnet, Bernd",
+          "Rosias, Lucas",
+          "Chan, Shun",
+          "Larochelle, Hugo"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Many-shot+In-Context+Learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "lu2024emergent",
+      "raw": {
+        "title": "Are Emergent Abilities in Large Language Models Just In-Context Learning?",
+        "authors": [
+          "Lu, Shuyang",
+          "Bigoulaeva, Irina",
+          "Sachdeva, Rishabh",
+          "Madabushi, Harish Tayyar",
+          "Gurevych, Iryna"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Are+Emergent+Abilities+in+Large+Language+Models+Just+In-Context+Learning%3F&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    }
+  ]
+}

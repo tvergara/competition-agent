@@ -1,0 +1,1898 @@
+{
+  "paper_id": "a2082f66-be52-4c61-a7a1-11115f9f6118",
+  "total": 39,
+  "verified": 28,
+  "mismatch": 3,
+  "missing": 6,
+  "ambiguous": 2,
+  "error": 0,
+  "skipped": 0,
+  "s2_consulted": 39,
+  "s2_lifted": 0,
+  "key_style_outliers": [
+    "jablonka2024leveraging",
+    "zinc20"
+  ],
+  "entries": [
+    {
+      "key": "survey_mllm",
+      "raw": {
+        "title": "From perception to cognition: A survey of vision-language interactive reasoning in multimodal large language models",
+        "authors": [
+          "Zhou, Chenyue",
+          "Wang, Mingxuan",
+          "Ma, Yanbiao",
+          "Wu, Chenxu",
+          "Chen, Wanyi",
+          "Qian, Zhe",
+          "Liu, Xinyu",
+          "Zhang, Yiwei",
+          "Wang, Junhao",
+          "Xu, Hengbo",
+          "others"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/f0301bcbdc87883911ffef88a0a970bcc601895c",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "From Perception to Cognition: A Survey of Vision-Language Interactive Reasoning in Multimodal Large Language Models",
+        "year": 2025,
+        "authors": [
+          "Chenyue Zhou",
+          "Mingxuan Wang",
+          "Yanbiao Ma",
+          "Chen Wu",
+          "Wanyi Chen",
+          "Zhe Qian",
+          "Xinyu Liu",
+          "Yiwei Zhang",
+          "Junhao Wang",
+          "H.Eric Xu",
+          "Fei Luo",
+          "Xiaohua Chen",
+          "Xiaoshuai Hao",
+          "H. Li",
+          "Andi Zhang",
+          "Wenxuan Wang",
+          "Lingling Li",
+          "Zhiwu Lu",
+          "Yang Lu",
+          "Yi-wang Guo"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "laion",
+      "raw": {
+        "title": "Laion-5b: An open large-scale dataset for training next generation image-text models",
+        "authors": [
+          "Schuhmann, Christoph",
+          "Beaumont, Romain",
+          "Vencu, Richard",
+          "Gordon, Cade",
+          "Wightman, Ross",
+          "Cherti, Mehdi",
+          "Coombes, Theo",
+          "Katta, Aarush",
+          "Mullis, Clayton",
+          "Wortsman, Mitchell",
+          "others"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/e5c8960eb2ec034ffbd353ef39fd1cb541d3c7c9",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "LAION-5B: An open large-scale dataset for training next generation image-text models",
+        "year": 2022,
+        "authors": [
+          "Christoph Schuhmann",
+          "R. Beaumont",
+          "R. Vencu",
+          "Cade Gordon",
+          "Ross Wightman",
+          "Mehdi Cherti",
+          "Theo Coombes",
+          "Aarush Katta",
+          "Clayton Mullis",
+          "Mitchell Wortsman",
+          "P. Schramowski",
+          "Srivatsa Kundurthy",
+          "Katherine Crowson",
+          "Ludwig Schmidt",
+          "R. Kaczmarczyk",
+          "J. Jitsev"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "text2mol",
+      "raw": {
+        "title": "Text2mol: Cross-modal molecule retrieval with natural language queries",
+        "authors": [
+          "Edwards, Carl",
+          "Zhai, ChengXiang",
+          "Ji, Heng"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/57651d65078818821234d13544ac1f29858dcd67",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Text2Mol: Cross-Modal Molecule Retrieval with Natural Language Queries",
+        "year": 2021,
+        "authors": [
+          "Carl N. Edwards",
+          "Chengxiang Zhai",
+          "Heng Ji"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "llm4annotation",
+      "raw": {
+        "title": "Large Language Models for Data Annotation and Synthesis: A Survey",
+        "authors": [
+          "Tan, Zhen",
+          "Li, Dawei",
+          "Wang, Song",
+          "Beigi, Alimohammad",
+          "Jiang, Bohan",
+          "Bhattacharjee, Amrita",
+          "Karami, Mansooreh",
+          "Li, Jundong",
+          "Cheng, Lu",
+          "Liu, Huan"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/efe7ae42bd2d234989f95cc3824822e13f21b3dd",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Large Language Models for Data Annotation and Synthesis: A Survey",
+        "year": 2024,
+        "authors": [
+          "Zhen Tan",
+          "Dawei Li",
+          "Song Wang",
+          "Alimohammad Beigi",
+          "Bohan Jiang",
+          "Amrita Bhattacharjee",
+          "Mansooreh Karami",
+          "Jundong Li",
+          "Lu Cheng",
+          "Huan Liu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "mollangbench",
+      "raw": {
+        "title": "Mollangbench: A comprehensive benchmark for language-prompted molecular structure recognition, editing, and generation",
+        "authors": [
+          "Cai, Feiyang",
+          "Bai, Jiahui",
+          "Tang, Tao",
+          "He, Guijuan",
+          "Luo, Joshua",
+          "Zhu, Tianyu",
+          "Pilla, Srikanth",
+          "Li, Gang",
+          "Liu, Ling",
+          "Luo, Feng"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/56bd93867d77583da0266604acfdbd473ed06d79",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "MolLangBench: A Comprehensive Benchmark for Language-Prompted Molecular Structure Recognition, Editing, and Generation",
+        "year": 2025,
+        "authors": [
+          "Feiyang Cai",
+          "Jiahui Bai",
+          "Tao Tang",
+          "Joshua Luo",
+          "Tianyu Zhu",
+          "Ling Liu",
+          "Feng Luo"
+        ]
+      },
+      "title_similarity": 0.9369369369369369,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "chemfm",
+      "raw": {
+        "title": "ChemFM as a scaling law guided foundation model pre-trained on informative chemicals",
+        "authors": [
+          "Cai, Feiyang",
+          "Zacour, Katelin",
+          "Zhu, Tianyu",
+          "Tzeng, Tzuen-Rong",
+          "Duan, Yongping",
+          "Liu, Ling",
+          "Pilla, Srikanth",
+          "Li, Gang",
+          "Luo, Feng"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/90c91802aa147902e7df26be5a913bce02b78c44",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "ChemFM as a scaling law guided foundation model pre-trained on informative chemicals",
+        "year": 2024,
+        "authors": [
+          "Feiyang Cai",
+          "Katelin Zacour",
+          "Tianyu Zhu",
+          "Tzuen-Rong Tzeng",
+          "Yongping Duan",
+          "Ling Liu",
+          "Srikanth Pilla",
+          "Gang Li",
+          "Feng Luo"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "jablonka2024leveraging",
+      "raw": {
+        "title": "Leveraging large language models for predictive chemistry",
+        "authors": [
+          "Jablonka, Kevin Maik",
+          "Schwaller, Philippe",
+          "Ortega-Guerrero, Andres",
+          "Smit, Berend"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/cba71f24d5fd25ade9e60ef38df282aa91de5b80",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Leveraging large language models for predictive chemistry",
+        "year": 2024,
+        "authors": [
+          "K. Jablonka",
+          "P. Schwaller",
+          "Andres Ortega‐Guerrero",
+          "Berend Smit"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "openai5_2",
+      "raw": {
+        "title": "Introducing GPT-5.2",
+        "authors": [
+          "OpenAI"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "not_found",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "openaiimage1_5",
+      "raw": {
+        "title": "The new ChatGPT Images is here",
+        "authors": [
+          "OpenAI"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "not_found",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "openai5",
+      "raw": {
+        "title": "Introducing GPT-5",
+        "authors": [
+          "OpenAI"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "not_found",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "gemini",
+      "raw": {
+        "title": "Gemini 2.5: Pushing the frontier with advanced reasoning, multimodality, long context, and next generation agentic capabilities",
+        "authors": [
+          "Comanici, Gheorghe",
+          "Bieber, Eric",
+          "Schaekermann, Mike",
+          "Pasupat, Ice",
+          "Sachdeva, Noveen",
+          "Dhillon, Inderjit",
+          "Blistein, Marcel",
+          "Ram, Ori",
+          "Zhang, Dan",
+          "Rosen, Evan",
+          "others"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/39d9c3f1cd4bd5069713e50dc7301570575fc055",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities",
+        "year": 2025,
+        "authors": [
+          "Gheorghe Comanici",
+          "Eric Bieber",
+          "Mike Schaekermann",
+          "Ice Pasupat",
+          "Noveen Sachdeva",
+          "Inderjit S. Dhillon",
+          "Marcel Blistein",
+          "Ori Ram",
+          "Dan Zhang",
+          "Evan Rosen",
+          "Luke Marris",
+          "Sam Petulla",
+          "Colin Gaffney",
+          "A. Aharoni",
+          "Nathan Lintz",
+          "T. C. Pais",
+          "Henrik Jacobsson",
+          "Idan Szpektor",
+          "Nan-Jiang Jiang",
+          "Krishna Haridasan",
+          "Ahmed Omran",
+          "Nikunj Saunshi",
+          "Dara Bahri",
+          "Gaurav Mishra",
+          "Eric Chu",
+          "Toby Boyd",
+          "Brad Hekman",
+          "Aaron Parisi",
+          "Chaoyi Zhang",
+          "Kornraphop Kawintiranon",
+          "Tania Bedrax-Weiss",
+          "O. Wang",
+          "Ya Xu",
+          "Ollie Purkiss",
+          "Uri Mendlovic",
+          "Ilai Deutel",
+          "Nam Nguyen",
+          "A. Langley",
+          "Flip Korn",
+          "Lucia Rossazza",
+          "Alexandre Ram'e",
+          "Sagar M. Waghmare",
+          "Helen Miller",
+          "Vaishakh Keshava",
+          "Ying Jian",
+          "Xiaofan Zhang",
+          "R. A. Popa",
+          "Kedar Dhamdhere",
+          "Blavz Bratanivc",
+          "Kyuyeun Kim",
+          "Terry Koo",
+          "Ferran Alet",
+          "Yi-ting Chen",
+          "A. Nagrani",
+          "Hannah Muckenhirn",
+          "Zhiyuan Zhang",
+          "Corbin Quick",
+          "Filip Paveti'c",
+          "D. D. Nguyen",
+          "João Carreira",
+          "Michael Elabd",
+          "Ha-roon Qureshi",
+          "Fabian Mentzer",
+          "Yao Yang",
+          "Danielle Eisenbud",
+          "Anmol Gulati",
+          "Ellie Talius",
+          "Eric Ni",
+          "Sahra Ghalebikesabi",
+          "Edouard Yvinec",
+          "Alaa Saade",
+          "Thatcher Ulrich",
+          "Lorenzo Blanco",
+          "D. A. Calian",
+          "Muhua Huang",
+          "Aäron van den Oord",
+          "Naman Goyal",
+          "Terry Chen",
+          "Praynaa Rawlani",
+          "C. Schallhart",
+          "S. Lokhande",
+          "Xianghong Luo",
+          "Jyn Shan",
+          "Ceslee Montgomery",
+          "Victoria Krakovna",
+          "Federico Piccinini",
+          "Omer Barak",
+          "Jingyu Cui",
+          "Yiling Jia",
+          "Mikhail Dektiarev",
+          "A. Kolganov",
+          "Shiyu Huang",
+          "Zhe Chen",
+          "Xingyu Wang",
+          "Jessica Austin",
+          "Peter de Boursac",
+          "Evgeny Sluzhaev",
+          "F. Ding",
+          "Huijian Li",
+          "Surya Bhupatiraju",
+          "M. Agarwal",
+          "Slawek Kwasiborski",
+          "Paramjit Sandhu",
+          "Patrick Siegler",
+          "Ahmet Iscen",
+          "Eyal Ben-David",
+          "Shiraz Butt",
+          "Miltos Allamanis",
+          "Seth Benjamin",
+          "R. Busa-Fekete",
+          "Félix Hernández-Campos",
+          "S. Goldshtein",
+          "Matt Dibb",
+          "Weiyan Zhang",
+          "Annie Marsden",
+          "Carey Radebaugh",
+          "Stephen Roller",
+          "Abhishek Nayyar",
+          "Jacob Austin",
+          "Tayfun Terzi",
+          "Bhargav Kanagal Shamanna",
+          "Peter Shaw",
+          "Aayush Singh",
+          "Florian Luisier",
+          "Artur Mendoncca",
+          "V. Aggarwal",
+          "L. Markeeva",
+          "Claudio Fantacci",
+          "Sergey Brin",
+          "HyunJeong Choe",
+          "Guanyu Wang",
+          "Hartwig Adam",
+          "Avigail Dabush",
+          "T. Kiyono",
+          "E. Marcus",
+          "Jeremy R. Cole",
+          "T. Weber",
+          "Hongrae Lee",
+          "Ronny Huang",
+          "Alex Muzio",
+          "Leandro Kieliger",
+          "Maigo Le",
+          "Courtney Biles",
+          "Long Le",
+          "Archit Sharma",
+          "Chengrun Yang",
+          "Avery Lamp",
+          "Dave Dopson",
+          "N. Hurley",
+          "Katrina Xu",
+          "Zhihao Shan",
+          "Shuang Song",
+          "Jiewen Tan",
+          "Alexandre Senges",
+          "G. Zhang",
+          "Chong You",
+          "Yennie Jun",
+          "David Raposo",
+          "Susanna Ricco",
+          "Xuan Yang",
+          "Weijie Chen",
+          "Prakhar Gupta",
+          "Arthur Szlam",
+          "Kevin Villela",
+          "Chun-Sung Ferng",
+          "Daniel Kasenberg",
+          "Chen Liang",
+          "Rui Zhu",
+          "Arunachalam Narayanaswamy",
+          "Florence Perot",
+          "Paul Pucciarelli",
+          "A. Shekhawat",
+          "A. Stern",
+          "Rishikesh Ingale",
+          "Stefani Karp",
+          "Sanaz Bahargam",
+          "Adrian Goedeckemeyer",
+          "Jie Han",
+          "Sicheng Li",
+          "A. Tacchetti",
+          "Dian Yu",
+          "A. Chakladar",
+          "Zhiying Zhang",
+          "Mona Mahdy",
+          "Xu Gao",
+          "Dale S. Johnson",
+          "Samrat Phatale",
+          "A. Piergiovanni",
+          "Hyeontaek Lim",
+          "Clément Farabet",
+          "C. Lebsack",
+          "Theo Guidroz",
+          "John Blitzer",
+          "Nico Duduta",
+          "David Madras",
+          "Steve Li",
+          "D. V. Dincklage",
+          "X. Li",
+          "Mahdis Mahdieh",
+          "George Tucker",
+          "Ganesh Jawahar",
+          "Yunxuan Owen Xiao",
+          "Daniel Tarlow",
+          "Robert Geirhos",
+          "Noam Velan",
+          "Daniel Vlasic",
+          "Kalesha Bullard",
+          "SK Park",
+          "Nishesh Gupta",
+          "Kellie Webster",
+          "Ayal Hitron",
+          "Jieming Mao",
+          "J. Eisenschlos",
+          "Laurel Prince",
+          "Nina D'souza",
+          "K. Zheng",
+          "Sara Nasso",
+          "Gabriela Botea",
+          "Carl Doersch",
+          "Caglar Unlu",
+          "Chris Alberti",
+          "A. Svyatkovskiy",
+          "Ankit Goel",
+          "Krzysztof Choromanski",
+          "Pan-Pan Jiang",
+          "R. Nguyen",
+          "Four Flynn",
+          "Daria Ćurko",
+          "Peter Chen",
+          "Nicholas Roth",
+          "Kieran Milan",
+          "Caleb Habtegebriel",
+          "Shashi Narayan",
+          "M. Moffitt",
+          "Jake Marcus",
+          "T. Anthony",
+          "Brendan McMahan",
+          "Gowoon Cheon",
+          "Ruibo Liu",
+          "Megan Barnes",
+          "Lukasz Lew",
+          "Re-beca Santamaria-Fernandez",
+          "Mayank Upadhyay",
+          "Arjun Akula",
+          "A. M. Hrafnkelsson",
+          "A. Caceres",
+          "Andrew Bunner",
+          "Michal Sokolik",
+          "Subha Puttagunta",
+          "L. Moore",
+          "Berivan Isik",
+          "Jay Hartford",
+          "Lawrence Chan",
+          "P. Shenoy",
+          "D. Holtmann-Rice",
+          "Jane Park",
+          "Fabio Viola",
+          "Alexandru Salcianu",
+          "Sujeevan Rajayogam",
+          "Ian Stewart-Binks",
+          "Zelin Wu",
+          "Richard Everett",
+          "Xi Xiong",
+          "Pierre-Antoine Manzagol",
+          "Gary Leung",
+          "Carl Saroufim",
+          "Bo Pang",
+          "Dawid Wegner",
+          "G. Papamakarios",
+          "J. Palomaki",
+          "Helena Pankov",
+          "Guangda Lai",
+          "G. Tubone",
+          "Shubin Zhao",
+          "T. Strinopoulos",
+          "Seth Neel",
+          "Mingqiu Wang",
+          "Joe Kelley",
+          "Li Li",
+          "Ping-mei Xu",
+          "Anitha Vijayakumar",
+          "Andrea D'olimpio",
+          "Omer Levy",
+          "Massimo Nicosia",
+          "Grigory Rozhdestvenskiy",
+          "Ni Lao",
+          "Sirui Xie",
+          "Yash Katariya",
+          "Jon Simon",
+          "Sanjiv Kumar",
+          "Florian Hartmann",
+          "M. Kilgore",
+          "Jinhyuk Lee",
+          "Aroma Mahendru",
+          "Roman Ring",
+          "T. Hennigan",
+          "Fiona Lang",
+          "Colin Cherry",
+          "David Steiner",
+          "Dawsen Hwang",
+          "Ray Smith",
+          "Pidong Wang",
+          "Jeremy Chen",
+          "Ming Yang",
+          "S. Kwei",
+          "Philippe Schlattner",
+          "Donnie Kim",
+          "Ganesh Poomal Girirajan",
+          "Nikola Momchev",
+          "Ayushi Agarwal",
+          "Xingyi Zhou",
+          "Ilkin Safarli",
+          "Zachary Garrett",
+          "AJ Pierigiovanni",
+          "Sarthak Jauhari",
+          "Alif Raditya Rochman",
+          "Shikhar Vashishth",
+          "Quan Yuan",
+          "Christof Angermueller",
+          "Jon Blanton",
+          "Xiny-ing Song",
+          "N. B. Gundavarapu",
+          "Thi Avrahami",
+          "Maxine Deines",
+          "Subhrajit Roy",
+          "Manish Gupta",
+          "Christopher Semturs",
+          "Shobha Vasudevan",
+          "Aditya Srikanth Veerubhotla",
+          "Shriya Sharma",
+          "Joshy Jacob",
+          "Zhen Yang",
+          "Andreas Terzis",
+          "Dan Karliner",
+          "Auriel Wright",
+          "Tania Rojas-Esponda",
+          "Ashley Brown",
+          "A. Roy",
+          "Pawan Dogra",
+          "A. Kapishnikov",
+          "Peter Young",
+          "W. Kan",
+          "Vinodh K. Rajendran",
+          "M. Ivanova",
+          "S. Deshmukh",
+          "Chia-Hua Ho",
+          "Michael Kwong",
+          "S. Ginzburg",
+          "Annie Louis",
+          "KP Sawhney",
+          "Slav Petrov",
+          "Jing Xie",
+          "Yunfei Bai",
+          "G. Stoyanov",
+          "Alex Fabrikant",
+          "Rajesh Jayaram",
+          "Yuqi Li",
+          "Joseph Heyward",
+          "Justin Gilmer",
+          "Yaqing Wang",
+          "Radu Soricut",
+          "Lu Liu",
+          "Qing-ping Duan",
+          "Jamie Hayes",
+          "Maura O'Brien",
+          "Gau-rav Singh Tomar",
+          "Sivan Eiger",
+          "Bahare Fatemi",
+          "Jeffrey Hui",
+          "Catarina Barros",
+          "A. Chukwuka",
+          "Alena Butryna",
+          "Saksham Thakur",
+          "Austin Huang",
+          "Zhufeng Pan",
+          "Haotian Tang",
+          "Serkan Cabi",
+          "Tulsee Doshi",
+          "Michiel A. Bakker",
+          "S. Bagri",
+          "Ruy Ley-Wild",
+          "Á. Lelkes",
+          "J. Lees",
+          "P. Kane",
+          "David Greene",
+          "Shimu Wu",
+          "J. Bornschein",
+          "G. Surita",
+          "Sarah Hodkinson",
+          "Fangtao Li",
+          "Chris Hidey",
+          "Sébastien Pereira",
+          "Sean Ammirati",
+          "Phillip Lippe",
+          "Adam Kraft",
+          "Pu Han",
+          "Sebastian Gerlach",
+          "Zifeng Wang",
+          "Liviu Panait",
+          "Feng Han",
+          "B. Farris",
+          "Y. Bi",
+          "Hannah DeBalsi",
+          "Miaosen Wang",
+          "Gladys Tyen",
+          "James Cohan",
+          "Susan Zhang",
+          "Jarred Barber",
+          "D. Chung",
+          "Jaeyoung Kim",
+          "M. Kunesch",
+          "S. Pecht",
+          "Nami Akazawa",
+          "Abe Friesen",
+          "James Lyon",
+          "Ali Eslami",
+          "Junru Wu",
+          "Jiewen Tan",
+          "Yue Song",
+          "Ravin Kumar",
+          "Christoper A. Welty",
+          "Ilia Akolzin",
+          "Gena Gibson",
+          "Sean Augenstein",
+          "Arjun Pillai",
+          "N. Yuen",
+          "Du Phan",
+          "Xin Wang",
+          "Iain Barr",
+          "H. Zen",
+          "Nan Hua",
+          "Casper Liu",
+          "Jilei Wang",
+          "T. Bhatia",
+          "Hao Xu",
+          "Oded Elyada",
+          "Pushmeet Kohli",
+          "Mirek Olvs'ak",
+          "Kelly Chen",
+          "Azalia Mirhoseini",
+          "Noam Shazeer",
+          "Shoshana Jakobovits",
+          "Maggie Tran",
+          "Nolan Ramsden",
+          "T. Bharti",
+          "Fred Alcober",
+          "Yunjie Li",
+          "S. Shetty",
+          "Jing Chen",
+          "Dmitry Kalashnikov",
+          "Megha Nawhal",
+          "Sercan Ö. Arik",
+          "Hanwen Chen",
+          "M. Blokzijl",
+          "Shubham Gupta",
+          "J. Rubin",
+          "Rigel Swavely",
+          "Sophie Bridgers",
+          "I. Gemp",
+          "Chenlin Su",
+          "A. Suggala",
+          "Juliette Pluto",
+          "Mary Cassin",
+          "Alain C. Vaucher",
+          "Kaiyang Ji",
+          "J. Cai",
+          "Andrew Audibert",
+          "Animesh Sinha",
+          "David Tian",
+          "E. Farkash",
+          "Amy Hua",
+          "Jilin Chen",
+          "Duc Tran",
+          "E. Loper",
+          "Nicole Brichtova",
+          "Lara McConnaughey",
+          "Ballie Sandhu",
+          "Robert Leland",
+          "Douglas DeCarlo",
+          "A. Over",
+          "J. Huang",
+          "Xing Wu",
+          "C. Fan",
+          "Eric Li",
+          "Yun-Peng Lei",
+          "Deepak Sharma",
+          "Cosmin Paduraru",
+          "Luo Yu",
+          "Matko Bovsnjak",
+          "Phuong Dao",
+          "Min Choi",
+          "Sneha Kudugunta",
+          "Jakub Adamek",
+          "Carlos Gu'ia",
+          "Ali Khodaei",
+          "Jie Feng",
+          "Wenjun Zeng",
+          "David Welling",
+          "Sandeep Tata",
+          "Christina Butterfield"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "claude4",
+      "raw": {
+        "title": "Claude Opus 4 / Claude Sonnet 4 System Card",
+        "authors": [
+          "{Anthropic}"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "not_found",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "pubchem",
+      "raw": {
+        "title": "PubChem substance and compound databases",
+        "authors": [
+          "Kim, Sunghwan",
+          "Thiessen, Paul A",
+          "Bolton, Evan E",
+          "Chen, Jie",
+          "Fu, Gang",
+          "Gindulyte, Asta",
+          "Han, Lianyi",
+          "He, Jane",
+          "He, Siqian",
+          "Shoemaker, Benjamin A",
+          "others"
+        ],
+        "year": 2016,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/1f050eb09a40c7d59715d2bb3b9d2d3708e99dda",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "PubChem Substance and Compound databases",
+        "year": 2015,
+        "authors": [
+          "Sunghwan Kim",
+          "P. Thiessen",
+          "Evan E. Bolton",
+          "Jie Chen",
+          "Gang Fu",
+          "A. Gindulyte",
+          "Lianyi Han",
+          "Jane He",
+          "Siqian He",
+          "Benjamin A. Shoemaker",
+          "Jiyao Wang",
+          "Bo Yu",
+          "Jian Zhang",
+          "S. Bryant"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "zinc20",
+      "raw": {
+        "title": "ZINC20—a free ultralarge-scale chemical database for ligand discovery",
+        "authors": [
+          "Irwin, John J",
+          "Tang, Khanh G",
+          "Young, Jennifer",
+          "Dandarchuluun, Chinzorig",
+          "Wong, Benjamin R",
+          "Khurelbaatar, Munkhzul",
+          "Moroz, Yurii S",
+          "Mayfield, John",
+          "Sayle, Roger A"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/8c2b647a4ddd5d490ada2ed21e28aed460640926",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "ZINC20 - A Free Ultralarge-Scale Chemical Database for Ligand Discovery",
+        "year": 2020,
+        "authors": [
+          "J. Irwin",
+          "Khanh G. Tang",
+          "Jennifer Young",
+          "Chinzorig Dandarchuluun",
+          "B. R. Wong",
+          "Munkhzul Khurelbaatar",
+          "Yurii S. Moroz",
+          "J. W. Mayfield",
+          "R. Sayle"
+        ]
+      },
+      "title_similarity": 0.9571428571428571,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "chemical_space",
+      "raw": {
+        "title": "The chemical space project",
+        "authors": [
+          "Reymond, Jean-Louis"
+        ],
+        "year": 2015,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/293c98262ac2f04cd654a630f277a4709ac8607a",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "The Chemical Space Project Published as part of the Accounts of Chemical Research virtual special issue “ Synthesis , Design , and Molecular Function ”",
+        "year": 2015,
+        "authors": [
+          "J. Reymond"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "opsin",
+      "raw": {
+        "title": "Chemical name to structure: OPSIN, an open source solution",
+        "authors": [
+          "Lowe, Daniel M",
+          "Corbett, Peter T",
+          "Murray-Rust, Peter",
+          "Glen, Robert C"
+        ],
+        "year": 2011,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/aeac8bf6d32a90398ade7eaec75c2b454a0de650",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Chemical Name to Structure: OPSIN, an Open Source Solution",
+        "year": 2011,
+        "authors": [
+          "Daniel M. Lowe",
+          "Peter T. Corbett",
+          "Peter Murray-Rust",
+          "R. Glen"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "stereochemical_drug_design",
+      "raw": {
+        "title": "Stereochemical aspects of drug action and disposition",
+        "authors": [
+          "Eichelbaum, Michel F",
+          "Testa, Bernard",
+          "Somogyi, Andrew"
+        ],
+        "year": 2012,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "ambiguous",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/41be9613bf7fc603db198453bd4a23c8da0fc296",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Stereochemical Aspects of Drug Action and Disposition",
+        "year": 1996,
+        "authors": [
+          "M. Eichelbaum",
+          "B. Testa",
+          "A. Somogyi"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "advanced_organic_chemistry",
+      "raw": {
+        "title": "March's Advanced Organic Chemistry: Reactions, Mechanisms, and Structure",
+        "authors": [
+          "Smith, M.B."
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "metadata_mismatch",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/d27d845d9b2ac144cafed00b5d5ef1aa2ff1537d",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "March's Advanced Organic Chemistry: Reactions, Mechanisms, and Structure",
+        "year": 2001,
+        "authors": [
+          "Michael B. Smith",
+          "J. March"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [
+        "year"
+      ],
+      "error": null
+    },
+    {
+      "key": "smiles",
+      "raw": {
+        "title": "SMILES, a chemical language and information system. 1. Introduction to methodology and encoding rules",
+        "authors": [
+          "Weininger, David"
+        ],
+        "year": 1988,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/3f7983818b76a5f1b5daf9b605877ed401c8e73c",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "SMILES, a chemical language and information system. 1. Introduction to methodology and encoding rules",
+        "year": 1988,
+        "authors": [
+          "D. Weininger"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "selfies",
+      "raw": {
+        "title": "Self-referencing embedded strings (SELFIES): A 100\\% robust molecular string representation",
+        "authors": [
+          "Krenn, Mario",
+          "H{\\\"a}se, Florian",
+          "Nigam, AkshatKumar",
+          "Friederich, Pascal",
+          "Aspuru-Guzik, Alan"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/8338a903d8078481ff8af777475f7394d00e9d57",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Self-referencing embedded strings (SELFIES): A 100% robust molecular string representation",
+        "year": 2019,
+        "authors": [
+          "Mario Krenn",
+          "Florian Hase",
+          "AkshatKumar Nigam",
+          "Pascal Friederich",
+          "Alán Aspuru-Guzik"
+        ]
+      },
+      "title_similarity": 0.994475138121547,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "iupac_bluebook",
+      "raw": {
+        "title": "Nomenclature of organic chemistry: IUPAC recommendations and preferred names 2013",
+        "authors": [
+          "Favre, Henri A",
+          "Powell, Warren H"
+        ],
+        "year": 2013,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/2ea902ec5378ec2be15f1c21c4a14c956aa03b75",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Nomenclature of organic chemistry : IUPAC recommendations and preferred names 2013",
+        "year": 2014,
+        "authors": [
+          "H. Favre",
+          "W. Powell",
+          "Structure Representation"
+        ]
+      },
+      "title_similarity": 0.9815950920245399,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "cml",
+      "raw": {
+        "title": "Chemical markup, XML, and the Worldwide Web. 1. Basic principles",
+        "authors": [
+          "Murray-Rust, Peter",
+          "Rzepa, Henry S"
+        ],
+        "year": 1999,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/22660904562a5e631987147df364cf9bc846b834",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Chemical Markup, XML, and the Worldwide Web. 1. Basic Principles",
+        "year": 1999,
+        "authors": [
+          "Peter Murray-Rust",
+          "H. Rzepa"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "inchi",
+      "raw": {
+        "title": "InChI-the worldwide chemical structure identifier standard",
+        "authors": [
+          "Heller, Stephen",
+          "McNaught, Alan",
+          "Stein, Stephen",
+          "Tchekhovskoi, Dmitrii",
+          "Pletnev, Igor"
+        ],
+        "year": 2013,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "ambiguous",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/7ac4efe85a64dd840a10242f5773d08e0ecfc3d2",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "InChI - the worldwide chemical structure identifier standard",
+        "year": 2013,
+        "authors": [
+          "S. Heller",
+          "A. McNaught",
+          "Stephen Stein",
+          "Dmitrii V. Tchekhovskoi",
+          "I. Pletnev"
+        ]
+      },
+      "title_similarity": 0.9672131147540983,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "molt5",
+      "raw": {
+        "title": "Translation between Molecules and Natural Language",
+        "authors": [
+          "Edwards, Carl",
+          "Lai, Tuan",
+          "Ros, Kevin",
+          "Honke, Garrett",
+          "Cho, Kyunghyun",
+          "Ji, Heng"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/3b9b1aba877ecd3f7e508cbc78a41b623349902b",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Translation between Molecules and Natural Language",
+        "year": 2022,
+        "authors": [
+          "Carl N. Edwards",
+          "T. Lai",
+          "Kevin Ros",
+          "Garrett Honke",
+          "Heng Ji"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "chemllmbench",
+      "raw": {
+        "title": "What can Large Language Models do in chemistry? A comprehensive benchmark on eight tasks",
+        "authors": [
+          "Taicheng Guo",
+          "Kehan Guo",
+          "Bozhao Nan",
+          "Zhenwen Liang",
+          "Zhichun Guo",
+          "Nitesh V Chawla",
+          "Olaf Wiest",
+          "Xiangliang Zhang"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/20d7965c0b282a0cd7f990e435d0f6bc9535bbc6",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "What can Large Language Models do in chemistry? A comprehensive benchmark on eight tasks",
+        "year": 2023,
+        "authors": [
+          "Taicheng Guo",
+          "Kehan Guo",
+          "B. Nan",
+          "Zhengwen Liang",
+          "Zhichun Guo",
+          "N. Chawla",
+          "O. Wiest",
+          "Xiangliang Zhang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "instructmol",
+      "raw": {
+        "title": "InstructMol: Multi-Modal Integration for Building a Versatile and Reliable Molecular Assistant in Drug Discovery",
+        "authors": [
+          "Cao, He",
+          "Liu, Zijing",
+          "Lu, Xingyu",
+          "Yao, Yuan",
+          "Li, Yu"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "metadata_mismatch",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/2b3554a8fea6f123fc04bd3e120f2293f227e1b2",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "InstructMol: Multi-Modal Integration for Building a Versatile and Reliable Molecular Assistant in Drug Discovery",
+        "year": 2023,
+        "authors": [
+          "He Cao",
+          "Zijing Liu",
+          "Xingyu Lu",
+          "Yuan Yao",
+          "Yu Li"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [
+        "year"
+      ],
+      "error": null
+    },
+    {
+      "key": "MMNB",
+      "raw": {
+        "title": "Out-of-the-box deep learning prediction of pharmaceutical properties by broadly learned knowledge-based molecular representations",
+        "authors": [
+          "Shen, Wan Xiang",
+          "Zeng, Xian",
+          "Zhu, Feng",
+          "Wang, Ya Li",
+          "Qin, Chu",
+          "Tan, Ying",
+          "Jiang, Yu Yang",
+          "Chen, Yu Zong"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/818498acdef507db66b5b8413d50001eed4bec55",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Out-of-the-box deep learning prediction of pharmaceutical properties by broadly learned knowledge-based molecular representations",
+        "year": 2021,
+        "authors": [
+          "Wanxiang Shen",
+          "Xian Zeng",
+          "F. Zhu",
+          "Y. Wang",
+          "Chu Qin",
+          "Ying Tan",
+          "Yu Yang Jiang",
+          "Y. Chen"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "moleculenet",
+      "raw": {
+        "title": "MoleculeNet: a benchmark for molecular machine learning",
+        "authors": [
+          "Wu, Zhenqin",
+          "Ramsundar, Bharath",
+          "Feinberg, Evan N",
+          "Gomes, Joseph",
+          "Geniesse, Caleb",
+          "Pappu, Aneesh S",
+          "Leswing, Karl",
+          "Pande, Vijay"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/d0ab11de3077490c80a08abd0fb8827bac84c454",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "MoleculeNet: a benchmark for molecular machine learning",
+        "year": 2017,
+        "authors": [
+          "Zhenqin Wu",
+          "Bharath Ramsundar",
+          "Evan N. Feinberg",
+          "Joseph Gomes",
+          "Caleb Geniesse",
+          "Aneesh S. Pappu",
+          "K. Leswing",
+          "V. Pande"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "usptofull",
+      "raw": {
+        "title": "Chemical reactions from US patents",
+        "authors": [
+          "Lowe, Daniel"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "not_found",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "guacamol",
+      "raw": {
+        "title": "GuacaMol: benchmarking models for de novo molecular design",
+        "authors": [
+          "Brown, Nathan",
+          "Fiscato, Marco",
+          "Segler, Marwin HS",
+          "Vaucher, Alain C"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/5bfeb6901db481c08874cfe0ae807d8564513765",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "GuacaMol: Benchmarking Models for De Novo Molecular Design",
+        "year": 2018,
+        "authors": [
+          "Nathan Brown",
+          "Marco Fiscato",
+          "Marwin H. S. Segler",
+          "Alain C. Vaucher"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "moses",
+      "raw": {
+        "title": "Molecular Sets (MOSES): A Benchmarking Platform for Molecular Generation Models",
+        "authors": [
+          "Polykovskiy, Daniil",
+          "Zhebrak, Alexander",
+          "Sanchez-Lengeling, Benjamin",
+          "Golovanov, Sergey",
+          "Tatanov, Oktai",
+          "Belyaev, Stanislav",
+          "Kurbanov, Rauf",
+          "Artamonov, Aleksey",
+          "Aladinskiy, Vladimir",
+          "Veselov, Mark",
+          "Kadurin, Artur",
+          "Johansson, Simon",
+          "Chen, Hongming",
+          "Nikolenko, Sergey",
+          "Aspuru-Guzik, Alan",
+          "Zhavoronkov, Alex"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "metadata_mismatch",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/404571933e3e87942768c9a5cde8a6285732ad6f",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Molecular Sets (MOSES): A Benchmarking Platform for Molecular Generation Models",
+        "year": 2018,
+        "authors": [
+          "Daniil Polykovskiy",
+          "Alexander Zhebrak",
+          "Benjamín Sánchez-Lengeling",
+          "Sergey Golovanov",
+          "Oktai Tatanov",
+          "Stanislav Belyaev",
+          "R. Kurbanov",
+          "A. Artamonov",
+          "V. Aladinskiy",
+          "M. Veselov",
+          "Artur Kadurin",
+          "S. Nikolenko",
+          "Alán Aspuru-Guzik",
+          "A. Zhavoronkov"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [
+        "year"
+      ],
+      "error": null
+    },
+    {
+      "key": "rsmiles",
+      "raw": {
+        "title": "Root-aligned SMILES: a tight representation for chemical reaction prediction",
+        "authors": [
+          "Zhong, Zipeng",
+          "Song, Jie",
+          "Feng, Zunlei",
+          "Liu, Tiantao",
+          "Jia, Lingxiang",
+          "Yao, Shaolun",
+          "Wu, Min",
+          "Hou, Tingjun",
+          "Song, Mingli"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/75e957c1eb3231b5adea44063ec142c6978bd6a2",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Root-aligned SMILES: a tight representation for chemical reaction prediction",
+        "year": 2022,
+        "authors": [
+          "Zipeng Zhong",
+          "Jie Song",
+          "Zunlei Feng",
+          "Tiantao Liu",
+          "Lingxiang Jia",
+          "Shaolun Yao",
+          "Min-Ying Wu",
+          "Tingjun Hou",
+          "Mingli Song"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "chemformer",
+      "raw": {
+        "title": "Chemformer: a pre-trained transformer for computational chemistry",
+        "authors": [
+          "Irwin, Ross",
+          "Dimitriadis, Spyridon",
+          "He, Jiazhen",
+          "Bjerrum, Esben Jannik"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/3f9f7f690e003176316d0ee56fbcbfed4b6b0948",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Chemformer: a pre-trained transformer for computational chemistry",
+        "year": 2021,
+        "authors": [
+          "Ross Irwin",
+          "Spyridon Dimitriadis",
+          "Jiazhen He",
+          "E. Bjerrum"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "L+M",
+      "raw": {
+        "title": "L+ M-24: Building a Dataset for Language+ Molecules@ ACL 2024",
+        "authors": [
+          "Edwards, Carl",
+          "Wang, Qingyun",
+          "Zhao, Lawrence",
+          "Ji, Heng"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "not_found",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "momu",
+      "raw": {
+        "title": "A molecular multimodal foundation model associating molecule graphs with natural language",
+        "authors": [
+          "Su, Bing",
+          "Du, Dazhao",
+          "Yang, Zhao",
+          "Zhou, Yujie",
+          "Li, Jiangmeng",
+          "Rao, Anyi",
+          "Sun, Hao",
+          "Lu, Zhiwu",
+          "Wen, Ji-Rong"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/1c7a4e8d9f4fcf19a5d1caa078c66ca39cb75dd2",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "A Molecular Multimodal Foundation Model Associating Molecule Graphs with Natural Language",
+        "year": 2022,
+        "authors": [
+          "Bing Su",
+          "Dazhao Du",
+          "Zhao-Qing Yang",
+          "Yujie Zhou",
+          "Jiangmeng Li",
+          "Anyi Rao",
+          "Haoran Sun",
+          "Zhiwu Lu",
+          "Ji-rong Wen"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "llamole",
+      "raw": {
+        "title": "Multimodal Large Language Models for Inverse Molecular Design with Retrosynthetic Planning",
+        "authors": [
+          "Gang Liu",
+          "Michael Sun",
+          "Wojciech Matusik",
+          "Meng Jiang",
+          "Jie Chen"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/3f048262b0fd3785f67ba0b2a1c44c10699155f0",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Multimodal Large Language Models for Inverse Molecular Design with Retrosynthetic Planning",
+        "year": 2024,
+        "authors": [
+          "Gang Liu",
+          "Michael Sun",
+          "Wojciech Matusik",
+          "M. Jiang",
+          "Jie Chen"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "chemdfm",
+      "raw": {
+        "title": "Developing ChemDFM as a large language foundation model for chemistry",
+        "authors": [
+          "Zhao, Zihan",
+          "Ma, Da",
+          "Chen, Lu",
+          "Sun, Liangtai",
+          "Li, Zihao",
+          "Xia, Yi",
+          "Chen, Bo",
+          "Xu, Hongshen",
+          "Zhu, Zichen",
+          "Zhu, Su",
+          "others"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/42651047210c2774a8d1a06cfe5613c12f64d3e3",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Developing ChemDFM as a large language foundation model for chemistry",
+        "year": 2024,
+        "authors": [
+          "Zihan Zhao",
+          "Da Ma",
+          "Lu Chen",
+          "Liangtai Sun",
+          "Zihao Li",
+          "Hongshen Xu",
+          "Zichen Zhu",
+          "Su Zhu",
+          "Shuai Fan",
+          "Guodong Shen",
+          "Xin Chen",
+          "Kai Yu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "chemllm",
+      "raw": {
+        "title": "Chemllm: A chemical large language model",
+        "authors": [
+          "Zhang, Di",
+          "Liu, Wei",
+          "Tan, Qian",
+          "Chen, Jingdan",
+          "Yan, Hang",
+          "Yan, Yuliang",
+          "Li, Jiatong",
+          "Huang, Weiran",
+          "Yue, Xiangyu",
+          "Ouyang, Wanli",
+          "others"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/9f0bac228c616236c9fb8c25fbee817b1599a929",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "ChemLLM: A Chemical Large Language Model",
+        "year": 2024,
+        "authors": [
+          "Di Zhang",
+          "Wei Liu",
+          "Qian Tan",
+          "Jingdan Chen",
+          "Hang Yan",
+          "Yuliang Yan",
+          "Jiatong Li",
+          "Weiran Huang",
+          "Xiangyu Yue",
+          "Dongzhan Zhou",
+          "Shufei Zhang",
+          "Mao Su",
+          "Han-Sen Zhong",
+          "Yuqiang Li",
+          "Wanli Ouyang"
+        ]
+      },
+      "title_similarity": 0.9876543209876543,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "galactica",
+      "raw": {
+        "title": "Galactica: A large language model for science",
+        "authors": [
+          "Taylor, Ross",
+          "Kardas, Marcin",
+          "Cucurull, Guillem",
+          "Scialom, Thomas",
+          "Hartshorn, Anthony",
+          "Saravia, Elvis",
+          "Poulton, Andrew",
+          "Kerkez, Viktor",
+          "Stojnic, Robert"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/7d645a3fd276918374fd9483fd675c28e46506d1",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Galactica: A Large Language Model for Science",
+        "year": 2022,
+        "authors": [
+          "Ross Taylor",
+          "Marcin Kardas",
+          "Guillem Cucurull",
+          "Thomas Scialom",
+          "A. Hartshorn",
+          "Elvis Saravia",
+          "Andrew Poulton",
+          "Viktor Kerkez",
+          "Robert Stojnic"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    }
+  ]
+}

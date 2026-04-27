@@ -1,0 +1,1320 @@
+{
+  "paper_id": "1cb66b80-bb61-4586-aa25-eb8c2004a59d",
+  "total": 48,
+  "verified": 6,
+  "mismatch": 0,
+  "missing": 0,
+  "ambiguous": 0,
+  "error": 11,
+  "skipped": 31,
+  "s2_consulted": 0,
+  "s2_lifted": 0,
+  "key_style_outliers": [
+    "10.1145/2736277.2741646",
+    "10.1145/3544548.3581388",
+    "qwen3_2025"
+  ],
+  "entries": [
+    {
+      "key": "Gur2022UnderstandingHW",
+      "raw": {
+        "title": "Understanding HTML with Large Language Models",
+        "authors": [
+          "Izzeddin Gur",
+          "Ofir Nachum",
+          "Yingjie Miao",
+          "Mustafa Safdari",
+          "Austin Huang",
+          "Aakanksha Chowdhery",
+          "Sharan Narang",
+          "Noah Fiedel",
+          "Aleksandra Faust"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "gur2024realworldwebagentplanninglong",
+      "raw": {
+        "title": "A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis",
+        "authors": [
+          "Izzeddin Gur",
+          "Hiroki Furuta",
+          "Austin Huang",
+          "Mustafa Safdari",
+          "Yutaka Matsuo",
+          "Douglas Eck",
+          "Aleksandra Faust"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2307.12856"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2307.12856&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "xi2023risepotentiallargelanguage",
+      "raw": {
+        "title": "The Rise and Potential of Large Language Model Based Agents: A Survey",
+        "authors": [
+          "Zhiheng Xi",
+          "Wenxiang Chen",
+          "Xin Guo",
+          "Wei He",
+          "Yiwen Ding",
+          "Boyang Hong",
+          "Ming Zhang",
+          "Junzhe Wang",
+          "Senjie Jin",
+          "Enyu Zhou",
+          "Rui Zheng",
+          "Xiaoran Fan",
+          "Xiao Wang",
+          "Limao Xiong",
+          "Yuhao Zhou",
+          "Weiran Wang",
+          "Changhao Jiang",
+          "Yicheng Zou",
+          "Xiangyang Liu",
+          "Zhangyue Yin",
+          "Shihan Dou",
+          "Rongxiang Weng",
+          "Wensen Cheng",
+          "Qi Zhang",
+          "Wenjuan Qin",
+          "Yongyan Zheng",
+          "Xipeng Qiu",
+          "Xuanjing Huang",
+          "Tao Gui"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": "2309.07864"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2309.07864&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Wang_2024",
+      "raw": {
+        "title": "A survey on large language model based autonomous agents",
+        "authors": [
+          "Wang, Lei",
+          "Ma, Chen",
+          "Feng, Xueyang",
+          "Zhang, Zeyu",
+          "Yang, Hao",
+          "Zhang, Jingsen",
+          "Chen, Zhiyuan",
+          "Tang, Jiakai",
+          "Chen, Xu",
+          "Lin, Yankai",
+          "Zhao, Wayne Xin",
+          "Wei, Zhewei",
+          "Wen, Jirong"
+        ],
+        "year": 2024,
+        "doi": "10.1007/s11704-024-40231-1",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4393065402",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "A survey on large language model based autonomous agents",
+        "year": 2024,
+        "authors": [
+          "Lei Wang",
+          "Chen Ma",
+          "Xueyang Feng",
+          "Zeyu Zhang",
+          "Hao Yang",
+          "Jingsen Zhang",
+          "Zhiyuan Chen",
+          "Jiakai Tang",
+          "Xu Chen",
+          "Yankai Lin",
+          "Wayne Xin Zhao",
+          "Zhewei Wei",
+          "Ji-Rong Wen"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "ouyang2022traininglanguagemodelsfollow",
+      "raw": {
+        "title": "Training language models to follow instructions with human feedback",
+        "authors": [
+          "Long Ouyang",
+          "Jeff Wu",
+          "Xu Jiang",
+          "Diogo Almeida",
+          "Carroll L. Wainwright",
+          "Pamela Mishkin",
+          "Chong Zhang",
+          "Sandhini Agarwal",
+          "Katarina Slama",
+          "Alex Ray",
+          "John Schulman",
+          "Jacob Hilton",
+          "Fraser Kelton",
+          "Luke Miller",
+          "Maddie Simens",
+          "Amanda Askell",
+          "Peter Welinder",
+          "Paul Christiano",
+          "Jan Leike",
+          "Ryan Lowe"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": "2203.02155"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2203.02155&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Kelly2003ImplicitFF",
+      "raw": {
+        "title": "Implicit feedback for inferring user preference: a bibliography",
+        "authors": [
+          "Diane Kelly",
+          "Jaime Teevan"
+        ],
+        "year": 2003,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Hu2008CollaborativeFF",
+      "raw": {
+        "title": "Collaborative Filtering for Implicit Feedback Datasets",
+        "authors": [
+          "Yifan Hu",
+          "Yehuda Koren",
+          "Chris Volinsky"
+        ],
+        "year": 2008,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Radlinski2017ATF",
+      "raw": {
+        "title": "A Theoretical Framework for Conversational Search",
+        "authors": [
+          "Filip Radlinski",
+          "Nick Craswell"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "10.1145/2736277.2741646",
+      "raw": {
+        "title": "Query Suggestion and Data Fusion in Contextual Disambiguation",
+        "authors": [
+          "Shokouhi, Milad",
+          "Sloan, Marc",
+          "Bennett, Paul N.",
+          "Collins-Thompson, Kevyn",
+          "Sarkizova, Siranush"
+        ],
+        "year": 2015,
+        "doi": "10.1145/2736277.2741646",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2138956160",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Query Suggestion and Data Fusion in Contextual Disambiguation",
+        "year": 2015,
+        "authors": [
+          "Milad Shokouhi",
+          "Marc Sloan",
+          "Paul N. Bennett",
+          "Kevyn Collins‐Thompson",
+          "Siranush Sarkizova"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "deng-etal-2024-multi",
+      "raw": {
+        "title": "On the Multi-turn Instruction Following for Conversational Web Agents",
+        "authors": [
+          "Deng, Yang",
+          "Zhang, Xuan",
+          "Zhang, Wenxuan",
+          "Yuan, Yifei",
+          "Ng, See-Kiong",
+          "Chua, Tat-Seng"
+        ],
+        "year": 2024,
+        "doi": "10.18653/v1/2024.acl-long.477",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4402671805",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "On the Multi-turn Instruction Following for Conversational Web Agents",
+        "year": 2024,
+        "authors": [
+          "Yang Deng",
+          "Xuan Zhang",
+          "Wenxuan Zhang",
+          "Yifei Yuan",
+          "See-Kiong Ng",
+          "Tat‐Seng Chua"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "10.1145/3544548.3581388",
+      "raw": {
+        "title": "Why Johnny Can’t Prompt: How Non-AI Experts Try (and Fail) to Design LLM Prompts",
+        "authors": [
+          "Zamfirescu-Pereira, J.D.",
+          "Wong, Richmond Y.",
+          "Hartmann, Bjoern",
+          "Yang, Qian"
+        ],
+        "year": 2023,
+        "doi": "10.1145/3544548.3581388",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4366548330",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Why Johnny Can’t Prompt: How Non-AI Experts Try (and Fail) to Design LLM Prompts",
+        "year": 2023,
+        "authors": [
+          "J.D. Zamfirescu-Pereira",
+          "Richmond Y. Wong",
+          "Bjoern Hartmann",
+          "Qian Yang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Song2007IdentifyingAQ",
+      "raw": {
+        "title": "Identifying ambiguous queries in web search",
+        "authors": [
+          "Ruihua Song",
+          "Zhenxiao Luo",
+          "Ji-Rong Wen",
+          "Yong Yu",
+          "Hsiao-Wuen Hon"
+        ],
+        "year": 2007,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Qu2018AnalyzingAC",
+      "raw": {
+        "title": "Analyzing and Characterizing User Intent in Information-seeking Conversations",
+        "authors": [
+          "Chen Qu",
+          "Liu Yang",
+          "W. Bruce Croft",
+          "Johanne R. Trippas",
+          "Yongfeng Zhang",
+          "Minghui Qiu"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Deng2023Mind2WebTA",
+      "raw": {
+        "title": "Mind2Web: Towards a Generalist Agent for the Web",
+        "authors": [
+          "Xiang Deng",
+          "Yu Gu",
+          "Boyuan Zheng",
+          "Shijie Chen",
+          "Samuel Stevens",
+          "Boshi Wang",
+          "Huan Sun",
+          "Yu Su"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Zhou2023WebArenaAR",
+      "raw": {
+        "title": "WebArena: A Realistic Web Environment for Building Autonomous Agents",
+        "authors": [
+          "Shuyan Zhou",
+          "Frank F. Xu",
+          "Hao Zhu",
+          "Xuhui Zhou",
+          "Robert Lo",
+          "Abishek Sridhar",
+          "Xianyi Cheng",
+          "Yonatan Bisk",
+          "Daniel Fried",
+          "Uri Alon",
+          "Graham Neubig"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Gou2025Mind2Web2E",
+      "raw": {
+        "title": "Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge",
+        "authors": [
+          "Boyu Gou",
+          "Zanming Huang",
+          "Yuting Ning",
+          "Yu Gu",
+          "Michael Lin",
+          "Weijian Qi",
+          "Andrei Kopanev",
+          "Botao Yu",
+          "Bernal Jim{\\'e}nez Guti{\\'e}rrez",
+          "Yiheng Shu",
+          "Chan Hee Song",
+          "Jiaman Wu",
+          "Shijie Chen",
+          "Hanane Nour Moussa",
+          "Tianshu Zhang",
+          "Jian Xie",
+          "Yifei Li",
+          "Tianci Xue",
+          "Zeyi Liao",
+          "Kai Zhang",
+          "Boyuan Zheng",
+          "Zhaowei Cai",
+          "Viktor Rozgic",
+          "Morteza Ziyadi",
+          "Huan Sun",
+          "Yu Su"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "He2024WebVoyagerBA",
+      "raw": {
+        "title": "WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models",
+        "authors": [
+          "Hongliang He",
+          "Wenlin Yao",
+          "Kaixin Ma",
+          "Wenhao Yu",
+          "Yong Dai",
+          "Hongming Zhang",
+          "Zhenzhong Lan",
+          "Dong Yu"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Yao2022WebShopTS",
+      "raw": {
+        "title": "WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents",
+        "authors": [
+          "Shunyu Yao",
+          "Howard Chen",
+          "John Yang",
+          "Karthik Narasimhan"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Yoran2024AssistantBenchCW",
+      "raw": {
+        "title": "AssistantBench: Can Web Agents Solve Realistic and Time-Consuming Tasks?",
+        "authors": [
+          "Ori Yoran",
+          "Samuel Joseph Amouyal",
+          "Chaitanya Malaviya",
+          "Ben Bogin",
+          "Ofir Press",
+          "Jonathan Berant"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Pan2024WebCanvasBW",
+      "raw": {
+        "title": "WebCanvas: Benchmarking Web Agents in Online Environments",
+        "authors": [
+          "Yichen Pan",
+          "Dehan Kong",
+          "Sida Zhou",
+          "Cheng Cui",
+          "Yifei Leng",
+          "Bing Jiang",
+          "Hangyu Liu",
+          "Yanyi Shang",
+          "Shuyan Zhou",
+          "Tongshuang Wu",
+          "Zhengyang Wu"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Cai2024LargeLM",
+      "raw": {
+        "title": "Large Language Models Empowered Personalized Web Agents",
+        "authors": [
+          "Hongru Cai",
+          "Yongqi Li",
+          "Wenjie Wang",
+          "Fengbin Zhu",
+          "Xiaoyu Shen",
+          "Wenjie Li",
+          "Tat-Seng Chua"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "L2024WebLINXRW",
+      "raw": {
+        "title": "WebLINX: Real-World Website Navigation with Multi-Turn Dialogue",
+        "authors": [
+          "Xing Han L{\\`u}",
+          "Zdeněk Kasner",
+          "Siva Reddy"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Yao2024benchAB",
+      "raw": {
+        "title": "$\\tau$-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains",
+        "authors": [
+          "Shunyu Yao",
+          "Noah Shinn",
+          "Pedram Razavi",
+          "Karthik Narasimhan"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Wu2024LongMemEvalBC",
+      "raw": {
+        "title": "LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory",
+        "authors": [
+          "Di Wu",
+          "Hongwei Wang",
+          "Wenhao Yu",
+          "Yuwei Zhang",
+          "Kai-Wei Chang",
+          "Dong Yu"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "sap-etal-2020-recollection",
+      "raw": {
+        "title": "Recollection versus Imagination: Exploring Human Memory and Cognition via Neural Language Models",
+        "authors": [
+          "Sap, Maarten",
+          "Horvitz, Eric",
+          "Choi, Yejin",
+          "Smith, Noah A.",
+          "Pennebaker, James"
+        ],
+        "year": 2020,
+        "doi": "10.18653/v1/2020.acl-main.178",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3034514149",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Recollection versus Imagination: Exploring Human Memory and Cognition via Neural Language Models",
+        "year": 2020,
+        "authors": [
+          "Maarten Sap",
+          "Eric Horvitz",
+          "Yejin Choi",
+          "Noah A. Smith",
+          "James W. Pennebaker"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Chen2024ApollonionPD",
+      "raw": {
+        "title": "Apollonion: Profile-centric Dialog Agent",
+        "authors": [
+          "Shangyu Chen",
+          "Zibo Zhao",
+          "Yuanyuan Zhao",
+          "Xiang Li"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Lee2023PromptedLA",
+      "raw": {
+        "title": "Prompted LLMs as Chatbot Modules for Long Open-domain Conversation",
+        "authors": [
+          "Gibbeum Lee",
+          "Volker Hartmann",
+          "Jongho Park",
+          "Dimitris Papailiopoulos",
+          "Kangwook Lee"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Xu2022LongTN",
+      "raw": {
+        "title": "Long Time No See! Open-Domain Conversation with Long-Term Persona Memory",
+        "authors": [
+          "Xinchao Xu",
+          "Zhibin Gou",
+          "Wenquan Wu",
+          "Zheng-Yu Niu",
+          "Hua Wu",
+          "Haifeng Wang",
+          "Shihang Wang"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Zhang2018PersonalizingDA",
+      "raw": {
+        "title": "Personalizing Dialogue Agents: I have a dog, do you have pets too?",
+        "authors": [
+          "Saizheng Zhang",
+          "Emily Dinan",
+          "Jack Urbanek",
+          "Arthur Szlam",
+          "Douwe Kiela",
+          "Jason Weston"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Yang2024AgentOccamAS",
+      "raw": {
+        "title": "AgentOccam: A Simple Yet Strong Baseline for LLM-Based Web Agents",
+        "authors": [
+          "Ke Yang",
+          "Yao Liu",
+          "Sapana Chaudhary",
+          "Rasool Fakoor",
+          "Pratik Chaudhari",
+          "George Karypis",
+          "Huzefa Rangwala"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Maharana2024EvaluatingVL",
+      "raw": {
+        "title": "Evaluating Very Long-Term Conversational Memory of LLM Agents",
+        "authors": [
+          "Adyasha Maharana",
+          "Dong-Ho Lee",
+          "S. Tulyakov",
+          "Mohit Bansal",
+          "Francesco Barbieri",
+          "Yuwei Fang"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "muennighoff-etal-2023-mteb",
+      "raw": {
+        "title": "MTEB: Massive Text Embedding Benchmark",
+        "authors": [
+          "Muennighoff, Niklas",
+          "Tazi, Nouamane",
+          "Magne, Loic",
+          "Reimers, Nils"
+        ],
+        "year": 2023,
+        "doi": "10.18653/v1/2023.eacl-main.148",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4386576685",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "MTEB: Massive Text Embedding Benchmark",
+        "year": 2023,
+        "authors": [
+          "Niklas Muennighoff",
+          "Nouamane Tazi",
+          "Loïc Magne",
+          "Nils Reimers"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Salemi2023LaMPWL",
+      "raw": {
+        "title": "LaMP: When Large Language Models Meet Personalization",
+        "authors": [
+          "Alireza Salemi",
+          "Sheshera Mysore",
+          "Michael Bendersky",
+          "Hamed Zamani"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Salemi2025LaMPQAAB",
+      "raw": {
+        "title": "LaMP-QA: A Benchmark for Personalized Long-form Question Answering",
+        "authors": [
+          "Alireza Salemi",
+          "Hamed Zamani"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Kumar2024LongLaMPAB",
+      "raw": {
+        "title": "LongLaMP: A Benchmark for Personalized Long-form Text Generation",
+        "authors": [
+          "Ishita Kumar",
+          "Snigdha Viswanathan",
+          "Sushrita Yerra",
+          "Alireza Salemi",
+          "Ryan A. Rossi",
+          "Franck Dernoncourt",
+          "Hanieh Deilamsalehy",
+          "Xiang Chen",
+          "Ruiyi Zhang",
+          "Shubham Agarwal",
+          "Nedim Lipka",
+          "Hamed Zamani"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Zhao2025DoLR",
+      "raw": {
+        "title": "Do LLMs Recognize Your Preferences? Evaluating Personalized Preference Following in LLMs",
+        "authors": [
+          "Siyan Zhao",
+          "Mingyi Hong",
+          "Yang Liu",
+          "Devamanyu Hazarika",
+          "Kaixiang Lin"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Pan2025OnMC",
+      "raw": {
+        "title": "On Memory Construction and Retrieval for Personalized Conversational Agents",
+        "authors": [
+          "Zhuoshi Pan",
+          "Qianhui Wu",
+          "Huiqiang Jiang",
+          "Xufang Luo",
+          "Hao Cheng",
+          "Dongsheng Li",
+          "Yuqing Yang",
+          "Chin-Yew Lin",
+          "H. Vicky Zhao",
+          "Lili Qiu",
+          "Jianfeng Gao"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Huet2025EpisodicMG",
+      "raw": {
+        "title": "Episodic Memories Generation and Evaluation Benchmark for Large Language Models",
+        "authors": [
+          "Alexis Huet",
+          "Zied Ben-Houidi",
+          "Dario Rossi"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "zhong2024memorybank",
+      "raw": {
+        "title": "Memorybank: Enhancing large language models with long-term memory",
+        "authors": [
+          "Zhong, Wanjun",
+          "Guo, Lianghong",
+          "Gao, Qiqi",
+          "Ye, He",
+          "Wang, Yanlin"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Memorybank%3A+Enhancing+large+language+models+with+long-term+memory&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Shi2017WorldOB",
+      "raw": {
+        "title": "World of Bits: An Open-Domain Platform for Web-Based Agents",
+        "authors": [
+          "Tianlin Shi",
+          "Andrej Karpathy",
+          "Linxi (Jim) Fan",
+          "Josefa Z. Hern{\\'a}ndez",
+          "Percy Liang"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "DBLP:journals/corr/abs-1802-08802",
+      "raw": {
+        "title": "Reinforcement Learning on Web Interfaces Using Workflow-Guided Exploration",
+        "authors": [
+          "Evan Zheran Liu",
+          "Kelvin Guu",
+          "Panupong Pasupat",
+          "Tianlin Shi",
+          "Percy Liang"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": "1802.08802"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1802.08802&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "kwak2025toolhaystackstresstestingtoolaugmentedlanguage",
+      "raw": {
+        "title": "ToolHaystack: Stress-Testing Tool-Augmented Language Models in Realistic Long-Term Interactions",
+        "authors": [
+          "Beong-woo Kwak",
+          "Minju Kim",
+          "Dongha Lim",
+          "Hyungjoo Chae",
+          "Dongjin Kang",
+          "Sunghwan Kim",
+          "Dongil Yang",
+          "Jinyoung Yeo"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2505.23662"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2505.23662&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "openai2025o3systemcard",
+      "raw": {
+        "title": "OpenAI o3 and o4-mini System Card",
+        "authors": [
+          "{OpenAI}"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=OpenAI+o3+and+o4-mini+System+Card&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "openai2024gpt41systemcard",
+      "raw": {
+        "title": "GPT-4.1 System Card",
+        "authors": [
+          "{OpenAI}"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=GPT-4.1+System+Card&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "google2024gemini25flash",
+      "raw": {
+        "title": "Gemini 2.5 Flash",
+        "authors": [
+          "{Google DeepMind}"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Gemini+2.5+Flash&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "qwen3_2025",
+      "raw": {
+        "title": "Qwen3 Technical Report",
+        "authors": [
+          "{Qwen Team}"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2505.09388"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2505.09388&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "meta2024llama3",
+      "raw": {
+        "title": "The Llama 3 Herd of Models",
+        "authors": [
+          "{Meta AI}"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2407.21783"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2407.21783&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Erdogan2025PlanandActIP",
+      "raw": {
+        "title": "Plan-and-Act: Improving Planning of Agents for Long-Horizon Tasks",
+        "authors": [
+          "Lutfi Eren Erdogan",
+          "Nicholas Lee",
+          "Sehoon Kim",
+          "Suhong Moon",
+          "Hiroki Furuta",
+          "Gopala Krishna Anumanchipalli",
+          "Kurt Keutzer",
+          "Amir Gholami"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    }
+  ]
+}

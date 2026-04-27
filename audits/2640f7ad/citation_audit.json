@@ -1,0 +1,1457 @@
+{
+  "paper_id": "2640f7ad-df29-4f4e-ae44-8f272f9f2de5",
+  "total": 48,
+  "verified": 36,
+  "mismatch": 3,
+  "missing": 2,
+  "ambiguous": 2,
+  "error": 0,
+  "skipped": 5,
+  "s2_consulted": 42,
+  "s2_lifted": 0,
+  "key_style_outliers": [
+    "langley00",
+    "mitchell80",
+    "kearns89",
+    "DudaHart2nd",
+    "Newell81",
+    "Samuel59",
+    "liu20232"
+  ],
+  "entries": [
+    {
+      "key": "Kabsch1978ADO",
+      "raw": {
+        "title": "A discussion of the solution for the best rotation to relate two sets of vectors",
+        "authors": [
+          "Wolfgang Kabsch"
+        ],
+        "year": 1978,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "applegate2009certification",
+      "raw": {
+        "title": "Certification of an optimal TSP tour through 85,900 cities",
+        "authors": [
+          "Applegate, David L",
+          "Bixby, Robert E",
+          "Chv{\\'a}tal, Va{\\v{s}}ek",
+          "Cook, William",
+          "Espinoza, Daniel G",
+          "Goycoolea, Marcos",
+          "Helsgaun, Keld"
+        ],
+        "year": 2009,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/fed600f1630f947921e7ff8c0132576aaa0eea5a",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Certification of an optimal TSP tour through 85, 900 cities",
+        "year": 2009,
+        "authors": [
+          "D. Applegate",
+          "R. Bixby",
+          "V. Chvátal",
+          "W. Cook",
+          "Daniel G. Espinoza",
+          "M. Goycoolea",
+          "Keld Helsgaun"
+        ]
+      },
+      "title_similarity": 0.9914529914529915,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "christofides1976worst",
+      "raw": {
+        "title": "Worst-case analysis of a new heuristic for the travelling salesman problem",
+        "authors": [
+          "Christofides, Nicos"
+        ],
+        "year": 1976,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/9677131fd6775e1352dca36f63bc81dfe95b58b0",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Worst-Case Analysis of a New Heuristic for the Travelling Salesman Problem",
+        "year": 1976,
+        "authors": [
+          "Nicos Christofides"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "karp1972reducibility",
+      "raw": {
+        "title": "Reducibility among Combinatorial Problems",
+        "authors": [
+          "Karp, Richard M."
+        ],
+        "year": 1972,
+        "doi": "10.1007/978-1-4684-2001-2_9",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2401610261",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Reducibility among Combinatorial Problems",
+        "year": 1972,
+        "authors": [
+          "Richard M. Karp"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "langley00",
+      "raw": {
+        "title": "Crafting Papers on Machine Learning",
+        "authors": [
+          "P. Langley"
+        ],
+        "year": 2000,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/3efcb97c1de1c87832a7a1d99e91801992a938ec",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Crafting Papers on Machine Learning",
+        "year": 2000,
+        "authors": [
+          "P. Langley"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "mitchell80",
+      "raw": {
+        "title": "The Need for Biases in Learning Generalizations",
+        "authors": [
+          "T. M. Mitchell"
+        ],
+        "year": 1980,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "metadata_mismatch",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/6cf35ec34efa592f83e3a1b748aea14957fc784a",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "The Need for Biases in Learning Generalizations",
+        "year": 2007,
+        "authors": [
+          "Tom Michael Mitchell"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [
+        "year"
+      ],
+      "error": null
+    },
+    {
+      "key": "kearns89",
+      "raw": {
+        "title": "Computational Complexity of Machine Learning",
+        "authors": [
+          "M. J. Kearns"
+        ],
+        "year": 1989,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/a54657b8de38a18f30fd154d713f9522f705166c",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Computational complexity of machine learning",
+        "year": 1990,
+        "authors": [
+          "M. Kearns"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "MachineLearningI",
+      "raw": {
+        "title": "Machine Learning: An Artificial Intelligence Approach, Vol. I",
+        "authors": [],
+        "year": 1983,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "metadata_mismatch",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/b6df5c2ac2f91d71b1d08d76135e2a470ac1ad1e",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "MACHINE LEARNING An Artificial Intelligence Approach",
+        "year": 2009,
+        "authors": [
+          "R. Michalski",
+          "Tom M Mitchell",
+          "Jack Mostow",
+          "Bernard Nudel",
+          "Michael Rychener",
+          "R. Quinlan",
+          "H. Simon",
+          "D. Sleeman",
+          "Robert Stepp",
+          "P. Utgoff"
+        ]
+      },
+      "title_similarity": 0.9203539823008849,
+      "mismatches": [
+        "year",
+        "authors"
+      ],
+      "error": null
+    },
+    {
+      "key": "DudaHart2nd",
+      "raw": {
+        "title": "Pattern Classification",
+        "authors": [
+          "R. O. Duda",
+          "P. E. Hart",
+          "D. G. Stork"
+        ],
+        "year": 2000,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "ambiguous",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/b07ce649d6f6eb636872527104b0209d3edc8188",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Pattern classification and scene analysis",
+        "year": 1974,
+        "authors": [
+          "R. Duda",
+          "P. Hart"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "anonymous",
+      "raw": {
+        "title": "Suppressed for Anonymity",
+        "authors": [
+          "Author, N. N."
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "not_found",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Newell81",
+      "raw": {
+        "title": "Mechanisms of Skill Acquisition and the Law of Practice",
+        "authors": [
+          "A. Newell",
+          "P. S. Rosenbloom"
+        ],
+        "year": 1981,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "metadata_mismatch",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/8f410281861aae69abb29bda90497c86ca929823",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Mechanisms of Skill Acquisition and the Law of Practice",
+        "year": 1993,
+        "authors": [
+          "A. Newell"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [
+        "year"
+      ],
+      "error": null
+    },
+    {
+      "key": "Samuel59",
+      "raw": {
+        "title": "Some Studies in Machine Learning Using the Game of Checkers",
+        "authors": [
+          "A. L. Samuel"
+        ],
+        "year": 1959,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "ambiguous",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/e9e6bb5f2a04ae30d8ecc9287f8b702eedd7b772",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Some Studies in Machine Learning Using the Game of Checkers",
+        "year": 1995,
+        "authors": [
+          "A. Samuel"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "kool2018attention",
+      "raw": {
+        "title": "Attention, Learn to Solve Routing Problems!",
+        "authors": [
+          "Kool, Wouter",
+          "van Hoof, Herke",
+          "Welling, Max"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/e7a839428d06e9ea3719cf6fe5314fd861368ee7",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Attention, Learn to Solve Routing Problems!",
+        "year": 2018,
+        "authors": [
+          "Wouter Kool",
+          "H. V. Hoof",
+          "Max Welling"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "sun2023difusco",
+      "raw": {
+        "title": "DIFUSCO: Graph-based Diffusion Solvers for Combinatorial Optimization",
+        "authors": [
+          "Sun, Zhiguang",
+          "Yang, Yiming"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/5f90d43e6ece5c6ee6e8186e4b57d46c85377713",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "DIFUSCO: Graph-based Diffusion Solvers for Combinatorial Optimization",
+        "year": 2023,
+        "authors": [
+          "Zhiqing Sun",
+          "Yiming Yang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "lipman2022flow",
+      "raw": {
+        "title": "Flow Matching for Generative Modeling",
+        "authors": [
+          "Lipman, Yaron et al."
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/af68f10ab5078bfc519caae377c90ee6d9c504e9",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Flow Matching for Generative Modeling",
+        "year": 2022,
+        "authors": [
+          "Y. Lipman",
+          "Ricky T. Q. Chen",
+          "Heli Ben-Hamu",
+          "Maximilian Nickel",
+          "Matt Le"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "vinyals2015pointer",
+      "raw": {
+        "title": "Pointer networks",
+        "authors": [
+          "Vinyals, Oriol et al."
+        ],
+        "year": 2015,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/9653d5c2c7844347343d073bbedd96e05d52f69b",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Pointer Networks",
+        "year": 2015,
+        "authors": [
+          "O. Vinyals",
+          "Meire Fortunato",
+          "N. Jaitly"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "kofinas2024roto",
+      "raw": {
+        "title": "Roto-translation equivariant processing of dense point clouds",
+        "authors": [
+          "Kofinas, Miltiadis et al."
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "not_found",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "albergo2023stochastic",
+      "raw": {
+        "title": "Stochastic interpolants with data-dependent couplings",
+        "authors": [
+          "Albergo, Michael S",
+          "Goldstein, Mark",
+          "Boffi, Nicholas M",
+          "Ranganath, Rajesh",
+          "Vanden-Eijnden, Eric"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/c34cc8723ab763caab3596c395e44d755f533bad",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Stochastic interpolants with data-dependent couplings",
+        "year": 2023,
+        "authors": [
+          "M. Albergo",
+          "Mark Goldstein",
+          "N. Boffi",
+          "Rajesh Ranganath",
+          "Eric Vanden-Eijnden"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "liu20232",
+      "raw": {
+        "title": "I$^2$SB: Image-to-Image Schr\\\"odinger Bridge",
+        "authors": [
+          "Liu, Guan-Horng",
+          "Vahdat, Arash",
+          "Huang, De-An",
+          "Theodorou, Evangelos A",
+          "Nie, Weili",
+          "Anandkumar, Anima"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/26756d4327a62b1d5aef8031cc4071e243f050a3",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "I2SB: Image-to-Image Schrödinger Bridge",
+        "year": 2023,
+        "authors": [
+          "Guan-Horng Liu",
+          "Arash Vahdat",
+          "De-An Huang",
+          "Evangelos A. Theodorou",
+          "Weili Nie",
+          "Anima Anandkumar"
+        ]
+      },
+      "title_similarity": 0.9156626506024097,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "min2023unsupervised",
+      "raw": {
+        "title": "Unsupervised learning for solving the travelling salesman problem",
+        "authors": [
+          "Min, Yimeng",
+          "Bai, Yiwei",
+          "Gomes, Carla P"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/9b69a9c46d7261fee37c26ce84c9bfd16e8101eb",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Unsupervised Learning for Solving the Travelling Salesman Problem",
+        "year": 2023,
+        "authors": [
+          "Yimeng Min",
+          "Yiwei Bai",
+          "Carla P. Gomes"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "ma2025coexpander",
+      "raw": {
+        "title": "COExpander: Adaptive Solution Expansion for Combinatorial Optimization",
+        "authors": [
+          "Jiale Ma",
+          "Wenzheng Pan",
+          "Yang Li",
+          "Junchi Yan"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "drakulic2023bq",
+      "raw": {
+        "title": "Bq-nco: Bisimulation quotienting for efficient neural combinatorial optimization",
+        "authors": [
+          "Drakulic, Darko",
+          "Michel, Sofia",
+          "Mai, Florian",
+          "Sors, Arnaud",
+          "Andreoli, Jean-Marc"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/72da01c00ef44b039cefe7e9701da2b3d3412f71",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "BQ-NCO: Bisimulation Quotienting for Efficient Neural Combinatorial Optimization",
+        "year": 2023,
+        "authors": [
+          "Darko Drakulic",
+          "Sofia Michel",
+          "Florian Mai",
+          "Arnaud Sors",
+          "J. Andreoli"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "zhao2024disco",
+      "raw": {
+        "title": "DISCO: Efficient diffusion solver for large-scale combinatorial optimization problems",
+        "authors": [
+          "Zhao, Hang",
+          "Yu, Kexiong",
+          "Huang, Yuhang",
+          "Yi, Renjiao",
+          "Zhu, Chenyang",
+          "Xu, Kai"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/a4a313d2f2e982dbe7588dc17b811930a790b440",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "DISCO: Efficient Diffusion Solver for Large-Scale Combinatorial Optimization Problems",
+        "year": 2024,
+        "authors": [
+          "Kexiong Yu",
+          "Hang Zhao",
+          "Yuhang Huang",
+          "Renjiao Yi",
+          "Kai Xu",
+          "Chenyang Zhu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "yoon2024cado",
+      "raw": {
+        "title": "CADO: Cost-Aware Diffusion Solvers for Combinatorial Optimization through RL fine-tuning",
+        "authors": [
+          "Deunsol Yoon",
+          "Hyungseok Song",
+          "Kanghoon Lee",
+          "Woohyung Lim"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "song2020score",
+      "raw": {
+        "title": "Score-based generative modeling through stochastic differential equations",
+        "authors": [
+          "Song, Yang",
+          "Sohl-Dickstein, Jascha",
+          "Kingma, Diederik P",
+          "Kumar, Abhishek",
+          "Ermon, Stefano",
+          "Poole, Ben"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/633e2fbfc0b21e959a244100937c5853afca4853",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Score-Based Generative Modeling through Stochastic Differential Equations",
+        "year": 2020,
+        "authors": [
+          "Yang Song",
+          "Jascha Narain Sohl-Dickstein",
+          "Diederik P. Kingma",
+          "Abhishek Kumar",
+          "Stefano Ermon",
+          "Ben Poole"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "li2024fast",
+      "raw": {
+        "title": "Fast t2t: Optimization consistency speeds up diffusion-based training-to-testing solving for combinatorial optimization",
+        "authors": [
+          "Li, Yang",
+          "Guo, Jinpei",
+          "Wang, Runzhong",
+          "Zha, Hongyuan",
+          "Yan, Junchi"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/dcb3b1a56dccb17f41bbcdee73f9e0a869519173",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Fast T2T: Optimization Consistency Speeds Up Diffusion-Based Training-to-Testing Solving for Combinatorial Optimization",
+        "year": 2025,
+        "authors": [
+          "Yang Li",
+          "Jinpei Guo",
+          "Runzhong Wang",
+          "Hongyuan Zha",
+          "Junchi Yan"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "joshi2019efficient",
+      "raw": {
+        "title": "An efficient graph convolutional network technique for the travelling salesman problem",
+        "authors": [
+          "Joshi, Chaitanya K",
+          "Laurent, Thomas",
+          "Bresson, Xavier"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/f598a8afec169c435e48ad19356c3b768f8ce7a7",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "An Efficient Graph Convolutional Network Technique for the Travelling Salesman Problem",
+        "year": 2019,
+        "authors": [
+          "Chaitanya K. Joshi",
+          "T. Laurent",
+          "X. Bresson"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "joshi2020learning",
+      "raw": {
+        "title": "Learning the travelling salesperson problem requires rethinking generalization",
+        "authors": [
+          "Joshi, Chaitanya K",
+          "Cappart, Quentin",
+          "Rousseau, Louis-Martin",
+          "Laurent, Thomas"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/7d45afc1f12cba92a66da4e83a96380ac0a15997",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Learning the travelling salesperson problem requires rethinking generalization",
+        "year": 2020,
+        "authors": [
+          "Chaitanya K. Joshi",
+          "Quentin Cappart",
+          "Louis-Martin Rousseau",
+          "T. Laurent"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "joshi2019learning",
+      "raw": {
+        "title": "On learning paradigms for the travelling salesman problem",
+        "authors": [
+          "Joshi, Chaitanya K",
+          "Laurent, Thomas",
+          "Bresson, Xavier"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/c0cf45edd530abec7ff993fd4c5bb55ab8d26143",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "On Learning Paradigms for the Travelling Salesman Problem",
+        "year": 2019,
+        "authors": [
+          "Chaitanya K. Joshi",
+          "T. Laurent",
+          "X. Bresson"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "bello2016neural",
+      "raw": {
+        "title": "Neural combinatorial optimization with reinforcement learning",
+        "authors": [
+          "Bello, Irwan",
+          "Pham, Hieu",
+          "Le, Quoc V",
+          "Norouzi, Mohammad",
+          "Bengio, Samy"
+        ],
+        "year": 2016,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/d7878c2044fb699e0ce0cad83e411824b1499dc8",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Neural Combinatorial Optimization with Reinforcement Learning",
+        "year": 2016,
+        "authors": [
+          "Irwan Bello",
+          "Hieu Pham",
+          "Quoc V. Le",
+          "Mohammad Norouzi",
+          "Samy Bengio"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "friedmann2025canonnet",
+      "raw": {
+        "title": "CanonNet: Canonical Ordering and Curvature Learning for Point Cloud Analysis",
+        "authors": [
+          "Friedmann, Benjy",
+          "Werman, Michael"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/20b53f770305f802fe8e916554650cbd31629ae7",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "CanonNet: Canonical Ordering and Curvature Learning for Point Cloud Analysis",
+        "year": 2025,
+        "authors": [
+          "Benjy Friedmann",
+          "Michael Werman"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "helsgaun2017extension",
+      "raw": {
+        "title": "An extension of the Lin-Kernighan-Helsgaun TSP solver for constrained traveling salesman and vehicle routing problems",
+        "authors": [
+          "Helsgaun, Keld"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/0f450869083f8c285b62e5e8ce18af35068686a1",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "An Extension of the Lin-Kernighan-Helsgaun TSP Solver for Constrained Traveling Salesman and Vehicle Routing Problems: Technical report",
+        "year": 2017,
+        "authors": [
+          "Keld Helsgaun"
+        ]
+      },
+      "title_similarity": 0.96,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "kwon2020pomo",
+      "raw": {
+        "title": "Pomo: Policy optimization with multiple optima for reinforcement learning",
+        "authors": [
+          "Kwon, Yeong-Dae",
+          "Choo, Jinho",
+          "Kim, Byoungjip",
+          "Yoon, Iljoo",
+          "Gwon, Youngjune",
+          "Min, Seungjai"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/246a68fcf2bcd1db8f0184129b63123d1f98eaa3",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "POMO: Policy Optimization with Multiple Optima for Reinforcement Learning",
+        "year": 2020,
+        "authors": [
+          "Yeong-Dae Kwon",
+          "Jinho Choo",
+          "Byoungjip Kim",
+          "Iljoo Yoon",
+          "Seungjai Min",
+          "Youngjune Gwon"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "khalil2017learning",
+      "raw": {
+        "title": "Learning combinatorial optimization algorithms over graphs",
+        "authors": [
+          "Khalil, Elias",
+          "Dai, Hanjun",
+          "Zhang, Yuyu",
+          "Dilkina, Bistra",
+          "Song, Le"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/1e819f533ef2bf5ca50a6b2008d96eaea2a2706e",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Learning Combinatorial Optimization Algorithms over Graphs",
+        "year": 2017,
+        "authors": [
+          "Elias Boutros Khalil",
+          "H. Dai",
+          "Yuyu Zhang",
+          "B. Dilkina",
+          "Le Song"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "qiu2022dimes",
+      "raw": {
+        "title": "Dimes: A differentiable meta solver for combinatorial optimization problems",
+        "authors": [
+          "Qiu, Ruizhong",
+          "Sun, Zhiqing",
+          "Yang, Yiming"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/570a4a186f348ebad33816afc82c16acabd07122",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "DIMES: A Differentiable Meta Solver for Combinatorial Optimization Problems",
+        "year": 2022,
+        "authors": [
+          "Ruizhong Qiu",
+          "Zhiqing Sun",
+          "Yiming Yang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "geisler2021generalization",
+      "raw": {
+        "title": "Generalization of neural combinatorial solvers through the lens of adversarial robustness",
+        "authors": [
+          "Geisler, Simon",
+          "Sommer, Johanna",
+          "Schuchardt, Jan",
+          "Bojchevski, Aleksandar",
+          "G{\\\"u}nnemann, Stephan"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/70864c48e643e852355f4a79e23baf3614740df6",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Generalization of Neural Combinatorial Solvers Through the Lens of Adversarial Robustness",
+        "year": 2021,
+        "authors": [
+          "Simon Geisler",
+          "Johanna Sommer",
+          "Jan Schuchardt",
+          "Aleksandar Bojchevski",
+          "Stephan Gunnemann"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "fu2021generalize",
+      "raw": {
+        "title": "Generalize a small pre-trained model to arbitrarily large tsp instances",
+        "authors": [
+          "Fu, Zhang-Hua",
+          "Qiu, Kai-Bin",
+          "Zha, Hongyuan"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/50eec8da1acc52a7c4a0a2c527d7696a41bbdc22",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Generalize a Small Pre-trained Model to Arbitrarily Large TSP Instances",
+        "year": 2020,
+        "authors": [
+          "Zhang-Hua Fu",
+          "K. Qiu",
+          "H. Zha"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "xin2021multi",
+      "raw": {
+        "title": "Multi-decoder attention model with embedding glimpse for solving vehicle routing problems",
+        "authors": [
+          "Xin, Liang",
+          "Song, Wen",
+          "Cao, Zhiguang",
+          "Zhang, Jie"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/de741d317507e21d3f7d3f8107d5b685db455aff",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Multi-Decoder Attention Model with Embedding Glimpse for Solving Vehicle Routing Problems",
+        "year": 2020,
+        "authors": [
+          "Liang Xin",
+          "Wen Song",
+          "Zhiguang Cao",
+          "Jie Zhang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "ma2021learning",
+      "raw": {
+        "title": "Learning to iteratively solve routing problems with dual-aspect collaborative transformer",
+        "authors": [
+          "Ma, Yining",
+          "Li, Jingwen",
+          "Cao, Zhiguang",
+          "Song, Wen",
+          "Zhang, Le",
+          "Chen, Zhenghua",
+          "Tang, Jing"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/87e879c2465b2414a58dd3a1184f8b346d48f3e7",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Learning to Iteratively Solve Routing Problems with Dual-Aspect Collaborative Transformer",
+        "year": 2021,
+        "authors": [
+          "Yining Ma",
+          "Jingwen Li",
+          "Zhiguang Cao",
+          "Wen Song",
+          "Le Zhang",
+          "Zhenghua Chen",
+          "Jing Tang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "bresson2021transformer",
+      "raw": {
+        "title": "The transformer network for the traveling salesman problem",
+        "authors": [
+          "Bresson, Xavier",
+          "Laurent, Thomas"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/5673d574d742168f154d214d231e3adee7bc4715",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "The Transformer Network for the Traveling Salesman Problem",
+        "year": 2021,
+        "authors": [
+          "X. Bresson",
+          "T. Laurent"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "lin1973effective",
+      "raw": {
+        "title": "An effective heuristic algorithm for the traveling-salesman problem",
+        "authors": [
+          "Lin, Shen",
+          "Kernighan, Brian W"
+        ],
+        "year": 1973,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/88c3ae44f61301aa2974f4e65f73d17f5944c0bb",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "An Effective Heuristic Algorithm for the Traveling-Salesman Problem",
+        "year": 1973,
+        "authors": [
+          "Shen Lin",
+          "B. Kernighan"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "bose2024se3stochasticflowmatchingprotein",
+      "raw": {
+        "title": "SE(3)-Stochastic Flow Matching for Protein Backbone Generation",
+        "authors": [
+          "Avishek Joey Bose",
+          "Tara Akhound-Sadegh",
+          "Guillaume Huguet",
+          "Kilian Fatras",
+          "Jarrid Rector-Brooks",
+          "Cheng-Hao Liu",
+          "Andrei Cristian Nica",
+          "Maksym Korablyov",
+          "Michael Bronstein",
+          "Alexander Tong"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2310.02391"
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/c22344d86794d63c90c20e9c61e4cd97c8cf81c9",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "SE(3)-Stochastic Flow Matching for Protein Backbone Generation",
+        "year": 2023,
+        "authors": [
+          "A. Bose",
+          "Tara Akhound-Sadegh",
+          "Kilian Fatras",
+          "Guillaume Huguet",
+          "Jarrid Rector-Brooks",
+          "Cheng-Hao Liu",
+          "A. Nica",
+          "Maksym Korablyov",
+          "Michael M. Bronstein",
+          "Alexander Tong"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "li2023from",
+      "raw": {
+        "title": "From Distribution Learning in Training to Gradient Search in Testing for Combinatorial Optimization",
+        "authors": [
+          "Yang Li",
+          "Jinpei Guo",
+          "Runzhong Wang",
+          "Junchi Yan"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "li2023t2t",
+      "raw": {
+        "title": "T2t: From distribution learning in training to gradient search in testing for combinatorial optimization",
+        "authors": [
+          "Li, Yang",
+          "Guo, Jinpei",
+          "Wang, Runzhong",
+          "Yan, Junchi"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/b933fb2ab8cc4704953a6e97576a921eee56dd76",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "From Distribution Learning in Training to Gradient Search in Testing for Combinatorial Optimization",
+        "year": 2023,
+        "authors": [
+          "Yang Li",
+          "Jinpei Guo",
+          "Runzhong Wang",
+          "Junchi Yan"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "graikos2022diffusion",
+      "raw": {
+        "title": "Diffusion Models as Plug-and-Play Priors",
+        "authors": [
+          "Alexandros Graikos",
+          "Nikolay Malkin",
+          "Nebojsa Jojic",
+          "Dimitris Samaras"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "kim2022sym",
+      "raw": {
+        "title": "Sym-NCO: Leveraging Symmetricity for Neural Combinatorial Optimization",
+        "authors": [
+          "Kim, Minsu",
+          "Park, Junyoung",
+          "Park, Jinkyoo"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/84b45747d6fc3d4458ef14cbefc23ba45cc8e0bb",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Sym-NCO: Leveraging Symmetricity for Neural Combinatorial Optimization",
+        "year": 2022,
+        "authors": [
+          "Minsu Kim",
+          "Junyoung Park",
+          "Jinkyoo Park"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "ho2020denoising",
+      "raw": {
+        "title": "Denoising diffusion probabilistic models",
+        "authors": [
+          "Ho, Jonathan",
+          "Jain, Ajay",
+          "Abbeel, Pieter"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/5c126ae3421f05768d8edd97ecd44b1364e2c99a",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Denoising Diffusion Probabilistic Models",
+        "year": 2020,
+        "authors": [
+          "Jonathan Ho",
+          "Ajay Jain",
+          "P. Abbeel"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "satorras2021n",
+      "raw": {
+        "title": "E (n) equivariant graph neural networks",
+        "authors": [
+          "Satorras, V{\\i}ctor Garcia",
+          "Hoogeboom, Emiel",
+          "Welling, Max"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/8ea9cb53779a8c1bb0e53764f88669bd7edf38f0",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "E(n) Equivariant Graph Neural Networks",
+        "year": 2021,
+        "authors": [
+          "Victor Garcia Satorras",
+          "E. Hoogeboom",
+          "M. Welling"
+        ]
+      },
+      "title_similarity": 0.961038961038961,
+      "mismatches": [],
+      "error": null
+    }
+  ]
+}

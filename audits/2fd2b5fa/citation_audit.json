@@ -1,0 +1,2357 @@
+{
+  "paper_id": "2fd2b5fa-245c-4583-b4fa-f9562a6e31fe",
+  "total": 97,
+  "verified": 23,
+  "mismatch": 1,
+  "missing": 1,
+  "ambiguous": 0,
+  "error": 56,
+  "skipped": 16,
+  "s2_consulted": 2,
+  "s2_lifted": 0,
+  "key_style_outliers": [],
+  "entries": [
+    {
+      "key": "Kessler1997",
+      "raw": {
+        "title": "Estimation of an Ergodic Diffusion from Discrete Observations",
+        "authors": [
+          "Kessler, Mathieu"
+        ],
+        "year": 1997,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Estimation+of+an+Ergodic+Diffusion+from+Discrete+Observations&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Kutoyants2004",
+      "raw": {
+        "title": "Statistical Inference for Ergodic Diffusion Processes",
+        "authors": [
+          "Kutoyants, Yury A."
+        ],
+        "year": 2004,
+        "doi": "10.1007/978-1-4471-3866-2",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2001040001",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Statistical Inference for Ergodic Diffusion Processes",
+        "year": 2004,
+        "authors": [
+          "Yury A. Kutoyants"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Gobet2002",
+      "raw": {
+        "title": "LAN property for ergodic diffusions with discrete observations",
+        "authors": [
+          "Gobet, Emmanuel"
+        ],
+        "year": 2002,
+        "doi": "10.1016/S0246-0203(02)01107-X",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W1568310689",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Propriété LAN pour les diffusions ergodiques avec observations discrètes",
+        "year": 2002,
+        "authors": [
+          "Emmanuel Gobet"
+        ]
+      },
+      "title_similarity": 0.7910447761194029,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "AitShalia1998",
+      "raw": {
+        "title": "Maximum Likelihood Estimation of Discretely Sampled Diffusions: A Closed-Form Approximation Approach",
+        "authors": [
+          "A{\\\"i}t-Sahalia, Yacine"
+        ],
+        "year": 2002,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Maximum+Likelihood+Estimation+of+Discretely+Sampled+Diffusions%3A+A+Closed-Form+Approximation+Approach&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ShojiOzaki1998",
+      "raw": {
+        "title": "Estimation for Nonlinear Stochastic Differential Equations by a Local Linearization Method",
+        "authors": [
+          "Shoji, Ichiro",
+          "Ozaki, Tohru"
+        ],
+        "year": 1995,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Estimation+for+Nonlinear+Stochastic+Differential+Equations+by+a+Local+Linearization+Method&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Watson1964",
+      "raw": {
+        "title": "Smooth Regression Analysis",
+        "authors": [
+          "Watson, Geoffrey S."
+        ],
+        "year": 1964,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Smooth+Regression+Analysis&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Nadaraya1964",
+      "raw": {
+        "title": "On Estimating Regression",
+        "authors": [
+          "Nadaraya, Elizbar A."
+        ],
+        "year": 1964,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=On+Estimating+Regression&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "FlorensZmirou1993",
+      "raw": {
+        "title": "On Estimating the Diffusion Coefficient from Discrete Observations",
+        "authors": [
+          "Florens-Zmirou, Dani{\\`e}le"
+        ],
+        "year": 1993,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=On+Estimating+the+Diffusion+Coefficient+from+Discrete+Observations&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "BandiPhillips2003",
+      "raw": {
+        "title": "Fully Nonparametric Estimation of Scalar Diffusion Models",
+        "authors": [
+          "Bandi, Federico M.",
+          "Phillips, Peter C. B."
+        ],
+        "year": 2003,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Fully+Nonparametric+Estimation+of+Scalar+Diffusion+Models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "BandiPhillips2007",
+      "raw": {
+        "title": "A Simple Approach to the Parametric Estimation of Diffusion Processes",
+        "authors": [
+          "Bandi, Federico M.",
+          "Phillips, Peter C. B."
+        ],
+        "year": 2007,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=A+Simple+Approach+to+the+Parametric+Estimation+of+Diffusion+Processes&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Dalalyan2006",
+      "raw": {
+        "title": "Sharp Adaptive Estimation of the Drift Function for Ergodic Diffusions",
+        "authors": [
+          "Dalalyan, Arnak S."
+        ],
+        "year": 2006,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Sharp+Adaptive+Estimation+of+the+Drift+Function+for+Ergodic+Diffusions&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "XuEtAl2022",
+      "raw": {
+        "title": "Fast Sampling of Diffusion Models with Exponential Integrator",
+        "authors": [
+          "Xu, Yonglong",
+          "Ma, Xueqian",
+          "Zhang, Jiaming",
+          "Chen, Yang",
+          "Wang, Yixuan",
+          "Zhao, Hangjie",
+          "Wang, Yisen",
+          "Zhang, Chuang",
+          "Ji, Rongrong",
+          "Xu, Hang"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": "2204.13902"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2204.13902&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "SahariaEtAl2022",
+      "raw": {
+        "title": "Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding",
+        "authors": [
+          "Saharia, Chitwan",
+          "Chan, William",
+          "Saxena, Saurabh",
+          "Li, Lala",
+          "Whang, Jay",
+          "Denton, Emily",
+          "Seyed Ghasemipour, Kamyar",
+          "Ayan, Burcu Karagol",
+          "Mahdavi, S. Sara",
+          "Lopes, Rapha Gontijo",
+          "Salimans, Tim",
+          "Ho, Jonathan",
+          "Fleet, David J.",
+          "Norouzi, Mohammad"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": "2205.11487"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2205.11487&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "HoEtAl2022",
+      "raw": {
+        "title": "Video Diffusion Models",
+        "authors": [
+          "Ho, Jonathan",
+          "Saharia, Chitwan",
+          "Chan, William",
+          "Fleet, David J.",
+          "Norouzi, Mohammad",
+          "Salimans, Tim"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": "2204.03458"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2204.03458&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "CorsoEtAl2023",
+      "raw": {
+        "title": "DiffDock: Diffusion Steps, Twists, and Turns for Molecular Docking",
+        "authors": [
+          "Corso, Gabriele",
+          "St{\\\"a}rk, Hannes",
+          "Jing, Bowen",
+          "Barzilay, Regina",
+          "Jaakkola, Tommi"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": "2210.01776"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2210.01776&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "BrooksEtAl2023",
+      "raw": {
+        "title": "InstructPix2Pix: Learning to Follow Image Editing Instructions",
+        "authors": [
+          "Brooks, Tim",
+          "Holynski, Aleksander",
+          "Efros, Alexei A."
+        ],
+        "year": 2023,
+        "doi": "10.1109/CVPR52688.2023.01908",
+        "arxiv_id": null
+      },
+      "status": "not_found",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "GeomXuEtAl2023",
+      "raw": {
+        "title": "Geometric Latent Diffusion Models for 3D Molecule Generation",
+        "authors": [
+          "Xu, Minkai",
+          "Powers, Alexander S.",
+          "Dror, Ron O.",
+          "Ermon, Stefano",
+          "Leskovec, Jure"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "RombachEtAl2022",
+      "raw": {
+        "title": "High-Resolution Image Synthesis with Latent Diffusion Models",
+        "authors": [
+          "Rombach, Robin",
+          "Blattmann, Andreas",
+          "Lorenz, Dominik",
+          "Esser, Patrick",
+          "Ommer, Bj{\\\"o}rn"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": "2112.10752"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2112.10752&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "BarancikovaHuangSalvi2025",
+      "raw": {
+        "title": "SigDiffusions: Score-Based Diffusion Models for Long Time Series via Log-Signature Embeddings",
+        "authors": [
+          "Barancikova, Barbora",
+          "Huang, Zhuoyue",
+          "Salvi, Cristopher"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2406.10354"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2406.10354&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Tsybakov2009",
+      "raw": {
+        "title": "Introduction to Nonparametric Estimation",
+        "authors": [
+          "Alexandre B. Tsybakov"
+        ],
+        "year": 2009,
+        "doi": "10.1007/b13794",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W1511694993",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Introduction to Nonparametric Estimation",
+        "year": 2008,
+        "authors": [
+          "Alexandre B. Tsybakov"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "KloedenPlaten1992",
+      "raw": {
+        "title": "Numerical Solution of Stochastic Differential Equations",
+        "authors": [
+          "Peter E. Kloeden",
+          "Eckhard Platen"
+        ],
+        "year": 1992,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Numerical+Solution+of+Stochastic+Differential+Equations&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "SarkkaSolin2019",
+      "raw": {
+        "title": "Applied Stochastic Differential Equations",
+        "authors": [
+          "S{\\\"a}rkk{\\\"a}, Simo",
+          "Solin, Arno"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Applied+Stochastic+Differential+Equations&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "YanEtAl2021",
+      "raw": {
+        "title": "ScoreGrad: Multivariate Probabilistic Time Series Forecasting with Continuous Energy-based Generative Models",
+        "authors": [
+          "Tijin Yan",
+          "Hongwei Zhang",
+          "Tong Zhou",
+          "Yufeng Zhan",
+          "Yuanqing Xia"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": "2106.10121"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2106.10121&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "XuEtAl2023",
+      "raw": {
+        "title": "Stable Target Field for Reduced Variance Score Estimation in Diffusion Models",
+        "authors": [
+          "Yilun Xu",
+          "Shangyuan Tong",
+          "Tommi S. Jaakkola"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "MarieEtAl2021",
+      "raw": {
+        "title": "Nadaraya--Watson estimator for I.I.D. paths of diffusion processes",
+        "authors": [
+          "Marie, Nicolas",
+          "Rosier, Am{\\'e}lie"
+        ],
+        "year": 2023,
+        "doi": "10.1111/sjos.12593",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3161145331",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Nadaraya–Watson estimator for I.I.D. paths of diffusion processes",
+        "year": 2022,
+        "authors": [
+          "Nicolas Marie",
+          "Amélie Rosier"
+        ]
+      },
+      "title_similarity": 0.9770992366412214,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "VanDerMeulenEtAl2014",
+      "raw": {
+        "title": "Reversible jump MCMC for nonparametric drift estimation for diffusion processes",
+        "authors": [
+          "Frank Van der Meulen",
+          "Moritz Schauer",
+          "Harry Van Zanten"
+        ],
+        "year": 2014,
+        "doi": "10.1016/j.csda.2013.03.002",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2122947017",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Reversible jump MCMC for nonparametric drift estimation for diffusion processes",
+        "year": 2013,
+        "authors": [
+          "Frank van der Meulen",
+          "Moritz Schauer",
+          "Harry van Zanten"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "AitSahaliaJacod2014",
+      "raw": {
+        "title": "High-Frequency Financial Econometrics",
+        "authors": [
+          "Yacine A{\\\"i}t-Sahalia",
+          "Jean Jacod"
+        ],
+        "year": 2014,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=High-Frequency+Financial+Econometrics&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ComteGenonCatalot2009",
+      "raw": {
+        "title": "Nonparametric Drift Estimation for Diffusion Processes",
+        "authors": [
+          "Comte, Fabienne",
+          "Genon-Catalot, Valentine"
+        ],
+        "year": 2009,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Nonparametric+Drift+Estimation+for+Diffusion+Processes&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ComteGenonCatalotRozenholc2007",
+      "raw": {
+        "title": "Penalized Nonparametric Mean Square Estimation of the Coefficients of Diffusion Processes",
+        "authors": [
+          "Comte, Fabienne",
+          "Genon-Catalot, Valentine",
+          "Rozenholc, Yves"
+        ],
+        "year": 2007,
+        "doi": "10.3150/07-BEJ5173",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2117854723",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Penalized nonparametric mean square estimation of the coefficients of diffusion processes",
+        "year": 2007,
+        "authors": [
+          "Fabienne Comte",
+          "Valentine Genon‐Catalot",
+          "Yves Rozenholc"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "ComteGenonCatalot2010",
+      "raw": {
+        "title": "Adaptive Estimation of the Drift Function for Ergodic Diffusions: A Penalized Projection Approach",
+        "authors": [
+          "Comte, Fabienne",
+          "Genon-Catalot, Valentine"
+        ],
+        "year": 2010,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Adaptive+Estimation+of+the+Drift+Function+for+Ergodic+Diffusions%3A+A+Penalized+Projection+Approach&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ComteGenonCatalot2020",
+      "raw": {
+        "title": "Nonparametric drift estimation for i.i.d. paths of stochastic differential equations",
+        "authors": [
+          "Fabienne Comte",
+          "Valentine Genon-Catalot"
+        ],
+        "year": 2020,
+        "doi": "10.1214/19-AOS1933",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3111739917",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Nonparametric drift estimation for i.i.d. paths of stochastic differential equations",
+        "year": 2020,
+        "authors": [
+          "Fabienne Comte",
+          "Valentine Genon‐Catalot"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "OgaKoike2023",
+      "raw": {
+        "title": "Drift Estimation for a Multi-Dimensional Diffusion Process Using Deep Neural Networks",
+        "authors": [
+          "Akihiro Oga",
+          "Yuta Koike"
+        ],
+        "year": 2023,
+        "doi": "10.1016/j.spa.2023.104240",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4387807337",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Drift estimation for a multi-dimensional diffusion process using deep neural networks",
+        "year": 2023,
+        "authors": [
+          "Akihiro Oga",
+          "Yuta Koike"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "ZhaoLiuHoffmann2025",
+      "raw": {
+        "title": "Drift Estimation for Diffusion Processes Using Neural Networks Based on Discretely Observed Independent Paths",
+        "authors": [
+          "Yuzhen Zhao",
+          "Yating Liu",
+          "Marc Hoffmann"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2511.11161"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2511.11161&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "MohammadiEtAl2024",
+      "raw": {
+        "title": "Nonparametric Estimation for SDE with Sparsely Sampled Paths: an FDA Perspective",
+        "authors": [
+          "Mohammadi, Neda",
+          "Santoro, Leonardo",
+          "Panaretos, Victor M."
+        ],
+        "year": 2024,
+        "doi": "10.1016/j.spa.2023.104239",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3208887304",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Nonparametric estimation for SDE with sparsely sampled paths: An FDA perspective",
+        "year": 2023,
+        "authors": [
+          "Neda Mahvash Mohammadi",
+          "Leonardo V. Santoro",
+          "Victor M. Panaretos"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "BonalliRudi2025",
+      "raw": {
+        "title": "Non-parametric Learning of Stochastic Differential Equations with Non-asymptotic Fast Rates of Convergence",
+        "authors": [
+          "Bonalli, Riccardo",
+          "Rudi, Alessandro"
+        ],
+        "year": 2025,
+        "doi": "10.1007/s10208-025-09705-x",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4408185960",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Non-parametric Learning of Stochastic Differential Equations with Non-asymptotic Fast Rates of Convergence",
+        "year": 2025,
+        "authors": [
+          "Riccardo Bonalli",
+          "Alessandro Rudi"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "DenisEtAl2021",
+      "raw": {
+        "title": "A ridge estimator of the drift from discrete repeated observations of the solution of a stochastic differential equation",
+        "authors": [
+          "Christophe Denis",
+          "Charlotte Dion-Blanc",
+          "Miguel Martinez"
+        ],
+        "year": 2021,
+        "doi": "10.3150/21-BEJ1327",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3015888473",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "A ridge estimator of the drift from discrete repeated observations of the solution of a stochastic differential equation",
+        "year": 2021,
+        "authors": [
+          "Christophe Denis",
+          "Charlotte Dion‐Blanc",
+          "Miguel Martínez"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Hyvarinen2005",
+      "raw": {
+        "title": "Estimation of non-normalized statistical models by score matching.",
+        "authors": [
+          "Hyvarinen, Aapo",
+          "Dayan, Peter"
+        ],
+        "year": 2005,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Estimation+of+non-normalized+statistical+models+by+score+matching.&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Bishop1995",
+      "raw": {
+        "title": "Training with Noise Is Equivalent to Tikhonov Regularization",
+        "authors": [
+          "Bishop, Christopher M."
+        ],
+        "year": 1995,
+        "doi": "10.1162/neco.1995.7.1.108",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2111406701",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Training with Noise is Equivalent to Tikhonov Regularization",
+        "year": 1995,
+        "authors": [
+          "Chris Bishop"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Lorenz1996",
+      "raw": {
+        "title": "Predictability: A problem partly solved",
+        "authors": [
+          "Lorenz, Edward N."
+        ],
+        "year": 1996,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Predictability%3A+A+problem+partly+solved&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "KingmaBa2015",
+      "raw": {
+        "title": "Adam: A Method for Stochastic Optimization",
+        "authors": [
+          "Kingma, Diederik P.",
+          "Ba, Jimmy"
+        ],
+        "year": 2015,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Adam%3A+A+Method+for+Stochastic+Optimization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "KimEtAl2024",
+      "raw": {
+        "title": "The Disappearance of Timestep Embedding in Modern Time-Dependent Neural Networks",
+        "authors": [
+          "Kim, Bum Jun",
+          "Kawahara, Yoshinobu",
+          "Kim, Sang Woo"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2405.14126"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2405.14126&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "StarnesWebster2025",
+      "raw": {
+        "title": "Improved performance of stochastic gradients with Gaussian smoothing",
+        "authors": [
+          "Starnes, Andrew",
+          "Webster, Clayton"
+        ],
+        "year": 2025,
+        "doi": "10.1007/978-3-032-00137-5_11",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4414773110",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Improved Performance of Stochastic Gradients with Gaussian Smoothing",
+        "year": 2025,
+        "authors": [
+          "Andrew Starnes",
+          "Clayton Webster"
+        ]
+      },
+      "title_similarity": 0.8529411764705883,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Sorensen2015",
+      "raw": {
+        "title": "Efficient Estimation for Diffusions Sampled at High Frequency Over a Fixed Time Interval",
+        "authors": [
+          "Jakobsen, Nina Munkholt",
+          "S{\\o}rensen, Michael"
+        ],
+        "year": 2015,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "ChenEtAl2024",
+      "raw": {
+        "title": "Fast Sampling via Discrete Non-Markov Diffusion Models with Predetermined Transition Time",
+        "authors": [
+          "Chen, Zixiang",
+          "Yuan, Huizhuo",
+          "Li, Yongqian",
+          "Kou, Yiwen",
+          "Zhang, Junkai",
+          "Gu, Quanquan"
+        ],
+        "year": 2024,
+        "doi": "10.52202/079017-3393",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4415795969",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Fast Sampling via Discrete Non-Markov Diffusion Models with Predetermined Transition Time",
+        "year": 2024,
+        "authors": [
+          "Zixiang Chen",
+          "Quanquan Gu",
+          "Yiwen Kou",
+          "Yongqian Li",
+          "Huizhuo Yuan",
+          "Junkai Zhang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Györfi2002",
+      "raw": {
+        "title": "A Distribution-Free Theory of Nonparametric Regression",
+        "authors": [
+          "Györfi, László",
+          "Kohler, Michael",
+          "Krzyżak, Adam",
+          "Walk, Harro"
+        ],
+        "year": 2002,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=A+Distribution-Free+Theory+of+Nonparametric+Regression&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Vincent2011",
+      "raw": {
+        "title": "A connection between score matching and denoising autoencoders",
+        "authors": [
+          "Vincent, Pascal"
+        ],
+        "year": 2011,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=A+connection+between+score+matching+and+denoising+autoencoders&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "SongEtAl2020",
+      "raw": {
+        "title": "Score-Based Generative Modeling through Stochastic Differential Equations",
+        "authors": [
+          "Yang Song",
+          "Jascha Sohl-Dickstein",
+          "Diederik P. Kingma",
+          "Abhishek Kumar",
+          "Stefano Ermon",
+          "Ben Poole"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": "2011.13456"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2011.13456&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "KarrasEtAl2022",
+      "raw": {
+        "title": "Elucidating the Design Space of Diffusion-Based Generative Models",
+        "authors": [
+          "Tero Karras",
+          "Miika Aittala",
+          "Timo Aila",
+          "Samuli Laine"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": "2206.00364"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2206.00364&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Oksendal2003",
+      "raw": {
+        "title": "Stochastic Differential Equations",
+        "authors": [
+          "{\\O}ksendal, Bernt"
+        ],
+        "year": 2003,
+        "doi": "10.1007/978-3-642-14394-6",
+        "arxiv_id": null
+      },
+      "status": "metadata_mismatch",
+      "openalex_id": "https://openalex.org/W4238187298",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Stochastic Differential Equations",
+        "year": 2003,
+        "authors": [
+          "Bernt Øksendal"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [
+        "authors"
+      ],
+      "error": null
+    },
+    {
+      "key": "EthierKurtz1986",
+      "raw": {
+        "title": "Markov Processes: Characterization and Convergence",
+        "authors": [
+          "Ethier, Stewart N.",
+          "Kurtz, Thomas G."
+        ],
+        "year": 1986,
+        "doi": "10.1002/9780470316658",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4213329537",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Markov Processes",
+        "year": 1986,
+        "authors": [
+          "S. N. Ethier",
+          "Thomas G. Kurtz"
+        ]
+      },
+      "title_similarity": 0.5454545454545454,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "KaratzasShreve1991",
+      "raw": {
+        "title": "Brownian Motion and Stochastic Calculus",
+        "authors": [
+          "Karatzas, Ioannis",
+          "Shreve, Steven E."
+        ],
+        "year": 1991,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Brownian+Motion+and+Stochastic+Calculus&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "SohlDicksteinEtAl2015",
+      "raw": {
+        "title": "Deep Unsupervised Learning using Nonequilibrium Thermodynamics",
+        "authors": [
+          "Sohl-Dickstein, Jascha",
+          "Weiss, Eric",
+          "Maheswaranathan, Niru",
+          "Ganguli, Surya"
+        ],
+        "year": 2015,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "SongErmon2019",
+      "raw": {
+        "title": "Generative Modeling by Estimating Gradients of the Data Distribution",
+        "authors": [
+          "Song, Yang",
+          "Ermon, Stefano"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "YangEtAl2024",
+      "raw": {
+        "title": "SigDiffusions: Score-Based Diffusion Models for Time Series via Log-Signature Embeddings",
+        "authors": [
+          "Barancikova, Barbora",
+          "Huang, Zhuoyue",
+          "Salvi, Cristopher"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "SongErmon2020b",
+      "raw": {
+        "title": "Improved Techniques for Training Score-Based Generative Models",
+        "authors": [
+          "Song, Yang",
+          "Ermon, Stefano"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "HoEtAl2020",
+      "raw": {
+        "title": "Denoising Diffusion Probabilistic Models",
+        "authors": [
+          "Ho, Jonathan",
+          "Jain, Ajay",
+          "Abbeel, Pieter"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "SongEtAl2021A",
+      "raw": {
+        "title": "Denoising Diffusion Implicit Models",
+        "authors": [
+          "Jiaming Song",
+          "Chenlin Meng",
+          "Stefano Ermon"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "SongEtAl2021B",
+      "raw": {
+        "title": "Score-Based Generative Modeling through Stochastic Differential Equations",
+        "authors": [
+          "Yang Song",
+          "Jascha Sohl-Dickstein",
+          "Diederik P Kingma",
+          "Abhishek Kumar",
+          "Stefano Ermon",
+          "Ben Poole"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "BentonEtAl2023",
+      "raw": {
+        "title": "From Denoising Diffusions to Denoising Markov Models",
+        "authors": [
+          "Benton, Joe",
+          "Shi, Yuyang",
+          "De Bortoli, Valentin",
+          "Deligiannidis, George",
+          "Doucet, Arnaud"
+        ],
+        "year": 2024,
+        "doi": "10.1093/jrsssb/qkae005",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4317539509",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "From denoising diffusions to denoising Markov models",
+        "year": 2024,
+        "authors": [
+          "Joe Benton",
+          "Yuyang Shi",
+          "Valentin De Bortoli",
+          "George Deligiannidis",
+          "Randal Douc"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "FranzeseEtAl2023A",
+      "raw": {
+        "title": "Continuous-Time Functional Diffusion Processes",
+        "authors": [
+          "Giulio Franzese",
+          "Giulio Corallo",
+          "Simone Rossi",
+          "Markus Heinonen",
+          "Maurizio Filippone",
+          "Pietro Michiardi"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Continuous-Time+Functional+Diffusion+Processes&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ZhangEtAl2023",
+      "raw": {
+        "title": "Preconditioned Score-based Generative Models",
+        "authors": [
+          "Li Zhang",
+          "Hengyuan Ma",
+          "Xiatian Zhu",
+          "Jianfeng Feng"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Preconditioned+Score-based+Generative+Models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "DeBortoliEtAl2021",
+      "raw": {
+        "title": "Diffusion Schr\\\"odinger Bridge with Applications to Score-Based Generative Modeling",
+        "authors": [
+          "De Bortoli, Valentin",
+          "Thornton, James",
+          "Heng, Jeremy",
+          "Doucet, Arnaud"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Diffusion+Schr%5C%22odinger+Bridge+with+Applications+to+Score-Based+Generative+Modeling&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "LimEtAl2023",
+      "raw": {
+        "title": "Regular Time-series Generation using SGM",
+        "authors": [
+          "Lim, Haksoo",
+          "Kim, Minjung",
+          "Park, Sewon",
+          "Park, Noseong"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Regular+Time-series+Generation+using+SGM&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ShiEtAl2023",
+      "raw": {
+        "title": "Diffusion Schr\\\"odinger Bridge Matching",
+        "authors": [
+          "Shi, Yuyang",
+          "De Bortoli, Valentin",
+          "Campbell, Andrew",
+          "Doucet, Arnaud"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Diffusion+Schr%5C%22odinger+Bridge+Matching&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "RasulEtAl2021",
+      "raw": {
+        "title": "Autoregressive Denoising Diffusion Models for Multivariate Probabilistic Time Series Forecasting",
+        "authors": [
+          "Rasul, Kashif",
+          "Seward, Calvin",
+          "Schuster, Ingmar",
+          "Vollgraf, Roland"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Autoregressive+Denoising+Diffusion+Models+for+Multivariate+Probabilistic+Time+Series+Forecasting&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ShenKwok2023",
+      "raw": {
+        "title": "Non-autoregressive Conditional Diffusion Models for Time Series Prediction",
+        "authors": [
+          "Shen, Lifeng",
+          "Kwok, James"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Non-autoregressive+Conditional+Diffusion+Models+for+Time+Series+Prediction&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "TashiroEtAl2021",
+      "raw": {
+        "title": "CSDI: Conditional Score-based Diffusion Models for Probabilistic Time Series Imputation",
+        "authors": [
+          "Yusuke Taskhiro",
+          "Jiaming Song",
+          "Yang Song",
+          "Stefano Ermon"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "LopezAlcarazStrodthoff2023",
+      "raw": {
+        "title": "Diffusion-based Conditional ECG Generation with Structured State Space Models",
+        "authors": [
+          "Juan Miguel Lopez Alcaraz",
+          "Nils Strodthoff"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Diffusion-based+Conditional+ECG+Generation+with+Structured+State+Space+Models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "DiffusionTimeSurvey2023",
+      "raw": {
+        "title": "Diffusion Models for Time Series Applications: A Survey",
+        "authors": [
+          "Lin, Lequan",
+          "Li, Zhengkun",
+          "Li, Ruikun",
+          "Li, Xuliang",
+          "Gao, Junbin"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Diffusion+Models+for+Time+Series+Applications%3A+A+Survey&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "KolloviehEtAl2023",
+      "raw": {
+        "title": "Predict, Refine, Synthesize: Self-Guiding Diffusion Models for Probabilistic Time Series Forecasting",
+        "authors": [
+          "Kollovieh, Marcel",
+          "Ansari, Abdul Fatir",
+          "Bohlke-Schneider, Michael",
+          "Zschiegner, Jasper",
+          "Wang, Hao",
+          "Wang, Yuyang"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Predict%2C+Refine%2C+Synthesize%3A+Self-Guiding+Diffusion+Models+for+Probabilistic+Time+Series+Forecasting&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "LiEtAl2023",
+      "raw": {
+        "title": "Generative Time Series Forecasting with Diffusion, Denoise, and Disentanglement",
+        "authors": [
+          "Yan Li",
+          "Xinjiang Lu",
+          "Yaqing Wang",
+          "Dejing Dou"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Generative+Time+Series+Forecasting+with+Diffusion%2C+Denoise%2C+and+Disentanglement&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "KongEtAl2021",
+      "raw": {
+        "title": "DiffWave: A Versatile Diffusion Model for Audio Synthesis",
+        "authors": [
+          "Kong, Zhifeng",
+          "Ping, Wei",
+          "Huang, Jiaji",
+          "Zhao, Kexin",
+          "Catanzaro, Bryan"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=DiffWave%3A+A+Versatile+Diffusion+Model+for+Audio+Synthesis&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "GraikosEtAl2023",
+      "raw": {
+        "title": "Conditional Generation from Unconditional Diffusion Models using Denoiser Representations",
+        "authors": [
+          "Alexandros Graikos",
+          "Srikar Yellapragada",
+          "Dimitris Samaras"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Conditional+Generation+from+Unconditional+Diffusion+Models+using+Denoiser+Representations&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "BaoEtAl2023",
+      "raw": {
+        "title": "A Score-based Filter for Nonlinear Data Assimilation",
+        "authors": [
+          "Bao, Feng",
+          "Zhang, Zezhong",
+          "Zhang, Guannan"
+        ],
+        "year": 2024,
+        "doi": "10.1016/j.jcp.2024.113207",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4399804170",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "A score-based filter for nonlinear data assimilation",
+        "year": 2024,
+        "authors": [
+          "Feng Bao",
+          "Zezhong Zhang",
+          "Guannan Zhang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "RozetEtAl2023",
+      "raw": {
+        "title": "Score-based Data Assimilation",
+        "authors": [
+          "Fran{\\c c}ois Rozet",
+          "Gilles Louppe"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Score-based+Data+Assimilation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ShiEtAl2022",
+      "raw": {
+        "title": "Conditional Simulation Using Diffusion Schr\\\"odinger Bridges",
+        "authors": [
+          "Yuyang Shi",
+          "Valentin De Bortoli",
+          "George Deligiannidis",
+          "Arnaud Doucet"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Conditional+Simulation+Using+Diffusion+Schr%5C%22odinger+Bridges&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "DeBortoliEtAl2022",
+      "raw": {
+        "title": "Riemannian Score-Based Generative Modelling",
+        "authors": [
+          "De Bortoli, Valentin",
+          "Mathieu, Emile",
+          "Hutchinson, Michael",
+          "Thornton, James",
+          "Teh, Yee Whye",
+          "Doucet, Arnaud"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "DhariwalNichol2021",
+      "raw": {
+        "title": "Diffusion Models Beat GANs on Image Synthesis",
+        "authors": [
+          "Prafulla Dhariwal",
+          "Alexander Quinn Nichol"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "JolicoeurMartineauEtAl2021",
+      "raw": {
+        "title": "Gotta Go Fast When Generating Data with Score-Based Models",
+        "authors": [
+          "Alexia Jolicoeur-Martineau",
+          "Ke Li",
+          "R{\\'e}mi Pich{\\'e}-Taillefer",
+          "Tal Kachman",
+          "Ioannis Mitliagkas"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Gotta+Go+Fast+When+Generating+Data+with+Score-Based+Models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "BaoEtAl2022",
+      "raw": {
+        "title": "Analytic-DPM: an Analytic Estimate of the Optimal Reverse Variance in Diffusion Probabilistic Models",
+        "authors": [
+          "Fan Bao",
+          "Chongxuan Li",
+          "Jun Zhu",
+          "Bo Zhang"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "WatsonEtAl2022",
+      "raw": {
+        "title": "Learning to Efficiently Sample from Diffusion Probabilistic Models",
+        "authors": [
+          "Daniel Watson",
+          "Jonathan Ho",
+          "Mohammad Norouzi",
+          "William Chan"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "FranzeseEtAl2023B",
+      "raw": {
+        "title": "How Much Is Enough? A Study on Diffusion Times in Score-Based Generative Models",
+        "authors": [
+          "Franzese, Giulio",
+          "Rossi, Simone",
+          "Yang, Lixuan",
+          "Finamore, Alessandro",
+          "Rossi, Dario",
+          "Filippone, Maurizio",
+          "Michiardi, Pietro"
+        ],
+        "year": 2023,
+        "doi": "10.3390/e25040633",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4311397562",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "How Much Is Enough? A Study on Diffusion Times in Score-Based Generative Models",
+        "year": 2023,
+        "authors": [
+          "Giulio Franzese",
+          "Simone Rossi",
+          "Lixuan Yang",
+          "Alessandro Finamore",
+          "Dario Rossi",
+          "Maurizio Filippone",
+          "Pietro Michiardi"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "KoshiyamaEtAl2021",
+      "raw": {
+        "title": "Generative adversarial networks for financial trading strategies fine tuning and combination",
+        "authors": [
+          "Adriano Koshiyama",
+          "Nick Firoozye",
+          "Philip Treleaven"
+        ],
+        "year": 2021,
+        "doi": "10.1080/14697688.2020.1790635",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3081659016",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Generative adversarial networks for financial trading strategies fine-tuning and combination",
+        "year": 2020,
+        "authors": [
+          "Adriano Koshiyama",
+          "Nick Firoozye",
+          "Philip Treleaven"
+        ]
+      },
+      "title_similarity": 0.9891304347826088,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "BarseEtAl2003",
+      "raw": {
+        "title": "Synthesizing test data for fraud detection systems",
+        "authors": [
+          "Barse, E.L.",
+          "Kvarnstrom, H.",
+          "Jonsson, E."
+        ],
+        "year": 2003,
+        "doi": "10.1109/CSAC.2003.1254343",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2145669878",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Synthesizing test data for fraud detection systems",
+        "year": 2004,
+        "authors": [
+          "Emilie Lundin Barse",
+          "Håkan Kvarnström",
+          "Eric M. Johnson"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "ScamanEtAl2019",
+      "raw": {
+        "title": "Lipschitz regularity of deep neural networks: analysis and efficient estimation",
+        "authors": [
+          "Kevin Scaman",
+          "Aladin Virmaux"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": "1805.10965"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1805.10965&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Batzolis2021",
+      "raw": {
+        "title": "Conditional Image Generation with Score-Based Diffusion Models",
+        "authors": [
+          "Batzolis, Georgios",
+          "Stanczuk, Jan",
+          "Sch{\\\"o}nlieb, Carola-Bibiane",
+          "Etmann, Christian"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Conditional+Image+Generation+with+Score-Based+Diffusion+Models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Anderson1982",
+      "raw": {
+        "title": "Reverse-time diffusion equation models",
+        "authors": [
+          "Anderson, Brian D. O."
+        ],
+        "year": 1982,
+        "doi": "10.1016/0304-4149(82)90051-5",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W1991111872",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Reverse-time diffusion equation models",
+        "year": 1982,
+        "authors": [
+          "Brian D. O. Anderson"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Jacod1994",
+      "raw": {
+        "title": "Limit of Random Measures Associated with the Increments of a Semimartingale",
+        "authors": [
+          "Jean Jacod"
+        ],
+        "year": 1994,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Limit+of+Random+Measures+Associated+with+the+Increments+of+a+Semimartingale&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "KaratzasShreve2000",
+      "raw": {
+        "title": "Brownian Motion and Stochastic Calculus",
+        "authors": [
+          "Ioannis Karatzas",
+          "Steven E. Shreve"
+        ],
+        "year": 2000,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Brownian+Motion+and+Stochastic+Calculus&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "JacodProtter2012",
+      "raw": {
+        "title": "Discretization of Processes",
+        "authors": [
+          "Jean Jacod",
+          "Philip Protter"
+        ],
+        "year": 2012,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Discretization+of+Processes&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "BarndorffNielsenShephard2002",
+      "raw": {
+        "title": "Econometric Analysis of Realized Volatility and Its Use in Estimating Stochastic Volatility Models",
+        "authors": [
+          "Ole E. Barndorff-Nielsen",
+          "Neil Shephard"
+        ],
+        "year": 2002,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Econometric+Analysis+of+Realized+Volatility+and+Its+Use+in+Estimating+Stochastic+Volatility+Models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "SzegedyEtAl2014",
+      "raw": {
+        "title": "Intriguing properties of neural networks",
+        "authors": [
+          "Christian Szegedy",
+          "Wojciech Zaremba",
+          "Ilya Sutskever",
+          "Joan Bruna",
+          "Dumitru Erhan",
+          "Ian Goodfellow",
+          "Rob Fergus"
+        ],
+        "year": 2014,
+        "doi": null,
+        "arxiv_id": "1312.6199"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1312.6199&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Assefa2020",
+      "raw": {
+        "title": "Generating Synthetic Data in Finance: Opportunities, Challenges and Pitfalls",
+        "authors": [
+          "Assefa, Samuel"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "NiuEtAl2019",
+      "raw": {
+        "title": "Recurrent Neural Networks in the Eye of Differential Equations",
+        "authors": [
+          "Murphy Yuezhen Niu",
+          "Lior Horesh",
+          "Isaac Chuang"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": "1904.12933"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1904.12933&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ErichsonEtAl2021",
+      "raw": {
+        "title": "Lipschitz Recurrent Neural Networks",
+        "authors": [
+          "N. Benjamin Erichson",
+          "Omri Azencot",
+          "Alejandro Queiruga",
+          "Liam Hodgkinson",
+          "Michael W. Mahoney"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": "2006.12070"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2006.12070&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ChernozhukovEtAl2018",
+      "raw": {
+        "title": "Double/Debiased Machine Learning for Treatment and Structural Parameters",
+        "authors": [
+          "Victor Chernozhukov",
+          "Denis Chetverikov",
+          "Mert Demirer",
+          "Esther Duflo",
+          "Christian Hansen",
+          "Whitney K. Newey",
+          "James M. Robins"
+        ],
+        "year": 2018,
+        "doi": "10.1111/ectj.12097",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3123436326",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Double/debiased machine learning for treatment and structural parameters",
+        "year": 2017,
+        "authors": [
+          "Victor Chernozhukov",
+          "Denis Chetverikov",
+          "Mert Demirer",
+          "Esther Duflo",
+          "Christian Hansen",
+          "Whitney K. Newey",
+          "James M. Robins"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Robinson1988",
+      "raw": {
+        "title": "Root-N-Consistent Semiparametric Regression",
+        "authors": [
+          "Peter M. Robinson"
+        ],
+        "year": 1988,
+        "doi": "10.2307/1912705",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2078658856",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Root-N-Consistent Semiparametric Regression",
+        "year": 1988,
+        "authors": [
+          "Peter M. Robinson"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    }
+  ]
+}

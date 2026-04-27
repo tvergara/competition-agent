@@ -1,0 +1,2731 @@
+{
+  "paper_id": "5c5508af-25ee-4319-9a93-522ef57d7f87",
+  "total": 107,
+  "verified": 3,
+  "mismatch": 0,
+  "missing": 0,
+  "ambiguous": 0,
+  "error": 104,
+  "skipped": 0,
+  "s2_consulted": 0,
+  "s2_lifted": 0,
+  "key_style_outliers": [
+    "bib1",
+    "bib2",
+    "bib3",
+    "bib4",
+    "bib5",
+    "bib6",
+    "bib7",
+    "bib8",
+    "bib9",
+    "bib10",
+    "bib11",
+    "bib12",
+    "bib13",
+    "torng20173d",
+    "weiler20183d"
+  ],
+  "entries": [
+    {
+      "key": "bib1",
+      "raw": {
+        "title": "The index of general nonlinear DAES",
+        "authors": [
+          "Campbell, S. L.",
+          "Gear, C. W."
+        ],
+        "year": 1995,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=The+index+of+general+nonlinear+DAES&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "bib2",
+      "raw": {
+        "title": "Clinical implications of dysregulated cytokine production",
+        "authors": [
+          "Slifka, M. K.",
+          "Whitton, J. L."
+        ],
+        "year": 2000,
+        "doi": "10.1007/s001090000086",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2093102386",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Clinical implications of dysregulated cytokine production",
+        "year": 2000,
+        "authors": [
+          "Mark K. Slifka",
+          "J. Lindsay Whitton"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "bib3",
+      "raw": {
+        "title": "Quasimonotonicity, regularity and duality for nonlinear systems of partial differential equations",
+        "authors": [
+          "Hamburger, C."
+        ],
+        "year": 1995,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Quasimonotonicity%2C+regularity+and+duality+for+nonlinear+systems+of+partial+differential+equations&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "bib4",
+      "raw": {
+        "title": "Algorithms for Computer Algebra",
+        "authors": [
+          "Geddes, K. O.",
+          "Czapor, S. R.",
+          "Labahn, G."
+        ],
+        "year": 1992,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Algorithms+for+Computer+Algebra&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "bib5",
+      "raw": {
+        "title": "Software engineering---from auxiliary to key technologies",
+        "authors": [
+          "Broy, M."
+        ],
+        "year": 1992,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Software+engineering---from+auxiliary+to+key+technologies&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "bib6",
+      "raw": {
+        "title": "Conductive Polymers",
+        "authors": [],
+        "year": 1981,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Conductive+Polymers&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "bib7",
+      "raw": {
+        "title": "Neuromuscular blocking drugs in man",
+        "authors": [
+          "Smith, S. E."
+        ],
+        "year": 1976,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Neuromuscular+blocking+drugs+in+man&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "bib8",
+      "raw": {
+        "title": "Isolation and characterization of plasmid deoxyribonucleic acid from Streptomyces fradiae",
+        "authors": [
+          "Chung, S. T.",
+          "Morris, R. L."
+        ],
+        "year": 1978,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Isolation+and+characterization+of+plasmid+deoxyribonucleic+acid+from+Streptomyces+fradiae&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "bib9",
+      "raw": {
+        "title": "Global integrated drought monitoring and prediction system (GIDMaPS) data sets",
+        "authors": [
+          "Hao, Z.",
+          "AghaKouchak, A.",
+          "Nakhjiri, N.",
+          "Farahmand, A."
+        ],
+        "year": 2014,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Global+integrated+drought+monitoring+and+prediction+system+%28GIDMaPS%29+data+sets&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "bib10",
+      "raw": {
+        "title": "Quantum scissors: teleportation of single-mode optical states by means of a nonlocal single photon",
+        "authors": [
+          "Babichev, S. A.",
+          "Ries, J.",
+          "Lvovsky, A. I."
+        ],
+        "year": 2002,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Quantum+scissors%3A+teleportation+of+single-mode+optical+states+by+means+of+a+nonlocal+single+photon&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "bib11",
+      "raw": {
+        "title": "Mixing induced CP asymmetries in inclusive B decays",
+        "authors": [
+          "Beneke, M.",
+          "Buchalla, G.",
+          "Dunietz, I."
+        ],
+        "year": 1997,
+        "doi": null,
+        "arxiv_id": "0707.3168"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+0707.3168&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "bib12",
+      "raw": {
+        "title": "deepSIP: deep learning of Supernova Ia Parameters",
+        "authors": [
+          "Stahl, B."
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=deepSIP%3A+deep+learning+of+Supernova+Ia+Parameters&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "bib13",
+      "raw": {
+        "title": "Dark Energy Survey Year 1 Results: Constraints on Extended Cosmological Models from Galaxy Clustering and Weak Lensing",
+        "authors": [
+          "Abbott, T. M. C.",
+          "others"
+        ],
+        "year": 2019,
+        "doi": "10.1103/PhysRevD.99.123505",
+        "arxiv_id": "1810.02499"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2894705087",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Dark Energy Survey year 1 results: Constraints on extended cosmological models from galaxy clustering and weak lensing",
+        "year": 2019,
+        "authors": [
+          "T. Abbott",
+          "F. B. Abdalla",
+          "S. Àvila",
+          "M. Banerji",
+          "Eric J. Baxter",
+          "K. Bechtol",
+          "M. R. Becker",
+          "E. Bertin",
+          "J. Blazek",
+          "S. L. Bridle",
+          "D. Brooks",
+          "Dillon Brout",
+          "D. L. Burke",
+          "A. Campos",
+          "A. Carnero Rosell",
+          "M. Carrasco Kind",
+          "J. Carretero",
+          "F. J. Castander",
+          "R. Cawthon",
+          "C. Chang",
+          "Angela Chen",
+          "M. Crocce",
+          "C. E. Cunha",
+          "L. N. da Costa",
+          "C. Davis",
+          "J. De Vicente",
+          "Joseph DeRose",
+          "S. Desai",
+          "Eleonora Di Valentino",
+          "H. T. Diehl",
+          "J. P. Dietrich",
+          "Scott Dodelson",
+          "P. Doel",
+          "A. Drlica-Wagner",
+          "T. F. Eifler",
+          "J. Elvin-Poole",
+          "A. E. Evrard",
+          "E. Fernández",
+          "A. Ferté",
+          "B. Flaugher",
+          "P. Fosalba",
+          "J. Frieman",
+          "J. García-Bellido",
+          "E. Gaztañaga",
+          "D. W. Gerdes",
+          "T. Giannantonio",
+          "D. Gruen",
+          "R. A. Gruendl",
+          "J. Gschwend",
+          "G. Gutiérrez",
+          "W. G. Hartley",
+          "D. L. Hollowood",
+          "K. Honscheid",
+          "B. Hoyle",
+          "Dragan Huterer",
+          "Bhuvnesh Jain",
+          "T. Jeltema",
+          "M. W. G. Johnson",
+          "M. D. Johnson",
+          "A. G. Kim",
+          "E. Krause",
+          "K. Kuehn",
+          "N. Kuropatkin",
+          "O. Lahav",
+          "S. Lee",
+          "Pablo Lemos",
+          "C. Danielle Leonard",
+          "T. S. Li",
+          "Andrew R. Liddle",
+          "M. Lima",
+          "H. Lin",
+          "M. A. G. Maia",
+          "J. L. Marshall",
+          "Paul Martini",
+          "F. Menanteau",
+          "Christopher J. Miller",
+          "R. Miquel",
+          "Vivian Miranda",
+          "J. J. Mohr",
+          "J. Muir",
+          "R. C. Nichol",
+          "B. Nord",
+          "R. L. C. Ogando",
+          "A. A. Plazas",
+          "Marco Raveri",
+          "R. P. Rollins",
+          "A. K. Romer",
+          "A. Roodman",
+          "R. Rosenfeld",
+          "S. Samuroff",
+          "E. Sánchez",
+          "V. Scarpine",
+          "R. Schindler",
+          "M. Schubnell",
+          "D. Scolnic",
+          "L. F. Secco",
+          "S. Serrano",
+          "I. Sevilla-Noarbe",
+          "M. Smith",
+          "M. Soares-Santos",
+          "F. Sobreira",
+          "E. Suchyta",
+          "M E C Swanson",
+          "G. Tarlé",
+          "D. Thomas",
+          "M. A. Troxel",
+          "V. Vikram",
+          "A. R. Walker",
+          "N. Weaverdyck",
+          "R. H. Wechsler",
+          "J. Weller",
+          "B. Yanny",
+          "Y. Zhang",
+          "J. Zuntz"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "black1991",
+      "raw": {
+        "title": "A Procedure for Quantitatively Comparing the Syntactic Coverage of English Grammars",
+        "authors": [
+          "Black, E.",
+          "Abney, S.",
+          "Flickinger, D.",
+          "Gdaniec, C.",
+          "Grishman, R.",
+          "Harrison, P.",
+          "others"
+        ],
+        "year": 1991,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=A+Procedure+for+Quantitatively+Comparing+the+Syntactic+Coverage+of+English+Grammars&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "charniak2005",
+      "raw": {
+        "title": "Coarse-to-fine n-best parsing and MaxEnt discriminative reranking",
+        "authors": [
+          "Charniak, Eugene",
+          "Johnson, Mark"
+        ],
+        "year": 2005,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Coarse-to-fine+n-best+parsing+and+MaxEnt+discriminative+reranking&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ingraham2019generative",
+      "raw": {
+        "title": "Generative models for graph-based protein design",
+        "authors": [
+          "Ingraham, John",
+          "Garg, Vikas",
+          "Barzilay, Regina",
+          "Jaakkola, Tommi"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Generative+models+for+graph-based+protein+design&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "gao2022alphadesign",
+      "raw": {
+        "title": "AlphaDesign: A Graph Protein Design Method and Benchmark on AlphaFoldDB",
+        "authors": [
+          "Gao, Zhangyang",
+          "Tan, Cheng",
+          "Li, Stan Z"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=AlphaDesign%3A+A+Graph+Protein+Design+Method+and+Benchmark+on+AlphaFoldDB&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "hsu2022learning",
+      "raw": {
+        "title": "Learning inverse folding from millions of predicted structures",
+        "authors": [
+          "Hsu, Chloe",
+          "Verkuil, Robert",
+          "Liu, Jason",
+          "Lin, Zeming",
+          "Hie, Brian",
+          "Sercu, Tom",
+          "Lerer, Adam",
+          "Rives, Alexander"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Learning+inverse+folding+from+millions+of+predicted+structures&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "dauparas2022robust",
+      "raw": {
+        "title": "Robust deep learning--based protein sequence design using ProteinMPNN",
+        "authors": [
+          "Dauparas, Justas",
+          "Anishchenko, Ivan",
+          "Bennett, Nathaniel",
+          "Bai, Hua",
+          "Ragotte, Robert J",
+          "Milles, Lukas F",
+          "Wicky, Basile IM",
+          "Courbet, Alexis",
+          "de Haas, Rob J",
+          "Bethel, Neville",
+          "others"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Robust+deep+learning--based+protein+sequence+design+using+ProteinMPNN&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zhang2023spin",
+      "raw": {
+        "title": "SPIN-CGNN: Improved fixed backbone protein design with contact map-based graph construction and contact graph neural network",
+        "authors": [
+          "Zhang, Xing",
+          "Yin, Hongmei",
+          "Ling, Fei",
+          "Zhan, Jian",
+          "Zhou, Yaoqi"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=SPIN-CGNN%3A+Improved+fixed+backbone+protein+design+with+contact+map-based+graph+construction+and+contact+graph+neural+network&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zheng2023structure",
+      "raw": {
+        "title": "Structure-informed language models are protein designers",
+        "authors": [
+          "Zheng, Zaixiang",
+          "Deng, Yifan",
+          "Xue, Dongyu",
+          "Zhou, Yi",
+          "Ye, Fei",
+          "Gu, Quanquan"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Structure-informed+language+models+are+protein+designers&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "gao2024kwdesign",
+      "raw": {
+        "title": "KW-Design: Pushing the Limit of Protein Design via Knowledge Refinement",
+        "authors": [
+          "Gao, Zhangyang",
+          "Tan, Cheng",
+          "Chen, Xingran",
+          "Zhang, Yijie",
+          "Xia, Jun",
+          "Li, Siyuan",
+          "Li, Stan Z"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=KW-Design%3A+Pushing+the+Limit+of+Protein+Design+via+Knowledge+Refinement&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "li2014direct",
+      "raw": {
+        "title": "Direct prediction of profiles of sequences compatible with a protein structure by neural networks with fragment-based local and energy-based nonlocal profiles",
+        "authors": [
+          "Li, Zhixiu",
+          "Yang, Yuedong",
+          "Faraggi, Eshel",
+          "Zhan, Jian",
+          "Zhou, Yaoqi"
+        ],
+        "year": 2014,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Direct+prediction+of+profiles+of+sequences+compatible+with+a+protein+structure+by+neural+networks+with+fragment-based+local+and+energy-based+nonlocal+profiles&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "o2018spin2",
+      "raw": {
+        "title": "SPIN2: Predicting sequence profiles from protein structures using deep neural networks",
+        "authors": [
+          "O'Connell, James",
+          "Li, Zhixiu",
+          "Hanson, Jack",
+          "Heffernan, Rhys",
+          "Lyons, James",
+          "Paliwal, Kuldip",
+          "Dehzangi, Abdollah",
+          "Yang, Yuedong",
+          "Zhou, Yaoqi"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=SPIN2%3A+Predicting+sequence+profiles+from+protein+structures+using+deep+neural+networks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "wang2018computational",
+      "raw": {
+        "title": "Computational protein design with deep learning neural networks",
+        "authors": [
+          "Wang, Jingxue",
+          "Cao, Huali",
+          "Zhang, John ZH",
+          "Qi, Yifei"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Computational+protein+design+with+deep+learning+neural+networks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "chen2019improve",
+      "raw": {
+        "title": "To improve protein sequence profile prediction through image captioning on pairwise residue distance map",
+        "authors": [
+          "Chen, Sheng",
+          "Sun, Zhe",
+          "Lin, Lihua",
+          "Liu, Zifeng",
+          "Liu, Xun",
+          "Chong, Yutian",
+          "Lu, Yutong",
+          "Zhao, Huiying",
+          "Yang, Yuedong"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=To+improve+protein+sequence+profile+prediction+through+image+captioning+on+pairwise+residue+distance+map&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zhang2020prodconn",
+      "raw": {
+        "title": "Prodconn-protein design using a convolutional neural network",
+        "authors": [
+          "Zhang, Yuan",
+          "Chen, Yang",
+          "Wang, Chenran",
+          "Lo, Chun-Chao",
+          "Liu, Xiuwen",
+          "Wei, Wu",
+          "Zhang, Jinfeng"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Prodconn-protein+design+using+a+convolutional+neural+network&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "qi2020densecpd",
+      "raw": {
+        "title": "DenseCPD: improving the accuracy of neural-network-based computational protein sequence design with DenseNet",
+        "authors": [
+          "Qi, Yifei",
+          "Zhang, John ZH"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=DenseCPD%3A+improving+the+accuracy+of+neural-network-based+computational+protein+sequence+design+with+DenseNet&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "leaver2011rosetta3",
+      "raw": {
+        "title": "ROSETTA3: an object-oriented software suite for the simulation and design of macromolecules",
+        "authors": [
+          "Leaver-Fay, Andrew",
+          "Tyka, Michael",
+          "Lewis, Steven M",
+          "Lange, Oliver F",
+          "Thompson, James",
+          "Jacak, Ron",
+          "Kaufman, Kristian W",
+          "Renfrew, P Douglas",
+          "Smith, Colin A",
+          "Sheffler, Will",
+          "others"
+        ],
+        "year": 2011,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=ROSETTA3%3A+an+object-oriented+software+suite+for+the+simulation+and+design+of+macromolecules&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "li2013energy",
+      "raw": {
+        "title": "Energy functions in de novo protein design: current challenges and future prospects",
+        "authors": [
+          "Li, Zhixiu",
+          "Yang, Yuedong",
+          "Zhan, Jian",
+          "Dai, Liang",
+          "Zhou, Yaoqi"
+        ],
+        "year": 2013,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Energy+functions+in+de+novo+protein+design%3A+current+challenges+and+future+prospects&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "torng20173d",
+      "raw": {
+        "title": "3D deep convolutional neural networks for amino acid environment similarity analysis",
+        "authors": [
+          "Torng, Wen",
+          "Altman, Russ B"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=3D+deep+convolutional+neural+networks+for+amino+acid+environment+similarity+analysis&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "weiler20183d",
+      "raw": {
+        "title": "3d steerable cnns: Learning rotationally equivariant features in volumetric data",
+        "authors": [
+          "Weiler, Maurice",
+          "Geiger, Mario",
+          "Welling, Max",
+          "Boomsma, Wouter",
+          "Cohen, Taco S"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=3d+steerable+cnns%3A+Learning+rotationally+equivariant+features+in+volumetric+data&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "kipf2016semi",
+      "raw": {
+        "title": "Semi-supervised classification with graph convolutional networks",
+        "authors": [
+          "Kipf, Thomas N",
+          "Welling, Max"
+        ],
+        "year": 2016,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Semi-supervised+classification+with+graph+convolutional+networks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "velivckovic2017graph",
+      "raw": {
+        "title": "Graph attention networks",
+        "authors": [
+          "Veli{\\v{c}}kovi{\\'c}, Petar",
+          "Cucurull, Guillem",
+          "Casanova, Arantxa",
+          "Romero, Adriana",
+          "Lio, Pietro",
+          "Bengio, Yoshua"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Graph+attention+networks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "strokach2020fast",
+      "raw": {
+        "title": "Fast and flexible protein design using deep graph neural networks",
+        "authors": [
+          "Strokach, Alexey",
+          "Becerra, David",
+          "Corbi-Verge, Carles",
+          "Perez-Riba, Albert",
+          "Kim, Philip M"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Fast+and+flexible+protein+design+using+deep+graph+neural+networks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "koroteev2021bert",
+      "raw": {
+        "title": "BERT: a review of applications in natural language processing and understanding",
+        "authors": [
+          "Koroteev, Mikhail V"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=BERT%3A+a+review+of+applications+in+natural+language+processing+and+understanding&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "achiam2023gpt",
+      "raw": {
+        "title": "Gpt-4 technical report",
+        "authors": [
+          "Achiam, Josh",
+          "Adler, Steven",
+          "Agarwal, Sandhini",
+          "Ahmad, Lama",
+          "Akkaya, Ilge",
+          "Aleman, Florencia Leoni",
+          "Almeida, Diogo",
+          "Altenschmidt, Janko",
+          "Altman, Sam",
+          "Anadkat, Shyamal",
+          "others"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Gpt-4+technical+report&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "alexey2020image",
+      "raw": {
+        "title": "An image is worth 16x16 words: Transformers for image recognition at scale",
+        "authors": [
+          "Alexey, Dosovitskiy"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=An+image+is+worth+16x16+words%3A+Transformers+for+image+recognition+at+scale&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "radford2021learning",
+      "raw": {
+        "title": "Learning transferable visual models from natural language supervision",
+        "authors": [
+          "Radford, Alec",
+          "Kim, Jong Wook",
+          "Hallacy, Chris",
+          "Ramesh, Aditya",
+          "Goh, Gabriel",
+          "Agarwal, Sandhini",
+          "Sastry, Girish",
+          "Askell, Amanda",
+          "Mishkin, Pamela",
+          "Clark, Jack",
+          "others"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Learning+transferable+visual+models+from+natural+language+supervision&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "lin2022language",
+      "raw": {
+        "title": "Language models of protein sequences at the scale of evolution enable accurate structure prediction",
+        "authors": [
+          "Lin, Zeming",
+          "Akin, Halil",
+          "Rao, Roshan",
+          "Hie, Brian",
+          "Zhu, Zhongkai",
+          "Lu, Wenting",
+          "dos Santos Costa, Allan",
+          "Fazel-Zarandi, Maryam",
+          "Sercu, Tom",
+          "Candido, Sal",
+          "others"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Language+models+of+protein+sequences+at+the+scale+of+evolution+enable+accurate+structure+prediction&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "meier2021language",
+      "raw": {
+        "title": "Language models enable zero-shot prediction of the effects of mutations on protein function",
+        "authors": [
+          "Meier, Joshua",
+          "Rao, Roshan",
+          "Verkuil, Robert",
+          "Liu, Jason",
+          "Sercu, Tom",
+          "Rives, Alex"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Language+models+enable+zero-shot+prediction+of+the+effects+of+mutations+on+protein+function&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "orengo1997cath",
+      "raw": {
+        "title": "CATH--a hierarchic classification of protein domain structures",
+        "authors": [
+          "Orengo, Christine A",
+          "Michie, Alex D",
+          "Jones, Susan",
+          "Jones, David T",
+          "Swindells, Mark B",
+          "Thornton, Janet M"
+        ],
+        "year": 1997,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=CATH--a+hierarchic+classification+of+protein+domain+structures&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "wu2021protein",
+      "raw": {
+        "title": "Protein sequence design with deep generative models",
+        "authors": [
+          "Wu, Zachary",
+          "Johnston, Kadina E",
+          "Arnold, Frances H",
+          "Yang, Kevin K"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Protein+sequence+design+with+deep+generative+models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "yeh2023novo",
+      "raw": {
+        "title": "De novo design of luciferases using deep learning",
+        "authors": [
+          "Yeh, Andy Hsien-Wei",
+          "Norn, Christoffer",
+          "Kipnis, Yakov",
+          "Tischer, Doug",
+          "Pellock, Samuel J",
+          "Evans, Declan",
+          "Ma, Pengchen",
+          "Lee, Gyu Rie",
+          "Zhang, Jason Z",
+          "Anishchenko, Ivan",
+          "others"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=De+novo+design+of+luciferases+using+deep+learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "cao2022design",
+      "raw": {
+        "title": "Design of protein-binding proteins from the target structure alone",
+        "authors": [
+          "Cao, Longxing",
+          "Coventry, Brian",
+          "Goreshnik, Inna",
+          "Huang, Buwei",
+          "Sheffler, William",
+          "Park, Joon Sung",
+          "Jude, Kevin M",
+          "Markovi{\\'c}, Iva",
+          "Kadam, Rameshwar U",
+          "Verschueren, Koen HG",
+          "others"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Design+of+protein-binding+proteins+from+the+target+structure+alone&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "pokala2005energy",
+      "raw": {
+        "title": "Energy functions for protein design: adjustment with protein--protein complex affinities, models for the unfolded state, and negative design of solubility and specificity",
+        "authors": [
+          "Pokala, Navin",
+          "Handel, Tracy M"
+        ],
+        "year": 2005,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Energy+functions+for+protein+design%3A+adjustment+with+protein--protein+complex+affinities%2C+models+for+the+unfolded+state%2C+and+negative+design+of+solubility+and+specificity&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "xiong2014protein",
+      "raw": {
+        "title": "Protein design with a comprehensive statistical energy function and boosted by experimental selection for foldability",
+        "authors": [
+          "Xiong, Peng",
+          "Wang, Meng",
+          "Zhou, Xiaoqun",
+          "Zhang, Tongchuan",
+          "Zhang, Jiahai",
+          "Chen, Quan",
+          "Liu, Haiyan"
+        ],
+        "year": 2014,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Protein+design+with+a+comprehensive+statistical+energy+function+and+boosted+by+experimental+selection+for+foldability&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "jumper2021highly",
+      "raw": {
+        "title": "Highly accurate protein structure prediction with AlphaFold",
+        "authors": [
+          "Jumper, John",
+          "Evans, Richard",
+          "Pritzel, Alexander",
+          "Green, Tim",
+          "Figurnov, Michael",
+          "Ronneberger, Olaf",
+          "Tunyasuvunakool, Kathryn",
+          "Bates, Russ",
+          "{\\v{Z}}{\\'\\i}dek, Augustin",
+          "Potapenko, Anna",
+          "others"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Highly+accurate+protein+structure+prediction+with+AlphaFold&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "baek2021accurate",
+      "raw": {
+        "title": "Accurate prediction of protein structures and interactions using a three-track neural network",
+        "authors": [
+          "Baek, Minkyung",
+          "DiMaio, Frank",
+          "Anishchenko, Ivan",
+          "Dauparas, Justas",
+          "Ovchinnikov, Sergey",
+          "Lee, Gyu Rie",
+          "Wang, Jue",
+          "Cong, Qian",
+          "Kinch, Lisa N",
+          "Schaeffer, R Dustin",
+          "others"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Accurate+prediction+of+protein+structures+and+interactions+using+a+three-track+neural+network&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "yi2024graph",
+      "raw": {
+        "title": "Graph denoising diffusion for inverse protein folding",
+        "authors": [
+          "Yi, Kai",
+          "Zhou, Bingxin",
+          "Shen, Yiqing",
+          "Li{\\`o}, Pietro",
+          "Wang, Yuguang"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Graph+denoising+diffusion+for+inverse+protein+folding&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "vaswani2017attention",
+      "raw": {
+        "title": "Attention is all you need",
+        "authors": [
+          "Vaswani, A"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Attention+is+all+you+need&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "krizhevsky2012imagenet",
+      "raw": {
+        "title": "Imagenet classification with deep convolutional neural networks",
+        "authors": [
+          "Krizhevsky, Alex",
+          "Sutskever, Ilya",
+          "Hinton, Geoffrey E"
+        ],
+        "year": 2012,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Imagenet+classification+with+deep+convolutional+neural+networks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "goodfellow2020generative",
+      "raw": {
+        "title": "Generative adversarial networks",
+        "authors": [
+          "Goodfellow, Ian",
+          "Pouget-Abadie, Jean",
+          "Mirza, Mehdi",
+          "Xu, Bing",
+          "Warde-Farley, David",
+          "Ozair, Sherjil",
+          "Courville, Aaron",
+          "Bengio, Yoshua"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Generative+adversarial+networks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ho2020denoising",
+      "raw": {
+        "title": "Denoising diffusion probabilistic models",
+        "authors": [
+          "Ho, Jonathan",
+          "Jain, Ajay",
+          "Abbeel, Pieter"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Denoising+diffusion+probabilistic+models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "dahiyat1997probing",
+      "raw": {
+        "title": "Probing the role of packing specificity in protein design",
+        "authors": [
+          "Dahiyat, Bassil I",
+          "Mayo, Stephen L"
+        ],
+        "year": 1997,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Probing+the+role+of+packing+specificity+in+protein+design&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "anand2022protein",
+      "raw": {
+        "title": "Protein sequence design with a learned potential",
+        "authors": [
+          "Anand, Namrata",
+          "Eguchi, Raphael",
+          "Mathews, Irimpan I",
+          "Perez, Carla P",
+          "Derry, Alexander",
+          "Altman, Russ B",
+          "Huang, Po-Ssu"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Protein+sequence+design+with+a+learned+potential&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "wu2023demystifying",
+      "raw": {
+        "title": "Demystifying oversmoothing in attention-based graph neural networks",
+        "authors": [
+          "Wu, Xinyi",
+          "Ajorlou, Amir",
+          "Wu, Zihui",
+          "Jadbabaie, Ali"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Demystifying+oversmoothing+in+attention-based+graph+neural+networks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "rusch2023survey",
+      "raw": {
+        "title": "A survey on oversmoothing in graph neural networks",
+        "authors": [
+          "Rusch, T Konstantin",
+          "Bronstein, Michael M",
+          "Mishra, Siddhartha"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=A+survey+on+oversmoothing+in+graph+neural+networks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "keriven2022not",
+      "raw": {
+        "title": "Not too little, not too much: a theoretical analysis of graph (over) smoothing",
+        "authors": [
+          "Keriven, Nicolas"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Not+too+little%2C+not+too+much%3A+a+theoretical+analysis+of+graph+%28over%29+smoothing&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zhao2019pairnorm",
+      "raw": {
+        "title": "Pairnorm: Tackling oversmoothing in gnns",
+        "authors": [
+          "Zhao, Lingxiao",
+          "Akoglu, Leman"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Pairnorm%3A+Tackling+oversmoothing+in+gnns&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "li2019deepgcns",
+      "raw": {
+        "title": "DeepGCNs: Can GCNs go as deep as CNNs?",
+        "authors": [
+          "Li, Guohao",
+          "Muller, Matthias",
+          "Thabet, Ali",
+          "Ghanem, Bernard"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=DeepGCNs%3A+Can+GCNs+go+as+deep+as+CNNs%3F&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "arroyo2025vanishing",
+      "raw": {
+        "title": "On vanishing gradients, over-smoothing, and over-squashing in gnns: Bridging recurrent and graph learning",
+        "authors": [
+          "Arroyo, {\\'A}lvaro",
+          "Gravina, Alessio",
+          "Gutteridge, Benjamin",
+          "Barbero, Federico",
+          "Gallicchio, Claudio",
+          "Dong, Xiaowen",
+          "Bronstein, Michael",
+          "Vandergheynst, Pierre"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=On+vanishing+gradients%2C+over-smoothing%2C+and+over-squashing+in+gnns%3A+Bridging+recurrent+and+graph+learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "oono2019graph",
+      "raw": {
+        "title": "Graph neural networks exponentially lose expressive power for node classification",
+        "authors": [
+          "Oono, Kenta",
+          "Suzuki, Taiji"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Graph+neural+networks+exponentially+lose+expressive+power+for+node+classification&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zhu2020beyond",
+      "raw": {
+        "title": "Beyond homophily in graph neural networks: Current limitations and effective designs",
+        "authors": [
+          "Zhu, Jiong",
+          "Yan, Yujun",
+          "Zhao, Lingxiao",
+          "Heimann, Mark",
+          "Akoglu, Leman",
+          "Koutra, Danai"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Beyond+homophily+in+graph+neural+networks%3A+Current+limitations+and+effective+designs&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "rusch2022graph",
+      "raw": {
+        "title": "Graph-coupled oscillator networks",
+        "authors": [
+          "Rusch, T Konstantin",
+          "Chamberlain, Ben",
+          "Rowbottom, James",
+          "Mishra, Siddhartha",
+          "Bronstein, Michael"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Graph-coupled+oscillator+networks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zhou2021dirichlet",
+      "raw": {
+        "title": "Dirichlet energy constrained learning for deep graph neural networks",
+        "authors": [
+          "Zhou, Kaixiong",
+          "Huang, Xiao",
+          "Zha, Daochen",
+          "Chen, Rui",
+          "Li, Li",
+          "Choi, Soo-Hyun",
+          "Hu, Xia"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Dirichlet+energy+constrained+learning+for+deep+graph+neural+networks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zhou2020towards",
+      "raw": {
+        "title": "Towards deeper graph neural networks with differentiable group normalization",
+        "authors": [
+          "Zhou, Kaixiong",
+          "Huang, Xiao",
+          "Li, Yuening",
+          "Zha, Daochen",
+          "Chen, Rui",
+          "Hu, Xia"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Towards+deeper+graph+neural+networks+with+differentiable+group+normalization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "bodnar2022neural",
+      "raw": {
+        "title": "Neural sheaf diffusion: A topological perspective on heterophily and oversmoothing in gnns",
+        "authors": [
+          "Bodnar, Cristian",
+          "Di Giovanni, Francesco",
+          "Chamberlain, Benjamin",
+          "Lio, Pietro",
+          "Bronstein, Michael"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Neural+sheaf+diffusion%3A+A+topological+perspective+on+heterophily+and+oversmoothing+in+gnns&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "di2022understanding",
+      "raw": {
+        "title": "Understanding convolution on graphs via energies",
+        "authors": [
+          "Di Giovanni, Francesco",
+          "Rowbottom, James",
+          "Chamberlain, Benjamin P",
+          "Markovich, Thomas",
+          "Bronstein, Michael M"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Understanding+convolution+on+graphs+via+energies&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "chen2020simple",
+      "raw": {
+        "title": "Simple and deep graph convolutional networks",
+        "authors": [
+          "Chen, Ming",
+          "Wei, Zhewei",
+          "Huang, Zengfeng",
+          "Ding, Bolin",
+          "Li, Yaliang"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Simple+and+deep+graph+convolutional+networks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "nguyen2023revisiting",
+      "raw": {
+        "title": "Revisiting over-smoothing and over-squashing using ollivier-ricci curvature",
+        "authors": [
+          "Nguyen, Khang",
+          "Hieu, Nong Minh",
+          "Nguyen, Vinh Duc",
+          "Ho, Nhat",
+          "Osher, Stanley",
+          "Nguyen, Tan Minh"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Revisiting+over-smoothing+and+over-squashing+using+ollivier-ricci+curvature&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "banerjee2022oversquashing",
+      "raw": {
+        "title": "Oversquashing in gnns through the lens of information contraction and graph expansion",
+        "authors": [
+          "Banerjee, Pradeep Kr",
+          "Karhadkar, Kedar",
+          "Wang, Yu Guang",
+          "Alon, Uri",
+          "Mont{\\'u}far, Guido"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Oversquashing+in+gnns+through+the+lens+of+information+contraction+and+graph+expansion&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "akansha2025over",
+      "raw": {
+        "title": "Over-squashing in graph neural networks: A comprehensive survey",
+        "authors": [
+          "Akansha, Singh"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Over-squashing+in+graph+neural+networks%3A+A+comprehensive+survey&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "topping2021understanding",
+      "raw": {
+        "title": "Understanding over-squashing and bottlenecks on graphs via curvature",
+        "authors": [
+          "Topping, Jake",
+          "Di Giovanni, Francesco",
+          "Chamberlain, Benjamin Paul",
+          "Dong, Xiaowen",
+          "Bronstein, Michael M"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Understanding+over-squashing+and+bottlenecks+on+graphs+via+curvature&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "qian2023probabilistically",
+      "raw": {
+        "title": "Probabilistically rewired message-passing neural networks",
+        "authors": [
+          "Qian, Chendi",
+          "Manolache, Andrei",
+          "Ahmed, Kareem",
+          "Zeng, Zhe",
+          "Broeck, Guy Van den",
+          "Niepert, Mathias",
+          "Morris, Christopher"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Probabilistically+rewired+message-passing+neural+networks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "li2024addressing",
+      "raw": {
+        "title": "Addressing over-squashing in GNNs with graph rewiring and ordered neurons",
+        "authors": [
+          "Li, Hao",
+          "Li, Chen",
+          "Zhang, Jianfei",
+          "Ouyang, Yuanxin",
+          "Rong, Wenge"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Addressing+over-squashing+in+GNNs+with+graph+rewiring+and+ordered+neurons&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ying2021transformers",
+      "raw": {
+        "title": "Do transformers really perform badly for graph representation?",
+        "authors": [
+          "Ying, Chengxuan",
+          "Cai, Tianle",
+          "Luo, Shengjie",
+          "Zheng, Shuxin",
+          "Ke, Guolin",
+          "He, Di",
+          "Shen, Yanming",
+          "Liu, Tie-Yan"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Do+transformers+really+perform+badly+for+graph+representation%3F&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "rong2019dropedge",
+      "raw": {
+        "title": "Dropedge: Towards deep graph convolutional networks on node classification",
+        "authors": [
+          "Rong, Yu",
+          "Huang, Wenbing",
+          "Xu, Tingyang",
+          "Huang, Junzhou"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Dropedge%3A+Towards+deep+graph+convolutional+networks+on+node+classification&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "singh2025effects",
+      "raw": {
+        "title": "Effects of Random Edge-Dropping on Over-Squashing in Graph Neural Networks",
+        "authors": [
+          "Singh, Jasraj",
+          "Jiang, Keyue",
+          "Paige, Brooks",
+          "Toni, Laura"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Effects+of+Random+Edge-Dropping+on+Over-Squashing+in+Graph+Neural+Networks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "hashimoto1989zeta",
+      "raw": {
+        "title": "Zeta Functions of Finite Graphs and Representations of $p$-adic Groups",
+        "authors": [
+          "Hashimoto, Ki-ichiro"
+        ],
+        "year": 1989,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Zeta+Functions+of+Finite+Graphs+and+Representations+of+%24p%24-adic+Groups&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "krzakala2013spectral",
+      "raw": {
+        "title": "Spectral redemption in clustering sparse networks",
+        "authors": [
+          "Krzakala, Florent",
+          "Moore, Cristopher",
+          "Mossel, Elchanan",
+          "Neeman, Joe",
+          "Sly, Allan",
+          "Zdeborov{\\'a}, Lenka",
+          "Zhang, Pan"
+        ],
+        "year": 2013,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Spectral+redemption+in+clustering+sparse+networks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "saade2014spectral",
+      "raw": {
+        "title": "Spectral Clustering of Graphs with the Bethe Hessian",
+        "authors": [
+          "Saade, Alexandre",
+          "Krzakala, Florent",
+          "Zdeborov{\\'a}, Lenka"
+        ],
+        "year": 2014,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Spectral+Clustering+of+Graphs+with+the+Bethe+Hessian&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "bordenave2015nonbacktracking",
+      "raw": {
+        "title": "Non-backtracking Spectrum of Random Graphs: Community Detection and Non-regular Ramanujan Graphs",
+        "authors": [
+          "Bordenave, Charles",
+          "Lelarge, Marc",
+          "Massouli{\\'e}, Laurent"
+        ],
+        "year": 2015,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Non-backtracking+Spectrum+of+Random+Graphs%3A+Community+Detection+and+Non-regular+Ramanujan+Graphs&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zhong2025scfold",
+      "raw": {
+        "title": "ScFold: a GNN-based model for efficient inverse folding of short-chain proteins via spatial reduction",
+        "authors": [
+          "Zhong, Jiancheng",
+          "Zou, Zhiwei",
+          "Qiu, Jie",
+          "Wang, Shaokai"
+        ],
+        "year": 2025,
+        "doi": "10.1093/bib/bbaf156",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4409347013",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "ScFold: a GNN-based model for efficient inverse folding of short-chain proteins via spatial reduction",
+        "year": 2025,
+        "authors": [
+          "Jiancheng Zhong",
+          "Zhiwei Zou",
+          "Jie Qiu",
+          "Shaokai Wang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "lin2023evolutionary",
+      "raw": {
+        "title": "Evolutionary-scale prediction of atomic-level protein structure with a language model",
+        "authors": [
+          "Lin, Zeming",
+          "Akin, Halil",
+          "Rao, Roshan",
+          "Hie, Brian",
+          "Zhu, Zhongkai",
+          "Lu, Wenting",
+          "Smetanin, Nikita",
+          "Verkuil, Robert",
+          "Kabeli, Oldrich",
+          "Shakhnatov, Yaniv",
+          "others"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Evolutionary-scale+prediction+of+atomic-level+protein+structure+with+a+language+model&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "li2021training",
+      "raw": {
+        "title": "DeepGCNs: Can GCNs Go as Deep as CNNs?",
+        "authors": [
+          "Li, Guohao",
+          "M{\\\"u}ller, Matthias",
+          "Thabet, Ali",
+          "Ghanem, Bernard"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=DeepGCNs%3A+Can+GCNs+Go+as+Deep+as+CNNs%3F&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "bepler2019learning",
+      "raw": {
+        "title": "Learning protein sequence embeddings using information from structure",
+        "authors": [
+          "Bepler, Tristan",
+          "Berger, Bonnie"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Learning+protein+sequence+embeddings+using+information+from+structure&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "elnaggar2021prottrans",
+      "raw": {
+        "title": "ProtTrans: Towards Cracking the Language of Life's Code Through Self-Supervised Learning",
+        "authors": [
+          "Elnaggar, Ahmed",
+          "Heinzinger, Michael",
+          "Dallago, Christian",
+          "Rehawi, Ghalia",
+          "Wang, Yu",
+          "Jones, Llion",
+          "Gibbs, Tom",
+          "Feher, Tamas",
+          "Angerer, Christoph",
+          "Steinegger, Martin",
+          "others"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=ProtTrans%3A+Towards+Cracking+the+Language+of+Life%27s+Code+Through+Self-Supervised+Learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "jing2020learning",
+      "raw": {
+        "title": "Learning from protein structure with geometric vector perceptrons",
+        "authors": [
+          "Jing, Bowen",
+          "Eismann, Stephan",
+          "Suriana, Patricia",
+          "Townshend, Raphael JL",
+          "Dror, Ron"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Learning+from+protein+structure+with+geometric+vector+perceptrons&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "gao2022pifold",
+      "raw": {
+        "title": "PiFold: Toward effective and efficient protein inverse folding",
+        "authors": [
+          "Gao, Zhangyang",
+          "Tan, Cheng",
+          "Chac{\\'o}n, Pablo",
+          "Li, Stan Z"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=PiFold%3A+Toward+effective+and+efficient+protein+inverse+folding&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "alon2020bottleneck",
+      "raw": {
+        "title": "On the Bottleneck of Graph Neural Networks and its Practical Implications",
+        "authors": [
+          "Alon, Uri",
+          "Yahav, Eran"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=On+the+Bottleneck+of+Graph+Neural+Networks+and+its+Practical+Implications&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "tan2022generative",
+      "raw": {
+        "title": "Generative de novo protein design with global context",
+        "authors": [
+          "Tan, Cheng",
+          "Gao, Zhangyang",
+          "Xia, Jun",
+          "Hu, Bozhen",
+          "Li, Stan Z"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Generative+de+novo+protein+design+with+global+context&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "mao2023novo",
+      "raw": {
+        "title": "De Novo Protein Design Using Geometric Vector Field Networks",
+        "authors": [
+          "Mao, Weian",
+          "Zhu, Muzhi",
+          "Sun, Zheng",
+          "Shen, Shuaike",
+          "Wu, Lin Yuanbo",
+          "Chen, Hao",
+          "Shen, Chunhua"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=De+Novo+Protein+Design+Using+Geometric+Vector+Field+Networks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "main_eriks_2003",
+      "raw": {
+        "title": "Design of stable $\\alpha$-helical arrays from an idealized TPR motif",
+        "authors": [
+          "Main, E.R.G.",
+          "Xiong, Y.",
+          "Cocco, M.J.",
+          "D'Andrea, L.",
+          "Regan, L."
+        ],
+        "year": 2003,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Design+of+stable+%24%5Calpha%24-helical+arrays+from+an+idealized+TPR+motif&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "imrie2020deep",
+      "raw": {
+        "title": "Deep learning applications in drug discovery and development",
+        "authors": [
+          "Imrie, Fergus",
+          "Bradley, Anthony R",
+          "van der Schaar, Mihaela",
+          "Deane, Charlotte M"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Deep+learning+applications+in+drug+discovery+and+development&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ovchinnikov2021structure",
+      "raw": {
+        "title": "Structure-based protein design with deep learning",
+        "authors": [
+          "Ovchinnikov, Sergey",
+          "Huang, Po-Ssu"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Structure-based+protein+design+with+deep+learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "mazurenko2020machine",
+      "raw": {
+        "title": "Machine learning in enzyme engineering",
+        "authors": [
+          "Mazurenko, Stanislav",
+          "Prokop, Zbynek",
+          "Damborsky, Jiri"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Machine+learning+in+enzyme+engineering&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "abramson2024accurate",
+      "raw": {
+        "title": "Accurate structure prediction of biomolecular interactions with AlphaFold 3",
+        "authors": [
+          "Abramson, Josh",
+          "Adler, Jonas",
+          "Dunger, Jack",
+          "Evans, Richard",
+          "Green, Tim",
+          "Pritzel, Alexander",
+          "Ronneberger, Olaf",
+          "Willmore, Lindsay",
+          "Ballard, Andrew J",
+          "Bambrick, Joshua",
+          "others"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Accurate+structure+prediction+of+biomolecular+interactions+with+AlphaFold+3&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ferruz2022controllable",
+      "raw": {
+        "title": "Controllable protein design with language models",
+        "authors": [
+          "Ferruz, Noelia",
+          "H{\\\"o}cker, Birte"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Controllable+protein+design+with+language+models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "alford2017rosetta",
+      "raw": {
+        "title": "The Rosetta all-atom energy function for macromolecular modeling and design",
+        "authors": [
+          "Alford, Rebecca F",
+          "Leaver-Fay, Andrew",
+          "Jeliazkov, Jeliazko R",
+          "O’Meara, Matthew J",
+          "DiMaio, Frank P",
+          "Park, Hahnbeom",
+          "Shapovalov, Maxim V",
+          "Renfrew, P Douglas",
+          "Mulligan, Vikram K",
+          "Kappel, Kalli",
+          "others"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=The+Rosetta+all-atom+energy+function+for+macromolecular+modeling+and+design&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "li2018deeper",
+      "raw": {
+        "title": "Deeper Insights into Graph Convolutional Networks for Semi-Supervised Learning",
+        "authors": [
+          "Li, Qimai",
+          "Han, Zhichao",
+          "Wu, Xiao-Ming"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Deeper+Insights+into+Graph+Convolutional+Networks+for+Semi-Supervised+Learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "jing2021equivariant",
+      "raw": {
+        "title": "Learning from Protein Structure with Geometric Vector Perceptrons",
+        "authors": [
+          "Jing, Bowen",
+          "Eismann, Stephan",
+          "Suriana, Patricia",
+          "Townshend, Raphael JL",
+          "Dror, Ron"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Learning+from+Protein+Structure+with+Geometric+Vector+Perceptrons&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "wang2023lm",
+      "raw": {
+        "title": "LM-Design: A Dual-Stage Semantic-Guided Framework for Inverse Protein Folding",
+        "authors": [
+          "Wang, Zankoc",
+          "Zhang, Hera",
+          "Gong, Le",
+          "Zhang, Sheng",
+          "others"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=LM-Design%3A+A+Dual-Stage+Semantic-Guided+Framework+for+Inverse+Protein+Folding&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "yi2023graph",
+      "raw": {
+        "title": "Graph neural networks in protein-protein interaction prediction: A survey",
+        "authors": [
+          "Yi, Hai-Cheng",
+          "You, Zhu-Hong",
+          "Cheng, Li"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Graph+neural+networks+in+protein-protein+interaction+prediction%3A+A+survey&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "rives2021biological",
+      "raw": {
+        "title": "Biological structure and function emerge from scaling unsupervised learning to 250 million protein sequences",
+        "authors": [
+          "Rives, Alexander",
+          "Meier, Joshua",
+          "Sercu, Tom",
+          "Goyal, Siddharth",
+          "Lin, Zeming",
+          "Liu, Jason",
+          "Guo, Demi",
+          "Ott, Myle",
+          "Zitnick, C Lawrence",
+          "Ma, Jerry",
+          "others"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Biological+structure+and+function+emerge+from+scaling+unsupervised+learning+to+250+million+protein+sequences&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zhang2023survey",
+      "raw": {
+        "title": "A survey on protein representation learning: Retrospect and prospect",
+        "authors": [
+          "Zhang, Lirong",
+          "Luo, Haitao",
+          "Zhang, Jianan",
+          "Wu, Stan Z"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=A+survey+on+protein+representation+learning%3A+Retrospect+and+prospect&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "fuchs2020se3",
+      "raw": {
+        "title": "SE(3)-Transformers: 3D Roto-Translation Equivariant Attention Networks",
+        "authors": [
+          "Fuchs, Fabian",
+          "Worrall, Daniel",
+          "Fischer, Volker",
+          "Welling, Max"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=SE%283%29-Transformers%3A+3D+Roto-Translation+Equivariant+Attention+Networks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    }
+  ]
+}

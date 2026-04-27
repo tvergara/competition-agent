@@ -1,0 +1,830 @@
+{
+  "paper_id": "41cdbdfa-9fcb-49a2-a0ef-e9d20fe8a65b",
+  "total": 34,
+  "verified": 3,
+  "mismatch": 0,
+  "missing": 0,
+  "ambiguous": 0,
+  "error": 27,
+  "skipped": 4,
+  "s2_consulted": 0,
+  "s2_lifted": 0,
+  "key_style_outliers": [
+    "cifar10",
+    "stl10",
+    "7780459",
+    "DBLP:journals/corr/KonecnyMYRSB16",
+    "electronics14030406",
+    "10.1007/978-3-319-10599-4_29"
+  ],
+  "entries": [
+    {
+      "key": "cifar10",
+      "raw": {
+        "title": "Learning Multiple Layers of Features from Tiny Images",
+        "authors": [
+          "Alex Krizhevsky",
+          "Geoffrey Hinton"
+        ],
+        "year": 2009,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Learning+Multiple+Layers+of+Features+from+Tiny+Images&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "stl10",
+      "raw": {
+        "title": "STL-10: A Large-Scale Image Dataset for Unsupervised Learning",
+        "authors": [
+          "A. Coates",
+          "A. Y. Ng"
+        ],
+        "year": 2011,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=STL-10%3A+A+Large-Scale+Image+Dataset+for+Unsupervised+Learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "simonyan2015deepconvolutionalnetworkslargescale",
+      "raw": {
+        "title": "Very Deep Convolutional Networks for Large-Scale Image Recognition",
+        "authors": [
+          "Karen Simonyan",
+          "Andrew Zisserman"
+        ],
+        "year": 2015,
+        "doi": null,
+        "arxiv_id": "1409.1556"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1409.1556&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "7780459",
+      "raw": {
+        "title": "Deep Residual Learning for Image Recognition",
+        "authors": [
+          "He, Kaiming",
+          "Zhang, Xiangyu",
+          "Ren, Shaoqing",
+          "Sun, Jian"
+        ],
+        "year": 2016,
+        "doi": "10.1109/CVPR.2016.90",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2194775991",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Deep Residual Learning for Image Recognition",
+        "year": 2016,
+        "authors": [
+          "Kaiming He",
+          "Xiangyu Zhang",
+          "Shaoqing Ren",
+          "Jian Sun"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "dimitrov2022dataleakagefederatedaveraging",
+      "raw": {
+        "title": "Data Leakage in Federated Averaging",
+        "authors": [
+          "Dimitar I. Dimitrov",
+          "Mislav Balunović",
+          "Nikola Konstantinov",
+          "Martin Vechev"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": "2206.12395"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2206.12395&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zhu2023surrogatemodelextensionsme",
+      "raw": {
+        "title": "Surrogate Model Extension (SME): A Fast and Accurate Weight Update Attack on Federated Learning",
+        "authors": [
+          "Junyi Zhu",
+          "Ruicong Yao",
+          "Matthew B. Blaschko"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": "2306.00127"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2306.00127&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zhao2022deepleakagemodelfederated",
+      "raw": {
+        "title": "Deep Leakage from Model in Federated Learning",
+        "authors": [
+          "Zihao Zhao",
+          "Mengen Luo",
+          "Wenbo Ding"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": "2206.04887"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2206.04887&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "rodio2024fedstaleleveragingstaleclient",
+      "raw": {
+        "title": "FedStale: leveraging stale client updates in federated learning",
+        "authors": [
+          "Angelo Rodio",
+          "Giovanni Neglia"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2405.04171"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2405.04171&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "mcmahan2023communicationefficientlearningdeepnetworks",
+      "raw": {
+        "title": "Communication-Efficient Learning of Deep Networks from Decentralized Data",
+        "authors": [
+          "H. Brendan McMahan",
+          "Eider Moore",
+          "Daniel Ramage",
+          "Seth Hampson",
+          "Blaise Agüera y Arcas"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": "1602.05629"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1602.05629&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "karimireddy2021scaffoldstochasticcontrolledaveraging",
+      "raw": {
+        "title": "SCAFFOLD: Stochastic Controlled Averaging for Federated Learning",
+        "authors": [
+          "Sai Praneeth Karimireddy",
+          "Satyen Kale",
+          "Mehryar Mohri",
+          "Sashank J. Reddi",
+          "Sebastian U. Stich",
+          "Ananda Theertha Suresh"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": "1910.06378"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1910.06378&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zhu2019deepleakagegradients",
+      "raw": {
+        "title": "Deep Leakage from Gradients",
+        "authors": [
+          "Ligeng Zhu",
+          "Zhijian Liu",
+          "Song Han"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": "1906.08935"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1906.08935&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "geiping2020invertinggradientseasy",
+      "raw": {
+        "title": "Inverting Gradients -- How easy is it to break privacy in federated learning?",
+        "authors": [
+          "Jonas Geiping",
+          "Hartmut Bauermeister",
+          "Hannah Dröge",
+          "Michael Moeller"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": "2003.14053"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2003.14053&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zhao2020idlgimproveddeepleakage",
+      "raw": {
+        "title": "iDLG: Improved Deep Leakage from Gradients",
+        "authors": [
+          "Bo Zhao",
+          "Konda Reddy Mopuri",
+          "Hakan Bilen"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": "2001.02610"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2001.02610&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "yin2021gradientsimagebatchrecovery",
+      "raw": {
+        "title": "See through Gradients: Image Batch Recovery via GradInversion",
+        "authors": [
+          "Hongxu Yin",
+          "Arun Mallya",
+          "Arash Vahdat",
+          "Jose M. Alvarez",
+          "Jan Kautz",
+          "Pavlo Molchanov"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": "2104.07586"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2104.07586&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "lecun1998mnist",
+      "raw": {
+        "title": "The MNIST database of handwritten digits",
+        "authors": [
+          "Yann LeCun",
+          "Corinna Cortes"
+        ],
+        "year": 1998,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "krizhevsky2009learning",
+      "raw": {
+        "title": "Learning Multiple Layers of Features from Tiny Images",
+        "authors": [
+          "Alex Krizhevsky"
+        ],
+        "year": 2009,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "netzer2011reading",
+      "raw": {
+        "title": "Reading Digits in Natural Images with Unsupervised Feature Learning",
+        "authors": [
+          "Yuval Netzer",
+          "Tao Wang",
+          "Adam Coates",
+          "Alessandro Bissacco",
+          "Bo Wu",
+          "Andrew Y. Ng"
+        ],
+        "year": 2011,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "huang2007labeled",
+      "raw": {
+        "title": "Labeled Faces in the Wild: A Database for Studying Face Recognition in Unconstrained Environments",
+        "authors": [
+          "Gary B. Huang",
+          "Manu Ramesh",
+          "Tamara Berg",
+          "Erik Learned-Miller"
+        ],
+        "year": 2007,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "deng2009imagenet",
+      "raw": {
+        "title": "ImageNet: A Large-Scale Hierarchical Image Database",
+        "authors": [
+          "Jia Deng",
+          "Wei Dong",
+          "Richard Socher",
+          "Li-Jia Li",
+          "Kai Li",
+          "Li Fei-Fei"
+        ],
+        "year": 2009,
+        "doi": "10.1109/CVPR.2009.5206848",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2108598243",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "ImageNet: A large-scale hierarchical image database",
+        "year": 2009,
+        "authors": [
+          "Jia Deng",
+          "Wei Dong",
+          "Richard Socher",
+          "Li-Jia Li",
+          "Kai Li",
+          "Li Fei-Fei"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "baglin2025fedladfederatedevaluationdeep",
+      "raw": {
+        "title": "FEDLAD: Federated Evaluation of Deep Leakage Attacks and Defenses",
+        "authors": [
+          "Isaac Baglin",
+          "Xiatian Zhu",
+          "Simon Hadfield"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2411.03019"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2411.03019&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "DBLP:journals/corr/KonecnyMYRSB16",
+      "raw": {
+        "title": "Federated Learning: Strategies for Improving Communication Efficiency",
+        "authors": [
+          "Jakub Kone{\\v{c}}n{\\'y}",
+          "H. Brendan McMahan",
+          "Felix X. Yu",
+          "Peter Richt{\\'{a}}rik",
+          "Ananda Theertha Suresh",
+          "Dave Bacon"
+        ],
+        "year": 2016,
+        "doi": null,
+        "arxiv_id": "1610.05492"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1610.05492&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "fowl2021robbing",
+      "raw": {
+        "title": "Robbing the fed: Directly obtaining private data in federated learning with modified models",
+        "authors": [
+          "Fowl, Liam",
+          "Geiping, Jonas",
+          "Czaja, Wojtek",
+          "Goldblum, Micah",
+          "Goldstein, Tom"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Robbing+the+fed%3A+Directly+obtaining+private+data+in+federated+learning+with+modified+models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "geng2110towards",
+      "raw": {
+        "title": "Towards general deep leakage in federated learning. 10 2021",
+        "authors": [
+          "Geng, Jiahui",
+          "Mou, Yongli",
+          "Li, Feifei",
+          "Li, Qing",
+          "Beyan, Oya",
+          "Decker, Stefan",
+          "Rong, Chunming"
+        ],
+        "year": null,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Towards+general+deep+leakage+in+federated+learning.+10+2021&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "gdpr",
+      "raw": {
+        "title": "Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation)",
+        "authors": [
+          "{European Parliament}",
+          "{Council of the European Union}"
+        ],
+        "year": 2016,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Regulation+%28EU%29+2016%2F679+of+the+European+Parliament+and+of+the+Council+of+27+April+2016+on+the+protection+of+natural+persons+with+regard+to+the+processing+of+personal+data+and+on+the+free+movement+of+such+data%2C+and+repealing+Directive+95%2F46%2FEC+%28General+Data+Protection+Regulation%29&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "wei2023securingdistributedsgdgradient",
+      "raw": {
+        "title": "Securing Distributed SGD against Gradient Leakage Threats",
+        "authors": [
+          "Wenqi Wei",
+          "Ling Liu",
+          "Jingya Zhou",
+          "Ka-Ho Chow",
+          "Yanzhao Wu"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": "2305.06473"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2305.06473&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "wu2023concealingsensitivesamplesgradient",
+      "raw": {
+        "title": "Concealing Sensitive Samples against Gradient Leakage in Federated Learning",
+        "authors": [
+          "Jing Wu",
+          "Munawar Hayat",
+          "Mingyi Zhou",
+          "Mehrtash Harandi"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": "2209.05724"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2209.05724&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "scheliga2023privacypreservingfederatedlearning",
+      "raw": {
+        "title": "Privacy Preserving Federated Learning with Convolutional Variational Bottlenecks",
+        "authors": [
+          "Daniel Scheliga",
+          "Patrick Mäder",
+          "Marco Seeland"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": "2309.04515"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2309.04515&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "scheliga2021precodegenericmodel",
+      "raw": {
+        "title": "PRECODE - A Generic Model Extension to Prevent Deep Gradient Leakage",
+        "authors": [
+          "Daniel Scheliga",
+          "Patrick Mäder",
+          "Marco Seeland"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": "2108.04725"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2108.04725&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "electronics14030406",
+      "raw": {
+        "title": "Defense Scheme of Federated Learning Based on GAN",
+        "authors": [
+          "Zhang, Qing",
+          "Zhang, Ping",
+          "Lu, Wenlong",
+          "Zhou, Xiaoyu",
+          "Bao, An"
+        ],
+        "year": 2025,
+        "doi": "10.3390/electronics14030406",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4406679548",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Defense Scheme of Federated Learning Based on GAN",
+        "year": 2025,
+        "authors": [
+          "Qing Zhang",
+          "Ping Zhang",
+          "Wenlong Lu",
+          "X. Y. Zhou",
+          "Ande Bao"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "DBLP:journals/corr/abs-2007-14390",
+      "raw": {
+        "title": "Flower: A Friendly Federated Learning Research Framework",
+        "authors": [
+          "Daniel J. Beutel",
+          "Taner Topal",
+          "Akhil Mathur",
+          "Xinchi Qiu",
+          "Titouan Parcollet",
+          "Nicholas D. Lane"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": "2007.14390"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2007.14390&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "huang2025gandeadlonglive",
+      "raw": {
+        "title": "The GAN is dead; long live the GAN! A Modern GAN Baseline",
+        "authors": [
+          "Yiwen Huang",
+          "Aaron Gokaslan",
+          "Volodymyr Kuleshov",
+          "James Tompkin"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2501.05441"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2501.05441&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "goodfellow2015explainingharnessingadversarialexamples",
+      "raw": {
+        "title": "Explaining and Harnessing Adversarial Examples",
+        "authors": [
+          "Ian J. Goodfellow",
+          "Jonathon Shlens",
+          "Christian Szegedy"
+        ],
+        "year": 2015,
+        "doi": null,
+        "arxiv_id": "1412.6572"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1412.6572&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "10.1007/978-3-319-10599-4_29",
+      "raw": {
+        "title": "Food-101 -- Mining Discriminative Components with Random Forests",
+        "authors": [
+          "Bossard, Lukas",
+          "Guillaumin, Matthieu",
+          "Van Gool, Luc"
+        ],
+        "year": 2014,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Food-101+--+Mining+Discriminative+Components+with+Random+Forests&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "cazenavette2022datasetdistillationmatchingtraining",
+      "raw": {
+        "title": "Dataset Distillation by Matching Training Trajectories",
+        "authors": [
+          "George Cazenavette",
+          "Tongzhou Wang",
+          "Antonio Torralba",
+          "Alexei A. Efros",
+          "Jun-Yan Zhu"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": "2203.11932"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2203.11932&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    }
+  ]
+}

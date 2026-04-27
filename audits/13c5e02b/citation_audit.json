@@ -1,0 +1,1857 @@
+{
+  "paper_id": "13c5e02b-35fa-498b-8e7a-817f3e259d99",
+  "total": 73,
+  "verified": 0,
+  "mismatch": 0,
+  "missing": 0,
+  "ambiguous": 0,
+  "error": 73,
+  "skipped": 0,
+  "s2_consulted": 0,
+  "s2_lifted": 0,
+  "key_style_outliers": [
+    "langley00",
+    "mitchell80",
+    "kearns89",
+    "DudaHart2nd",
+    "Newell81",
+    "Samuel59",
+    "3dgs",
+    "mast3r",
+    "magicdrivev2",
+    "RussellGAIA22025",
+    "dinov3",
+    "wang20253d"
+  ],
+  "entries": [
+    {
+      "key": "langley00",
+      "raw": {
+        "title": "Crafting Papers on Machine Learning",
+        "authors": [
+          "P. Langley"
+        ],
+        "year": 2000,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Crafting+Papers+on+Machine+Learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "mitchell80",
+      "raw": {
+        "title": "The Need for Biases in Learning Generalizations",
+        "authors": [
+          "T. M. Mitchell"
+        ],
+        "year": 1980,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=The+Need+for+Biases+in+Learning+Generalizations&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "kearns89",
+      "raw": {
+        "title": "Computational Complexity of Machine Learning",
+        "authors": [
+          "M. J. Kearns"
+        ],
+        "year": 1989,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Computational+Complexity+of+Machine+Learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "MachineLearningI",
+      "raw": {
+        "title": "Machine Learning: An Artificial Intelligence Approach, Vol. I",
+        "authors": [],
+        "year": 1983,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Machine+Learning%3A+An+Artificial+Intelligence+Approach%2C+Vol.+I&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "DudaHart2nd",
+      "raw": {
+        "title": "Pattern Classification",
+        "authors": [
+          "R. O. Duda",
+          "P. E. Hart",
+          "D. G. Stork"
+        ],
+        "year": 2000,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Pattern+Classification&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "anonymous",
+      "raw": {
+        "title": "Suppressed for Anonymity",
+        "authors": [
+          "Author, N. N."
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Suppressed+for+Anonymity&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Newell81",
+      "raw": {
+        "title": "Mechanisms of Skill Acquisition and the Law of Practice",
+        "authors": [
+          "A. Newell",
+          "P. S. Rosenbloom"
+        ],
+        "year": 1981,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Mechanisms+of+Skill+Acquisition+and+the+Law+of+Practice&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Samuel59",
+      "raw": {
+        "title": "Some Studies in Machine Learning Using the Game of Checkers",
+        "authors": [
+          "A. L. Samuel"
+        ],
+        "year": 1959,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Some+Studies+in+Machine+Learning+Using+the+Game+of+Checkers&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "bojarski2016end",
+      "raw": {
+        "title": "End to end learning for self-driving cars",
+        "authors": [
+          "Bojarski, Mariusz",
+          "Del Testa, Davide",
+          "Dworakowski, Daniel",
+          "Firner, Bernhard",
+          "Flepp, Beat",
+          "Goyal, Prasoon",
+          "Jackel, Lawrence D",
+          "Monfort, Mathew",
+          "Muller, Urs",
+          "Zhang, Jiakai",
+          "others"
+        ],
+        "year": 2016,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=End+to+end+learning+for+self-driving+cars&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "codevilla2018end",
+      "raw": {
+        "title": "End-to-end driving via conditional imitation learning",
+        "authors": [
+          "Codevilla, Felipe",
+          "M{\\\"u}ller, Matthias",
+          "L{\\'o}pez, Antonio",
+          "Koltun, Vladlen",
+          "Dosovitskiy, Alexey"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=End-to-end+driving+via+conditional+imitation+learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "codevilla2019exploring",
+      "raw": {
+        "title": "Exploring the limitations of behavior cloning for autonomous driving",
+        "authors": [
+          "Codevilla, Felipe",
+          "Santana, Eder",
+          "L{\\'o}pez, Antonio M",
+          "Gaidon, Adrien"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Exploring+the+limitations+of+behavior+cloning+for+autonomous+driving&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "hu2023planning",
+      "raw": {
+        "title": "Planning-oriented autonomous driving",
+        "authors": [
+          "Hu, Yihan",
+          "Yang, Jiazhi",
+          "Chen, Li",
+          "Li, Keyu",
+          "Sima, Chonghao",
+          "Zhu, Xizhou",
+          "Chai, Siqi",
+          "Du, Senyao",
+          "Lin, Tianwei",
+          "Wang, Wenhai",
+          "others"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Planning-oriented+autonomous+driving&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "song2025don",
+      "raw": {
+        "title": "Don't Shake the Wheel: Momentum-Aware Planning in End-to-End Autonomous Driving",
+        "authors": [
+          "Song, Ziying",
+          "Jia, Caiyan",
+          "Liu, Lin",
+          "Pan, Hongyu",
+          "Zhang, Yongchang",
+          "Wang, Junming",
+          "Zhang, Xingyu",
+          "Xu, Shaoqing",
+          "Yang, Lei",
+          "Luo, Yadan"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Don%27t+Shake+the+Wheel%3A+Momentum-Aware+Planning+in+End-to-End+Autonomous+Driving&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "jiang2023vad",
+      "raw": {
+        "title": "Vad: Vectorized scene representation for efficient autonomous driving",
+        "authors": [
+          "Jiang, Bo",
+          "Chen, Shaoyu",
+          "Xu, Qing",
+          "Liao, Bencheng",
+          "Chen, Jiajie",
+          "Zhou, Helong",
+          "Zhang, Qian",
+          "Liu, Wenyu",
+          "Huang, Chang",
+          "Wang, Xinggang"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Vad%3A+Vectorized+scene+representation+for+efficient+autonomous+driving&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "chen2024vadv2",
+      "raw": {
+        "title": "Vadv2: End-to-end vectorized autonomous driving via probabilistic planning",
+        "authors": [
+          "Chen, Shaoyu",
+          "Jiang, Bo",
+          "Gao, Hao",
+          "Liao, Bencheng",
+          "Xu, Qing",
+          "Zhang, Qian",
+          "Huang, Chang",
+          "Liu, Wenyu",
+          "Wang, Xinggang"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Vadv2%3A+End-to-end+vectorized+autonomous+driving+via+probabilistic+planning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "xing2025goalflow",
+      "raw": {
+        "title": "Goalflow: Goal-driven flow matching for multimodal trajectories generation in end-to-end autonomous driving",
+        "authors": [
+          "Xing, Zebin",
+          "Zhang, Xingyu",
+          "Hu, Yang",
+          "Jiang, Bo",
+          "He, Tong",
+          "Zhang, Qian",
+          "Long, Xiaoxiao",
+          "Yin, Wei"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Goalflow%3A+Goal-driven+flow+matching+for+multimodal+trajectories+generation+in+end-to-end+autonomous+driving&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "liao2025diffusiondrive",
+      "raw": {
+        "title": "Diffusiondrive: Truncated diffusion model for end-to-end autonomous driving",
+        "authors": [
+          "Liao, Bencheng",
+          "Chen, Shaoyu",
+          "Yin, Haoran",
+          "Jiang, Bo",
+          "Wang, Cheng",
+          "Yan, Sixu",
+          "Zhang, Xinbang",
+          "Li, Xiangyu",
+          "Zhang, Ying",
+          "Zhang, Qian",
+          "others"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Diffusiondrive%3A+Truncated+diffusion+model+for+end-to-end+autonomous+driving&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "huang2024drivemm",
+      "raw": {
+        "title": "Drivemm: All-in-one large multimodal model for autonomous driving",
+        "authors": [
+          "Huang, Zhijian",
+          "Feng, Chengjian",
+          "Yan, Feng",
+          "Xiao, Baihui",
+          "Jie, Zequn",
+          "Zhong, Yujie",
+          "Liang, Xiaodan",
+          "Ma, Lin"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Drivemm%3A+All-in-one+large+multimodal+model+for+autonomous+driving&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zheng2025world4drive",
+      "raw": {
+        "title": "World4drive: End-to-end autonomous driving via intention-aware physical latent world model",
+        "authors": [
+          "Zheng, Yupeng",
+          "Yang, Pengxuan",
+          "Xing, Zebin",
+          "Zhang, Qichao",
+          "Zheng, Yuhang",
+          "Gao, Yinfeng",
+          "Li, Pengfei",
+          "Zhang, Teng",
+          "Xia, Zhongpu",
+          "Jia, Peng",
+          "others"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=World4drive%3A+End-to-end+autonomous+driving+via+intention-aware+physical+latent+world+model&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "li2024bevformer",
+      "raw": {
+        "title": "Bevformer: learning bird's-eye-view representation from lidar-camera via spatiotemporal transformers",
+        "authors": [
+          "Li, Zhiqi",
+          "Wang, Wenhai",
+          "Li, Hongyang",
+          "Xie, Enze",
+          "Sima, Chonghao",
+          "Lu, Tong",
+          "Yu, Qiao",
+          "Dai, Jifeng"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Bevformer%3A+learning+bird%27s-eye-view+representation+from+lidar-camera+via+spatiotemporal+transformers&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "liang2022bevfusion",
+      "raw": {
+        "title": "Bevfusion: A simple and robust lidar-camera fusion framework",
+        "authors": [
+          "Liang, Tingting",
+          "Xie, Hongwei",
+          "Yu, Kaicheng",
+          "Xia, Zhongyu",
+          "Lin, Zhiwei",
+          "Wang, Yongtao",
+          "Tang, Tao",
+          "Wang, Bing",
+          "Tang, Zhi"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Bevfusion%3A+A+simple+and+robust+lidar-camera+fusion+framework&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "jia2023think",
+      "raw": {
+        "title": "Think twice before driving: Towards scalable decoders for end-to-end autonomous driving",
+        "authors": [
+          "Jia, Xiaosong",
+          "Wu, Penghao",
+          "Chen, Li",
+          "Xie, Jiangwei",
+          "He, Conghui",
+          "Yan, Junchi",
+          "Li, Hongyang"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Think+twice+before+driving%3A+Towards+scalable+decoders+for+end-to-end+autonomous+driving&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "wang2022detr3d",
+      "raw": {
+        "title": "Detr3d: 3d object detection from multi-view images via 3d-to-2d queries",
+        "authors": [
+          "Wang, Yue",
+          "Guizilini, Vitor Campagnolo",
+          "Zhang, Tianyuan",
+          "Wang, Yilun",
+          "Zhao, Hang",
+          "Solomon, Justin"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Detr3d%3A+3d+object+detection+from+multi-view+images+via+3d-to-2d+queries&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "liu2022petr",
+      "raw": {
+        "title": "Petr: Position embedding transformation for multi-view 3d object detection",
+        "authors": [
+          "Liu, Yingfei",
+          "Wang, Tiancai",
+          "Zhang, Xiangyu",
+          "Sun, Jian"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Petr%3A+Position+embedding+transformation+for+multi-view+3d+object+detection&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "jia2025drivetransformer",
+      "raw": {
+        "title": "Drivetransformer: Unified transformer for scalable end-to-end autonomous driving",
+        "authors": [
+          "Jia, Xiaosong",
+          "You, Junqi",
+          "Zhang, Zhiyuan",
+          "Yan, Junchi"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Drivetransformer%3A+Unified+transformer+for+scalable+end-to-end+autonomous+driving&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "3dgs",
+      "raw": {
+        "title": "3D Gaussian splatting for real-time radiance field rendering.",
+        "authors": [
+          "Kerbl, Bernhard",
+          "Kopanas, Georgios",
+          "Leimk{\\\"u}hler, Thomas",
+          "Drettakis, George"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=3D+Gaussian+splatting+for+real-time+radiance+field+rendering.&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "kerbl2024hierarchical",
+      "raw": {
+        "title": "A hierarchical 3d gaussian representation for real-time rendering of very large datasets",
+        "authors": [
+          "Kerbl, Bernhard",
+          "Meuleman, Andreas",
+          "Kopanas, Georgios",
+          "Wimmer, Michael",
+          "Lanvin, Alexandre",
+          "Drettakis, George"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=A+hierarchical+3d+gaussian+representation+for+real-time+rendering+of+very+large+datasets&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "huang2024gaussianformer",
+      "raw": {
+        "title": "Gaussianformer: Scene as gaussians for vision-based 3d semantic occupancy prediction",
+        "authors": [
+          "Huang, Yuanhui",
+          "Zheng, Wenzhao",
+          "Zhang, Yunpeng",
+          "Zhou, Jie",
+          "Lu, Jiwen"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Gaussianformer%3A+Scene+as+gaussians+for+vision-based+3d+semantic+occupancy+prediction&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "liu2025gaussianfusion",
+      "raw": {
+        "title": "GaussianFusion: Gaussian-Based Multi-Sensor Fusion for End-to-End Autonomous Driving",
+        "authors": [
+          "Liu, Shuai",
+          "Liang, Quanmin",
+          "Li, Zefeng",
+          "Li, Boyang",
+          "Huang, Kai"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=GaussianFusion%3A+Gaussian-Based+Multi-Sensor+Fusion+for+End-to-End+Autonomous+Driving&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "hartley2003multiple",
+      "raw": {
+        "title": "Multiple view geometry in computer vision",
+        "authors": [
+          "Hartley, Richard",
+          "Zisserman, Andrew"
+        ],
+        "year": 2003,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Multiple+view+geometry+in+computer+vision&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "oliensis2000critique",
+      "raw": {
+        "title": "A critique of structure-from-motion algorithms",
+        "authors": [
+          "Oliensis, John"
+        ],
+        "year": 2000,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=A+critique+of+structure-from-motion+algorithms&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "furukawa2015multi",
+      "raw": {
+        "title": "Multi-view stereo: A tutorial",
+        "authors": [
+          "Furukawa, Yasutaka",
+          "Hern{\\'a}ndez, Carlos",
+          "others"
+        ],
+        "year": 2015,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Multi-view+stereo%3A+A+tutorial&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "wang2024dust3r",
+      "raw": {
+        "title": "Dust3r: Geometric 3d vision made easy",
+        "authors": [
+          "Wang, Shuzhe",
+          "Leroy, Vincent",
+          "Cabon, Yohann",
+          "Chidlovskii, Boris",
+          "Revaud, Jerome"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Dust3r%3A+Geometric+3d+vision+made+easy&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "cabon2025must3r",
+      "raw": {
+        "title": "Must3r: Multi-view network for stereo 3d reconstruction",
+        "authors": [
+          "Cabon, Yohann",
+          "Stoffl, Lucas",
+          "Antsfeld, Leonid",
+          "Csurka, Gabriela",
+          "Chidlovskii, Boris",
+          "Revaud, Jerome",
+          "Leroy, Vincent"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Must3r%3A+Multi-view+network+for+stereo+3d+reconstruction&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "vggt",
+      "raw": {
+        "title": "Vggt: Visual geometry grounded transformer",
+        "authors": [
+          "Wang, Jianyuan",
+          "Chen, Minghao",
+          "Karaev, Nikita",
+          "Vedaldi, Andrea",
+          "Rupprecht, Christian",
+          "Novotny, David"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Vggt%3A+Visual+geometry+grounded+transformer&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "mast3r",
+      "raw": {
+        "title": "Grounding image matching in 3d with mast3r",
+        "authors": [
+          "Leroy, Vincent",
+          "Cabon, Yohann",
+          "Revaud, J{\\'e}r{\\^o}me"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Grounding+image+matching+in+3d+with+mast3r&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "dcae",
+      "raw": {
+        "title": "Deep compression autoencoder for efficient high-resolution diffusion models",
+        "authors": [
+          "Chen, Junyu",
+          "Cai, Han",
+          "Chen, Junsong",
+          "Xie, Enze",
+          "Yang, Shang",
+          "Tang, Haotian",
+          "Li, Muyang",
+          "Lu, Yao",
+          "Han, Song"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Deep+compression+autoencoder+for+efficient+high-resolution+diffusion+models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "epona",
+      "raw": {
+        "title": "Epona: Autoregressive diffusion world model for autonomous driving",
+        "authors": [
+          "Kaiwen Zhang",
+          "Zhenyu Tang",
+          "Xiaotao Hu",
+          "Xingang Pan",
+          "Xiaoyang Guo",
+          "Yuan Liu",
+          "Jingwei Huang",
+          "Li Yuan",
+          "Qian Zhang",
+          "Xiao{-}Xiao Long",
+          "Xun Cao",
+          "Wei Yin"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Epona%3A+Autoregressive+diffusion+world+model+for+autonomous+driving&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "hu2024drivingworld",
+      "raw": {
+        "title": "DrivingWorld: Constructing world model for autonomous driving via video GPT",
+        "authors": [
+          "Hu, Xiaotao",
+          "Yin, Wei",
+          "Jia, Mingkai",
+          "Deng, Junyuan",
+          "Guo, Xiaoyang",
+          "Zhang, Qian",
+          "Long, Xiaoxiao",
+          "Tan, Ping"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=DrivingWorld%3A+Constructing+world+model+for+autonomous+driving+via+video+GPT&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "kong2024hunyuanvideo",
+      "raw": {
+        "title": "Hunyuanvideo: A systematic framework for large video generative models",
+        "authors": [
+          "Kong, Weijie",
+          "Tian, Qi",
+          "Zhang, Zijian",
+          "Min, Rox",
+          "Dai, Zuozhuo",
+          "Zhou, Jin",
+          "Xiong, Jiangfeng",
+          "Li, Xin",
+          "Wu, Bo",
+          "Zhang, Jianwei",
+          "others"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Hunyuanvideo%3A+A+systematic+framework+for+large+video+generative+models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "magicdrivev2",
+      "raw": {
+        "title": "MagicDrive-V2: High-resolution long video generation for autonomous driving with adaptive control",
+        "authors": [
+          "Gao, Ruiyuan",
+          "Chen, Kai",
+          "Xiao, Bo",
+          "Hong, Lanqing",
+          "Li, Zhenguo",
+          "Xu, Qiang"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=MagicDrive-V2%3A+High-resolution+long+video+generation+for+autonomous+driving+with+adaptive+control&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "fvd",
+      "raw": {
+        "title": "Towards accurate generative models of video: A new metric \\& challenges",
+        "authors": [
+          "Unterthiner, Thomas",
+          "Van Steenkiste, Sjoerd",
+          "Kurach, Karol",
+          "Marinier, Raphael",
+          "Michalski, Marcin",
+          "Gelly, Sylvain"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Towards+accurate+generative+models+of+video%3A+A+new+metric+%5C%26+challenges&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "heusel2017gans",
+      "raw": {
+        "title": "Gans trained by a two time-scale update rule converge to a local nash equilibrium",
+        "authors": [
+          "Heusel, Martin",
+          "Ramsauer, Hubert",
+          "Unterthiner, Thomas",
+          "Nessler, Bernhard",
+          "Hochreiter, Sepp"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Gans+trained+by+a+two+time-scale+update+rule+converge+to+a+local+nash+equilibrium&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "navsim",
+      "raw": {
+        "title": "NAVSIM: Data-Driven Non-Reactive Autonomous Vehicle Simulation and Benchmarking",
+        "authors": [
+          "Daniel Dauner",
+          "Marcel Hallgarten",
+          "Tianyu Li",
+          "Xinshuo Weng",
+          "Zhiyu Huang",
+          "Zetong Yang",
+          "Hongyang Li",
+          "Igor Gilitschenski",
+          "Boris Ivanovic",
+          "Marco Pavone",
+          "Andreas Geiger",
+          "Kashyap Chitta"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=NAVSIM%3A+Data-Driven+Non-Reactive+Autonomous+Vehicle+Simulation+and+Benchmarking&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "li2024hydra",
+      "raw": {
+        "title": "Hydra-mdp: End-to-end multimodal planning with multi-target hydra-distillation",
+        "authors": [
+          "Li, Zhenxin",
+          "Li, Kailin",
+          "Wang, Shihao",
+          "Lan, Shiyi",
+          "Yu, Zhiding",
+          "Ji, Yishen",
+          "Li, Zhiqi",
+          "Zhu, Ziyue",
+          "Kautz, Jan",
+          "Wu, Zuxuan",
+          "others"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Hydra-mdp%3A+End-to-end+multimodal+planning+with+multi-target+hydra-distillation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "li2025hydra",
+      "raw": {
+        "title": "Hydra-MDP++: Advancing End-to-End Driving via Expert-Guided Hydra-Distillation",
+        "authors": [
+          "Li, Kailin",
+          "Li, Zhenxin",
+          "Lan, Shiyi",
+          "Xie, Yuan",
+          "Zhang, Zhizhong",
+          "Liu, Jiayi",
+          "Wu, Zuxuan",
+          "Yu, Zhiding",
+          "Alvarez, Jose M"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Hydra-MDP%2B%2B%3A+Advancing+End-to-End+Driving+via+Expert-Guided+Hydra-Distillation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ZhouHERMES2025",
+      "raw": {
+        "title": "HERMES: A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation",
+        "authors": [
+          "Xin Zhou",
+          "Dingkang Liang",
+          "Sifan Tu",
+          "Xiwu Chen",
+          "Yikang Ding",
+          "Dingyuan Zhang",
+          "Feiyang Tan",
+          "Hengshuang Zhao",
+          "Xiang Bai"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=HERMES%3A+A+Unified+Self-Driving+World+Model+for+Simultaneous+3D+Scene+Understanding+and+Generation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "GaoVista2024",
+      "raw": {
+        "title": "Vista: A generalizable driving world model with high fidelity and versatile controllability",
+        "authors": [
+          "Gao, Shenyuan",
+          "Yang, Jiazhi",
+          "Chen, Li",
+          "Chitta, Kashyap",
+          "Qiu, Yihang",
+          "Geiger, Andreas",
+          "Zhang, Jun",
+          "Li, Hongyang"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Vista%3A+A+generalizable+driving+world+model+with+high+fidelity+and+versatile+controllability&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "YangGenAD2024",
+      "raw": {
+        "title": "Generalized Predictive Model for Autonomous Driving (GenAD)",
+        "authors": [
+          "Jiazhi Yang",
+          "Shenyuan Gao",
+          "Yihang Qiu",
+          "Li Chen",
+          "Tianyu Li",
+          "Bo Dai",
+          "Kashyap Chitta",
+          "Penghao Wu",
+          "Jia Zeng",
+          "Ping Luo",
+          "Jun Zhang",
+          "Andreas Geiger",
+          "Yu Qiao",
+          "Hongyang Li"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Generalized+Predictive+Model+for+Autonomous+Driving+%28GenAD%29&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "GuoInfinityDrive2024",
+      "raw": {
+        "title": "InfinityDrive: Breaking Time Limits in Driving World Models",
+        "authors": [
+          "Xi Guo",
+          "Mingyu Li",
+          "Wenhai Wang"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=InfinityDrive%3A+Breaking+Time+Limits+in+Driving+World+Models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "HuDrivingWorld2024",
+      "raw": {
+        "title": "DrivingWorld: Constructing World Model for Autonomous Driving via Video GPT",
+        "authors": [
+          "Xiaotao Hu",
+          "Wei Yin",
+          "Mingkai Jia",
+          "Junyuan Deng",
+          "Xiaoyang Guo",
+          "Qian Zhang",
+          "Xiaoxiao Long",
+          "Ping Tan"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=DrivingWorld%3A+Constructing+World+Model+for+Autonomous+Driving+via+Video+GPT&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "TuWMinSAD2025",
+      "raw": {
+        "title": "The Role of World Models in Shaping Autonomous Driving: A Comprehensive Survey",
+        "authors": [
+          "Sifan Tu",
+          "Yuan Gao",
+          "Zonglin Yang"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=The+Role+of+World+Models+in+Shaping+Autonomous+Driving%3A+A+Comprehensive+Survey&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "GuanWMforAD2024",
+      "raw": {
+        "title": "World Models for Autonomous Driving: An Initial Survey",
+        "authors": [
+          "Yanchen Guan",
+          "Xinyu Zhang",
+          "Hongyang Li"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=World+Models+for+Autonomous+Driving%3A+An+Initial+Survey&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ChenGeoDirve2025",
+      "raw": {
+        "title": "GeoDrive: 3D Geometry-Informed Driving World Model with Precise Action Control",
+        "authors": [
+          "Anthony Chen",
+          "Xuefeng Qiu",
+          "Shaoshuai Shi"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=GeoDrive%3A+3D+Geometry-Informed+Driving+World+Model+with+Precise+Action+Control&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "RussellGAIA22025",
+      "raw": {
+        "title": "Gaia-2: A controllable multi-view generative world model for autonomous driving",
+        "authors": [
+          "Russell, Lloyd",
+          "Hu, Anthony",
+          "Bertoni, Lorenzo",
+          "Fedoseev, George",
+          "Shotton, Jamie",
+          "Arani, Elahe",
+          "Corrado, Gianluca"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Gaia-2%3A+A+controllable+multi-view+generative+world+model+for+autonomous+driving&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "law",
+      "raw": {
+        "title": "Enhancing end-to-end autonomous driving with latent world model",
+        "authors": [
+          "Li, Yingyan",
+          "Fan, Lue",
+          "He, Jiawei",
+          "Wang, Yuqi",
+          "Chen, Yuntao",
+          "Zhang, Zhaoxiang",
+          "Tan, Tieniu"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Enhancing+end-to-end+autonomous+driving+with+latent+world+model&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "transfuser",
+      "raw": {
+        "title": "Multi-modal fusion transformer for end-to-end autonomous driving",
+        "authors": [
+          "Prakash, Aditya",
+          "Chitta, Kashyap",
+          "Geiger, Andreas"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Multi-modal+fusion+transformer+for+end-to-end+autonomous+driving&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "shi2025drivex",
+      "raw": {
+        "title": "DriveX: Omni Scene Modeling for Learning Generalizable World Knowledge in Autonomous Driving",
+        "authors": [
+          "Shi, Chen",
+          "Shi, Shaoshuai",
+          "Sheng, Kehua",
+          "Zhang, Bo",
+          "Jiang, Li"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=DriveX%3A+Omni+Scene+Modeling+for+Learning+Generalizable+World+Knowledge+in+Autonomous+Driving&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "wote",
+      "raw": {
+        "title": "End-to-end driving with online trajectory evaluation via bev world model",
+        "authors": [
+          "Li, Yingyan",
+          "Wang, Yuqi",
+          "Liu, Yang",
+          "He, Jiawei",
+          "Fan, Lue",
+          "Zhang, Zhaoxiang"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=End-to-end+driving+with+online+trajectory+evaluation+via+bev+world+model&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "guo2025genesis",
+      "raw": {
+        "title": "Genesis: Multimodal driving scene generation with spatio-temporal and cross-modal consistency",
+        "authors": [
+          "Guo, Xiangyu",
+          "Wu, Zhanqian",
+          "Xiong, Kaixin",
+          "Xu, Ziyang",
+          "Zhou, Lijun",
+          "Xu, Gangwei",
+          "Xu, Shaoqing",
+          "Sun, Haiyang",
+          "Wang, Bing",
+          "Chen, Guang",
+          "others"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Genesis%3A+Multimodal+driving+scene+generation+with+spatio-temporal+and+cross-modal+consistency&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "rectified_flow",
+      "raw": {
+        "title": "Flow straight and fast: Learning to generate and transfer data with rectified flow",
+        "authors": [
+          "Liu, Xingchao",
+          "Gong, Chengyue",
+          "Liu, Qiang"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Flow+straight+and+fast%3A+Learning+to+generate+and+transfer+data+with+rectified+flow&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "kendall2016modelling",
+      "raw": {
+        "title": "Modelling uncertainty in deep learning for camera relocalization",
+        "authors": [
+          "Kendall, Alex",
+          "Cipolla, Roberto"
+        ],
+        "year": 2016,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Modelling+uncertainty+in+deep+learning+for+camera+relocalization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "novotny2018capturing",
+      "raw": {
+        "title": "Capturing the geometry of object categories from video supervision",
+        "authors": [
+          "Novotny, David",
+          "Larlus, Diane",
+          "Vedaldi, Andrea"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Capturing+the+geometry+of+object+categories+from+video+supervision&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "lpips",
+      "raw": {
+        "title": "The unreasonable effectiveness of deep features as a perceptual metric",
+        "authors": [
+          "Zhang, Richard",
+          "Isola, Phillip",
+          "Efros, Alexei A",
+          "Shechtman, Eli",
+          "Wang, Oliver"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=The+unreasonable+effectiveness+of+deep+features+as+a+perceptual+metric&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "gan_loss",
+      "raw": {
+        "title": "Taming transformers for high-resolution image synthesis",
+        "authors": [
+          "Esser, Patrick",
+          "Rombach, Robin",
+          "Ommer, Bjorn"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Taming+transformers+for+high-resolution+image+synthesis&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "rae",
+      "raw": {
+        "title": "Diffusion Transformers with Representation Autoencoders",
+        "authors": [
+          "Zheng, Boyang",
+          "Ma, Nanye",
+          "Tong, Shengbang",
+          "Xie, Saining"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Diffusion+Transformers+with+Representation+Autoencoders&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "kingma2014auto",
+      "raw": {
+        "title": "Auto-encoding variational bayes",
+        "authors": [
+          "Kingma, Diederik P",
+          "Welling, Max"
+        ],
+        "year": 2013,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Auto-encoding+variational+bayes&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zhao2017infovae",
+      "raw": {
+        "title": "Infovae: Information maximizing variational autoencoders",
+        "authors": [
+          "Zhao, Shengjia",
+          "Song, Jiaming",
+          "Ermon, Stefano"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Infovae%3A+Information+maximizing+variational+autoencoders&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "balestriero2025lejepa",
+      "raw": {
+        "title": "Lejepa: Provable and scalable self-supervised learning without the heuristics",
+        "authors": [
+          "Balestriero, Randall",
+          "LeCun, Yann"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Lejepa%3A+Provable+and+scalable+self-supervised+learning+without+the+heuristics&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "dinov3",
+      "raw": {
+        "title": "DINOv3",
+        "authors": [
+          "Oriane Siméoni",
+          "Huy V. Vo",
+          "Maximilian Seitzer",
+          "Federico Baldassarre",
+          "Maxime Oquab",
+          "Cijo Jose",
+          "Vasil Khalidov",
+          "Marc Szafraniec",
+          "Seungeun Yi",
+          "Michaël Ramamonjisoa",
+          "Francisco Massa",
+          "Daniel Haziza",
+          "Luca Wehrstedt",
+          "Jianyuan Wang",
+          "Timothée Darcet",
+          "Théo Moutakanni",
+          "Leonel Sentana",
+          "Claire Roberts",
+          "Andrea Vedaldi",
+          "Jamie Tolan",
+          "John Brandt",
+          "Camille Couprie",
+          "Julien Mairal",
+          "Hervé Jégou",
+          "Patrick Labatut",
+          "Piotr Bojanowski"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=DINOv3&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "vit",
+      "raw": {
+        "title": "An image is worth 16x16 words: Transformers for image recognition at scale",
+        "authors": [
+          "Dosovitskiy, Alexey",
+          "Beyer, Lucas",
+          "Kolesnikov, Alexander",
+          "Weissenborn, Dirk",
+          "Houlsby, Neil"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=An+image+is+worth+16x16+words%3A+Transformers+for+image+recognition+at+scale&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "li2025recogdrive",
+      "raw": {
+        "title": "Recogdrive: A reinforced cognitive framework for end-to-end autonomous driving",
+        "authors": [
+          "Li, Yongkang",
+          "Xiong, Kaixin",
+          "Guo, Xiangyu",
+          "Li, Fang",
+          "Yan, Sixu",
+          "Xu, Gangwei",
+          "Zhou, Lijun",
+          "Chen, Long",
+          "Sun, Haiyang",
+          "Wang, Bing",
+          "others"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Recogdrive%3A+A+reinforced+cognitive+framework+for+end-to-end+autonomous+driving&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "wang20253d",
+      "raw": {
+        "title": "3d reconstruction with spatial memory",
+        "authors": [
+          "Wang, Hengyi",
+          "Agapito, Lourdes"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=3d+reconstruction+with+spatial+memory&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    }
+  ]
+}

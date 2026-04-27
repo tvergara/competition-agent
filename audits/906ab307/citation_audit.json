@@ -1,0 +1,361 @@
+{
+  "paper_id": "906ab307-8b7b-4d5c-bbeb-17c78681aad9",
+  "total": 14,
+  "verified": 0,
+  "mismatch": 0,
+  "missing": 0,
+  "ambiguous": 0,
+  "error": 1,
+  "skipped": 13,
+  "s2_consulted": 0,
+  "s2_lifted": 0,
+  "key_style_outliers": [],
+  "entries": [
+    {
+      "key": "yeo2025faithful",
+      "raw": {
+        "title": "Towards Faithful Natural Language Explanations: A Study Using Activation Patching in Large Language Models",
+        "authors": [
+          "Yeo, Wei Jie",
+          "Satapathy, Ranjan",
+          "Cambria, Erik"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "elhage2021mathematical",
+      "raw": {
+        "title": "A Mathematical Framework for Transformer Circuits",
+        "authors": [
+          "Elhage, Nelson",
+          "Nanda, Neel",
+          "Olsson, Catherine",
+          "Henighan, Tom",
+          "Joseph, Nicholas",
+          "Mann, Ben",
+          "Askell, Amanda",
+          "Bai, Yuntao",
+          "Chen, Anna",
+          "Conerly, Tom",
+          "others"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "olsson2022context",
+      "raw": {
+        "title": "In-context Learning and Induction Heads",
+        "authors": [
+          "Olsson, Catherine",
+          "Elhage, Nelson",
+          "Nanda, Neel",
+          "Joseph, Nicholas",
+          "DasSarma, Nova",
+          "Henighan, Tom",
+          "Mann, Ben",
+          "Askell, Amanda",
+          "Bai, Yuntao",
+          "Chen, Anna",
+          "others"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "conmy2023towards",
+      "raw": {
+        "title": "Towards Automated Circuit Discovery for Mechanistic Interpretability",
+        "authors": [
+          "Conmy, Arthur",
+          "Mavor-Parker, Augustine N",
+          "Lynch, Aengus",
+          "Heimersheim, Stefan",
+          "Garriga-Alonso, Adri{\\`a}"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": "2304.14997"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2304.14997&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "wang2022interpretability",
+      "raw": {
+        "title": "Interpretability in the Wild: A Circuit for Indirect Object Identification in GPT-2 Small",
+        "authors": [
+          "Wang, Kevin",
+          "Variengien, Alexandre",
+          "Conmy, Arthur",
+          "Shlegeris, Buck",
+          "Steinhardt, Jacob"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "deyoung2020eraser",
+      "raw": {
+        "title": "ERASER: A Benchmark to Evaluate Rationalized NLP Models",
+        "authors": [
+          "DeYoung, Jay",
+          "Jain, Sarthak",
+          "Rajani, Nazneen Fatema",
+          "Lehman, Eric",
+          "Xiong, Caiming",
+          "Socher, Richard",
+          "Wallace, Byron C"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "camburu2018esnli",
+      "raw": {
+        "title": "e-SNLI: Natural Language Inference with Natural Language Explanations",
+        "authors": [
+          "Camburu, Oana-Maria",
+          "Rockt{\\\"a}schel, Tim",
+          "Lukasiewicz, Thomas",
+          "Blunsom, Phil"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "jain2019attention",
+      "raw": {
+        "title": "Attention is not Explanation",
+        "authors": [
+          "Jain, Sarthak",
+          "Wallace, Byron C"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "wiegreffe2019attention",
+      "raw": {
+        "title": "Attention is not not Explanation",
+        "authors": [
+          "Wiegreffe, Sarah",
+          "Pinter, Yuval"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "vig2020causal",
+      "raw": {
+        "title": "Investigating Gender Bias in Language Models Using Causal Mediation Analysis",
+        "authors": [
+          "Vig, Jesse",
+          "Gehrmann, Sebastian",
+          "Belinkov, Yonatan",
+          "Qian, Sharon",
+          "Nevo, Daniel",
+          "Singer, Yaron",
+          "Shieber, Stuart"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "geiger2021causal",
+      "raw": {
+        "title": "Causal Abstractions of Neural Networks",
+        "authors": [
+          "Geiger, Atticus",
+          "Lu, Hanson",
+          "Icard, Thomas",
+          "Potts, Christopher"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "bills2023language",
+      "raw": {
+        "title": "Language Models Can Explain Neurons in Language Models",
+        "authors": [
+          "Bills, Steven",
+          "Cammarata, Nick",
+          "Mossing, Dan",
+          "Tillman, Henk",
+          "Gao, Leo",
+          "Goh, Gabriel",
+          "Sutskever, Ilya",
+          "Leike, Jan",
+          "Wu, Jeff",
+          "Saunders, William"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "nanda2022transformerlens",
+      "raw": {
+        "title": "TransformerLens",
+        "authors": [
+          "Nanda, Neel"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "vaswani2017attention",
+      "raw": {
+        "title": "Attention is All You Need",
+        "authors": [
+          "Vaswani, Ashish",
+          "Shazeer, Noam",
+          "Parmar, Niki",
+          "Uszkoreit, Jakob",
+          "Jones, Llion",
+          "Gomez, Aidan N",
+          "Kaiser, {\\L}ukasz",
+          "Polosukhin, Illia"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    }
+  ]
+}

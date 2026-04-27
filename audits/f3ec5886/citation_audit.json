@@ -1,0 +1,1834 @@
+{
+  "paper_id": "f3ec5886-48c8-4d85-bfbc-836f013528cd",
+  "total": 76,
+  "verified": 2,
+  "mismatch": 1,
+  "missing": 0,
+  "ambiguous": 0,
+  "error": 72,
+  "skipped": 1,
+  "s2_consulted": 1,
+  "s2_lifted": 0,
+  "key_style_outliers": [
+    "Hinton06",
+    "ResNet50",
+    "DN126"
+  ],
+  "entries": [
+    {
+      "key": "Hinton06",
+      "raw": {
+        "title": "A Fast Learning Algorithm for Deep Belief Nets",
+        "authors": [
+          "Hinton, Geoffrey E.",
+          "Osindero, Simon",
+          "Teh, Yee Whye"
+        ],
+        "year": 2006,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=A+Fast+Learning+Algorithm+for+Deep+Belief+Nets&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "goodfellow2016deep",
+      "raw": {
+        "title": "Deep learning",
+        "authors": [
+          "Goodfellow, Ian",
+          "Bengio, Yoshua",
+          "Courville, Aaron",
+          "Bengio, Yoshua"
+        ],
+        "year": 2016,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Deep+learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "dgmamba2024",
+      "raw": {
+        "title": "DGMamba: Domain Generalization via Generalized State Space Model",
+        "authors": [
+          "Long, Shaocong",
+          "Zhou, Qianyu",
+          "Li, Xiangtai",
+          "Lu, Xuequan",
+          "Ying, Chenhao",
+          "Luo, Yuan",
+          "Ma, Lizhuang",
+          "Yan, Shuicheng"
+        ],
+        "year": 2024,
+        "doi": "10.1145/3664647.3681247",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4403791450",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "DGMamba: Domain Generalization via Generalized State Space Model",
+        "year": 2024,
+        "authors": [
+          "Shaocong Long",
+          "Qianyu Zhou",
+          "Xiangtai Li",
+          "Xuequan Lu",
+          "Chenhao Ying",
+          "Yuan Luo",
+          "Lizhuang Ma",
+          "Shuicheng Yan"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "bi2025dgfamba",
+      "raw": {
+        "title": "Dgfamba: Learning flow factorized state space for visual domain generalization",
+        "authors": [
+          "Bi, Qi",
+          "Yi, Jingjun",
+          "Zheng, Hao",
+          "Zhan, Haolan",
+          "Ji, Wei",
+          "Huang, Yawen",
+          "Li, Yuexiang"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Dgfamba%3A+Learning+flow+factorized+state+space+for+visual+domain+generalization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "urm2024",
+      "raw": {
+        "title": "Uniformly Distributed Feature Representations for Fair and Robust Learning",
+        "authors": [
+          "Kiran Krishnamachari",
+          "See-Kiong Ng",
+          "Chuan-Sheng Foo"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "iDAG",
+      "raw": {
+        "title": "iDAG: Invariant DAG Searching for Domain Generalization",
+        "authors": [
+          "Huang, Zenan",
+          "Wang, Haobo",
+          "Zhao, Junbo",
+          "Zheng, Nenggan"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=iDAG%3A+Invariant+DAG+Searching+for+Domain+Generalization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "SWAD",
+      "raw": {
+        "title": "Swad: Domain generalization by seeking flat minima",
+        "authors": [
+          "Cha, Junbum",
+          "Chun, Sanghyuk",
+          "Lee, Kyungjae",
+          "Cho, Han-Cheol",
+          "Park, Seunghyun",
+          "Lee, Yunsung",
+          "Park, Sungrae"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Swad%3A+Domain+generalization+by+seeking+flat+minima&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "PCL",
+      "raw": {
+        "title": "PCL: Proxy-based Contrastive Learning for Domain Generalization",
+        "authors": [
+          "Yao, Xufeng",
+          "Bai, Yang",
+          "Zhang, Xinyun",
+          "Zhang, Yuechen",
+          "Sun, Qi",
+          "Chen, Ran",
+          "Li, Ruiyu",
+          "Yu, Bei"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=PCL%3A+Proxy-based+Contrastive+Learning+for+Domain+Generalization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "SAGM",
+      "raw": {
+        "title": "Sharpness-Aware Gradient Matching for Domain Generalization",
+        "authors": [
+          "Wang, Pengfei",
+          "Zhang, Zhaoxiang",
+          "Lei, Zhen",
+          "Zhang, Lei"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Sharpness-Aware+Gradient+Matching+for+Domain+Generalization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "GMDG",
+      "raw": {
+        "title": "Rethinking Multi-domain Generalization with A General Learning Objective",
+        "authors": [
+          "Tan, Zhaorui",
+          "Yang, Xi",
+          "Huang, Kaizhu"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Rethinking+Multi-domain+Generalization+with+A+General+Learning+Objective&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ERM",
+      "raw": {
+        "title": "Statistical Learning Theory",
+        "authors": [
+          "Vapnik, V"
+        ],
+        "year": 1998,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Statistical+Learning+Theory&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "IRM",
+      "raw": {
+        "title": "Invariant risk minimization",
+        "authors": [
+          "Arjovsky, Martin",
+          "Bottou, L{\\'e}on",
+          "Gulrajani, Ishaan",
+          "Lopez-Paz, David"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Invariant+risk+minimization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "GroupDRO",
+      "raw": {
+        "title": "Distributionally Robust Neural Networks",
+        "authors": [
+          "Shiori Sagawa*",
+          "Pang Wei Koh*",
+          "Tatsunori B. Hashimoto",
+          "Percy Liang"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Distributionally+Robust+Neural+Networks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "UDA_Mixup",
+      "raw": {
+        "title": "Improve Unsupervised Domain Adaptation with Mixup Training",
+        "authors": [
+          "Shen Yan",
+          "Huan Song",
+          "Nanxiang Li",
+          "Lincan Zou",
+          "Liu Ren"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": "2001.00677"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2001.00677&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "DeepCORAL",
+      "raw": {
+        "title": "Deep coral: Correlation alignment for deep domain adaptation",
+        "authors": [
+          "Sun, Baochen",
+          "Saenko, Kate"
+        ],
+        "year": 2016,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Deep+coral%3A+Correlation+alignment+for+deep+domain+adaptation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "MMD",
+      "raw": {
+        "title": "Domain generalization with adversarial feature learning",
+        "authors": [
+          "Li, Haoliang",
+          "Pan, Sinno Jialin",
+          "Wang, Shiqi",
+          "Kot, Alex C"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Domain+generalization+with+adversarial+feature+learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "DANN",
+      "raw": {
+        "title": "Domain-Adversarial Training of Neural Networks",
+        "authors": [
+          "Yaroslav Ganin",
+          "Evgeniya Ustinova",
+          "Hana Ajakan",
+          "Pascal Germain",
+          "Hugo Larochelle",
+          "François Laviolette",
+          "Mario Marchand",
+          "Victor Lempitsky"
+        ],
+        "year": 2016,
+        "doi": null,
+        "arxiv_id": "1505.07818"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1505.07818&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "CDANN",
+      "raw": {
+        "title": "Domain generalization via conditional invariant representations",
+        "authors": [
+          "Li, Ya",
+          "Gong, Mingming",
+          "Tian, Xinmei",
+          "Liu, Tongliang",
+          "Tao, Dacheng"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Domain+generalization+via+conditional+invariant+representations&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "blanchard2021mtl_marginal_transfer_learning",
+      "raw": {
+        "title": "Domain Generalization by Marginal Transfer Learning",
+        "authors": [
+          "Blanchard, Gilles",
+          "Deshmukh, Aniket Anand",
+          "Dogan, Urun",
+          "Lee, Gyemin",
+          "Scott, Clayton"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Domain+Generalization+by+Marginal+Transfer+Learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "SAGNET",
+      "raw": {
+        "title": "Reducing Domain Gap by Reducing Style Bias",
+        "authors": [
+          "Nam, Hyeonseob",
+          "Lee, HyunJae",
+          "Park, Jongchan",
+          "Yoon, Wonjun",
+          "Yoo, Donggeun"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Reducing+Domain+Gap+by+Reducing+Style+Bias&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ARM",
+      "raw": {
+        "title": "Adaptive Risk Minimization: A Meta-Learning Approach for Tackling Group Shift",
+        "authors": [
+          "Zhang, Marvin",
+          "Marklund, Henrik",
+          "Gupta, Abhishek",
+          "Levine, Sergey",
+          "Finn, Chelsea"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Adaptive+Risk+Minimization%3A+A+Meta-Learning+Approach+for+Tackling+Group+Shift&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "krueger2020vrex",
+      "raw": {
+        "title": "Out-of-distribution generalization via risk extrapolation (rex)",
+        "authors": [
+          "Krueger, David",
+          "Caballero, Ethan",
+          "Jacobsen, Joern-Henrik",
+          "Zhang, Amy",
+          "Binas, Jonathan",
+          "Priol, Remi Le",
+          "Courville, Aaron"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Out-of-distribution+generalization+via+risk+extrapolation+%28rex%29&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "huang2020rsc",
+      "raw": {
+        "title": "Self-challenging improves cross-domain generalization",
+        "authors": [
+          "Huang, Zeyi",
+          "Wang, Haohan",
+          "Xing, Eric P",
+          "Huang, Dong"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Self-challenging+improves+cross-domain+generalization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "karimi2016linear",
+      "raw": {
+        "title": "Linear Convergence of Gradient and Proximal-Gradient Methods Under the Polyak-Łojasiewicz Condition",
+        "authors": [
+          "Karimi, Hamed",
+          "Nutini, Julie",
+          "Schmidt, Mark"
+        ],
+        "year": 2016,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Linear+Convergence+of+Gradient+and+Proximal-Gradient+Methods+Under+the+Polyak-%C5%81ojasiewicz+Condition&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "dnn_pl",
+      "raw": {
+        "title": "Loss landscapes and optimization in over-parameterized non-linear systems and neural networks",
+        "authors": [
+          "Chaoyue Liu",
+          "Libin Zhu",
+          "Mikhail Belkin"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": "2003.00307"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2003.00307&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Mixup",
+      "raw": {
+        "title": "mixup: Beyond Empirical Risk Minimization",
+        "authors": [
+          "Zhang, Hongyi",
+          "Cisse, Moustapha",
+          "Dauphin, Yann N.",
+          "Lopez-Paz, David"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=mixup%3A+Beyond+Empirical+Risk+Minimization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ManifoldMixup",
+      "raw": {
+        "title": "Manifold Mixup: Better Representations by Interpolating Hidden States",
+        "authors": [
+          "Verma, Vikas",
+          "Lamb, Alex",
+          "Beckham, Christopher",
+          "Najafi, Amir",
+          "Mitliagkas, Ioannis",
+          "Lopez{-}Paz, David",
+          "Bengio, Yoshua"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Manifold+Mixup%3A+Better+Representations+by+Interpolating+Hidden+States&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "PACS",
+      "raw": {
+        "title": "Deeper, Broader and Artier Domain Generalization",
+        "authors": [
+          "Li, Da",
+          "Yang, Yongxin",
+          "Song, Yi{-}Zhe",
+          "Hospedales, Timothy M."
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Deeper%2C+Broader+and+Artier+Domain+Generalization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "VLCS",
+      "raw": {
+        "title": "Unbiased Metric Learning: On the Utilization of Multiple Datasets and Web Images for Softening Bias",
+        "authors": [
+          "Fang, Chen",
+          "Xu, Ye",
+          "Rockmore, Daniel N."
+        ],
+        "year": 2013,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Unbiased+Metric+Learning%3A+On+the+Utilization+of+Multiple+Datasets+and+Web+Images+for+Softening+Bias&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "OfficeHome",
+      "raw": {
+        "title": "Deep Hashing Network for Unsupervised Domain Adaptation",
+        "authors": [
+          "Venkateswara, Hemanth",
+          "Eusebio, Jose",
+          "Chakraborty, Shayok",
+          "Panchanathan, Sethuraman"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Deep+Hashing+Network+for+Unsupervised+Domain+Adaptation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "TerraInc",
+      "raw": {
+        "title": "Recognition in Terra Incognita",
+        "authors": [
+          "Beery, Sara",
+          "Van Horn, Grant",
+          "Perona, Pietro"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Recognition+in+Terra+Incognita&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "DomainNet",
+      "raw": {
+        "title": "Moment Matching for Multi-Source Domain Adaptation",
+        "authors": [
+          "Peng, Xingchao",
+          "Bai, Qinxun",
+          "Xia, Xide",
+          "Huang, Zijun",
+          "Saenko, Kate",
+          "Wang, Bo"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Moment+Matching+for+Multi-Source+Domain+Adaptation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Boda",
+      "raw": {
+        "title": "On Multi-Domain Long-Tailed Recognition, Imbalanced Domain Generalization and Beyond",
+        "authors": [
+          "Yuzhe Yang",
+          "Hao Wang",
+          "Dina Katabi"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": "2203.09513"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2203.09513&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "AdamW",
+      "raw": {
+        "title": "Decoupled Weight Decay Regularization",
+        "authors": [
+          "Loshchilov, Ilya",
+          "Hutter, Frank"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Decoupled+Weight+Decay+Regularization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "DomainBed",
+      "raw": {
+        "title": "In Search of Lost Domain Generalization",
+        "authors": [
+          "Gulrajani, Ishaan",
+          "Lopez{-}Paz, David"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=In+Search+of+Lost+Domain+Generalization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ResNet50",
+      "raw": {
+        "title": "Deep Residual Learning for Image Recognition",
+        "authors": [
+          "He, Kaiming",
+          "Zhang, Xiangyu",
+          "Ren, Shaoqing",
+          "Sun, Jian"
+        ],
+        "year": 2016,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Deep+Residual+Learning+for+Image+Recognition&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Imagenet",
+      "raw": {
+        "title": "ImageNet: A large-scale hierarchical image database",
+        "authors": [
+          "Deng, Jia",
+          "Dong, Wei",
+          "Socher, Richard",
+          "Li, Li-Jia",
+          "Kai Li",
+          "Li Fei-Fei"
+        ],
+        "year": 2009,
+        "doi": "10.1109/CVPR.2009.5206848",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2108598243",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "ImageNet: A large-scale hierarchical image database",
+        "year": 2009,
+        "authors": [
+          "Jia Deng",
+          "Wei Dong",
+          "Richard Socher",
+          "Li-Jia Li",
+          "Kai Li",
+          "Li Fei-Fei"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "li2018conditional",
+      "raw": {
+        "title": "Deep Domain Generalization via Conditional Invariant Adversarial Networks",
+        "authors": [
+          "Li, Yiying",
+          "Tian, Xinmei",
+          "Gong, Mingming",
+          "Liu, Tongliang",
+          "Tao, Dacheng"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Deep+Domain+Generalization+via+Conditional+Invariant+Adversarial+Networks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "SAM",
+      "raw": {
+        "title": "Sharpness-Aware Minimization for Efficiently Improving Generalization",
+        "authors": [
+          "Foret, Pierre",
+          "Kleiner, Ariel",
+          "Mobahi, Hossein",
+          "Neyshabur, Behnam"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Sharpness-Aware+Minimization+for+Efficiently+Improving+Generalization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Mixstyle",
+      "raw": {
+        "title": "Domain Generalization with MixStyle",
+        "authors": [
+          "Zhou, Kaiyang",
+          "Yang, Yongxin",
+          "Qiao, Yu",
+          "Xiang, Tao"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Domain+Generalization+with+MixStyle&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "DIDA",
+      "raw": {
+        "title": "Deep imbalanced domain adaptation for transfer learning fault diagnosis of bearings under multiple working conditions",
+        "authors": [
+          "Ding, Yifei",
+          "Jia, Minping",
+          "Zhuang, Jichao",
+          "Cao, Yudong",
+          "Zhao, Xiaoli",
+          "Lee, Chi-Guhn"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Deep+imbalanced+domain+adaptation+for+transfer+learning+fault+diagnosis+of+bearings+under+multiple+working+conditions&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "gu2022ltds",
+      "raw": {
+        "title": "Tackling long-tailed category distribution under domain shifts",
+        "authors": [
+          "Gu, Xiao",
+          "Guo, Yao",
+          "Li, Zeju",
+          "Qiu, Jianing",
+          "Dou, Qi",
+          "Liu, Yuxuan",
+          "Lo, Benny",
+          "Yang, Guang-Zhong"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Tackling+long-tailed+category+distribution+under+domain+shifts&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "MLDG",
+      "raw": {
+        "title": "Learning to Generalize: Meta-Learning for Domain Generalization",
+        "authors": [
+          "Li, Da",
+          "Yang, Yongxin",
+          "Song, Yi{-}Zhe",
+          "Hospedales, Timothy M."
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Learning+to+Generalize%3A+Meta-Learning+for+Domain+Generalization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "MetaReg",
+      "raw": {
+        "title": "MetaReg: Towards Domain Generalization Using Meta-Regularization",
+        "authors": [
+          "Balaji, Yogesh",
+          "Sankaranarayanan, Swami",
+          "Chellappa, Rama"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=MetaReg%3A+Towards+Domain+Generalization+Using+Meta-Regularization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Fish",
+      "raw": {
+        "title": "Gradient Matching for Domain Generalization",
+        "authors": [
+          "Shi, Yuge",
+          "Seely, Jeffrey",
+          "Torr, Philip H. S.",
+          "Siddharth, N.",
+          "Hannun, Awni",
+          "Usunier, Nicolas",
+          "Synnaeve, Gabriel"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Gradient+Matching+for+Domain+Generalization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Arith",
+      "raw": {
+        "title": "Balanced Direction from Multifarious Choices: Arithmetic Meta-Learning for Domain Generalization",
+        "authors": [
+          "Wang, Xiran",
+          "Zhang, Jian",
+          "Qi, Lei",
+          "Shi, Yinghuan"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Balanced+Direction+from+Multifarious+Choices%3A+Arithmetic+Meta-Learning+for+Domain+Generalization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "TAROT",
+      "raw": {
+        "title": "TAROT: Towards Essentially Domain-Invariant Robustness with Theoretical Justification",
+        "authors": [
+          "Yang, Dongyoon",
+          "Lee, Jihu",
+          "Kim, Yongdai"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=TAROT%3A+Towards+Essentially+Domain-Invariant+Robustness+with+Theoretical+Justification&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "MLIR",
+      "raw": {
+        "title": "Meta-learning the invariant representation for domain generalization",
+        "authors": [
+          "Jia, Chen",
+          "Zhang, Yue"
+        ],
+        "year": 2024,
+        "doi": "10.1007/s10994-022-06256-y",
+        "arxiv_id": null
+      },
+      "status": "metadata_mismatch",
+      "openalex_id": "https://openalex.org/W4307727236",
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/df171c17cac11cf59677978e79ef571a7d062c7e",
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Meta-learning the invariant representation for domain generalization",
+        "year": 2022,
+        "authors": [
+          "Jia Chen",
+          "Yue Zhang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [
+        "year"
+      ],
+      "error": null
+    },
+    {
+      "key": "DG_survey",
+      "raw": {
+        "title": "Domain generalization: A survey",
+        "authors": [
+          "Zhou, Kaiyang",
+          "Liu, Ziwei",
+          "Qiao, Yu",
+          "Xiang, Tao",
+          "Loy, Chen Change"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Domain+generalization%3A+A+survey&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "kingma2015adam",
+      "raw": {
+        "title": "Adam: A Method for Stochastic Optimization",
+        "authors": [
+          "Kingma, Diederik P.",
+          "Ba, Jimmy"
+        ],
+        "year": 2015,
+        "doi": null,
+        "arxiv_id": "1412.6980"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1412.6980&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Lin2017Focal",
+      "raw": {
+        "title": "Focal Loss for Dense Object Detection",
+        "authors": [
+          "Lin, Tsung-Yi",
+          "Goyal, Priya",
+          "Girshick, Ross",
+          "He, Kaiming",
+          "Doll{\\'a}r, Piotr"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Focal+Loss+for+Dense+Object+Detection&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Cui2019CBLoss",
+      "raw": {
+        "title": "Class-Balanced Loss Based on Effective Number of Samples",
+        "authors": [
+          "Cui, Yin",
+          "Jia, Menglin",
+          "Lin, Tsung-Yi",
+          "Song, Yang",
+          "Belongie, Serge"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Class-Balanced+Loss+Based+on+Effective+Number+of+Samples&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Cao2019LDAM",
+      "raw": {
+        "title": "Learning Imbalanced Datasets with Label-Distribution-Aware Margin Loss",
+        "authors": [
+          "Cao, Kaidi",
+          "Wei, Colin",
+          "Gaidon, Adrien",
+          "Arechiga, Nuno",
+          "Ma, Tengyu"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Learning+Imbalanced+Datasets+with+Label-Distribution-Aware+Margin+Loss&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Ren2020BalancedSoftmax",
+      "raw": {
+        "title": "Balanced Meta-Softmax for Long-Tailed Visual Recognition",
+        "authors": [
+          "Ren, Jiawei",
+          "Yu, Cunjun",
+          "Sheng, Shunan",
+          "Ma, Xiao",
+          "Zhao, Haiyu",
+          "Yi, Shuai",
+          "Li, Hongsheng"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Balanced+Meta-Softmax+for+Long-Tailed+Visual+Recognition&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Kang2020cRT",
+      "raw": {
+        "title": "Decoupling Representation and Classifier for Long-Tailed Recognition",
+        "authors": [
+          "Kang, Bingyi",
+          "Xie, Yu",
+          "Rohrbach, Marcus",
+          "Yan, Zhicheng",
+          "Gordo, Alberto",
+          "Feng, Jiashi",
+          "Kalantidis, Yannis"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Decoupling+Representation+and+Classifier+for+Long-Tailed+Recognition&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Finn2017MAML",
+      "raw": {
+        "title": "Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks",
+        "authors": [
+          "Finn, Chelsea",
+          "Abbeel, Pieter",
+          "Levine, Sergey"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Model-Agnostic+Meta-Learning+for+Fast+Adaptation+of+Deep+Networks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "systematic_resampling",
+      "raw": {
+        "title": "A systematic study of the class imbalance problem in convolutional neural networks",
+        "authors": [
+          "Buda, Mateusz",
+          "Maki, Atsuto",
+          "Mazurowski, Maciej A"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=A+systematic+study+of+the+class+imbalance+problem+in+convolutional+neural+networks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "learningTail_reweight",
+      "raw": {
+        "title": "Learning to model the tail",
+        "authors": [
+          "Wang, Yu-Xiong",
+          "Ramanan, Deva",
+          "Hebert, Martial"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Learning+to+model+the+tail&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "disentangle_logAdjust",
+      "raw": {
+        "title": "Disentangling label distribution for long-tailed visual recognition",
+        "authors": [
+          "Hong, Youngkyu",
+          "Han, Seungju",
+          "Choi, Kwanghee",
+          "Seo, Seokjun",
+          "Kim, Beomsu",
+          "Chang, Buru"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Disentangling+label+distribution+for+long-tailed+visual+recognition&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "keepGood_twoStage",
+      "raw": {
+        "title": "Long-tailed classification by keeping the good and removing the bad momentum causal effect",
+        "authors": [
+          "Tang, Kaihua",
+          "Huang, Jianqiang",
+          "Zhang, Hanwang"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Long-tailed+classification+by+keeping+the+good+and+removing+the+bad+momentum+causal+effect&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "contrastiveLT",
+      "raw": {
+        "title": "Contrastive learning based hybrid networks for long-tailed image classification",
+        "authors": [
+          "Wang, Peng",
+          "Han, Kai",
+          "Wei, Xiu-Shen",
+          "Zhang, Lei",
+          "Wang, Lei"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Contrastive+learning+based+hybrid+networks+for+long-tailed+image+classification&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "CBDistill",
+      "raw": {
+        "title": "Class-balanced distillation for long-tailed visual recognition",
+        "authors": [
+          "Iscen, Ahmet",
+          "Araujo, Andr{\\'e}",
+          "Gong, Boqing",
+          "Schmid, Cordelia"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Class-balanced+distillation+for+long-tailed+visual+recognition&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "LTrouting_calibration",
+      "raw": {
+        "title": "Long-tailed recognition by routing diverse distribution-aware experts",
+        "authors": [
+          "Wang, Xudong",
+          "Lian, Long",
+          "Miao, Zhongqi",
+          "Liu, Ziwei",
+          "Yu, Stella X"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Long-tailed+recognition+by+routing+diverse+distribution-aware+experts&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "DN126",
+      "raw": {
+        "title": "Semi-supervised Domain Adaptation via Minimax Entropy",
+        "authors": [
+          "Kuniaki Saito",
+          "Donghyun Kim",
+          "Stan Sclaroff",
+          "Trevor Darrell",
+          "Kate Saenko"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": "1904.06487"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1904.06487&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "SSP",
+      "raw": {
+        "title": "Rethinking the Value of Labels for Improving Class-Imbalanced Learning",
+        "authors": [
+          "Yuzhe Yang",
+          "Zhi Xu"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": "2006.07529"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2006.07529&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "GINET",
+      "raw": {
+        "title": "Generative inference network for imbalanced domain generalization",
+        "authors": [
+          "Xia, Haifeng",
+          "Jing, Taotao",
+          "Ding, Zhengming"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Generative+inference+network+for+imbalanced+domain+generalization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "MDLT_survey",
+      "raw": {
+        "title": "Multi-Domain Long-Tailed Learning: Challenges, Progress, and Prospects",
+        "authors": [
+          "Fu, Panpan",
+          "Yusof, Umi Kalsom"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Multi-Domain+Long-Tailed+Learning%3A+Challenges%2C+Progress%2C+and+Prospects&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "muandet2013domain",
+      "raw": {
+        "title": "Domain Generalization via Invariant Feature Representation",
+        "authors": [
+          "Muandet, Krikamol",
+          "Balduzzi, David",
+          "Sch{\\\"o}lkopf, Bernhard"
+        ],
+        "year": 2013,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Domain+Generalization+via+Invariant+Feature+Representation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "wang2022generalizing",
+      "raw": {
+        "title": "Generalizing to Unseen Domains: A Survey on Domain Generalization",
+        "authors": [
+          "Jindong Wang",
+          "Cuiling Lan",
+          "Chang Liu",
+          "Yidong Ouyang",
+          "Tao Qin",
+          "Wang Lu",
+          "Yiqiang Chen",
+          "Wenjun Zeng",
+          "Philip S. Yu"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": "2103.03097"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2103.03097&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "rosenfeld2022online",
+      "raw": {
+        "title": "An Online Learning Approach to Interpolation and Extrapolation in Domain Generalization",
+        "authors": [
+          "Rosenfeld, Elan",
+          "Ravikumar, Pradeep",
+          "Risteski, Andrej"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=An+Online+Learning+Approach+to+Interpolation+and+Extrapolation+in+Domain+Generalization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "mahajan2021domain",
+      "raw": {
+        "title": "Domain Generalization using Causal Matching",
+        "authors": [
+          "Mahajan, Divyat",
+          "Tople, Shruti",
+          "Sharma, Amit"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Domain+Generalization+using+Causal+Matching&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "sheth2022domain",
+      "raw": {
+        "title": "Domain Generalization -- A Causal Perspective",
+        "authors": [
+          "Paras Sheth",
+          "Raha Moraffah",
+          "K. Selçuk Candan",
+          "Adrienne Raglin",
+          "Huan Liu"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": "2209.15177"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2209.15177&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "lv2022causality",
+      "raw": {
+        "title": "Causality Inspired Representation Learning for Domain Generalization",
+        "authors": [
+          "Fangrui Lv",
+          "Jian Liang",
+          "Shuang Li",
+          "Bin Zang",
+          "Chi Harold Liu",
+          "Ziteng Wang",
+          "Di Liu"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": "2203.14237"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2203.14237&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "izmailov2022feature",
+      "raw": {
+        "title": "On Feature Learning in the Presence of Spurious Correlations",
+        "authors": [
+          "Izmailov, Pavel",
+          "Kirichenko, Polina",
+          "Gruver, Nate",
+          "Wilson, Andrew Gordon"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=On+Feature+Learning+in+the+Presence+of+Spurious+Correlations&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "chen2023understanding",
+      "raw": {
+        "title": "Understanding and Improving Feature Learning for Out-of-Distribution Generalization",
+        "authors": [
+          "Chen, Yuge",
+          "Huang, Weihong",
+          "Zhou, Kaiyang",
+          "Bian, Yawen",
+          "Han, Bo",
+          "Cheng, James"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Understanding+and+Improving+Feature+Learning+for+Out-of-Distribution+Generalization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "deng2023robust",
+      "raw": {
+        "title": "Robust Learning with Progressive Data Expansion Against Spurious Correlation",
+        "authors": [
+          "Yihe Deng",
+          "Yu Yang",
+          "Baharan Mirzasoleiman",
+          "Quanquan Gu"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": "2306.04949"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2306.04949&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    }
+  ]
+}

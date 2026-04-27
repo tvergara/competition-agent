@@ -1,0 +1,2034 @@
+{
+  "paper_id": "f07130e1-9e0f-4b6d-8313-ee57acd6b01f",
+  "total": 84,
+  "verified": 18,
+  "mismatch": 0,
+  "missing": 0,
+  "ambiguous": 0,
+  "error": 59,
+  "skipped": 7,
+  "s2_consulted": 0,
+  "s2_lifted": 0,
+  "key_style_outliers": [
+    "10.1145/3580305.3599343",
+    "10.1007/978-3-642-31540-4_21",
+    "ID3",
+    "C4.5",
+    "DBLP:conf/uss/JagielskiCBKP20",
+    "DBLP:journals/csur/OliynykMR23",
+    "DBLP:conf/sectl/MiuraSY24",
+    "ZHANG2025128661",
+    "Karlin86",
+    "185696"
+  ],
+  "entries": [
+    {
+      "key": "ferry2023probabilistic",
+      "raw": {
+        "title": "Probabilistic Dataset Reconstruction from Interpretable Models",
+        "authors": [
+          "Julien Ferry",
+          "Ulrich Aïvodji",
+          "Sébastien Gambs",
+          "Marie-José Huguet",
+          "Mohamed Siala"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": "2308.15099"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2308.15099&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "10.1145/3580305.3599343",
+      "raw": {
+        "title": "Feature-based Learning for Diverse and Privacy-Preserving Counterfactual Explanations",
+        "authors": [
+          "Vo, Vy",
+          "Le, Trung",
+          "Nguyen, Van",
+          "Zhao, He",
+          "Bonilla, Edwin V.",
+          "Haffari, Gholamreza",
+          "Phung, Dinh"
+        ],
+        "year": 2023,
+        "doi": "10.1145/3580305.3599343",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4379250875",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Feature-based Learning for Diverse and Privacy-Preserving Counterfactual Explanations",
+        "year": 2023,
+        "authors": [
+          "Vy Vo",
+          "Trung Le",
+          "Van Nguyen",
+          "He Zhao",
+          "Edwin V. Bonilla",
+          "Gholamreza Haffari",
+          "Dinh Phung"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "van2021conditional",
+      "raw": {
+        "title": "Conditional generative models for counterfactual explanations",
+        "authors": [
+          "Van Looveren, Arnaud",
+          "Klaise, Janis",
+          "Vacanti, Giovanni",
+          "Cobb, Oliver"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Conditional+generative+models+for+counterfactual+explanations&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "rawal2020beyond",
+      "raw": {
+        "title": "Beyond individualized recourse: Interpretable and interactive summaries of actionable recourses",
+        "authors": [
+          "Rawal, Kaivalya",
+          "Lakkaraju, Himabindu"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Beyond+individualized+recourse%3A+Interpretable+and+interactive+summaries+of+actionable+recourses&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "guo2021counternet",
+      "raw": {
+        "title": "CounterNet: End-to-end training of counterfactual aware predictions",
+        "authors": [
+          "Guo, Hangzhi",
+          "Nguyen, Thanh",
+          "Yadav, Amulya"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=CounterNet%3A+End-to-end+training+of+counterfactual+aware+predictions&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "yang2021model",
+      "raw": {
+        "title": "Model-based counterfactual synthesizer for interpretation",
+        "authors": [
+          "Yang, Fan",
+          "Alva, Sahan Suresh",
+          "Chen, Jiahao",
+          "Hu, Xia"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Model-based+counterfactual+synthesizer+for+interpretation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "nemirovsky2022countergan",
+      "raw": {
+        "title": "Countergan: Generating counterfactuals for real-time recourse and interpretability using residual gans",
+        "authors": [
+          "Nemirovsky, Daniel",
+          "Thiebaut, Nicolas",
+          "Xu, Ye",
+          "Gupta, Abhishek"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Countergan%3A+Generating+counterfactuals+for+real-time+recourse+and+interpretability+using+residual+gans&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "becker2021step",
+      "raw": {
+        "title": "A Step Towards Global Counterfactual Explanations: Approximating the Feature Space Through Hierarchical Division and Graph Search.",
+        "authors": [
+          "Becker, Maximilian",
+          "Burkart, Nadia",
+          "Birnstill, Pascal",
+          "Beyerer, J{\\\"u}rgen"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=A+Step+Towards+Global+Counterfactual+Explanations%3A+Approximating+the+Feature+Space+Through+Hierarchical+Division+and+Graph+Search.&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "samoilescu2021model",
+      "raw": {
+        "title": "Model-agnostic and scalable counterfactual explanations via reinforcement learning",
+        "authors": [
+          "Samoilescu, Robert-Florian",
+          "Van Looveren, Arnaud",
+          "Klaise, Janis"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Model-agnostic+and+scalable+counterfactual+explanations+via+reinforcement+learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "mahajan2019preserving",
+      "raw": {
+        "title": "Preserving Causal Constraints in Counterfactual Explanations for Machine Learning Classifiers",
+        "authors": [
+          "Mahajan, Divyat",
+          "Tan, Chenhao",
+          "Sharma, Amit"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Preserving+Causal+Constraints+in+Counterfactual+Explanations+for+Machine+Learning+Classifiers&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "10.1007/978-3-642-31540-4_21",
+      "raw": {
+        "title": "Reconstruction Attack through Classifier Analysis",
+        "authors": [
+          "Gambs, S{\\'e}bastien",
+          "Gmati, Ahmed",
+          "Hurfin, Michel"
+        ],
+        "year": 2012,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Reconstruction+Attack+through+Classifier+Analysis&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "orekondy2018knockoff",
+      "raw": {
+        "title": "Knockoff Nets: Stealing Functionality of Black-Box Models",
+        "authors": [
+          "Tribhuvanesh Orekondy",
+          "Bernt Schiele",
+          "Mario Fritz"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": "1812.02766"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1812.02766&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Florian2016StealingMachineLearningModels",
+      "raw": {
+        "title": "Stealing Machine Learning Models via Prediction APIs",
+        "authors": [
+          "Florian Tram{\\`e}r",
+          "Fan Zhang",
+          "Ari Juels",
+          "Michael K. Reiter",
+          "Thomas Ristenpart"
+        ],
+        "year": 2016,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "oksuz2023autolycus",
+      "raw": {
+        "title": "AUTOLYCUS: Exploiting Explainable AI (XAI) for Model Extraction Attacks against White-Box Models",
+        "authors": [
+          "Abdullah Caglar Oksuz",
+          "Anisa Halimi",
+          "Erman Ayday"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": "2302.02162"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2302.02162&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ID3",
+      "raw": {
+        "title": "Induction of decision trees",
+        "authors": [
+          "Quinlan, J.  R."
+        ],
+        "year": 1986,
+        "doi": "10.1007/BF00116251",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4236137412",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Induction of decision trees",
+        "year": 1986,
+        "authors": [
+          "J. R. Quinlan"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "C4.5",
+      "raw": {
+        "title": "C4.5: Programs for Machine Learning by J. Ross Quinlan. Morgan Kaufmann Publishers, Inc., 1993",
+        "authors": [
+          "Salzberg, Steven L."
+        ],
+        "year": 1994,
+        "doi": "10.1007/BF00993309",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2089367555",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "C4.5: Programs for Machine Learning by J. Ross Quinlan. Morgan Kaufmann Publishers, Inc., 1993",
+        "year": 1994,
+        "authors": [
+          "Steven L. Salzberg"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "breiman1984classification",
+      "raw": {
+        "title": "Classification and Regression Trees",
+        "authors": [
+          "Breiman, L.",
+          "Friedman, J.",
+          "Stone, C.J.",
+          "Olshen, R.A."
+        ],
+        "year": 1984,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "RF",
+      "raw": {
+        "title": "Random Forests",
+        "authors": [
+          "Breiman, Leo"
+        ],
+        "year": 2001,
+        "doi": "10.1023/A:1010933404324",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2911964244",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Random Forests",
+        "year": 2001,
+        "authors": [
+          "Leo Breiman"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "aivodji2020model",
+      "raw": {
+        "title": "Model extraction from counterfactual explanations",
+        "authors": [
+          "Ulrich Aïvodji",
+          "Alexandre Bolot",
+          "Sébastien Gambs"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": "2009.01884"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2009.01884&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "karimi2022survey",
+      "raw": {
+        "title": "A survey of algorithmic recourse: contrastive explanations and consequential recommendations",
+        "authors": [
+          "Karimi, Amir-Hossein",
+          "Barthe, Gilles",
+          "Sch{\\\"o}lkopf, Bernhard",
+          "Valera, Isabel"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=A+survey+of+algorithmic+recourse%3A+contrastive+explanations+and+consequential+recommendations&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "karimi2020modelagnostic",
+      "raw": {
+        "title": "Model-agnostic counterfactual explanations for consequential decisions",
+        "authors": [
+          "Karimi, Amir-Hossein",
+          "Barthe, Gilles",
+          "Balle, Borja",
+          "Valera, Isabel"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Model-agnostic+counterfactual+explanations+for+consequential+decisions&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "wang2022dualcf",
+      "raw": {
+        "title": "DualCF: Efficient Model Extraction Attack from Counterfactual Explanations",
+        "authors": [
+          "Yongjie Wang",
+          "Hangwei Qian",
+          "Chunyan Miao"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": "2205.06504"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2205.06504&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "parmentier2021optimal",
+      "raw": {
+        "title": "Optimal counterfactual explanations in tree ensembles",
+        "authors": [
+          "Parmentier, Axel",
+          "Vidal, Thibaut"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Optimal+counterfactual+explanations+in+tree+ensembles&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Tolomei_2017",
+      "raw": {
+        "title": "Interpretable Predictions of Tree-based Ensembles via Actionable Feature Tweaking",
+        "authors": [
+          "Tolomei, Gabriele",
+          "Silvestri, Fabrizio",
+          "Haines, Andrew",
+          "Lalmas, Mounia"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Interpretable+Predictions+of+Tree-based+Ensembles+via+Actionable+Feature+Tweaking&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "cui2015",
+      "raw": {
+        "title": "Optimal action extraction for random forests and boosted trees",
+        "authors": [
+          "Cui, Zhicheng",
+          "Chen, Wenlin",
+          "He, Yujie",
+          "Chen, Yixin"
+        ],
+        "year": 2015,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Optimal+action+extraction+for+random+forests+and+boosted+trees&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ijcai2020p395",
+      "raw": {
+        "title": "DACE: Distribution-aware counterfactual explanation by mixed-integer linear optimization.",
+        "authors": [
+          "Kanamori, Kentaro",
+          "Takagi, Takuya",
+          "Kobayashi, Ken",
+          "Arimura, Hiroki"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=DACE%3A+Distribution-aware+counterfactual+explanation+by+mixed-integer+linear+optimization.&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "DBLP:conf/uss/JagielskiCBKP20",
+      "raw": {
+        "title": "High Accuracy and High Fidelity Extraction of Neural Networks",
+        "authors": [
+          "Matthew Jagielski",
+          "Nicholas Carlini",
+          "David Berthelot",
+          "Alex Kurakin",
+          "Nicolas Papernot"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "DBLP:journals/corr/abs-2007-07646",
+      "raw": {
+        "title": "A Survey of Privacy Attacks in Machine Learning",
+        "authors": [
+          "Maria Rigaki",
+          "Sebastian Garc{\\'{\\i}}a"
+        ],
+        "year": 2024,
+        "doi": "10.1145/3624010",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3043638540",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "A Survey of Privacy Attacks in Machine Learning",
+        "year": 2023,
+        "authors": [
+          "María Rigaki",
+          "Sebastián García"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "dissanayake2024model",
+      "raw": {
+        "title": "Model reconstruction using counterfactual explanations: A perspective from polytope theory",
+        "authors": [
+          "Dissanayake, Pasan",
+          "Dutta, Sanghamitra"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Model+reconstruction+using+counterfactual+explanations%3A+A+perspective+from+polytope+theory&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "DBLP:journals/corr/abs-2005-08679",
+      "raw": {
+        "title": "An Overview of Privacy in Machine Learning",
+        "authors": [
+          "Emiliano De Cristofaro"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": "2005.08679"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2005.08679&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "dwork2022distrust",
+      "raw": {
+        "title": "Distrust of artificial intelligence: Sources \\& responses from computer science \\& law",
+        "authors": [
+          "Dwork, Cynthia",
+          "Minow, Martha"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Distrust+of+artificial+intelligence%3A+Sources+%5C%26+responses+from+computer+science+%5C%26+law&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "DBLP:journals/csur/OliynykMR23",
+      "raw": {
+        "title": "I Know What You Trained Last Summer: A Survey on Stealing Machine Learning Models and Defences",
+        "authors": [
+          "Daryna Oliynyk",
+          "Rudolf Mayer",
+          "Andreas Rauber"
+        ],
+        "year": 2023,
+        "doi": "10.1145/3595292",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4367368092",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "I Know What You Trained Last Summer: A Survey on Stealing Machine Learning Models and Defences",
+        "year": 2023,
+        "authors": [
+          "Daryna Oliynyk",
+          "Rudolf Mayer",
+          "Andreas Rauber"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "sleator1985",
+      "raw": {
+        "title": "Amortized efficiency of list update and paging rules",
+        "authors": [
+          "Sleator, Daniel D.",
+          "Tarjan, Robert E."
+        ],
+        "year": 1985,
+        "doi": "10.1145/2786.2793",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2041645394",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Amortized efficiency of list update and paging rules",
+        "year": 1985,
+        "authors": [
+          "Daniel D. Sleator",
+          "Robert E. Tarjan"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "reuel2024openproblemstechnicalai",
+      "raw": {
+        "title": "Open Problems in Technical AI Governance",
+        "authors": [
+          "Anka Reuel",
+          "Ben Bucknall",
+          "Stephen Casper",
+          "Tim Fist",
+          "Lisa Soder",
+          "Onni Aarne",
+          "Lewis Hammond",
+          "Lujain Ibrahim",
+          "Alan Chan",
+          "Peter Wills",
+          "Markus Anderljung",
+          "Ben Garfinkel",
+          "Lennart Heim",
+          "Andrew Trask",
+          "Gabriel Mukobi",
+          "Rylan Schaeffer",
+          "Mauricio Baker",
+          "Sara Hooker",
+          "Irene Solaiman",
+          "Alexandra Sasha Luccioni",
+          "Nitarshan Rajkumar",
+          "Nicolas Moës",
+          "Jeffrey Ladish",
+          "Neel Guha",
+          "Jessica Newman",
+          "Yoshua Bengio",
+          "Tobin South",
+          "Alex Pentland",
+          "Sanmi Koyejo",
+          "Mykel J. Kochenderfer",
+          "Robert Trager"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2407.14981"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2407.14981&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "DBLP:journals/corr/abs-1711-00399",
+      "raw": {
+        "title": "Counterfactual explanations without opening the black box: Automated decisions and the GDPR",
+        "authors": [
+          "Wachter, Sandra",
+          "Mittelstadt, Brent",
+          "Russell, Chris"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Counterfactual+explanations+without+opening+the+black+box%3A+Automated+decisions+and+the+GDPR&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "EU2016GDPR",
+      "raw": {
+        "title": "Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation)",
+        "authors": [
+          "{European Union}"
+        ],
+        "year": 2016,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "EUAIAct2021",
+      "raw": {
+        "title": "Proposal for a Regulation of the European Parliament and of the Council laying down harmonised rules on artificial intelligence (Artificial Intelligence Act) and amending certain Union legislative acts",
+        "authors": [
+          "{European Commission}"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "DBLP:journals/corr/abs-2010-10596",
+      "raw": {
+        "title": "Counterfactual Explanations for Machine Learning: A Review",
+        "authors": [
+          "Sahil Verma",
+          "John P. Dickerson",
+          "Keegan Hines"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": "2010.10596"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2010.10596&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "DBLP:journals/corr/abs-1905-07697",
+      "raw": {
+        "title": "Explaining Machine Learning Classifiers through Diverse Counterfactual Explanations",
+        "authors": [
+          "Ramaravind Kommiya Mothilal",
+          "Amit Sharma",
+          "Chenhao Tan"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": "1905.07697"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1905.07697&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "scikit-learn",
+      "raw": {
+        "title": "Scikit-learn: Machine Learning in Python",
+        "authors": [
+          "Pedregosa, F.",
+          "Varoquaux, G.",
+          "Gramfort, A.",
+          "Michel, V.",
+          "Thirion, B.",
+          "Grisel, O.",
+          "Blondel, M.",
+          "Prettenhofer, P.",
+          "Weiss, R.",
+          "Dubourg, V.",
+          "Vanderplas, J.",
+          "Passos, A.",
+          "Cournapeau, D.",
+          "Brucher, M.",
+          "Perrot, M.",
+          "Duchesnay, E."
+        ],
+        "year": 2011,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Scikit-learn%3A+Machine+Learning+in+Python&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Ferry2024Trained",
+      "raw": {
+        "title": "Trained random forests completely reveal your dataset",
+        "authors": [
+          "Ferry, Julien",
+          "Fukasawa, Ricardo",
+          "Pascal, Timoth\\'{e}e",
+          "Vidal, Thibaut"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Trained+random+forests+completely+reveal+your+dataset&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "gradientboostingtrees2001",
+      "raw": {
+        "title": "Greedy Function Approximation: A Gradient Boosting Machine",
+        "authors": [
+          "Jerome H. Friedman"
+        ],
+        "year": 2001,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "miller2018explanationartificialintelligenceinsights",
+      "raw": {
+        "title": "Explanation in Artificial Intelligence: Insights from the Social Sciences",
+        "authors": [
+          "Tim Miller"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": "1706.07269"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1706.07269&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "joshi2019realisticindividualrecourseactionable",
+      "raw": {
+        "title": "Towards Realistic Individual Recourse and Actionable Explanations in Black-Box Decision Making Systems",
+        "authors": [
+          "Shalmali Joshi",
+          "Oluwasanmi Koyejo",
+          "Warut Vijitbenjaronk",
+          "Been Kim",
+          "Joydeep Ghosh"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": "1907.09615"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1907.09615&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "vanlooveren2020interpretablecounterfactualexplanationsguided",
+      "raw": {
+        "title": "Interpretable Counterfactual Explanations Guided by Prototypes",
+        "authors": [
+          "Arnaud Van Looveren",
+          "Janis Klaise"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": "1907.02584"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1907.02584&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "laugel2017inverse",
+      "raw": {
+        "title": "Inverse Classification for Comparison-based Interpretability in Machine Learning",
+        "authors": [
+          "Thibault Laugel",
+          "Marie-Jeanne Lesot",
+          "Christophe Marsala",
+          "Xavier Renard",
+          "Marcin Detyniecki"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": "1712.08443"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1712.08443&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Mothilal_2020",
+      "raw": {
+        "title": "Explaining machine learning classifiers through diverse counterfactual explanations",
+        "authors": [
+          "Mothilal, Ramaravind K.",
+          "Sharma, Amit",
+          "Tan, Chenhao"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Explaining+machine+learning+classifiers+through+diverse+counterfactual+explanations&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Sharma_2020",
+      "raw": {
+        "title": "CERTIFAI: A Common Framework to Provide Explanations and Analyse the Fairness and Robustness of Black-box Models",
+        "authors": [
+          "Sharma, Shubham",
+          "Henderson, Jette",
+          "Ghosh, Joydeep"
+        ],
+        "year": 2020,
+        "doi": "10.1145/3375627.3375812",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2945151003",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "CERTIFAI",
+        "year": 2020,
+        "authors": [
+          "Shubham Sharma",
+          "Jette Henderson",
+          "Joydeep Ghosh"
+        ]
+      },
+      "title_similarity": 0.13793103448275856,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "maragno2023findingregionscounterfactualexplanations",
+      "raw": {
+        "title": "Finding Regions of Counterfactual Explanations via Robust Optimization",
+        "authors": [
+          "Donato Maragno",
+          "Jannis Kurtz",
+          "Tabea E. Röber",
+          "Rob Goedhart",
+          "S. Ilker Birbil",
+          "Dick den Hertog"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": "2301.11113"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2301.11113&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zhang2025efficient",
+      "raw": {
+        "title": "Efficient and Effective Counterfactual Explanations for Random Forests",
+        "authors": [
+          "Zhang, Haifei",
+          "Zhong, Jinfeng"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Efficient+and+Effective+Counterfactual+Explanations+for+Random+Forests&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "blanchart2021exact",
+      "raw": {
+        "title": "An exact counterfactual-example-based approach to tree-ensemble models interpretability",
+        "authors": [
+          "Blanchart, Pierre"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=An+exact+counterfactual-example-based+approach+to+tree-ensemble+models+interpretability&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "guidotti2024counterfactual",
+      "raw": {
+        "title": "Counterfactual explanations and how to find them: literature review and benchmarking",
+        "authors": [
+          "Guidotti, Riccardo"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Counterfactual+explanations+and+how+to+find+them%3A+literature+review+and+benchmarking&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "fernandez2020random",
+      "raw": {
+        "title": "Random forest explainability using counterfactual sets",
+        "authors": [
+          "Fern{\\'a}ndez, Rub{\\'e}n R",
+          "De Diego, Isaac Mart{\\'\\i}n",
+          "Ace{\\~n}a, V{\\'\\i}ctor",
+          "Fern{\\'a}ndez-Isabel, Alberto",
+          "Moguerza, Javier M"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Random+forest+explainability+using+counterfactual+sets&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "carreira2023LIRE",
+      "raw": {
+        "title": "Very Fast, Approximate Counterfactual Explanations for Decision Forests",
+        "authors": [
+          "Carreira-Perpinan, Miguel A.",
+          "Hada, Suryabhan Singh"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Very+Fast%2C+Approximate+Counterfactual+Explanations+for+Decision+Forests&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "kingma2017ADAM",
+      "raw": {
+        "title": "Adam: A Method for Stochastic Optimization",
+        "authors": [
+          "Diederik P. Kingma",
+          "Jimmy Ba"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": "1412.6980"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1412.6980&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Lowd2005AdversarialLearning",
+      "raw": {
+        "title": "Adversarial learning",
+        "authors": [
+          "Lowd, Daniel",
+          "Meek, Christopher"
+        ],
+        "year": 2005,
+        "doi": "10.1145/1081870.1081950",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2296452361",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Adversarial learning",
+        "year": 2005,
+        "authors": [
+          "Daniel Lowd",
+          "Christopher Meek"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Milli2019MRME",
+      "raw": {
+        "title": "Model Reconstruction from Model Explanations",
+        "authors": [
+          "Milli, Smitha",
+          "Schmidt, Ludwig",
+          "Dragan, Anca D.",
+          "Hardt, Moritz"
+        ],
+        "year": 2019,
+        "doi": "10.1145/3287560.3287562",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2884148825",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Model Reconstruction from Model Explanations",
+        "year": 2019,
+        "authors": [
+          "Smitha Milli",
+          "Ludwig Schmidt",
+          "Anca D. Dragan",
+          "Moritz Hardt"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "batina2018csineuralnetworkusing",
+      "raw": {
+        "title": "CSI Neural Network: Using Side-channels to Recover Your Artificial Neural Network Information",
+        "authors": [
+          "Lejla Batina",
+          "Shivam Bhasin",
+          "Dirmanto Jap",
+          "Stjepan Picek"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": "1810.09076"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1810.09076&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "chandrasekaran2019exploringconnectionsactivelearning",
+      "raw": {
+        "title": "Exploring Connections Between Active Learning and Model Extraction",
+        "authors": [
+          "Varun Chandrasekaran",
+          "Kamalika Chaudhuri",
+          "Irene Giacomelli",
+          "Somesh Jha",
+          "Songbai Yan"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": "1811.02054"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1811.02054&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "poyiadzi2020face",
+      "raw": {
+        "title": "FACE: Feasible and Actionable Counterfactual Explanations",
+        "authors": [
+          "Poyiadzi, Rafael",
+          "Sokol, Kacper",
+          "Santos-Rodriguez, Raul",
+          "De Bie, Tijl",
+          "Flach, Peter"
+        ],
+        "year": 2020,
+        "doi": "10.1145/3375627.3375850",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2973319951",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "FACE",
+        "year": 2020,
+        "authors": [
+          "Rafael Poyiadzi",
+          "Kacper Sokol",
+          "Raul Santos-Rodriguez",
+          "Tijl De Bie",
+          "Peter Flach"
+        ]
+      },
+      "title_similarity": 0.13114754098360648,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "DBLP:conf/sectl/MiuraSY24",
+      "raw": {
+        "title": "MEGEX: Data-Free Model Extraction Attack Against Gradient-Based Explainable AI",
+        "authors": [
+          "Takayuki Miura",
+          "Toshiki Shibahara",
+          "Naoto Yanai"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=MEGEX%3A+Data-Free+Model+Extraction+Attack+Against+Gradient-Based+Explainable+AI&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "aurenhammer1991voronoi",
+      "raw": {
+        "title": "Voronoi diagrams—a survey of a fundamental geometric data structure",
+        "authors": [
+          "Aurenhammer, Franz"
+        ],
+        "year": 1991,
+        "doi": "10.1145/116873.116880",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W1967005434",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Voronoi diagrams—a survey of a fundamental geometric data structure",
+        "year": 1991,
+        "authors": [
+          "Franz Aurenhammer"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "schwarzkopf1991computing",
+      "raw": {
+        "title": "A simple on-line randomized incremental algorithm for computing higher order Voronoi diagrams",
+        "authors": [
+          "Aurenhammer, Franz",
+          "Schwarzkopf, Otfried"
+        ],
+        "year": 1991,
+        "doi": "10.1145/109648.109664",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2037855401",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "A simple on-line randomized incremental algorithm for computing higher order Voronoi diagrams",
+        "year": 1991,
+        "authors": [
+          "Franz Aurenhammer",
+          "Otfried Schwarzkopf"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "boissonnat2018geometric",
+      "raw": {
+        "title": "Geometric and Topological Inference",
+        "authors": [
+          "Boissonnat, Jean-Daniel",
+          "Chazal, Frdric",
+          "Yvinec, Mariette"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Geometric+and+Topological+Inference&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "chan2011orthogonal",
+      "raw": {
+        "title": "Orthogonal range searching on the RAM, revisited",
+        "authors": [
+          "Chan, Timothy M.",
+          "Larsen, Kasper Green",
+          "P\\u{a}tra\\c{s}cu, Mihai"
+        ],
+        "year": 2011,
+        "doi": "10.1145/1998196.1998198",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2135639194",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Orthogonal range searching on the RAM, revisited",
+        "year": 2011,
+        "authors": [
+          "Timothy M. Chan",
+          "Kasper Green Larsen",
+          "Mihai Pǎtraşcu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "ZHANG2025128661",
+      "raw": {
+        "title": "Efficient and effective counterfactual explanations for random forests",
+        "authors": [
+          "Haifei Zhang",
+          "Jinfeng Zhong"
+        ],
+        "year": 2025,
+        "doi": "https://doi.org/10.1016/j.eswa.2025.128661",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4411399389",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Efficient and effective counterfactual explanations for random forests",
+        "year": 2025,
+        "authors": [
+          "Haifei Zhang",
+          "Jinfeng Zhong"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "vidal2020bornagain",
+      "raw": {
+        "title": "Born-again tree ensembles",
+        "authors": [
+          "Vidal, Thibaut",
+          "Schiffer, Maximilian"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Born-again+tree+ensembles&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "lucic2022focus",
+      "raw": {
+        "title": "FOCUS: Flexible optimizable counterfactual explanations for tree ensembles",
+        "authors": [
+          "Lucic, Ana",
+          "Oosterhuis, Harrie",
+          "Haned, Hinda",
+          "De Rijke, Maarten"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=FOCUS%3A+Flexible+optimizable+counterfactual+explanations+for+tree+ensembles&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "bentley1975kdtree",
+      "raw": {
+        "title": "Multidimensional binary search trees used for associative searching",
+        "authors": [
+          "Bentley, Jon Louis"
+        ],
+        "year": 1975,
+        "doi": "10.1145/361002.361007",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2165558283",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Multidimensional binary search trees used for associative searching",
+        "year": 1975,
+        "authors": [
+          "Jon Bentley"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Karlin86",
+      "raw": {
+        "title": "Competitive snoopy caching",
+        "authors": [
+          "Karlin, Anna R.",
+          "Manasse, Mark S.",
+          "Rudolph, Larry",
+          "Sleator, Daniel D."
+        ],
+        "year": 1986,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Competitive+snoopy+caching&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "khouna2025MEA",
+      "raw": {
+        "title": "From Counterfactuals to Trees: Competitive Analysis of Model Extraction Attacks",
+        "authors": [
+          "Awa Khouna",
+          "Julien Ferry",
+          "Thibaut Vidal"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2502.05325"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2502.05325&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "HLEGTrustworthyAI2019",
+      "raw": {
+        "title": "Ethics Guidelines for Trustworthy AI",
+        "authors": [
+          "{High-Level Expert Group on Artificial Intelligence}"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Gunning2019XAI",
+      "raw": {
+        "title": "DARPA's explainable artificial intelligence (XAI) program",
+        "authors": [
+          "Gunning, David"
+        ],
+        "year": 2019,
+        "doi": "10.1145/3301275.3308446",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2917767525",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "DARPA's explainable artificial intelligence (XAI) program",
+        "year": 2019,
+        "authors": [
+          "David Gunning"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "NIST2023AI_RMF",
+      "raw": {
+        "title": "Artificial Intelligence Risk Management Framework (AI RMF 1.0)",
+        "authors": [
+          "Tabassi, Elham"
+        ],
+        "year": 2023,
+        "doi": "10.6028/NIST.AI.100-1",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4317748910",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Artificial Intelligence Risk Management Framework (AI RMF 1.0)",
+        "year": 2023,
+        "authors": [
+          "Elham Tabassi"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "doshivelez2017rigorousscienceinterpretablemachine",
+      "raw": {
+        "title": "Towards A Rigorous Science of Interpretable Machine Learning",
+        "authors": [
+          "Finale Doshi-Velez",
+          "Been Kim"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": "1702.08608"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1702.08608&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "rudin2019stopexplainingblackbox",
+      "raw": {
+        "title": "Stop Explaining Black Box Machine Learning Models for High Stakes Decisions and Use Interpretable Models Instead",
+        "authors": [
+          "Cynthia Rudin"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": "1811.10154"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1811.10154&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "guidotti2018surveymethodsexplainingblack",
+      "raw": {
+        "title": "A Survey Of Methods For Explaining Black Box Models",
+        "authors": [
+          "Riccardo Guidotti",
+          "Anna Monreale",
+          "Salvatore Ruggieri",
+          "Franco Turini",
+          "Dino Pedreschi",
+          "Fosca Giannotti"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": "1802.01933"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1802.01933&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "verma2024counterfactual",
+      "raw": {
+        "title": "Counterfactual explanations and algorithmic recourses for machine learning: A review",
+        "authors": [
+          "Verma, Sahil",
+          "Boonsanong, Varich",
+          "Hoang, Minh",
+          "Hines, Keegan",
+          "Dickerson, John",
+          "Shah, Chirag"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Counterfactual+explanations+and+algorithmic+recourses+for+machine+learning%3A+A+review&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "amodei2016concreteproblemsaisafety",
+      "raw": {
+        "title": "Concrete Problems in AI Safety",
+        "authors": [
+          "Dario Amodei",
+          "Chris Olah",
+          "Jacob Steinhardt",
+          "Paul Christiano",
+          "John Schulman",
+          "Dan Mané"
+        ],
+        "year": 2016,
+        "doi": null,
+        "arxiv_id": "1606.06565"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1606.06565&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "185696",
+      "raw": {
+        "title": "Introduction to real analysis /",
+        "authors": [
+          "Robert Gardner Bartle",
+          "Donald R. Sherbert"
+        ],
+        "year": 2000,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Introduction+to+real+analysis+%2F&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "verma2022amortized",
+      "raw": {
+        "title": "Amortized generation of sequential algorithmic recourses for black-box models",
+        "authors": [
+          "Verma, Sahil",
+          "Hines, Keegan",
+          "Dickerson, John P"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Amortized+generation+of+sequential+algorithmic+recourses+for+black-box+models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "euaiact2024",
+      "raw": {
+        "title": "Regulation (EU) 2024/1689 (Artificial Intelligence Act)",
+        "authors": [],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Regulation+%28EU%29+2024%2F1689+%28Artificial+Intelligence+Act%29&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "regb1002_9",
+      "raw": {
+        "title": "12 CFR \\S 1002.9 (Regulation B): Notifications",
+        "authors": [],
+        "year": null,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=12+CFR+%5CS+1002.9+%28Regulation+B%29%3A+Notifications&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "fcra1681m",
+      "raw": {
+        "title": "15 U.S.C. \\S 1681m (Fair Credit Reporting Act): Requirements on users of consumer reports",
+        "authors": [],
+        "year": null,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=15+U.S.C.+%5CS+1681m+%28Fair+Credit+Reporting+Act%29%3A+Requirements+on+users+of+consumer+reports&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    }
+  ]
+}

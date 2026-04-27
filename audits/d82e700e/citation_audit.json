@@ -1,0 +1,1930 @@
+{
+  "paper_id": "d82e700e-a136-4518-a748-9ebfc761d6dd",
+  "total": 83,
+  "verified": 5,
+  "mismatch": 1,
+  "missing": 0,
+  "ambiguous": 0,
+  "error": 59,
+  "skipped": 18,
+  "s2_consulted": 1,
+  "s2_lifted": 0,
+  "key_style_outliers": [
+    "Bog07",
+    "ANDERSON1982313",
+    "pmlr-v235-wu24b",
+    "6795935",
+    "JMLR:v6:hyvarinen05a",
+    "23c0155fc92345fca7d191676fbb9ff6",
+    "pmlr-v15-ross11a",
+    "44cc1b7eabab4bf68460843575332bc9",
+    "pmlr-v202-ganz23a",
+    "pmlr-v202-dinh23a",
+    "pmlr-v201-lee23a",
+    "citation-0"
+  ],
+  "entries": [
+    {
+      "key": "Bog07",
+      "raw": {
+        "title": "Measure theory. Vol. I, II",
+        "authors": [
+          "Bogachev, V. I."
+        ],
+        "year": 2007,
+        "doi": "10.1007/978-3-540-34514-5",
+        "arxiv_id": null
+      },
+      "status": "metadata_mismatch",
+      "openalex_id": "https://openalex.org/W4253577938",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Measure Theory",
+        "year": 2007,
+        "authors": [
+          "В. И. Богачев"
+        ]
+      },
+      "title_similarity": 0.7,
+      "mismatches": [
+        "authors"
+      ],
+      "error": null
+    },
+    {
+      "key": "folland2013real",
+      "raw": {
+        "title": "Real Analysis: Modern Techniques and Their Applications",
+        "authors": [
+          "Folland, G.B."
+        ],
+        "year": 2013,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Vershynin_2018",
+      "raw": {
+        "title": "High-Dimensional Probability: An Introduction with Applications in Data Science",
+        "authors": [
+          "Vershynin, Roman"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=High-Dimensional+Probability%3A+An+Introduction+with+Applications+in+Data+Science&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ANDERSON1982313",
+      "raw": {
+        "title": "Reverse-time diffusion equation models",
+        "authors": [
+          "Brian D.O. Anderson"
+        ],
+        "year": 1982,
+        "doi": "https://doi.org/10.1016/0304-4149(82)90051-5",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W1991111872",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Reverse-time diffusion equation models",
+        "year": 1982,
+        "authors": [
+          "Brian D. O. Anderson"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "debortoli2023convergencedenoisingdiffusionmodels",
+      "raw": {
+        "title": "Convergence of denoising diffusion models under the manifold hypothesis",
+        "authors": [
+          "Valentin De Bortoli"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": "2208.05314"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2208.05314&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "pmlr-v235-wu24b",
+      "raw": {
+        "title": "Theoretical insights for diffusion guidance: A case study for Gaussian mixture models",
+        "authors": [
+          "Wu, Yuchen",
+          "Chen, Minshuo",
+          "Li, Zihao",
+          "Wang, Mengdi",
+          "Wei, Yuting"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "dhariwal2021diffusion",
+      "raw": {
+        "title": "Diffusion Models Beat GANs on Image Synthesis",
+        "authors": [
+          "Prafulla Dhariwal",
+          "Alexander Quinn Nichol"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "chen2023improvedanalysisscorebasedgenerative",
+      "raw": {
+        "title": "Improved Analysis of Score-based Generative Modeling: User-Friendly Bounds under Minimal Smoothness Assumptions",
+        "authors": [
+          "Hongrui Chen",
+          "Holden Lee",
+          "Jianfeng Lu"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": "2211.01916"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2211.01916&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zhang2023fastsamplingdiffusionmodels",
+      "raw": {
+        "title": "Fast Sampling of Diffusion Models with Exponential Integrator",
+        "authors": [
+          "Qinsheng Zhang",
+          "Yongxin Chen"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": "2204.13902"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2204.13902&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "6795935",
+      "raw": {
+        "title": "A Connection Between Score Matching and Denoising Autoencoders",
+        "authors": [
+          "Vincent, Pascal"
+        ],
+        "year": 2011,
+        "doi": "10.1162/NECO_a_00142",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2013035813",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "A Connection Between Score Matching and Denoising Autoencoders",
+        "year": 2011,
+        "authors": [
+          "Pascal Vincent"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "JMLR:v6:hyvarinen05a",
+      "raw": {
+        "title": "Estimation of Non-Normalized Statistical Models by Score Matching",
+        "authors": [
+          "Aapo Hyv{{\\\"a}}rinen"
+        ],
+        "year": 2005,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "cattiaux2022timereversaldiffusionprocesses",
+      "raw": {
+        "title": "Time reversal of diffusion processes under a finite entropy condition",
+        "authors": [
+          "Patrick Cattiaux",
+          "Giovanni Conforti",
+          "Ivan Gentil",
+          "Christian Léonard"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": "2104.07708"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2104.07708&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "DBLP:journals/corr/abs-2011-13456",
+      "raw": {
+        "title": "Score-Based Generative Modeling through Stochastic Differential Equations",
+        "authors": [
+          "Yang Song",
+          "Jascha Sohl{-}Dickstein",
+          "Diederik P. Kingma",
+          "Abhishek Kumar",
+          "Stefano Ermon",
+          "Ben Poole"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": "2011.13456"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2011.13456&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ma2024elucidating",
+      "raw": {
+        "title": "Elucidating the design space of classifier-guided diffusion generation",
+        "authors": [
+          "Jiajun Ma",
+          "Tianyang Hu",
+          "Wenjia Wang",
+          "Jiacheng Sun"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "23c0155fc92345fca7d191676fbb9ff6",
+      "raw": {
+        "title": "Fisher information inequalities and the Central Limit Theorem",
+        "authors": [
+          "OT Johnson",
+          "AR Barron"
+        ],
+        "year": 2004,
+        "doi": "10.1007/s00440-004-0344-0",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2102268513",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Fisher information inequalities and the central limit theorem",
+        "year": 2004,
+        "authors": [
+          "Oliver Johnson",
+          "Andrew Barron"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "NEURIPS2020_4c5bcfec",
+      "raw": {
+        "title": "Denoising Diffusion Probabilistic Models",
+        "authors": [
+          "Ho, Jonathan",
+          "Jain, Ajay",
+          "Abbeel, Pieter"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "pmlr-v15-ross11a",
+      "raw": {
+        "title": "A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning",
+        "authors": [
+          "Ross, Stephane",
+          "Gordon, Geoffrey",
+          "Bagnell, Drew"
+        ],
+        "year": 2011,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "NEURIPS2019_3001ef25",
+      "raw": {
+        "title": "Generative Modeling by Estimating Gradients of the Data Distribution",
+        "authors": [
+          "Song, Yang",
+          "Ermon, Stefano"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "song2021scorebased",
+      "raw": {
+        "title": "Score-Based Generative Modeling through Stochastic Differential Equations",
+        "authors": [
+          "Yang Song",
+          "Jascha Sohl-Dickstein",
+          "Diederik P Kingma",
+          "Abhishek Kumar",
+          "Stefano Ermon",
+          "Ben Poole"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "oertell2025efficientcontrollablediffusionoptimal",
+      "raw": {
+        "title": "Efficient Controllable Diffusion via Optimal Classifier Guidance",
+        "authors": [
+          "Owen Oertell",
+          "Shikun Sun",
+          "Yiding Chen",
+          "Jin Peng Zhou",
+          "Zhiyong Wang",
+          "Wen Sun"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2505.21666"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2505.21666&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ho2021classifierfree",
+      "raw": {
+        "title": "Classifier-Free Diffusion Guidance",
+        "authors": [
+          "Jonathan Ho",
+          "Tim Salimans"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "lyu2012interpretation",
+      "raw": {
+        "title": "Interpretation and Generalization of Score Matching",
+        "authors": [
+          "Lyu, Siwei"
+        ],
+        "year": 2012,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Interpretation+and+Generalization+of+Score+Matching&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ding2019gradient",
+      "raw": {
+        "title": "Gradient Information for Representation and Modeling",
+        "authors": [
+          "Ding, Jie",
+          "Calderbank, Robert",
+          "Tarokh, Vahid"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Gradient+Information+for+Representation+and+Modeling&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "sriperumbudur2017density",
+      "raw": {
+        "title": "Density Estimation in Infinite Dimensional Exponential Families",
+        "authors": [
+          "Sriperumbudur, Bharath K.",
+          "Fukumizu, Kenji",
+          "Gretton, Arthur",
+          "Hyv{\\\"a}rinen, Aapo",
+          "Kumar, Revant"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Density+Estimation+in+Infinite+Dimensional+Exponential+Families&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "sanchezmoreno2012jensen",
+      "raw": {
+        "title": "Jensen Divergence Based on Fisher's Information",
+        "authors": [
+          "S{\\'a}nchez-Moreno, P.",
+          "Zarzo, A.",
+          "Dehesa, J. S."
+        ],
+        "year": 2012,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Jensen+Divergence+Based+on+Fisher%27s+Information&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "kharazmi2022cumulative",
+      "raw": {
+        "title": "Cumulative Residual $q$-Fisher Information and Jensen-Cumulative Residual $\\chi^2$ Divergence Measures",
+        "authors": [
+          "Kharazmi, Omid",
+          "Balakrishnan, Narayanaswamy",
+          "Jamali, Hassan"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Cumulative+Residual+%24q%24-Fisher+Information+and+Jensen-Cumulative+Residual+%24%5Cchi%5E2%24+Divergence+Measures&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "shen2024understanding",
+      "raw": {
+        "title": "Understanding and Improving Training-free Loss-based Diffusion Guidance",
+        "authors": [
+          "Shen, Yifei",
+          "Jiang, Xinyang",
+          "Wang, Yezhen",
+          "Yang, Yifan",
+          "Han, Dongqi",
+          "Li, Dongsheng"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Understanding+and+Improving+Training-free+Loss-based+Diffusion+Guidance&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "guo2024gradient",
+      "raw": {
+        "title": "Gradient Guidance for Diffusion Models: An Optimization Perspective",
+        "authors": [
+          "Guo, Yingqing",
+          "Yuan, Hui",
+          "Yang, Yukang",
+          "Chen, Minshuo",
+          "Wang, Mengdi"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Gradient+Guidance+for+Diffusion+Models%3A+An+Optimization+Perspective&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "tang2024conditional",
+      "raw": {
+        "title": "Conditional Diffusion Guidance",
+        "authors": [
+          "Tang, Wenpin",
+          "Xu, Renyuan"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Conditional+Diffusion+Guidance&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "sun2024rectifid",
+      "raw": {
+        "title": "RectifID: Personalizing Rectified Flow with Anchored Classifier Guidance",
+        "authors": [
+          "Sun, Zhicheng",
+          "Yang, Zhenhao",
+          "Jin, Yang",
+          "Chi, Haozhe",
+          "Xu, Kun",
+          "Xu, Kun",
+          "Chen, Liwei",
+          "Jiang, Hao",
+          "Song, Yang",
+          "Gai, Kun",
+          "Mu, Yadong"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=RectifID%3A+Personalizing+Rectified+Flow+with+Anchored+Classifier+Guidance&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "eldan2018gaussianwidthgradientcomplexityreverse",
+      "raw": {
+        "title": "Gaussian-width gradient complexity, reverse log-Sobolev inequalities and nonlinear large deviations",
+        "authors": [
+          "Ronen Eldan"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": "1612.04346"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1612.04346&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "eldan2019dimensionfreereverselogarithmicsobolev",
+      "raw": {
+        "title": "A dimension-free reverse logarithmic Sobolev inequality for low-complexity functions in Gaussian space",
+        "authors": [
+          "Ronen Eldan",
+          "Michel Ledoux"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": "1903.07093"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1903.07093&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "cattiaux2007weaklogarithmicsobolevinequalities",
+      "raw": {
+        "title": "Weak logarithmic Sobolev inequalities and entropic convergence",
+        "authors": [
+          "Patrick Cattiaux",
+          "Ivan Gentil",
+          "Arnaud Guillin"
+        ],
+        "year": 2007,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Ber_Diffusion_MICCAI2024",
+      "raw": {
+        "title": "Diffusion Models with Implicit Guidance for Medical Anomaly Detection",
+        "authors": [
+          "Bercea, Cosmin I.",
+          "Wiestler, Benedikt",
+          "Rueckert, Daniel",
+          "Schnabel, Julia A."
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Diffusion+Models+with+Implicit+Guidance+for+Medical+Anomaly+Detection&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "wang2025guidpaintclassguidedimageinpainting",
+      "raw": {
+        "title": "GuidPaint: Class-Guided Image Inpainting with Diffusion Models",
+        "authors": [
+          "Qimin Wang",
+          "Xinda Liu",
+          "Guohua Geng"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2507.21627"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2507.21627&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "44cc1b7eabab4bf68460843575332bc9",
+      "raw": {
+        "title": "DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation",
+        "authors": [
+          "Gwanghyun Kim",
+          "Taesung Kwon",
+          "Ye, \\{Jong Chul\\}"
+        ],
+        "year": 2022,
+        "doi": "10.1109/CVPR52688.2022.00246",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4312740349",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation",
+        "year": 2022,
+        "authors": [
+          "Gwanghyun Kim",
+          "Tae‐Sung Kwon",
+          "Jong Chul Ye"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Wallace2023EndtoEndDL",
+      "raw": {
+        "title": "End-to-End Diffusion Latent Optimization Improves Classifier Guidance",
+        "authors": [
+          "Bram Wallace",
+          "Akash Gokul",
+          "Stefano Ermon",
+          "Nikhil Vijay Naik"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "pmlr-v202-ganz23a",
+      "raw": {
+        "title": "Do Perceptually Aligned Gradients Imply Robustness?",
+        "authors": [
+          "Ganz, Roy",
+          "Kawar, Bahjat",
+          "Elad, Michael"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "dinh2023rethinking",
+      "raw": {
+        "title": "Rethinking Conditional Diffusion Sampling with Progressive Guidance",
+        "authors": [
+          "Anh-Dung Dinh",
+          "Daochang Liu",
+          "Chang Xu"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "pmlr-v202-dinh23a",
+      "raw": {
+        "title": "PixelAsParam: A Gradient View on Diffusion Sampling with Guidance",
+        "authors": [
+          "Dinh, Anh-Dung",
+          "Liu, Daochang",
+          "Xu, Chang"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "pmlr-v201-lee23a",
+      "raw": {
+        "title": "Convergence of score-based generative modeling for general data distributions",
+        "authors": [
+          "Lee, Holden",
+          "Lu, Jianfeng",
+          "Tan, Yixin"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Robbins1992",
+      "raw": {
+        "title": "An Empirical Bayes Approach to Statistics",
+        "authors": [
+          "Robbins, Herbert E."
+        ],
+        "year": 1992,
+        "doi": "10.1007/978-1-4612-0919-5_26",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W1590636096",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "An Empirical Bayes Approach to Statistics",
+        "year": 1992,
+        "authors": [
+          "Herbert Robbins"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "benton2024nearly",
+      "raw": {
+        "title": "Nearly \\$d\\$-Linear Convergence Bounds for Diffusion Models via Stochastic Localization",
+        "authors": [
+          "Joe Benton",
+          "Valentin De Bortoli",
+          "Arnaud Doucet",
+          "George Deligiannidis"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "sohl2015deep",
+      "raw": {
+        "title": "Deep unsupervised learning using nonequilibrium thermodynamics",
+        "authors": [
+          "Sohl-Dickstein, Jascha",
+          "Weiss, Eric",
+          "Maheswaranathan, Niru",
+          "Ganguli, Surya"
+        ],
+        "year": 2015,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Deep+unsupervised+learning+using+nonequilibrium+thermodynamics&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "song2019generative",
+      "raw": {
+        "title": "Generative modeling by estimating gradients of the data distribution",
+        "authors": [
+          "Song, Yang",
+          "Ermon, Stefano"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Generative+modeling+by+estimating+gradients+of+the+data+distribution&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ho2020denoising",
+      "raw": {
+        "title": "Denoising diffusion probabilistic models",
+        "authors": [
+          "Ho, Jonathan",
+          "Jain, Ajay",
+          "Abbeel, Pieter"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Denoising+diffusion+probabilistic+models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "songdenoising",
+      "raw": {
+        "title": "Denoising Diffusion Implicit Models",
+        "authors": [
+          "Song, Jiaming",
+          "Meng, Chenlin",
+          "Ermon, Stefano"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Denoising+Diffusion+Implicit+Models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "songscore",
+      "raw": {
+        "title": "Score-Based Generative Modeling through Stochastic Differential Equations",
+        "authors": [
+          "Song, Yang",
+          "Sohl-Dickstein, Jascha",
+          "Kingma, Diederik P",
+          "Kumar, Abhishek",
+          "Ermon, Stefano",
+          "Poole, Ben"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Score-Based+Generative+Modeling+through+Stochastic+Differential+Equations&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "chen2024overview",
+      "raw": {
+        "title": "An overview of diffusion models: Applications, guided generation, statistical rates and optimization",
+        "authors": [
+          "Chen, Minshuo",
+          "Mei, Song",
+          "Fan, Jianqing",
+          "Wang, Mengdi"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=An+overview+of+diffusion+models%3A+Applications%2C+guided+generation%2C+statistical+rates+and+optimization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "lee2023convergence",
+      "raw": {
+        "title": "Convergence of score-based generative modeling for general data distributions",
+        "authors": [
+          "Lee, Holden",
+          "Lu, Jianfeng",
+          "Tan, Yixin"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Convergence+of+score-based+generative+modeling+for+general+data+distributions&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "robbins1992empirical",
+      "raw": {
+        "title": "An empirical Bayes approach to statistics",
+        "authors": [
+          "Robbins, Herbert E"
+        ],
+        "year": 1992,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=An+empirical+Bayes+approach+to+statistics&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "mei2025deep",
+      "raw": {
+        "title": "Deep networks as denoising algorithms: Sample-efficient learning of diffusion models in high-dimensional graphical models",
+        "authors": [
+          "Mei, Song",
+          "Wu, Yuchen"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Deep+networks+as+denoising+algorithms%3A+Sample-efficient+learning+of+diffusion+models+in+high-dimensional+graphical+models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "gupta2024faster",
+      "raw": {
+        "title": "Faster diffusion-based sampling with randomized midpoints: Sequential and parallel",
+        "authors": [
+          "Gupta, Shivam",
+          "Cai, Linda",
+          "Chen, Sitan"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Faster+diffusion-based+sampling+with+randomized+midpoints%3A+Sequential+and+parallel&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "liang2024broadening",
+      "raw": {
+        "title": "Broadening target distributions for accelerated diffusion models via a novel analysis approach",
+        "authors": [
+          "Liang, Yuchen",
+          "Ju, Peizhong",
+          "Liang, Yingbin",
+          "Shroff, Ness"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Broadening+target+distributions+for+accelerated+diffusion+models+via+a+novel+analysis+approach&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "li2024unified",
+      "raw": {
+        "title": "Unified convergence analysis for score-based diffusion models with deterministic samplers",
+        "authors": [
+          "Li, Runjia",
+          "Di, Qiwei",
+          "Gu, Quanquan"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Unified+convergence+analysis+for+score-based+diffusion+models+with+deterministic+samplers&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "koehlerstatistical",
+      "raw": {
+        "title": "Statistical Efficiency of Score Matching: The View from Isoperimetry",
+        "authors": [
+          "Koehler, Frederic",
+          "Heckett, Alexander",
+          "Risteski, Andrej"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Statistical+Efficiency+of+Score+Matching%3A+The+View+from+Isoperimetry&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "hyvarinen2005estimation",
+      "raw": {
+        "title": "Estimation of non-normalized statistical models by score matching.",
+        "authors": [
+          "Hyv{\\\"a}rinen, Aapo",
+          "Dayan, Peter"
+        ],
+        "year": 2005,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Estimation+of+non-normalized+statistical+models+by+score+matching.&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "hastie2009elements",
+      "raw": {
+        "title": "The elements of statistical learning",
+        "authors": [
+          "Hastie, Trevor",
+          "Tibshirani, Robert",
+          "Friedman, Jerome",
+          "others"
+        ],
+        "year": 2009,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=The+elements+of+statistical+learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "podellsdxl",
+      "raw": {
+        "title": "SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis",
+        "authors": [
+          "Podell, Dustin",
+          "English, Zion",
+          "Lacey, Kyle",
+          "Blattmann, Andreas",
+          "Dockhorn, Tim",
+          "M{\\\"u}ller, Jonas",
+          "Penna, Joe",
+          "Rombach, Robin"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=SDXL%3A+Improving+Latent+Diffusion+Models+for+High-Resolution+Image+Synthesis&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "betker2023improving",
+      "raw": {
+        "title": "Improving image generation with better captions",
+        "authors": [
+          "Betker, James",
+          "Goh, Gabriel",
+          "Jing, Li",
+          "Brooks, Tim",
+          "Wang, Jianfeng",
+          "Li, Linjie",
+          "Ouyang, Long",
+          "Zhuang, Juntang",
+          "Lee, Joyce",
+          "Guo, Yufei",
+          "others"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Improving+image+generation+with+better+captions&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "brooks2024video",
+      "raw": {
+        "title": "Video generation models as world simulators",
+        "authors": [
+          "Brooks, Tim",
+          "Peebles, Bill",
+          "Holmes, Connor",
+          "DePue, Will",
+          "Guo, Yufei",
+          "Jing, Li",
+          "Schnurr, David",
+          "Taylor, Joe",
+          "Luhman, Troy",
+          "Luhman, Eric",
+          "Ng, Clarence Wing Yin",
+          "Wang, Ricky",
+          "Ramesh, Aditya"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "wibisono2024optimal",
+      "raw": {
+        "title": "Optimal score estimation via empirical bayes smoothing",
+        "authors": [
+          "Wibisono, Andre",
+          "Wu, Yihong",
+          "Yang, Kaylee Yingxi"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Optimal+score+estimation+via+empirical+bayes+smoothing&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "tomczak2018vae",
+      "raw": {
+        "title": "VAE with a VampPrior",
+        "authors": [
+          "Tomczak, Jakub",
+          "Welling, Max"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=VAE+with+a+VampPrior&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "oko2023diffusion",
+      "raw": {
+        "title": "Diffusion models are minimax optimal distribution estimators",
+        "authors": [
+          "Oko, Kazusato",
+          "Akiyama, Shunta",
+          "Suzuki, Taiji"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Diffusion+models+are+minimax+optimal+distribution+estimators&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zhang2024minimax",
+      "raw": {
+        "title": "Minimax optimality of score-based diffusion models: beyond the density lower bound assumptions",
+        "authors": [
+          "Zhang, Kaihong",
+          "Yin, Caitlyn H",
+          "Liang, Feng",
+          "Liu, Jingbo"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Minimax+optimality+of+score-based+diffusion+models%3A+beyond+the+density+lower+bound+assumptions&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "dou2024optimal",
+      "raw": {
+        "title": "From optimal score matching to optimal sampling",
+        "authors": [
+          "Dou, Zehao",
+          "Kotekal, Subhodh",
+          "Xu, Zhehao",
+          "Zhou, Harrison H"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=From+optimal+score+matching+to+optimal+sampling&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "koehler2023statistical",
+      "raw": {
+        "title": "Statistical Efficiency of Score Matching: The View from Isoperimetry",
+        "authors": [
+          "Koehler, Frederic",
+          "Heckett, Alexander",
+          "Risteski, Andrej"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Statistical+Efficiency+of+Score+Matching%3A+The+View+from+Isoperimetry&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "wang2024evaluating",
+      "raw": {
+        "title": "Evaluating the design space of diffusion-based generative models",
+        "authors": [
+          "Wang, Yuqing",
+          "He, Ye",
+          "Tao, Molei"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Evaluating+the+design+space+of+diffusion-based+generative+models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "chen2023sampling",
+      "raw": {
+        "title": "Sampling is as easy as learning the score: theory for diffusion models with minimal data assumptions",
+        "authors": [
+          "Chen, Sitan",
+          "Chewi, Sinho",
+          "Li, Jerry",
+          "Li, Yuanzhi",
+          "Salim, Adil",
+          "Zhang, Anru R"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Sampling+is+as+easy+as+learning+the+score%3A+theory+for+diffusion+models+with+minimal+data+assumptions&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "bentonnearly",
+      "raw": {
+        "title": "Nearly $ d $-Linear Convergence Bounds for Diffusion Models via Stochastic Localization",
+        "authors": [
+          "Benton, Joe",
+          "De Bortoli, Valentin",
+          "Doucet, Arnaud",
+          "Deligiannidis, George"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Nearly+%24+d+%24-Linear+Convergence+Bounds+for+Diffusion+Models+via+Stochastic+Localization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "li2025faster",
+      "raw": {
+        "title": "Faster Diffusion Models via Higher-Order Approximation",
+        "authors": [
+          "Li, Gen",
+          "Zhou, Yuchen",
+          "Wei, Yuting",
+          "Chen, Yuxin"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Faster+Diffusion+Models+via+Higher-Order+Approximation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "citation-0",
+      "raw": {
+        "title": "$O(d/T)$ Convergence Theory for Diffusion Probabilistic Models under Minimal Assumptions",
+        "authors": [
+          "Li, Gen",
+          "Yan, Yuling"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=%24O%28d%2FT%29%24+Convergence+Theory+for+Diffusion+Probabilistic+Models+under+Minimal+Assumptions&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "wu2024stochastic",
+      "raw": {
+        "title": "Stochastic runge-kutta methods: Provable acceleration of diffusion models",
+        "authors": [
+          "Wu, Yuchen",
+          "Chen, Yuxin",
+          "Wei, Yuting"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Stochastic+runge-kutta+methods%3A+Provable+acceleration+of+diffusion+models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "huang2025convergence",
+      "raw": {
+        "title": "Convergence analysis of probability flow ode for score-based generative models",
+        "authors": [
+          "Huang, Daniel Zhengyu",
+          "Huang, Jiaoyang",
+          "Lin, Zhengjiang"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Convergence+analysis+of+probability+flow+ode+for+score-based+generative+models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "xu2024provably",
+      "raw": {
+        "title": "Provably robust score-based diffusion posterior sampling for plug-and-play image reconstruction",
+        "authors": [
+          "Xu, Xingyu",
+          "Chi, Yuejie"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Provably+robust+score-based+diffusion+posterior+sampling+for+plug-and-play+image+reconstruction&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "montanari2023posterior",
+      "raw": {
+        "title": "Posterior sampling in high dimension via diffusion processes",
+        "authors": [
+          "Montanari, Andrea",
+          "Wu, Yuchen"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Posterior+sampling+in+high+dimension+via+diffusion+processes&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "el2022sampling",
+      "raw": {
+        "title": "Sampling from the Sherrington-Kirkpatrick Gibbs measure via algorithmic stochastic localization",
+        "authors": [
+          "El Alaoui, Ahmed",
+          "Montanari, Andrea",
+          "Sellke, Mark"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Sampling+from+the+Sherrington-Kirkpatrick+Gibbs+measure+via+algorithmic+stochastic+localization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "chen2025diffusion",
+      "raw": {
+        "title": "Diffusion factor models: Generating high-dimensional returns with factor structure",
+        "authors": [
+          "Chen, Minshuo",
+          "Xu, Renyuan",
+          "Xu, Yumin",
+          "Zhang, Ruixun"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Diffusion+factor+models%3A+Generating+high-dimensional+returns+with+factor+structure&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "wu2024theoretical",
+      "raw": {
+        "title": "Theoretical insights for diffusion guidance: a case study for Gaussian mixture models",
+        "authors": [
+          "Wu, Yuchen",
+          "Chen, Minshuo",
+          "Li, Zihao",
+          "Wang, Mengdi",
+          "Wei, Yuting"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Theoretical+insights+for+diffusion+guidance%3A+a+case+study+for+Gaussian+mixture+models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "bradley2024classifier",
+      "raw": {
+        "title": "Classifier-Free Guidance is a Predictor-Corrector",
+        "authors": [
+          "Bradley, Arwen",
+          "Nakkiran, Preetum"
+        ],
+        "year": null,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Classifier-Free+Guidance+is+a+Predictor-Corrector&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "chidambaram2024does",
+      "raw": {
+        "title": "What does guidance do? a fine-grained analysis in a simple setting",
+        "authors": [
+          "Chidambaram, Muthu",
+          "Gatmiry, Khashayar",
+          "Chen, Sitan",
+          "Lee, Holden",
+          "Lu, Jianfeng"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=What+does+guidance+do%3F+a+fine-grained+analysis+in+a+simple+setting&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "li2025provable",
+      "raw": {
+        "title": "Provable Efficiency of Guidance in Diffusion Models for General Data Distribution",
+        "authors": [
+          "Li, Gen",
+          "Jiao, Yuchen"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Provable+Efficiency+of+Guidance+in+Diffusion+Models+for+General+Data+Distribution&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "jiao2025towards",
+      "raw": {
+        "title": "Towards a unified framework for guided diffusion models",
+        "authors": [
+          "Jiao, Yuchen",
+          "Chen, Yuxin",
+          "Li, Gen"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Towards+a+unified+framework+for+guided+diffusion+models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    }
+  ]
+}

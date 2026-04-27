@@ -1,0 +1,5349 @@
+{
+  "paper_id": "1c98e378-d803-41aa-827e-c6a1b3fb8e3b",
+  "total": 208,
+  "verified": 56,
+  "mismatch": 0,
+  "missing": 0,
+  "ambiguous": 0,
+  "error": 132,
+  "skipped": 20,
+  "s2_consulted": 0,
+  "s2_lifted": 0,
+  "key_style_outliers": [
+    "langley00",
+    "mitchell80",
+    "kearns89",
+    "DudaHart2nd",
+    "Newell81",
+    "Samuel59",
+    "nasbench201",
+    "nsganetv2",
+    "a2m",
+    "shufflenetv2",
+    "imagenet16",
+    "nasbench201",
+    "nsganetv2",
+    "a2m",
+    "shufflenetv2",
+    "imagenet16"
+  ],
+  "entries": [
+    {
+      "key": "langley00",
+      "raw": {
+        "title": "Crafting Papers on Machine Learning",
+        "authors": [
+          "P. Langley"
+        ],
+        "year": 2000,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Crafting+Papers+on+Machine+Learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "mitchell80",
+      "raw": {
+        "title": "The Need for Biases in Learning Generalizations",
+        "authors": [
+          "T. M. Mitchell"
+        ],
+        "year": 1980,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=The+Need+for+Biases+in+Learning+Generalizations&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "kearns89",
+      "raw": {
+        "title": "Computational Complexity of Machine Learning",
+        "authors": [
+          "M. J. Kearns"
+        ],
+        "year": 1989,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Computational+Complexity+of+Machine+Learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "MachineLearningI",
+      "raw": {
+        "title": "Machine Learning: An Artificial Intelligence Approach, Vol. I",
+        "authors": [],
+        "year": 1983,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Machine+Learning%3A+An+Artificial+Intelligence+Approach%2C+Vol.+I&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "DudaHart2nd",
+      "raw": {
+        "title": "Pattern Classification",
+        "authors": [
+          "R. O. Duda",
+          "P. E. Hart",
+          "D. G. Stork"
+        ],
+        "year": 2000,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Pattern+Classification&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "anonymous",
+      "raw": {
+        "title": "Suppressed for Anonymity",
+        "authors": [
+          "Author, N. N."
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Suppressed+for+Anonymity&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Newell81",
+      "raw": {
+        "title": "Mechanisms of Skill Acquisition and the Law of Practice",
+        "authors": [
+          "A. Newell",
+          "P. S. Rosenbloom"
+        ],
+        "year": 1981,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Mechanisms+of+Skill+Acquisition+and+the+Law+of+Practice&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Samuel59",
+      "raw": {
+        "title": "Some Studies in Machine Learning Using the Game of Checkers",
+        "authors": [
+          "A. L. Samuel"
+        ],
+        "year": 1959,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Some+Studies+in+Machine+Learning+Using+the+Game+of+Checkers&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "han2021dynamic",
+      "raw": {
+        "title": "Dynamic Neural Networks: A Survey",
+        "authors": [
+          "Han, Yizeng",
+          "Wang, Ruizhong",
+          "Xu, Chao",
+          "Xu, Chunjie"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Dynamic+Neural+Networks%3A+A+Survey&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "cheng2020instanas",
+      "raw": {
+        "title": "InstaNAS: Instance-Aware Neural Architecture Search",
+        "authors": [
+          "Cheng, An-Chieh",
+          "Lin, Chieh Hubert",
+          "Juan, Da-Cheng",
+          "Wei, Wei",
+          "Sun, Min"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=InstaNAS%3A+Instance-Aware+Neural+Architecture+Search&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "yuan2020s2dnas",
+      "raw": {
+        "title": "S2DNAS: Transforming Static CNN Model for Dynamic Inference via Neural Architecture Search",
+        "authors": [
+          "Yuan, Bingzhe",
+          "Liang, Dong",
+          "Zhang, Chao",
+          "Liang, Zhiyang",
+          "Zhang, Chao",
+          "Zheng, Liang"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=S2DNAS%3A+Transforming+Static+CNN+Model+for+Dynamic+Inference+via+Neural+Architecture+Search&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "gambella2023edanas",
+      "raw": {
+        "title": "EDANAS: Adaptive Neural Architecture Search for Early Exit Neural Networks",
+        "authors": [
+          "Gambella, Matteo",
+          "Roveri, Manuel"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=EDANAS%3A+Adaptive+Neural+Architecture+Search+for+Early+Exit+Neural+Networks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "nachos",
+      "raw": {
+        "title": "NACHOS: Neural Architecture Search for Hardware-Constrained Early-Exit Neural Networks",
+        "authors": [
+          "Gambella, Matteo",
+          "Pomponi, Jary",
+          "Scardapane, Simone",
+          "Roveri, Manuel"
+        ],
+        "year": 2025,
+        "doi": "10.1109/TNNLS.2025.3588558",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4412536445",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "NACHOS: Neural Architecture Search for Hardware-Constrained Early-Exit Neural Networks",
+        "year": 2025,
+        "authors": [
+          "Matteo Gambella",
+          "Jary Pomponi",
+          "Simone Scardapane",
+          "Manuel Roveri"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "nasframework",
+      "raw": {
+        "title": "Neural architecture search: A contemporary literature review for computer vision applications",
+        "authors": [
+          "Matt Poyser",
+          "Toby P. Breckon"
+        ],
+        "year": 2024,
+        "doi": "https://doi.org/10.1016/j.patcog.2023.110052",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4387910965",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Neural architecture search: A contemporary literature review for computer vision applications",
+        "year": 2023,
+        "authors": [
+          "Matt Poyser",
+          "Toby P. Breckon"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "elsken2020meta",
+      "raw": {
+        "title": "Meta-Learning of Neural Architectures for Few-Shot Learning",
+        "authors": [
+          "Elsken, Thomas",
+          "Staffler, Benedikt",
+          "Metzen, Jan Hendrik",
+          "Hutter, Frank"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Meta-Learning+of+Neural+Architectures+for+Few-Shot+Learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "hosseini2022saliency",
+      "raw": {
+        "title": "Saliency-Aware Neural Architecture Search",
+        "authors": [
+          "Hosseini, Ramtin",
+          "Xie, Pengtao"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Saliency-Aware+Neural+Architecture+Search&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Han2022Learning",
+      "raw": {
+        "title": "Learning to Weight Samples for Dynamic Early-exiting Networks",
+        "authors": [
+          "Yizeng Han",
+          "Yifan Pu",
+          "Zihang Lai",
+          "Chaofei Wang",
+          "Shiji Song",
+          "Junfen Cao",
+          "Wenhui Huang",
+          "Chao Deng",
+          "Gao Huang"
+        ],
+        "year": 2022,
+        "doi": "10.1007/978-3-031-20083-0_22",
+        "arxiv_id": "2209.08310"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4312429345",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Learning to Weight Samples for Dynamic Early-Exiting Networks",
+        "year": 2022,
+        "authors": [
+          "Yizeng Han",
+          "Yifan Pu",
+          "Zihang Lai",
+          "Chaofei Wang",
+          "Shiji Song",
+          "Junfeng Cao",
+          "Wenhui Huang",
+          "Chao Deng",
+          "Gao Huang"
+        ]
+      },
+      "title_similarity": 0.9180327868852458,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Kulvicius2023Combining",
+      "raw": {
+        "title": "Combining Optimal Path Search With Task-Dependent Learning in a Neural Network",
+        "authors": [
+          "Tomas Kulvicius",
+          "Minija Tamosiunaite",
+          "Florentin W{\\\"o}rg{\\\"o}tter"
+        ],
+        "year": 2023,
+        "doi": "10.1109/TNNLS.2023.3327103",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4221143668",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Combining Optimal Path Search With Task-Dependent Learning in a Neural Network",
+        "year": 2023,
+        "authors": [
+          "Tomas Kulvičius",
+          "Minija Tamošiūnaitė",
+          "Florentin Wörgötter"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "nasbench201",
+      "raw": {
+        "title": "NAS-Bench-201: Extending the Scope of Reproducible Neural Architecture Search",
+        "authors": [
+          "Dong, Xuanyi",
+          "Yang, Yi"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=NAS-Bench-201%3A+Extending+the+Scope+of+Reproducible+Neural+Architecture+Search&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "liu_darts_2019",
+      "raw": {
+        "title": "DARTS: Differentiable Architecture Search",
+        "authors": [
+          "Hanxiao Liu",
+          "Karen Simonyan",
+          "Yiming Yang"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "snas",
+      "raw": {
+        "title": "SNAS: Stochastic Neural Architecture Search",
+        "authors": [
+          "Xie, Sirui",
+          "Zheng, Hehui",
+          "Liu, Chunxiao",
+          "Lin, Liang"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=SNAS%3A+Stochastic+Neural+Architecture+Search&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "dsnas",
+      "raw": {
+        "title": "DSNAS: Direct Neural Architecture Search without Parameter Retraining",
+        "authors": [
+          "Hu, Shoukang",
+          "Xie, Sirui",
+          "Zheng, Hehui",
+          "Liu, Chunxiao",
+          "Shi, Jianping",
+          "Liu, Xunying",
+          "Lin, Dahua"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=DSNAS%3A+Direct+Neural+Architecture+Search+without+Parameter+Retraining&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "qosnas",
+      "raw": {
+        "title": "QoS-aware Neural Architecture Search",
+        "authors": [
+          "Cheng, An-Chieh",
+          "Lin, Chieh Hubert",
+          "Juan, Da-Cheng",
+          "Wei, Wei",
+          "Sun, Min"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=QoS-aware+Neural+Architecture+Search&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "fairnas",
+      "raw": {
+        "title": "FairNAS: Rethinking Evaluation Fairness of Weight Sharing Neural Architecture Search",
+        "authors": [
+          "Xiangxiang Chu",
+          "Bo Zhang",
+          "Ruijun Xu"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": "1907.01845"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1907.01845&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "betadarts",
+      "raw": {
+        "title": "$\\beta$-DARTS: Beta-Decay Regularization for Differentiable Architecture Search",
+        "authors": [
+          "Ye, Peng",
+          "Li, Baopu",
+          "Li, Yikang",
+          "Chen, Tao",
+          "Fan, Jiayuan",
+          "Ouyang, Wanli"
+        ],
+        "year": 2022,
+        "doi": "10.1109/CVPR52688.2022.01060",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4312545227",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "$\\beta$-DARTS: Beta-Decay Regularization for Differentiable Architecture Search",
+        "year": 2022,
+        "authors": [
+          "Peng Ye",
+          "Baopu Li",
+          "Yikang Li",
+          "Tao Chen",
+          "Jiayuan Fan",
+          "Wanli Ouyang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "betadarts++",
+      "raw": {
+        "title": "$\\beta$-DARTS++: Bi-level Regularization for Proxy-robust Differentiable Architecture Search",
+        "authors": [
+          "Peng Ye",
+          "Tong He",
+          "Baopu Li",
+          "Tao Chen",
+          "Lei Bai",
+          "Wanli Ouyang"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": "2301.06393"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2301.06393&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "liang2019darts+",
+      "raw": {
+        "title": "Darts+: Improved differentiable architecture search with early stopping",
+        "authors": [
+          "Liang, Hanwen",
+          "Zhang, Shifeng",
+          "Sun, Jiacheng",
+          "He, Xingqiu",
+          "Huang, Weiran",
+          "Zhuang, Kechen",
+          "Li, Zhenguo"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Darts%2B%3A+Improved+differentiable+architecture+search+with+early+stopping&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "pc-darts",
+      "raw": {
+        "title": "PC-DARTS: Partial Channel Connections for Memory-Efficient Architecture Search",
+        "authors": [
+          "Xu, Yuhui",
+          "Xie, Lingxi",
+          "Zhang, Xiaopeng",
+          "Chen, Xin",
+          "Qi, Guo-Jun",
+          "Tian, Qi",
+          "Xiong, Hui"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=PC-DARTS%3A+Partial+Channel+Connections+for+Memory-Efficient+Architecture+Search&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "darts-",
+      "raw": {
+        "title": "\\DARTS\\-: Robustly Stepping out of Performance Collapse Without Indicators",
+        "authors": [
+          "Xiangxiang Chu",
+          "Xiaoxing Wang",
+          "Bo Zhang",
+          "Shun Lu",
+          "Xiaolin Wei",
+          "Junchi Yan"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "chu2020fair",
+      "raw": {
+        "title": "Fair darts: Eliminating unfair advantages in differentiable architecture search",
+        "authors": [
+          "Chu, Xiangxiang",
+          "Zhou, Tianbao",
+          "Zhang, Bo",
+          "Li, Jixiang"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Fair+darts%3A+Eliminating+unfair+advantages+in+differentiable+architecture+search&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "nas_survey_components",
+      "raw": {
+        "title": "A Survey on Neural Architecture Search",
+        "authors": [
+          "Wistuba, Martin",
+          "Rawat, Ambrish",
+          "Pedapati, Tejaswini"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=A+Survey+on+Neural+Architecture+Search&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "kendalltau",
+      "raw": {
+        "title": "A New Measure of Rank Correlation",
+        "authors": [
+          "M. G. Kendall"
+        ],
+        "year": 1938,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "rlsurvey",
+      "raw": {
+        "title": "Reinforcement Learning: A Survey",
+        "authors": [
+          "L. P. Kaelbling",
+          "M. L. Littman",
+          "A. W. Moore"
+        ],
+        "year": 1996,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Reinforcement+Learning%3A+A+Survey&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "eabook",
+      "raw": {
+        "title": "Handbook of Evolutionary Computation",
+        "authors": [
+          "Back, Thomas",
+          "Fogel, David B.",
+          "Michalewicz, Zbigniew"
+        ],
+        "year": 1997,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Handbook+of+Evolutionary+Computation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "eaoptimization",
+      "raw": {
+        "title": "Evolutionary Computation for Modeling and Optimization",
+        "authors": [
+          "Ashlock, Daniel"
+        ],
+        "year": 2010,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Evolutionary+Computation+for+Modeling+and+Optimization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "networkmorphism",
+      "raw": {
+        "title": "Network Morphism",
+        "authors": [
+          "Tao Wei",
+          "Changhu Wang",
+          "Yong Rui",
+          "Chang Wen Chen"
+        ],
+        "year": 2016,
+        "doi": null,
+        "arxiv_id": "1603.01670"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1603.01670&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ofa",
+      "raw": {
+        "title": "Once-for-All: Train One Network and Specialize it for Efficient Deployment",
+        "authors": [
+          "Cai, Han",
+          "Gan, Chuang",
+          "Wang, Tianzhe",
+          "Zhang, Zhekai",
+          "Han, Song"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Once-for-All%3A+Train+One+Network+and+Specialize+it+for+Efficient+Deployment&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "nsganetv2",
+      "raw": {
+        "title": "NSGANetV2: Evolutionary Multi-Objective Surrogate-Assisted Neural Architecture Search",
+        "authors": [
+          "Zhichao Lu",
+          "Kalyanmoy Deb",
+          "Erik Goodman",
+          "Wolfgang Banzhaf",
+          "Vishnu Naresh Boddeti"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=NSGANetV2%3A+Evolutionary+Multi-Objective+Surrogate-Assisted+Neural+Architecture+Search&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "mobilenets",
+      "raw": {
+        "title": "Mobilenets: Efficient convolutional neural networks for mobile vision applications",
+        "authors": [
+          "Howard, Andrew G"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Mobilenets%3A+Efficient+convolutional+neural+networks+for+mobile+vision+applications&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "lorraine2020optimizing",
+      "raw": {
+        "title": "Optimizing millions of hyperparameters by implicit differentiation",
+        "authors": [
+          "Lorraine, Jonathan",
+          "Vicol, Paul",
+          "Duvenaud, David"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Optimizing+millions+of+hyperparameters+by+implicit+differentiation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "a2m",
+      "raw": {
+        "title": "Architecture-Aware Minimization (A$^2$M): How to Find Flat Minima in Neural Architecture Search",
+        "authors": [
+          "Matteo Gambella",
+          "Fabrizio Pittorino",
+          "Manuel Roveri"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2503.10404"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2503.10404&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "shufflenetv2",
+      "raw": {
+        "title": "ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design",
+        "authors": [
+          "Ma, Ningning",
+          "Zhang, Xiangyu",
+          "Zheng, Hai-Tao",
+          "Sun, Jian"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=ShuffleNet+V2%3A+Practical+Guidelines+for+Efficient+CNN+Architecture+Design&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "dna",
+      "raw": {
+        "title": "Towards Distributed Neural Architectures",
+        "authors": [
+          "Aditya Cowsik",
+          "Tianyu He",
+          "Andrey Gromov"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2506.22389"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2506.22389&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zodarts",
+      "raw": {
+        "title": "ZO-DARTS: Differentiable Architecture Search with Zeroth-Order Approximation",
+        "authors": [
+          "Xie, Lunchen",
+          "Huang, Kaiyu",
+          "Xu, Fan",
+          "Shi, Qingjiang"
+        ],
+        "year": 2023,
+        "doi": "10.1109/ICASSP49357.2023.10096612",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4372260350",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "ZO-DARTS: Differentiable Architecture Search with Zeroth-Order Approximation",
+        "year": 2023,
+        "authors": [
+          "Lunchen Xie",
+          "Kaiyu Huang",
+          "Fan Xu",
+          "Qingjiang Shi"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "zodarts++",
+      "raw": {
+        "title": "ZO-DARTS++: An Efficient and Size-Variable Zeroth-Order Neural Architecture Search Algorithm",
+        "authors": [
+          "Lunchen Xie",
+          "Eugenio Lomurno",
+          "Matteo Gambella",
+          "Danilo Ardagna",
+          "Manual Roveri",
+          "Matteo Matteucci",
+          "Qingjiang Shi"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2503.06092"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2503.06092&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zodarts+",
+      "raw": {
+        "title": "An Efficient Neural Architecture Search Model for Medical Image Classification",
+        "authors": [
+          "Lunchen Xie",
+          "Eugenio Lomurno",
+          "Matteo Gambella",
+          "Danilo Ardagna",
+          "Manuel Roveri",
+          "Matteo Matteucci",
+          "Qingjiang Shi"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=An+Efficient+Neural+Architecture+Search+Model+for+Medical+Image+Classification&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "flatnas",
+      "raw": {
+        "title": "FlatNAS: optimizing Flatness in Neural Architecture Search for Out-of-Distribution Robustness",
+        "authors": [
+          "Gambella, Matteo",
+          "Pittorino, Fabrizio",
+          "Roveri, Manuel"
+        ],
+        "year": 2024,
+        "doi": "10.1109/IJCNN60899.2024.10650433",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4402352334",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "FlatNAS: optimizing Flatness in Neural Architecture Search for Out-of-Distribution Robustness",
+        "year": 2024,
+        "authors": [
+          "Matteo Gambella",
+          "Fabrizio Pittorino",
+          "Manuel Roveri"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "seal",
+      "raw": {
+        "title": "SEAL: Searching Expandable Architectures for Incremental Learning",
+        "authors": [
+          "Matteo Gambella",
+          "Vicente Javier Castro Solar",
+          "Manuel Roveri"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2505.10457"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2505.10457&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "cnas",
+      "raw": {
+        "title": "CNAS: Constrained Neural Architecture Search",
+        "authors": [
+          "Gambella, Matteo",
+          "Falcetta, Alessandro",
+          "Roveri, Manuel"
+        ],
+        "year": 2022,
+        "doi": "10.1109/SMC53654.2022.9945080",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4309374366",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "CNAS: Constrained Neural Architecture Search",
+        "year": 2022,
+        "authors": [
+          "Matteo Gambella",
+          "Alessandro Falcetta",
+          "Manuel Roveri"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "nesbs",
+      "raw": {
+        "title": "Neural ensemble search via Bayesian sampling",
+        "authors": [
+          "Shu, Yao",
+          "Chen, Yizhou",
+          "Dai, Zhongxiang",
+          "Low, Bryan Kian Hsiang"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "spos",
+      "raw": {
+        "title": "Single Path One-Shot Neural Architecture Search with Uniform Sampling",
+        "authors": [
+          "Guo, Zichao",
+          "Zhang, Xiangyu",
+          "Mu, Haoyuan",
+          "Heng, Wen",
+          "Liu, Zechun",
+          "Wei, Yichen",
+          "Sun, Jian"
+        ],
+        "year": 2020,
+        "doi": "10.1007/978-3-030-58517-4_32",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3096533519",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Single Path One-Shot Neural Architecture Search with Uniform Sampling",
+        "year": 2020,
+        "authors": [
+          "Zichao Guo",
+          "Xiangyu Zhang",
+          "Haoyuan Mu",
+          "Wen Heng",
+          "Zechun Liu",
+          "Yichen Wei",
+          "Jian Sun"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "branchynet",
+      "raw": {
+        "title": "BranchyNet: Fast Inference via Early Exiting from Deep Neural Networks",
+        "authors": [
+          "Teerapittayanon, Surat",
+          "McDanel, Bradley",
+          "Kung, H. T."
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": "1709.01686"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1709.01686&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "lottery_ticket_hypothesis",
+      "raw": {
+        "title": "The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks",
+        "authors": [
+          "Frankle, Jonathan",
+          "Carbin, Michael"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": "1803.03635"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1803.03635&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "marquez_deep_2018",
+      "raw": {
+        "title": "Deep Cascade Learning",
+        "authors": [
+          "Marquez, Enrique S.",
+          "Hare, Jonathon S.",
+          "Niranjan, Mahesan"
+        ],
+        "year": 2018,
+        "doi": "10.1109/TNNLS.2018.2805098",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2788295695",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Deep Cascade Learning",
+        "year": 2018,
+        "authors": [
+          "Enrique Quintero Mármol Márquez",
+          "Jonathon Hare",
+          "Mahesan Niranjan"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "knowledgedistillation",
+      "raw": {
+        "title": "Modeling Teacher-Student Techniques in Deep Neural Networks for Knowledge Distillation",
+        "authors": [
+          "Sajjad Abbasi",
+          "Mohsen Hajabdollahi",
+          "Nader Karimi",
+          "Shadrokh Samavi"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": "1912.13179"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1912.13179&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "biglittleDNN",
+      "raw": {
+        "title": "Big/little deep neural network for ultra low power inference",
+        "authors": [
+          "Park, Eunhyeok",
+          "Kim, Dongyoung",
+          "Kim, Soobeom",
+          "Kim, Yong-Deok",
+          "Kim, Gunhee",
+          "Yoon, Sungroh",
+          "Yoo, Sungjoo"
+        ],
+        "year": 2015,
+        "doi": "10.1109/CODESISSS.2015.7331375",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4243928383",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Big/little deep neural network for ultra low power inference",
+        "year": 2015,
+        "authors": [
+          "Eunhyeok Park",
+          "Dongyoung Kim",
+          "Soobeom Kim",
+          "Yong‐Deok Kim",
+          "Gunhee Kim",
+          "Sungroh Yoon",
+          "Sungjoo Yoo"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "overfitting",
+      "raw": {
+        "title": "An Overview of Overfitting and its Solutions",
+        "authors": [
+          "Ying, Xue"
+        ],
+        "year": 2019,
+        "doi": "10.1088/1742-6596/1168/2/022022",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2922073769",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "An Overview of Overfitting and its Solutions",
+        "year": 2019,
+        "authors": [
+          "Ying Xue"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "scardapane_differentiable_2020",
+      "raw": {
+        "title": "Differentiable Branching In Deep Networks for Fast Inference",
+        "authors": [
+          "Scardapane, Simone",
+          "Comminiello, Danilo",
+          "Scarpiniti, Michele",
+          "Baccarelli, Enzo",
+          "Uncini, Aurelio"
+        ],
+        "year": 2020,
+        "doi": "10.1109/ICASSP40776.2020.9054209",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3016208860",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Differentiable Branching In Deep Networks for Fast Inference",
+        "year": 2020,
+        "authors": [
+          "Simone Scardapane",
+          "Danilo Comminiello",
+          "Michele Scarpiniti",
+          "Enzo Baccarelli",
+          "Aurelio Uncini"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "designadaptNN",
+      "raw": {
+        "title": "Designing Adaptive Neural Networks for Energy-Constrained Image Classification",
+        "authors": [
+          "Stamoulis, Dimitrios",
+          "Chin, Ting-Wu",
+          "Prakash, Anand Krishnan",
+          "Fang, Haocheng",
+          "Sajja, Sribhuvan",
+          "Bognar, Mitchell",
+          "Marculescu, Diana"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": "1808.01550"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1808.01550&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "surveydynamicNN",
+      "raw": {
+        "title": "Dynamic Neural Networks: A Survey",
+        "authors": [
+          "Yizeng Han",
+          "Gao Huang",
+          "Shiji Song",
+          "Le Yang",
+          "Honghui Wang",
+          "Yulin Wang"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": "2102.04906"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2102.04906&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "eexnas",
+      "raw": {
+        "title": "EExNAS: Early-Exit Neural Architecture Search Solutions for Low-Power Wearable Devices",
+        "authors": [
+          "Odema, Mohanad",
+          "Rashid, Nafiul",
+          "Faruque, Mohammad Abdullah Al"
+        ],
+        "year": 2021,
+        "doi": "10.1109/ISLPED52811.2021.9502503",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3188991715",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "EExNAS: Early-Exit Neural Architecture Search Solutions for Low-Power Wearable Devices",
+        "year": 2021,
+        "authors": [
+          "Mohanad Odema",
+          "Nafiul Rashid",
+          "Mohammad Abdullah Al Faruque"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "esai",
+      "raw": {
+        "title": "ESAI: Efficient Split Artificial Intelligence via Early Exiting Using Neural Architecture Search",
+        "authors": [
+          "Zeinali, Behnam",
+          "Zhuang, Di",
+          "Chang, J. Morris"
+        ],
+        "year": 2025,
+        "doi": "10.1109/TETCI.2024.3485677",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4405968083",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "ESAI: Efficient Split Artificial Intelligence via Early Exiting Using Neural Architecture Search",
+        "year": 2025,
+        "authors": [
+          "Behnam Zeinali",
+          "Di Zhuang",
+          "J. Morris Chang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "hadas",
+      "raw": {
+        "title": "HADAS: Hardware-Aware Dynamic Neural Architecture Search for Edge Performance Scaling",
+        "authors": [
+          "Bouzidi, Halima",
+          "Odema, Mohanad",
+          "Ouarnoughi, Hamza",
+          "Al Faruque, Mohammad Abdullah",
+          "Niar, Smail"
+        ],
+        "year": 2023,
+        "doi": "10.23919/DATE56975.2023.10137095",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4315699675",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "HADAS: Hardware-Aware Dynamic Neural Architecture Search for Edge Performance Scaling",
+        "year": 2023,
+        "authors": [
+          "Halima Bouzidi",
+          "Mohanad Odema",
+          "Hamza Ouarnouhgi",
+          "Mohammad Abdullah Al Faruque",
+          "Smaïl Niar"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Demir2024EENets",
+      "raw": {
+        "title": "Early-Exit Convolutional Neural Networks",
+        "authors": [
+          "Demir, Aslan",
+          "Akbas, Emre"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2409.05336"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2409.05336&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Sponner2024TemporalEENN",
+      "raw": {
+        "title": "Temporal Decisions: Leveraging Temporal Correlation for Efficient Decisions in Early Exit Neural Networks",
+        "authors": [
+          "Sponner, Lukas",
+          "Frick, Marcel",
+          "Zell, Andreas"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2403.07958"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2403.07958&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "naserex",
+      "raw": {
+        "title": "NASEREX: Optimizing Early Exits via AutoML for Scalable Efficient Inference in Big Image Streams",
+        "authors": [
+          "Kapoor, Aakash",
+          "Soans, Rajath Elias",
+          "Dixit, Soham",
+          "Ns, Pradeep",
+          "Singh, Brijraj",
+          "Das, Mayukh"
+        ],
+        "year": 2023,
+        "doi": "10.1109/BigData59044.2023.10386502",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4391096164",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "NASEREX: Optimizing Early Exits via AutoML for Scalable Efficient Inference in Big Image Streams",
+        "year": 2023,
+        "authors": [
+          "A. S. Kapoor",
+          "Rajath Elias Soans",
+          "Soham Dixit",
+          "Pradeep NS",
+          "Brijraj Singh",
+          "Mayukh Das"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "harvnet",
+      "raw": {
+        "title": "HarvNet: Resource-Optimized Operation of Multi-Exit Deep Neural Networks on Energy Harvesting Devices",
+        "authors": [
+          "Jeon, Seunghyeok",
+          "Choi, Yonghun",
+          "Cho, Yeonwoo",
+          "Cha, Hojung"
+        ],
+        "year": 2023,
+        "doi": "10.1145/3581791.3596845",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4380925920",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "HarvNet: Resource-Optimized Operation of Multi-Exit Deep Neural Networks on Energy Harvesting Devices",
+        "year": 2023,
+        "authors": [
+          "Seunghyeok Jeon",
+          "Yonghun Choi",
+          "Yeonwoo Cho",
+          "Hojung Cha"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "dynamax",
+      "raw": {
+        "title": "DYNAMAX: Dynamic computing for Transformers and Mamba based architectures",
+        "authors": [
+          "Miguel Nogales",
+          "Matteo Gambella",
+          "Manuel Roveri"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2504.20922"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2504.20922&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "alicescardapane",
+      "raw": {
+        "title": "Alice's Adventures in a Differentiable Wonderland -- Volume I, A Tour of the Land",
+        "authors": [
+          "Simone Scardapane"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2404.17625"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2404.17625&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "schedulingearlyexits",
+      "raw": {
+        "title": "Scheduling Inputs in Early Exit Neural Networks",
+        "authors": [
+          "Casale, Giuliano",
+          "Roveri, Manuel"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Scheduling+Inputs+in+Early+Exit+Neural+Networks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "gibbon",
+      "raw": {
+        "title": "Gibbon: Efficient Co-Exploration of NN Model and Processing-In-Memory Architecture",
+        "authors": [
+          "Sun, Hanbo",
+          "Wang, Chenyu",
+          "Zhu, Zhenhua",
+          "Ning, Xuefei",
+          "Dai, Guohao",
+          "Yang, Huazhong",
+          "Wang, Yu"
+        ],
+        "year": 2022,
+        "doi": "10.23919/DATE54114.2022.9774605",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4280615760",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Gibbon: Efficient Co-Exploration of NN Model and Processing-In-Memory Architecture",
+        "year": 2022,
+        "authors": [
+          "Hanbo Sun",
+          "Chenyu Wang",
+          "Zhenhua Zhu",
+          "Xuefei Ning",
+          "Guohao Dai",
+          "Huazhong Yang",
+          "Yu Wang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "nacim",
+      "raw": {
+        "title": "Device-Circuit-Architecture Co-Exploration for Computing-in-Memory Neural Accelerators",
+        "authors": [
+          "Jiang, Weiwen",
+          "Lou, Qiuwen",
+          "Yan, Zheyu",
+          "Yang, Lei",
+          "Hu, Jingtong",
+          "Hu, Xiaobo Sharon",
+          "Shi, Yiyu"
+        ],
+        "year": 2021,
+        "doi": "10.1109/TC.2020.2991575",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3022053993",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Device-Circuit-Architecture Co-Exploration for Computing-in-Memory Neural Accelerators",
+        "year": 2020,
+        "authors": [
+          "Weiwen Jiang",
+          "Qiuwen Lou",
+          "Zheyu Yan",
+          "Lei Yang",
+          "Jingtong Hu",
+          "Xiaobo Sharon Hu",
+          "Yiyu Shi"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "wang2020apq",
+      "raw": {
+        "title": "APQ: Joint Search for Network Architecture, Pruning and Quantization Policy",
+        "authors": [
+          "Wang, Tong",
+          "Wang, Kai",
+          "Cai, Han",
+          "Lin, Ji",
+          "Liu, Zhijian",
+          "Wang, Haotian",
+          "Lin, Yujun",
+          "Han, Song"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=APQ%3A+Joint+Search+for+Network+Architecture%2C+Pruning+and+Quantization+Policy&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "banbury2021micronets",
+      "raw": {
+        "title": "MicroNets: Neural Network Architectures for Deploying TinyML Applications on Commodity Microcontrollers",
+        "authors": [
+          "Banbury, Colby",
+          "Zhou, Ching",
+          "Fedorov, Igor",
+          "Navarro, Rumen M.",
+          "Thakker, Utkarsh",
+          "Gope, Debidatta",
+          "Reddi, Vijay Janapa",
+          "Mattina, Matthew",
+          "Whatmough, Paul N."
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=MicroNets%3A+Neural+Network+Architectures+for+Deploying+TinyML+Applications+on+Commodity+Microcontrollers&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "diffusionNAS",
+      "raw": {
+        "title": "DiffusionNAG: Predictor-guided Neural Architecture Generation with Diffusion Models",
+        "authors": [
+          "Sohyun An",
+          "Hayeon Lee",
+          "Jaehyeong Jo",
+          "Seanie Lee",
+          "Sung Ju Hwang"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2305.16943"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2305.16943&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zeinaty2025",
+      "raw": {
+        "title": "Can LLMs Revolutionize the Design of Explainable and Efficient TinyML Models?",
+        "authors": [
+          "Christophe El Zeinaty",
+          "Wassim Hamidouche",
+          "Glenn Herrou",
+          "Daniel Menard",
+          "Merouane Debbah"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2504.09685"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2504.09685&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zeroshot",
+      "raw": {
+        "title": "Zero-Shot Neural Architecture Search: Challenges, Solutions, and Opportunities",
+        "authors": [
+          "Li, Guihong",
+          "Hoang, Duc",
+          "Bhardwaj, Kartikeya",
+          "Lin, Ming",
+          "Wang, Zhangyang",
+          "Marculescu, Radu"
+        ],
+        "year": 2024,
+        "doi": "10.1109/TPAMI.2024.3395423",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4396523227",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Zero-Shot Neural Architecture Search: Challenges, Solutions, and Opportunities",
+        "year": 2024,
+        "authors": [
+          "Guihong Li",
+          "Duc Hoang",
+          "Kartikeya Bhardwaj",
+          "Ming Lin",
+          "Zhangyang Wang",
+          "Radu Mărculescu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Mellor2021NASWOT",
+      "raw": {
+        "title": "Neural Architecture Search without Training",
+        "authors": [
+          "Mellor, Joe",
+          "Turner, Jack",
+          "Storkey, Amos J.",
+          "Crowley, Elliot J."
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Neural+Architecture+Search+without+Training&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "nsga-II",
+      "raw": {
+        "title": "A fast and elitist multiobjective genetic algorithm: NSGA-II",
+        "authors": [
+          "Deb, K.",
+          "Pratap, A.",
+          "Agarwal, S.",
+          "Meyarivan, T."
+        ],
+        "year": 2002,
+        "doi": "10.1109/4235.996017",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2126105956",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "A fast and elitist multiobjective genetic algorithm: NSGA-II",
+        "year": 2002,
+        "authors": [
+          "Kalyanmoy Deb",
+          "Amrit Pratap",
+          "Sakshi Agarwal",
+          "T. Meyarivan"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Jazbec2024FastSafe",
+      "raw": {
+        "title": "Fast yet Safe: Early-Exiting with Risk Control",
+        "authors": [
+          "Jazbec, Miha",
+          "Morerio, Pietro",
+          "Murino, Vittorio"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Guidez2025ERDE",
+      "raw": {
+        "title": "ERDE: Entropy-Regularized Distillation for Early-Exit Neural Networks",
+        "authors": [
+          "Guidez, Antoine",
+          "Robert, Clément",
+          "Baccouche, Moez"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2510.04856"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2510.04856&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "nes",
+      "raw": {
+        "title": "Neural ensemble search for uncertainty estimation and dataset shift",
+        "authors": [
+          "Zaidi, Sheheryar",
+          "Zela, Arber",
+          "Elsken, Thomas",
+          "Holmes, Chris",
+          "Hutter, Frank",
+          "Teh, Yee Whye"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Neural+ensemble+search+for+uncertainty+estimation+and+dataset+shift&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "lenas",
+      "raw": {
+        "title": "LENAS: Learning-Based Neural Architecture Search and Ensemble for 3-D Radiotherapy Dose Prediction",
+        "authors": [
+          "Lin, Yi",
+          "Liu, Yanfei",
+          "Chen, Hao",
+          "Yang, Xin",
+          "Ma, Kai",
+          "Zheng, Yefeng",
+          "Cheng, Kwang-Ting"
+        ],
+        "year": 2024,
+        "doi": "10.1109/TCYB.2024.3390769",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4396817413",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "LENAS: Learning-Based Neural Architecture Search and Ensemble for 3-D Radiotherapy Dose Prediction",
+        "year": 2024,
+        "authors": [
+          "Yi Lin",
+          "Yanfei Liu",
+          "Hao Chen",
+          "Xin Yang",
+          "Kai Ma",
+          "Yefeng Zheng",
+          "Kwang‐Ting Cheng"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "adanet",
+      "raw": {
+        "title": "AdaNet: adaptive structural learning of artificial neural networks",
+        "authors": [
+          "Cortes, Corinna",
+          "Gonzalvo, Xavier",
+          "Kuznetsov, Vitaly",
+          "Mohri, Mehryar",
+          "Yang, Scott"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=AdaNet%3A+adaptive+structural+learning+of+artificial+neural+networks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "huang2018learning",
+      "raw": {
+        "title": "Learning Deep ResNet Blocks Sequentially using Boosting Theory",
+        "authors": [
+          "Huang, Furong",
+          "Ash, Jordan",
+          "Langford, John",
+          "Schapire, Robert E."
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "macko2019improving",
+      "raw": {
+        "title": "Improving Neural Architecture Search Image Classifiers via Ensemble Learning",
+        "authors": [
+          "Macko, Vladimir",
+          "Weill, Charles",
+          "Mazzawi, Hanna",
+          "Gonzalvo, Javier"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": "1903.06236"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1903.06236&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "nasnet",
+      "raw": {
+        "title": "Learning Transferable Architectures for Scalable Image Recognition",
+        "authors": [
+          "Zoph, Barret",
+          "Vasudevan, Vijay",
+          "Shlens, Jonathon",
+          "Le, Quoc V."
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "neas",
+      "raw": {
+        "title": "One-Shot Neural Ensemble Architecture Search by Diversity-Guided Search Space Shrinking",
+        "authors": [
+          "Chen, Minghao",
+          "Fu, Jianlong",
+          "Ling, Haibin"
+        ],
+        "year": 2021,
+        "doi": "10.1109/CVPR46437.2021.01626",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3174470190",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "One-Shot Neural Ensemble Architecture Search by Diversity-Guided Search Space Shrinking",
+        "year": 2021,
+        "authors": [
+          "Minghao Chen",
+          "Jianlong Fu",
+          "Haibin Ling"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "saep",
+      "raw": {
+        "title": "Subarchitecture Ensemble Pruning in Neural Architecture Search",
+        "authors": [
+          "Bian, Yijun",
+          "Song, Qingquan",
+          "Du, Mengnan",
+          "Yao, Jun",
+          "Chen, Huanhuan",
+          "Hu, Xia"
+        ],
+        "year": 2022,
+        "doi": "10.1109/TNNLS.2021.3085299",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2978180945",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Subarchitecture Ensemble Pruning in Neural Architecture Search",
+        "year": 2021,
+        "authors": [
+          "Yijun Bian",
+          "Qingquan Song",
+          "Mengnan Du",
+          "Jun Yao",
+          "Huanhuan Chen",
+          "Xia Hu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "earlyexitensemble",
+      "raw": {
+        "title": "Early Exit Ensembles for Uncertainty Quantification",
+        "authors": [
+          "Qendro, Lorena",
+          "Campbell, Alexander",
+          "Lio, Pietro",
+          "Mascolo, Cecilia"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "depthuncertainty",
+      "raw": {
+        "title": "Depth Uncertainty in Neural Networks",
+        "authors": [
+          "Javier Antorán",
+          "James Urquhart Allingham",
+          "José Miguel Hernández-Lobato"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": "2006.08437"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2006.08437&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "MIMMO",
+      "raw": {
+        "title": "MIMMO: Multi-Input Massive Multi-Output Neural Network",
+        "authors": [
+          "Ferianc, Martin",
+          "Rodrigues, Miguel"
+        ],
+        "year": 2023,
+        "doi": "10.1109/CVPRW59228.2023.00480",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4385800960",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "MIMMO: Multi-Input Massive Multi-Output Neural Network",
+        "year": 2023,
+        "authors": [
+          "Martin Ferianc",
+          "Miguel R. D. Rodrigues"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "QUTE",
+      "raw": {
+        "title": "QUTE: Quantifying Uncertainty in TinyML models with Early-exit-assisted ensembles for model-monitoring",
+        "authors": [
+          "Ghanathe, Nikhil Pratap",
+          "Wilton, Steven J E"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "vanishinggradient",
+      "raw": {
+        "title": "On the difficulty of training Recurrent Neural Networks",
+        "authors": [
+          "Pascanu, Razvan",
+          "Mikolov, Tomas",
+          "Bengio, Yoshua"
+        ],
+        "year": 2013,
+        "doi": null,
+        "arxiv_id": "1211.5063"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1211.5063&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "TCN",
+      "raw": {
+        "title": "An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling",
+        "authors": [
+          "Bai, Shaojie",
+          "Kolter, J. Zico",
+          "Koltun, Vladlen"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": "1803.01271"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1803.01271&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "shallowdeepnetworks",
+      "raw": {
+        "title": "Shallow-Deep Networks: Understanding and Mitigating Network Overthinking",
+        "authors": [
+          "Kaya, Yigitcan",
+          "Hong, Sanghyun",
+          "Dumitras, Tudor"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": "1810.07052"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1810.07052&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "idk_cascades",
+      "raw": {
+        "title": "IDK Cascades: Fast Deep Learning by Learning not to Overthink",
+        "authors": [
+          "Wang, Xin",
+          "Luo, Yujia",
+          "Crankshaw, Daniel",
+          "Tumanov, Alexey",
+          "Yu, Fisher",
+          "Gonzalez, Joseph E."
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": "1706.00885"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1706.00885&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "scardapane_why_2020",
+      "raw": {
+        "title": "Why Should We Add Early Exits to Neural Networks?",
+        "authors": [
+          "Scardapane, Simone",
+          "Scarpiniti, Michele",
+          "Baccarelli, Enzo",
+          "Uncini, Aurelio"
+        ],
+        "year": 2020,
+        "doi": "10.1007/s12559-020-09734-4",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3019321633",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Why Should We Add Early Exits to Neural Networks?",
+        "year": 2020,
+        "authors": [
+          "Simone Scardapane",
+          "Michele Scarpiniti",
+          "Enzo Baccarelli",
+          "Aurelio Uncini"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "scalinglaw",
+      "raw": {
+        "title": "Scaling Laws for Neural Language Models",
+        "authors": [
+          "Kaplan, Jared",
+          "McCandlish, Sam",
+          "Henighan, Tom",
+          "Brown, Tom B.",
+          "Chess, Benjamin",
+          "Child, Rewon",
+          "Gray, Scott",
+          "Radford, Alec",
+          "Wu, Jeffrey",
+          "Amodei, Dario"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": "2001.08361"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2001.08361&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "alippi2017not",
+      "raw": {
+        "title": "The (not) far-away path to smart cyber-physical systems: An information-centric framework",
+        "authors": [
+          "Alippi, Cesare",
+          "Roveri, Manuel"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=The+%28not%29+far-away+path+to+smart+cyber-physical+systems%3A+An+information-centric+framework&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "rethinking_calibration",
+      "raw": {
+        "title": "Rethinking Calibration of Deep Neural Networks: Do Not Be Afraid of Overconfidence",
+        "authors": [
+          "Wang, Deng-Bao",
+          "Feng, Lei",
+          "Zhang, Min-Ling"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "ensemblelearning",
+      "raw": {
+        "title": "A Survey of Ensemble Learning: Concepts, Algorithms, Applications, and Prospects",
+        "authors": [
+          "Mienye, Ibomoiye Domor",
+          "Sun, Yanxia"
+        ],
+        "year": 2022,
+        "doi": "10.1109/ACCESS.2022.3207287",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4296079469",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "A Survey of Ensemble Learning: Concepts, Algorithms, Applications, and Prospects",
+        "year": 2022,
+        "authors": [
+          "Ibomoiye Domor Mienye",
+          "Yanxia Sun"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "naeini2015obtaining",
+      "raw": {
+        "title": "Obtaining well calibrated probabilities using Bayesian binning",
+        "authors": [
+          "Naeini, Mahdi Pakdaman",
+          "Cooper, Gregory",
+          "Hauskrecht, Milos"
+        ],
+        "year": 2015,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Obtaining+well+calibrated+probabilities+using+Bayesian+binning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "guo2017calibration",
+      "raw": {
+        "title": "On calibration of modern neural networks",
+        "authors": [
+          "Guo, Chuan",
+          "Pleiss, Geoff",
+          "Sun, Yu",
+          "Weinberger, Kilian Q"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=On+calibration+of+modern+neural+networks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "averagingerror",
+      "raw": {
+        "title": "Deep Learning",
+        "authors": [
+          "Goodfellow, Ian",
+          "Bengio, Yoshua",
+          "Courville, Aaron"
+        ],
+        "year": 2016,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Deep+Learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ppd",
+      "raw": {
+        "title": "Deep Ensembles: A Loss Landscape Perspective",
+        "authors": [
+          "Fort, Stanislav",
+          "Hu, Huiyi",
+          "Lakshminarayanan, Balaji"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": "1912.02757"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1912.02757&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "cifar",
+      "raw": {
+        "title": "Learning Multiple Layers of Features from Tiny Images",
+        "authors": [
+          "Alex Krizhevsky"
+        ],
+        "year": 2009,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Learning+Multiple+Layers+of+Features+from+Tiny+Images&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "imagenet16",
+      "raw": {
+        "title": "A Downsampled Variant of ImageNet as an Alternative to the CIFAR datasets",
+        "authors": [
+          "Patryk Chrabaszcz",
+          "Ilya Loshchilov",
+          "Frank Hutter"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": "1707.08819"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1707.08819&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "han2021dynamic",
+      "raw": {
+        "title": "Dynamic Neural Networks: A Survey",
+        "authors": [
+          "Han, Yizeng",
+          "Wang, Ruizhong",
+          "Xu, Chao",
+          "Xu, Chunjie"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Dynamic+Neural+Networks%3A+A+Survey&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "cheng2020instanas",
+      "raw": {
+        "title": "InstaNAS: Instance-Aware Neural Architecture Search",
+        "authors": [
+          "Cheng, An-Chieh",
+          "Lin, Chieh Hubert",
+          "Juan, Da-Cheng",
+          "Wei, Wei",
+          "Sun, Min"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=InstaNAS%3A+Instance-Aware+Neural+Architecture+Search&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "yuan2020s2dnas",
+      "raw": {
+        "title": "S2DNAS: Transforming Static CNN Model for Dynamic Inference via Neural Architecture Search",
+        "authors": [
+          "Yuan, Bingzhe",
+          "Liang, Dong",
+          "Zhang, Chao",
+          "Liang, Zhiyang",
+          "Zhang, Chao",
+          "Zheng, Liang"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=S2DNAS%3A+Transforming+Static+CNN+Model+for+Dynamic+Inference+via+Neural+Architecture+Search&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "gambella2023edanas",
+      "raw": {
+        "title": "EDANAS: Adaptive Neural Architecture Search for Early Exit Neural Networks",
+        "authors": [
+          "Gambella, Matteo",
+          "Roveri, Manuel"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=EDANAS%3A+Adaptive+Neural+Architecture+Search+for+Early+Exit+Neural+Networks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "nachos",
+      "raw": {
+        "title": "NACHOS: Neural Architecture Search for Hardware-Constrained Early-Exit Neural Networks",
+        "authors": [
+          "Gambella, Matteo",
+          "Pomponi, Jary",
+          "Scardapane, Simone",
+          "Roveri, Manuel"
+        ],
+        "year": 2025,
+        "doi": "10.1109/TNNLS.2025.3588558",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4412536445",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "NACHOS: Neural Architecture Search for Hardware-Constrained Early-Exit Neural Networks",
+        "year": 2025,
+        "authors": [
+          "Matteo Gambella",
+          "Jary Pomponi",
+          "Simone Scardapane",
+          "Manuel Roveri"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "nasframework",
+      "raw": {
+        "title": "Neural architecture search: A contemporary literature review for computer vision applications",
+        "authors": [
+          "Matt Poyser",
+          "Toby P. Breckon"
+        ],
+        "year": 2024,
+        "doi": "https://doi.org/10.1016/j.patcog.2023.110052",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4387910965",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Neural architecture search: A contemporary literature review for computer vision applications",
+        "year": 2023,
+        "authors": [
+          "Matt Poyser",
+          "Toby P. Breckon"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "elsken2020meta",
+      "raw": {
+        "title": "Meta-Learning of Neural Architectures for Few-Shot Learning",
+        "authors": [
+          "Elsken, Thomas",
+          "Staffler, Benedikt",
+          "Metzen, Jan Hendrik",
+          "Hutter, Frank"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Meta-Learning+of+Neural+Architectures+for+Few-Shot+Learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "hosseini2022saliency",
+      "raw": {
+        "title": "Saliency-Aware Neural Architecture Search",
+        "authors": [
+          "Hosseini, Ramtin",
+          "Xie, Pengtao"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Saliency-Aware+Neural+Architecture+Search&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Han2022Learning",
+      "raw": {
+        "title": "Learning to Weight Samples for Dynamic Early-exiting Networks",
+        "authors": [
+          "Yizeng Han",
+          "Yifan Pu",
+          "Zihang Lai",
+          "Chaofei Wang",
+          "Shiji Song",
+          "Junfen Cao",
+          "Wenhui Huang",
+          "Chao Deng",
+          "Gao Huang"
+        ],
+        "year": 2022,
+        "doi": "10.1007/978-3-031-20083-0_22",
+        "arxiv_id": "2209.08310"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4312429345",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Learning to Weight Samples for Dynamic Early-Exiting Networks",
+        "year": 2022,
+        "authors": [
+          "Yizeng Han",
+          "Yifan Pu",
+          "Zihang Lai",
+          "Chaofei Wang",
+          "Shiji Song",
+          "Junfeng Cao",
+          "Wenhui Huang",
+          "Chao Deng",
+          "Gao Huang"
+        ]
+      },
+      "title_similarity": 0.9180327868852458,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Kulvicius2023Combining",
+      "raw": {
+        "title": "Combining Optimal Path Search With Task-Dependent Learning in a Neural Network",
+        "authors": [
+          "Tomas Kulvicius",
+          "Minija Tamosiunaite",
+          "Florentin W{\\\"o}rg{\\\"o}tter"
+        ],
+        "year": 2023,
+        "doi": "10.1109/TNNLS.2023.3327103",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4221143668",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Combining Optimal Path Search With Task-Dependent Learning in a Neural Network",
+        "year": 2023,
+        "authors": [
+          "Tomas Kulvičius",
+          "Minija Tamošiūnaitė",
+          "Florentin Wörgötter"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "nasbench201",
+      "raw": {
+        "title": "NAS-Bench-201: Extending the Scope of Reproducible Neural Architecture Search",
+        "authors": [
+          "Dong, Xuanyi",
+          "Yang, Yi"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=NAS-Bench-201%3A+Extending+the+Scope+of+Reproducible+Neural+Architecture+Search&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "liu_darts_2019",
+      "raw": {
+        "title": "DARTS: Differentiable Architecture Search",
+        "authors": [
+          "Hanxiao Liu",
+          "Karen Simonyan",
+          "Yiming Yang"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "snas",
+      "raw": {
+        "title": "SNAS: Stochastic Neural Architecture Search",
+        "authors": [
+          "Xie, Sirui",
+          "Zheng, Hehui",
+          "Liu, Chunxiao",
+          "Lin, Liang"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=SNAS%3A+Stochastic+Neural+Architecture+Search&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "dsnas",
+      "raw": {
+        "title": "DSNAS: Direct Neural Architecture Search without Parameter Retraining",
+        "authors": [
+          "Hu, Shoukang",
+          "Xie, Sirui",
+          "Zheng, Hehui",
+          "Liu, Chunxiao",
+          "Shi, Jianping",
+          "Liu, Xunying",
+          "Lin, Dahua"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=DSNAS%3A+Direct+Neural+Architecture+Search+without+Parameter+Retraining&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "qosnas",
+      "raw": {
+        "title": "QoS-aware Neural Architecture Search",
+        "authors": [
+          "Cheng, An-Chieh",
+          "Lin, Chieh Hubert",
+          "Juan, Da-Cheng",
+          "Wei, Wei",
+          "Sun, Min"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=QoS-aware+Neural+Architecture+Search&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "fairnas",
+      "raw": {
+        "title": "FairNAS: Rethinking Evaluation Fairness of Weight Sharing Neural Architecture Search",
+        "authors": [
+          "Xiangxiang Chu",
+          "Bo Zhang",
+          "Ruijun Xu"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": "1907.01845"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1907.01845&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "betadarts",
+      "raw": {
+        "title": "$\\beta$-DARTS: Beta-Decay Regularization for Differentiable Architecture Search",
+        "authors": [
+          "Ye, Peng",
+          "Li, Baopu",
+          "Li, Yikang",
+          "Chen, Tao",
+          "Fan, Jiayuan",
+          "Ouyang, Wanli"
+        ],
+        "year": 2022,
+        "doi": "10.1109/CVPR52688.2022.01060",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4312545227",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "$\\beta$-DARTS: Beta-Decay Regularization for Differentiable Architecture Search",
+        "year": 2022,
+        "authors": [
+          "Peng Ye",
+          "Baopu Li",
+          "Yikang Li",
+          "Tao Chen",
+          "Jiayuan Fan",
+          "Wanli Ouyang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "betadarts++",
+      "raw": {
+        "title": "$\\beta$-DARTS++: Bi-level Regularization for Proxy-robust Differentiable Architecture Search",
+        "authors": [
+          "Peng Ye",
+          "Tong He",
+          "Baopu Li",
+          "Tao Chen",
+          "Lei Bai",
+          "Wanli Ouyang"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": "2301.06393"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2301.06393&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "liang2019darts+",
+      "raw": {
+        "title": "Darts+: Improved differentiable architecture search with early stopping",
+        "authors": [
+          "Liang, Hanwen",
+          "Zhang, Shifeng",
+          "Sun, Jiacheng",
+          "He, Xingqiu",
+          "Huang, Weiran",
+          "Zhuang, Kechen",
+          "Li, Zhenguo"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Darts%2B%3A+Improved+differentiable+architecture+search+with+early+stopping&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "pc-darts",
+      "raw": {
+        "title": "PC-DARTS: Partial Channel Connections for Memory-Efficient Architecture Search",
+        "authors": [
+          "Xu, Yuhui",
+          "Xie, Lingxi",
+          "Zhang, Xiaopeng",
+          "Chen, Xin",
+          "Qi, Guo-Jun",
+          "Tian, Qi",
+          "Xiong, Hui"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=PC-DARTS%3A+Partial+Channel+Connections+for+Memory-Efficient+Architecture+Search&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "darts-",
+      "raw": {
+        "title": "\\DARTS\\-: Robustly Stepping out of Performance Collapse Without Indicators",
+        "authors": [
+          "Xiangxiang Chu",
+          "Xiaoxing Wang",
+          "Bo Zhang",
+          "Shun Lu",
+          "Xiaolin Wei",
+          "Junchi Yan"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "chu2020fair",
+      "raw": {
+        "title": "Fair darts: Eliminating unfair advantages in differentiable architecture search",
+        "authors": [
+          "Chu, Xiangxiang",
+          "Zhou, Tianbao",
+          "Zhang, Bo",
+          "Li, Jixiang"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Fair+darts%3A+Eliminating+unfair+advantages+in+differentiable+architecture+search&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "nas_survey_components",
+      "raw": {
+        "title": "A Survey on Neural Architecture Search",
+        "authors": [
+          "Wistuba, Martin",
+          "Rawat, Ambrish",
+          "Pedapati, Tejaswini"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=A+Survey+on+Neural+Architecture+Search&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "kendalltau",
+      "raw": {
+        "title": "A New Measure of Rank Correlation",
+        "authors": [
+          "M. G. Kendall"
+        ],
+        "year": 1938,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "rlsurvey",
+      "raw": {
+        "title": "Reinforcement Learning: A Survey",
+        "authors": [
+          "L. P. Kaelbling",
+          "M. L. Littman",
+          "A. W. Moore"
+        ],
+        "year": 1996,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Reinforcement+Learning%3A+A+Survey&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "eabook",
+      "raw": {
+        "title": "Handbook of Evolutionary Computation",
+        "authors": [
+          "Back, Thomas",
+          "Fogel, David B.",
+          "Michalewicz, Zbigniew"
+        ],
+        "year": 1997,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Handbook+of+Evolutionary+Computation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "eaoptimization",
+      "raw": {
+        "title": "Evolutionary Computation for Modeling and Optimization",
+        "authors": [
+          "Ashlock, Daniel"
+        ],
+        "year": 2010,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Evolutionary+Computation+for+Modeling+and+Optimization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "networkmorphism",
+      "raw": {
+        "title": "Network Morphism",
+        "authors": [
+          "Tao Wei",
+          "Changhu Wang",
+          "Yong Rui",
+          "Chang Wen Chen"
+        ],
+        "year": 2016,
+        "doi": null,
+        "arxiv_id": "1603.01670"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1603.01670&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ofa",
+      "raw": {
+        "title": "Once-for-All: Train One Network and Specialize it for Efficient Deployment",
+        "authors": [
+          "Cai, Han",
+          "Gan, Chuang",
+          "Wang, Tianzhe",
+          "Zhang, Zhekai",
+          "Han, Song"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Once-for-All%3A+Train+One+Network+and+Specialize+it+for+Efficient+Deployment&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "nsganetv2",
+      "raw": {
+        "title": "NSGANetV2: Evolutionary Multi-Objective Surrogate-Assisted Neural Architecture Search",
+        "authors": [
+          "Zhichao Lu",
+          "Kalyanmoy Deb",
+          "Erik Goodman",
+          "Wolfgang Banzhaf",
+          "Vishnu Naresh Boddeti"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=NSGANetV2%3A+Evolutionary+Multi-Objective+Surrogate-Assisted+Neural+Architecture+Search&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "mobilenets",
+      "raw": {
+        "title": "Mobilenets: Efficient convolutional neural networks for mobile vision applications",
+        "authors": [
+          "Howard, Andrew G"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Mobilenets%3A+Efficient+convolutional+neural+networks+for+mobile+vision+applications&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "lorraine2020optimizing",
+      "raw": {
+        "title": "Optimizing millions of hyperparameters by implicit differentiation",
+        "authors": [
+          "Lorraine, Jonathan",
+          "Vicol, Paul",
+          "Duvenaud, David"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Optimizing+millions+of+hyperparameters+by+implicit+differentiation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "a2m",
+      "raw": {
+        "title": "Architecture-Aware Minimization (A$^2$M): How to Find Flat Minima in Neural Architecture Search",
+        "authors": [
+          "Matteo Gambella",
+          "Fabrizio Pittorino",
+          "Manuel Roveri"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2503.10404"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2503.10404&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "shufflenetv2",
+      "raw": {
+        "title": "ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design",
+        "authors": [
+          "Ma, Ningning",
+          "Zhang, Xiangyu",
+          "Zheng, Hai-Tao",
+          "Sun, Jian"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=ShuffleNet+V2%3A+Practical+Guidelines+for+Efficient+CNN+Architecture+Design&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "dna",
+      "raw": {
+        "title": "Towards Distributed Neural Architectures",
+        "authors": [
+          "Aditya Cowsik",
+          "Tianyu He",
+          "Andrey Gromov"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2506.22389"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2506.22389&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zodarts",
+      "raw": {
+        "title": "ZO-DARTS: Differentiable Architecture Search with Zeroth-Order Approximation",
+        "authors": [
+          "Xie, Lunchen",
+          "Huang, Kaiyu",
+          "Xu, Fan",
+          "Shi, Qingjiang"
+        ],
+        "year": 2023,
+        "doi": "10.1109/ICASSP49357.2023.10096612",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4372260350",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "ZO-DARTS: Differentiable Architecture Search with Zeroth-Order Approximation",
+        "year": 2023,
+        "authors": [
+          "Lunchen Xie",
+          "Kaiyu Huang",
+          "Fan Xu",
+          "Qingjiang Shi"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "zodarts++",
+      "raw": {
+        "title": "ZO-DARTS++: An Efficient and Size-Variable Zeroth-Order Neural Architecture Search Algorithm",
+        "authors": [
+          "Lunchen Xie",
+          "Eugenio Lomurno",
+          "Matteo Gambella",
+          "Danilo Ardagna",
+          "Manual Roveri",
+          "Matteo Matteucci",
+          "Qingjiang Shi"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2503.06092"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2503.06092&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zodarts+",
+      "raw": {
+        "title": "An Efficient Neural Architecture Search Model for Medical Image Classification",
+        "authors": [
+          "Lunchen Xie",
+          "Eugenio Lomurno",
+          "Matteo Gambella",
+          "Danilo Ardagna",
+          "Manuel Roveri",
+          "Matteo Matteucci",
+          "Qingjiang Shi"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=An+Efficient+Neural+Architecture+Search+Model+for+Medical+Image+Classification&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "flatnas",
+      "raw": {
+        "title": "FlatNAS: optimizing Flatness in Neural Architecture Search for Out-of-Distribution Robustness",
+        "authors": [
+          "Gambella, Matteo",
+          "Pittorino, Fabrizio",
+          "Roveri, Manuel"
+        ],
+        "year": 2024,
+        "doi": "10.1109/IJCNN60899.2024.10650433",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4402352334",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "FlatNAS: optimizing Flatness in Neural Architecture Search for Out-of-Distribution Robustness",
+        "year": 2024,
+        "authors": [
+          "Matteo Gambella",
+          "Fabrizio Pittorino",
+          "Manuel Roveri"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "seal",
+      "raw": {
+        "title": "SEAL: Searching Expandable Architectures for Incremental Learning",
+        "authors": [
+          "Matteo Gambella",
+          "Vicente Javier Castro Solar",
+          "Manuel Roveri"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2505.10457"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2505.10457&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "cnas",
+      "raw": {
+        "title": "CNAS: Constrained Neural Architecture Search",
+        "authors": [
+          "Gambella, Matteo",
+          "Falcetta, Alessandro",
+          "Roveri, Manuel"
+        ],
+        "year": 2022,
+        "doi": "10.1109/SMC53654.2022.9945080",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4309374366",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "CNAS: Constrained Neural Architecture Search",
+        "year": 2022,
+        "authors": [
+          "Matteo Gambella",
+          "Alessandro Falcetta",
+          "Manuel Roveri"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "nesbs",
+      "raw": {
+        "title": "Neural ensemble search via Bayesian sampling",
+        "authors": [
+          "Shu, Yao",
+          "Chen, Yizhou",
+          "Dai, Zhongxiang",
+          "Low, Bryan Kian Hsiang"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "spos",
+      "raw": {
+        "title": "Single Path One-Shot Neural Architecture Search with Uniform Sampling",
+        "authors": [
+          "Guo, Zichao",
+          "Zhang, Xiangyu",
+          "Mu, Haoyuan",
+          "Heng, Wen",
+          "Liu, Zechun",
+          "Wei, Yichen",
+          "Sun, Jian"
+        ],
+        "year": 2020,
+        "doi": "10.1007/978-3-030-58517-4_32",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3096533519",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Single Path One-Shot Neural Architecture Search with Uniform Sampling",
+        "year": 2020,
+        "authors": [
+          "Zichao Guo",
+          "Xiangyu Zhang",
+          "Haoyuan Mu",
+          "Wen Heng",
+          "Zechun Liu",
+          "Yichen Wei",
+          "Jian Sun"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "branchynet",
+      "raw": {
+        "title": "BranchyNet: Fast Inference via Early Exiting from Deep Neural Networks",
+        "authors": [
+          "Teerapittayanon, Surat",
+          "McDanel, Bradley",
+          "Kung, H. T."
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": "1709.01686"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1709.01686&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "lottery_ticket_hypothesis",
+      "raw": {
+        "title": "The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks",
+        "authors": [
+          "Frankle, Jonathan",
+          "Carbin, Michael"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": "1803.03635"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1803.03635&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "marquez_deep_2018",
+      "raw": {
+        "title": "Deep Cascade Learning",
+        "authors": [
+          "Marquez, Enrique S.",
+          "Hare, Jonathon S.",
+          "Niranjan, Mahesan"
+        ],
+        "year": 2018,
+        "doi": "10.1109/TNNLS.2018.2805098",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2788295695",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Deep Cascade Learning",
+        "year": 2018,
+        "authors": [
+          "Enrique Quintero Mármol Márquez",
+          "Jonathon Hare",
+          "Mahesan Niranjan"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "knowledgedistillation",
+      "raw": {
+        "title": "Modeling Teacher-Student Techniques in Deep Neural Networks for Knowledge Distillation",
+        "authors": [
+          "Sajjad Abbasi",
+          "Mohsen Hajabdollahi",
+          "Nader Karimi",
+          "Shadrokh Samavi"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": "1912.13179"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1912.13179&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "biglittleDNN",
+      "raw": {
+        "title": "Big/little deep neural network for ultra low power inference",
+        "authors": [
+          "Park, Eunhyeok",
+          "Kim, Dongyoung",
+          "Kim, Soobeom",
+          "Kim, Yong-Deok",
+          "Kim, Gunhee",
+          "Yoon, Sungroh",
+          "Yoo, Sungjoo"
+        ],
+        "year": 2015,
+        "doi": "10.1109/CODESISSS.2015.7331375",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4243928383",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Big/little deep neural network for ultra low power inference",
+        "year": 2015,
+        "authors": [
+          "Eunhyeok Park",
+          "Dongyoung Kim",
+          "Soobeom Kim",
+          "Yong‐Deok Kim",
+          "Gunhee Kim",
+          "Sungroh Yoon",
+          "Sungjoo Yoo"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "overfitting",
+      "raw": {
+        "title": "An Overview of Overfitting and its Solutions",
+        "authors": [
+          "Ying, Xue"
+        ],
+        "year": 2019,
+        "doi": "10.1088/1742-6596/1168/2/022022",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2922073769",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "An Overview of Overfitting and its Solutions",
+        "year": 2019,
+        "authors": [
+          "Ying Xue"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "scardapane_differentiable_2020",
+      "raw": {
+        "title": "Differentiable Branching In Deep Networks for Fast Inference",
+        "authors": [
+          "Scardapane, Simone",
+          "Comminiello, Danilo",
+          "Scarpiniti, Michele",
+          "Baccarelli, Enzo",
+          "Uncini, Aurelio"
+        ],
+        "year": 2020,
+        "doi": "10.1109/ICASSP40776.2020.9054209",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3016208860",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Differentiable Branching In Deep Networks for Fast Inference",
+        "year": 2020,
+        "authors": [
+          "Simone Scardapane",
+          "Danilo Comminiello",
+          "Michele Scarpiniti",
+          "Enzo Baccarelli",
+          "Aurelio Uncini"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "designadaptNN",
+      "raw": {
+        "title": "Designing Adaptive Neural Networks for Energy-Constrained Image Classification",
+        "authors": [
+          "Stamoulis, Dimitrios",
+          "Chin, Ting-Wu",
+          "Prakash, Anand Krishnan",
+          "Fang, Haocheng",
+          "Sajja, Sribhuvan",
+          "Bognar, Mitchell",
+          "Marculescu, Diana"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": "1808.01550"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1808.01550&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "surveydynamicNN",
+      "raw": {
+        "title": "Dynamic Neural Networks: A Survey",
+        "authors": [
+          "Yizeng Han",
+          "Gao Huang",
+          "Shiji Song",
+          "Le Yang",
+          "Honghui Wang",
+          "Yulin Wang"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": "2102.04906"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2102.04906&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "eexnas",
+      "raw": {
+        "title": "EExNAS: Early-Exit Neural Architecture Search Solutions for Low-Power Wearable Devices",
+        "authors": [
+          "Odema, Mohanad",
+          "Rashid, Nafiul",
+          "Faruque, Mohammad Abdullah Al"
+        ],
+        "year": 2021,
+        "doi": "10.1109/ISLPED52811.2021.9502503",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3188991715",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "EExNAS: Early-Exit Neural Architecture Search Solutions for Low-Power Wearable Devices",
+        "year": 2021,
+        "authors": [
+          "Mohanad Odema",
+          "Nafiul Rashid",
+          "Mohammad Abdullah Al Faruque"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "esai",
+      "raw": {
+        "title": "ESAI: Efficient Split Artificial Intelligence via Early Exiting Using Neural Architecture Search",
+        "authors": [
+          "Zeinali, Behnam",
+          "Zhuang, Di",
+          "Chang, J. Morris"
+        ],
+        "year": 2025,
+        "doi": "10.1109/TETCI.2024.3485677",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4405968083",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "ESAI: Efficient Split Artificial Intelligence via Early Exiting Using Neural Architecture Search",
+        "year": 2025,
+        "authors": [
+          "Behnam Zeinali",
+          "Di Zhuang",
+          "J. Morris Chang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "hadas",
+      "raw": {
+        "title": "HADAS: Hardware-Aware Dynamic Neural Architecture Search for Edge Performance Scaling",
+        "authors": [
+          "Bouzidi, Halima",
+          "Odema, Mohanad",
+          "Ouarnoughi, Hamza",
+          "Al Faruque, Mohammad Abdullah",
+          "Niar, Smail"
+        ],
+        "year": 2023,
+        "doi": "10.23919/DATE56975.2023.10137095",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4315699675",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "HADAS: Hardware-Aware Dynamic Neural Architecture Search for Edge Performance Scaling",
+        "year": 2023,
+        "authors": [
+          "Halima Bouzidi",
+          "Mohanad Odema",
+          "Hamza Ouarnouhgi",
+          "Mohammad Abdullah Al Faruque",
+          "Smaïl Niar"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Demir2024EENets",
+      "raw": {
+        "title": "Early-Exit Convolutional Neural Networks",
+        "authors": [
+          "Demir, Aslan",
+          "Akbas, Emre"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2409.05336"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2409.05336&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Sponner2024TemporalEENN",
+      "raw": {
+        "title": "Temporal Decisions: Leveraging Temporal Correlation for Efficient Decisions in Early Exit Neural Networks",
+        "authors": [
+          "Sponner, Lukas",
+          "Frick, Marcel",
+          "Zell, Andreas"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2403.07958"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2403.07958&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "naserex",
+      "raw": {
+        "title": "NASEREX: Optimizing Early Exits via AutoML for Scalable Efficient Inference in Big Image Streams",
+        "authors": [
+          "Kapoor, Aakash",
+          "Soans, Rajath Elias",
+          "Dixit, Soham",
+          "Ns, Pradeep",
+          "Singh, Brijraj",
+          "Das, Mayukh"
+        ],
+        "year": 2023,
+        "doi": "10.1109/BigData59044.2023.10386502",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4391096164",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "NASEREX: Optimizing Early Exits via AutoML for Scalable Efficient Inference in Big Image Streams",
+        "year": 2023,
+        "authors": [
+          "A. S. Kapoor",
+          "Rajath Elias Soans",
+          "Soham Dixit",
+          "Pradeep NS",
+          "Brijraj Singh",
+          "Mayukh Das"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "harvnet",
+      "raw": {
+        "title": "HarvNet: Resource-Optimized Operation of Multi-Exit Deep Neural Networks on Energy Harvesting Devices",
+        "authors": [
+          "Jeon, Seunghyeok",
+          "Choi, Yonghun",
+          "Cho, Yeonwoo",
+          "Cha, Hojung"
+        ],
+        "year": 2023,
+        "doi": "10.1145/3581791.3596845",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4380925920",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "HarvNet: Resource-Optimized Operation of Multi-Exit Deep Neural Networks on Energy Harvesting Devices",
+        "year": 2023,
+        "authors": [
+          "Seunghyeok Jeon",
+          "Yonghun Choi",
+          "Yeonwoo Cho",
+          "Hojung Cha"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "dynamax",
+      "raw": {
+        "title": "DYNAMAX: Dynamic computing for Transformers and Mamba based architectures",
+        "authors": [
+          "Miguel Nogales",
+          "Matteo Gambella",
+          "Manuel Roveri"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2504.20922"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2504.20922&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "alicescardapane",
+      "raw": {
+        "title": "Alice's Adventures in a Differentiable Wonderland -- Volume I, A Tour of the Land",
+        "authors": [
+          "Simone Scardapane"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2404.17625"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2404.17625&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "schedulingearlyexits",
+      "raw": {
+        "title": "Scheduling Inputs in Early Exit Neural Networks",
+        "authors": [
+          "Casale, Giuliano",
+          "Roveri, Manuel"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Scheduling+Inputs+in+Early+Exit+Neural+Networks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "gibbon",
+      "raw": {
+        "title": "Gibbon: Efficient Co-Exploration of NN Model and Processing-In-Memory Architecture",
+        "authors": [
+          "Sun, Hanbo",
+          "Wang, Chenyu",
+          "Zhu, Zhenhua",
+          "Ning, Xuefei",
+          "Dai, Guohao",
+          "Yang, Huazhong",
+          "Wang, Yu"
+        ],
+        "year": 2022,
+        "doi": "10.23919/DATE54114.2022.9774605",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4280615760",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Gibbon: Efficient Co-Exploration of NN Model and Processing-In-Memory Architecture",
+        "year": 2022,
+        "authors": [
+          "Hanbo Sun",
+          "Chenyu Wang",
+          "Zhenhua Zhu",
+          "Xuefei Ning",
+          "Guohao Dai",
+          "Huazhong Yang",
+          "Yu Wang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "nacim",
+      "raw": {
+        "title": "Device-Circuit-Architecture Co-Exploration for Computing-in-Memory Neural Accelerators",
+        "authors": [
+          "Jiang, Weiwen",
+          "Lou, Qiuwen",
+          "Yan, Zheyu",
+          "Yang, Lei",
+          "Hu, Jingtong",
+          "Hu, Xiaobo Sharon",
+          "Shi, Yiyu"
+        ],
+        "year": 2021,
+        "doi": "10.1109/TC.2020.2991575",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3022053993",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Device-Circuit-Architecture Co-Exploration for Computing-in-Memory Neural Accelerators",
+        "year": 2020,
+        "authors": [
+          "Weiwen Jiang",
+          "Qiuwen Lou",
+          "Zheyu Yan",
+          "Lei Yang",
+          "Jingtong Hu",
+          "Xiaobo Sharon Hu",
+          "Yiyu Shi"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "wang2020apq",
+      "raw": {
+        "title": "APQ: Joint Search for Network Architecture, Pruning and Quantization Policy",
+        "authors": [
+          "Wang, Tong",
+          "Wang, Kai",
+          "Cai, Han",
+          "Lin, Ji",
+          "Liu, Zhijian",
+          "Wang, Haotian",
+          "Lin, Yujun",
+          "Han, Song"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=APQ%3A+Joint+Search+for+Network+Architecture%2C+Pruning+and+Quantization+Policy&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "banbury2021micronets",
+      "raw": {
+        "title": "MicroNets: Neural Network Architectures for Deploying TinyML Applications on Commodity Microcontrollers",
+        "authors": [
+          "Banbury, Colby",
+          "Zhou, Ching",
+          "Fedorov, Igor",
+          "Navarro, Rumen M.",
+          "Thakker, Utkarsh",
+          "Gope, Debidatta",
+          "Reddi, Vijay Janapa",
+          "Mattina, Matthew",
+          "Whatmough, Paul N."
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=MicroNets%3A+Neural+Network+Architectures+for+Deploying+TinyML+Applications+on+Commodity+Microcontrollers&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "diffusionNAS",
+      "raw": {
+        "title": "DiffusionNAG: Predictor-guided Neural Architecture Generation with Diffusion Models",
+        "authors": [
+          "Sohyun An",
+          "Hayeon Lee",
+          "Jaehyeong Jo",
+          "Seanie Lee",
+          "Sung Ju Hwang"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2305.16943"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2305.16943&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zeinaty2025",
+      "raw": {
+        "title": "Can LLMs Revolutionize the Design of Explainable and Efficient TinyML Models?",
+        "authors": [
+          "Christophe El Zeinaty",
+          "Wassim Hamidouche",
+          "Glenn Herrou",
+          "Daniel Menard",
+          "Merouane Debbah"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2504.09685"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2504.09685&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zeroshot",
+      "raw": {
+        "title": "Zero-Shot Neural Architecture Search: Challenges, Solutions, and Opportunities",
+        "authors": [
+          "Li, Guihong",
+          "Hoang, Duc",
+          "Bhardwaj, Kartikeya",
+          "Lin, Ming",
+          "Wang, Zhangyang",
+          "Marculescu, Radu"
+        ],
+        "year": 2024,
+        "doi": "10.1109/TPAMI.2024.3395423",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4396523227",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Zero-Shot Neural Architecture Search: Challenges, Solutions, and Opportunities",
+        "year": 2024,
+        "authors": [
+          "Guihong Li",
+          "Duc Hoang",
+          "Kartikeya Bhardwaj",
+          "Ming Lin",
+          "Zhangyang Wang",
+          "Radu Mărculescu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Mellor2021NASWOT",
+      "raw": {
+        "title": "Neural Architecture Search without Training",
+        "authors": [
+          "Mellor, Joe",
+          "Turner, Jack",
+          "Storkey, Amos J.",
+          "Crowley, Elliot J."
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Neural+Architecture+Search+without+Training&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "nsga-II",
+      "raw": {
+        "title": "A fast and elitist multiobjective genetic algorithm: NSGA-II",
+        "authors": [
+          "Deb, K.",
+          "Pratap, A.",
+          "Agarwal, S.",
+          "Meyarivan, T."
+        ],
+        "year": 2002,
+        "doi": "10.1109/4235.996017",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2126105956",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "A fast and elitist multiobjective genetic algorithm: NSGA-II",
+        "year": 2002,
+        "authors": [
+          "Kalyanmoy Deb",
+          "Amrit Pratap",
+          "Sakshi Agarwal",
+          "T. Meyarivan"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Jazbec2024FastSafe",
+      "raw": {
+        "title": "Fast yet Safe: Early-Exiting with Risk Control",
+        "authors": [
+          "Jazbec, Miha",
+          "Morerio, Pietro",
+          "Murino, Vittorio"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Guidez2025ERDE",
+      "raw": {
+        "title": "ERDE: Entropy-Regularized Distillation for Early-Exit Neural Networks",
+        "authors": [
+          "Guidez, Antoine",
+          "Robert, Clément",
+          "Baccouche, Moez"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2510.04856"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2510.04856&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "nes",
+      "raw": {
+        "title": "Neural ensemble search for uncertainty estimation and dataset shift",
+        "authors": [
+          "Zaidi, Sheheryar",
+          "Zela, Arber",
+          "Elsken, Thomas",
+          "Holmes, Chris",
+          "Hutter, Frank",
+          "Teh, Yee Whye"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Neural+ensemble+search+for+uncertainty+estimation+and+dataset+shift&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "lenas",
+      "raw": {
+        "title": "LENAS: Learning-Based Neural Architecture Search and Ensemble for 3-D Radiotherapy Dose Prediction",
+        "authors": [
+          "Lin, Yi",
+          "Liu, Yanfei",
+          "Chen, Hao",
+          "Yang, Xin",
+          "Ma, Kai",
+          "Zheng, Yefeng",
+          "Cheng, Kwang-Ting"
+        ],
+        "year": 2024,
+        "doi": "10.1109/TCYB.2024.3390769",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4396817413",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "LENAS: Learning-Based Neural Architecture Search and Ensemble for 3-D Radiotherapy Dose Prediction",
+        "year": 2024,
+        "authors": [
+          "Yi Lin",
+          "Yanfei Liu",
+          "Hao Chen",
+          "Xin Yang",
+          "Kai Ma",
+          "Yefeng Zheng",
+          "Kwang‐Ting Cheng"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "adanet",
+      "raw": {
+        "title": "AdaNet: adaptive structural learning of artificial neural networks",
+        "authors": [
+          "Cortes, Corinna",
+          "Gonzalvo, Xavier",
+          "Kuznetsov, Vitaly",
+          "Mohri, Mehryar",
+          "Yang, Scott"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=AdaNet%3A+adaptive+structural+learning+of+artificial+neural+networks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "huang2018learning",
+      "raw": {
+        "title": "Learning Deep ResNet Blocks Sequentially using Boosting Theory",
+        "authors": [
+          "Huang, Furong",
+          "Ash, Jordan",
+          "Langford, John",
+          "Schapire, Robert E."
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "macko2019improving",
+      "raw": {
+        "title": "Improving Neural Architecture Search Image Classifiers via Ensemble Learning",
+        "authors": [
+          "Macko, Vladimir",
+          "Weill, Charles",
+          "Mazzawi, Hanna",
+          "Gonzalvo, Javier"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": "1903.06236"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1903.06236&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "nasnet",
+      "raw": {
+        "title": "Learning Transferable Architectures for Scalable Image Recognition",
+        "authors": [
+          "Zoph, Barret",
+          "Vasudevan, Vijay",
+          "Shlens, Jonathon",
+          "Le, Quoc V."
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "neas",
+      "raw": {
+        "title": "One-Shot Neural Ensemble Architecture Search by Diversity-Guided Search Space Shrinking",
+        "authors": [
+          "Chen, Minghao",
+          "Fu, Jianlong",
+          "Ling, Haibin"
+        ],
+        "year": 2021,
+        "doi": "10.1109/CVPR46437.2021.01626",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3174470190",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "One-Shot Neural Ensemble Architecture Search by Diversity-Guided Search Space Shrinking",
+        "year": 2021,
+        "authors": [
+          "Minghao Chen",
+          "Jianlong Fu",
+          "Haibin Ling"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "saep",
+      "raw": {
+        "title": "Subarchitecture Ensemble Pruning in Neural Architecture Search",
+        "authors": [
+          "Bian, Yijun",
+          "Song, Qingquan",
+          "Du, Mengnan",
+          "Yao, Jun",
+          "Chen, Huanhuan",
+          "Hu, Xia"
+        ],
+        "year": 2022,
+        "doi": "10.1109/TNNLS.2021.3085299",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2978180945",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Subarchitecture Ensemble Pruning in Neural Architecture Search",
+        "year": 2021,
+        "authors": [
+          "Yijun Bian",
+          "Qingquan Song",
+          "Mengnan Du",
+          "Jun Yao",
+          "Huanhuan Chen",
+          "Xia Hu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "earlyexitensemble",
+      "raw": {
+        "title": "Early Exit Ensembles for Uncertainty Quantification",
+        "authors": [
+          "Qendro, Lorena",
+          "Campbell, Alexander",
+          "Lio, Pietro",
+          "Mascolo, Cecilia"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "depthuncertainty",
+      "raw": {
+        "title": "Depth Uncertainty in Neural Networks",
+        "authors": [
+          "Javier Antorán",
+          "James Urquhart Allingham",
+          "José Miguel Hernández-Lobato"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": "2006.08437"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2006.08437&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "MIMMO",
+      "raw": {
+        "title": "MIMMO: Multi-Input Massive Multi-Output Neural Network",
+        "authors": [
+          "Ferianc, Martin",
+          "Rodrigues, Miguel"
+        ],
+        "year": 2023,
+        "doi": "10.1109/CVPRW59228.2023.00480",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4385800960",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "MIMMO: Multi-Input Massive Multi-Output Neural Network",
+        "year": 2023,
+        "authors": [
+          "Martin Ferianc",
+          "Miguel R. D. Rodrigues"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "QUTE",
+      "raw": {
+        "title": "QUTE: Quantifying Uncertainty in TinyML models with Early-exit-assisted ensembles for model-monitoring",
+        "authors": [
+          "Ghanathe, Nikhil Pratap",
+          "Wilton, Steven J E"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "vanishinggradient",
+      "raw": {
+        "title": "On the difficulty of training Recurrent Neural Networks",
+        "authors": [
+          "Pascanu, Razvan",
+          "Mikolov, Tomas",
+          "Bengio, Yoshua"
+        ],
+        "year": 2013,
+        "doi": null,
+        "arxiv_id": "1211.5063"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1211.5063&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "TCN",
+      "raw": {
+        "title": "An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling",
+        "authors": [
+          "Bai, Shaojie",
+          "Kolter, J. Zico",
+          "Koltun, Vladlen"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": "1803.01271"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1803.01271&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "shallowdeepnetworks",
+      "raw": {
+        "title": "Shallow-Deep Networks: Understanding and Mitigating Network Overthinking",
+        "authors": [
+          "Kaya, Yigitcan",
+          "Hong, Sanghyun",
+          "Dumitras, Tudor"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": "1810.07052"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1810.07052&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "idk_cascades",
+      "raw": {
+        "title": "IDK Cascades: Fast Deep Learning by Learning not to Overthink",
+        "authors": [
+          "Wang, Xin",
+          "Luo, Yujia",
+          "Crankshaw, Daniel",
+          "Tumanov, Alexey",
+          "Yu, Fisher",
+          "Gonzalez, Joseph E."
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": "1706.00885"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1706.00885&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "scardapane_why_2020",
+      "raw": {
+        "title": "Why Should We Add Early Exits to Neural Networks?",
+        "authors": [
+          "Scardapane, Simone",
+          "Scarpiniti, Michele",
+          "Baccarelli, Enzo",
+          "Uncini, Aurelio"
+        ],
+        "year": 2020,
+        "doi": "10.1007/s12559-020-09734-4",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3019321633",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Why Should We Add Early Exits to Neural Networks?",
+        "year": 2020,
+        "authors": [
+          "Simone Scardapane",
+          "Michele Scarpiniti",
+          "Enzo Baccarelli",
+          "Aurelio Uncini"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "scalinglaw",
+      "raw": {
+        "title": "Scaling Laws for Neural Language Models",
+        "authors": [
+          "Kaplan, Jared",
+          "McCandlish, Sam",
+          "Henighan, Tom",
+          "Brown, Tom B.",
+          "Chess, Benjamin",
+          "Child, Rewon",
+          "Gray, Scott",
+          "Radford, Alec",
+          "Wu, Jeffrey",
+          "Amodei, Dario"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": "2001.08361"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2001.08361&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "alippi2017not",
+      "raw": {
+        "title": "The (not) far-away path to smart cyber-physical systems: An information-centric framework",
+        "authors": [
+          "Alippi, Cesare",
+          "Roveri, Manuel"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=The+%28not%29+far-away+path+to+smart+cyber-physical+systems%3A+An+information-centric+framework&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "rethinking_calibration",
+      "raw": {
+        "title": "Rethinking Calibration of Deep Neural Networks: Do Not Be Afraid of Overconfidence",
+        "authors": [
+          "Wang, Deng-Bao",
+          "Feng, Lei",
+          "Zhang, Min-Ling"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "ensemblelearning",
+      "raw": {
+        "title": "A Survey of Ensemble Learning: Concepts, Algorithms, Applications, and Prospects",
+        "authors": [
+          "Mienye, Ibomoiye Domor",
+          "Sun, Yanxia"
+        ],
+        "year": 2022,
+        "doi": "10.1109/ACCESS.2022.3207287",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4296079469",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "A Survey of Ensemble Learning: Concepts, Algorithms, Applications, and Prospects",
+        "year": 2022,
+        "authors": [
+          "Ibomoiye Domor Mienye",
+          "Yanxia Sun"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "naeini2015obtaining",
+      "raw": {
+        "title": "Obtaining well calibrated probabilities using Bayesian binning",
+        "authors": [
+          "Naeini, Mahdi Pakdaman",
+          "Cooper, Gregory",
+          "Hauskrecht, Milos"
+        ],
+        "year": 2015,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Obtaining+well+calibrated+probabilities+using+Bayesian+binning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "guo2017calibration",
+      "raw": {
+        "title": "On calibration of modern neural networks",
+        "authors": [
+          "Guo, Chuan",
+          "Pleiss, Geoff",
+          "Sun, Yu",
+          "Weinberger, Kilian Q"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=On+calibration+of+modern+neural+networks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "averagingerror",
+      "raw": {
+        "title": "Deep Learning",
+        "authors": [
+          "Goodfellow, Ian",
+          "Bengio, Yoshua",
+          "Courville, Aaron"
+        ],
+        "year": 2016,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Deep+Learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ppd",
+      "raw": {
+        "title": "Deep Ensembles: A Loss Landscape Perspective",
+        "authors": [
+          "Fort, Stanislav",
+          "Hu, Huiyi",
+          "Lakshminarayanan, Balaji"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": "1912.02757"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1912.02757&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "cifar",
+      "raw": {
+        "title": "Learning Multiple Layers of Features from Tiny Images",
+        "authors": [
+          "Alex Krizhevsky"
+        ],
+        "year": 2009,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Learning+Multiple+Layers+of+Features+from+Tiny+Images&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "imagenet16",
+      "raw": {
+        "title": "A Downsampled Variant of ImageNet as an Alternative to the CIFAR datasets",
+        "authors": [
+          "Patryk Chrabaszcz",
+          "Ilya Loshchilov",
+          "Frank Hutter"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": "1707.08819"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1707.08819&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    }
+  ]
+}

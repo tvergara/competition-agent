@@ -1,0 +1,2704 @@
+{
+  "paper_id": "d851088e-cad0-44fe-abfc-2fb062136391",
+  "total": 118,
+  "verified": 9,
+  "mismatch": 0,
+  "missing": 1,
+  "ambiguous": 0,
+  "error": 108,
+  "skipped": 0,
+  "s2_consulted": 1,
+  "s2_lifted": 0,
+  "key_style_outliers": [
+    "doi:10.1073/pnas.1907378117",
+    "doi:10.1073/pnas.1907378117-DUPLICATE",
+    "pmlr-v195-frei23a",
+    "books/daglib/0033642",
+    "be3e1e2a-f01d-3e5a-b1ac-f6d95c72edd5",
+    "pmlr-v178-shamir22a",
+    "doi:10.1073/pnas.1903070116-DUPLICATE",
+    "https://doi.org/10.48550/arxiv.2102.02410",
+    "pmlr-v125-yehudai20a",
+    "JMLR:v22:20-974",
+    "10.1214/17-ECP92",
+    "10.1214/aos/1015957395",
+    "pmlr-v80-belkin18a",
+    "9051968",
+    "10.1214/21-AOS2133",
+    "pmlr-v134-zou21a",
+    "JMLR:v23:21-1199",
+    "10.1214/19-AOS1849",
+    "pmlr-v206-xu23k",
+    "2bdbec4e1d184ed2a506902fa665f1ef",
+    "8671751",
+    "9477126",
+    "10.5555/3546258.3546480",
+    "pmlr-v125-ji20a",
+    "FreiVBS23",
+    "pmlr-v235-cheng24g"
+  ],
+  "entries": [
+    {
+      "key": "adams2003sobolev",
+      "raw": {
+        "title": "Sobolev Spaces",
+        "authors": [
+          "Adams, R.A.",
+          "Fournier, J.J.F."
+        ],
+        "year": 2003,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Sobolev+Spaces&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "doi:10.1073/pnas.1907378117",
+      "raw": {
+        "title": "Benign overfitting in linear regression",
+        "authors": [
+          "Peter L. Bartlett",
+          "Philip M. Long",
+          "Gábor Lugosi",
+          "Alexander Tsigler"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Benign+overfitting+in+linear+regression&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "doi:10.1073/pnas.1907378117-DUPLICATE",
+      "raw": {
+        "title": "Benign overfitting in linear regression",
+        "authors": [
+          "Peter L. Bartlett",
+          "Philip M. Long",
+          "Gábor Lugosi",
+          "Alexander Tsigler"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Benign+overfitting+in+linear+regression&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "george2023training-OLD",
+      "raw": {
+        "title": "Training shallow ReLU networks on noisy data using hinge loss: when do we overfit and is it benign?",
+        "authors": [
+          "George, Erin",
+          "Murray, Michael",
+          "Swartworth, William",
+          "Needell, Deanna"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Training+shallow+ReLU+networks+on+noisy+data+using+hinge+loss%3A+when+do+we+overfit+and+is+it+benign%3F&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "george2023training",
+      "raw": {
+        "title": "Training shallow ReLU networks on noisy data using hinge loss: when do we overfit and is it benign?",
+        "authors": [
+          "George, Erin",
+          "Murray, Michael",
+          "Swartworth, William",
+          "Needell, Deanna"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Training+shallow+ReLU+networks+on+noisy+data+using+hinge+loss%3A+when+do+we+overfit+and+is+it+benign%3F&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "kornowski2023tempered",
+      "raw": {
+        "title": "From Tempered to Benign Overfitting in ReLU Neural Networks",
+        "authors": [
+          "Guy Kornowski",
+          "Gilad Yehudai",
+          "Ohad Shamir"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=From+Tempered+to+Benign+Overfitting+in+ReLU+Neural+Networks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "kornowski2023tempered-OLD",
+      "raw": {
+        "title": "From Tempered to Benign Overfitting in ReLU Neural Networks",
+        "authors": [
+          "Guy Kornowski",
+          "Gilad Yehudai",
+          "Ohad Shamir"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": "2305.15141"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2305.15141&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "pmlr-v195-frei23a",
+      "raw": {
+        "title": "Benign Overfitting in Linear Classifiers and Leaky ReLU Networks from KKT Conditions for Margin Maximization",
+        "authors": [
+          "Frei, Spencer",
+          "Vardi, Gal",
+          "Bartlett, Peter",
+          "Srebro, Nathan"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Benign+Overfitting+in+Linear+Classifiers+and+Leaky+ReLU+Networks+from+KKT+Conditions+for+Margin+Maximization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "sing_vals_random_mat",
+      "raw": {
+        "title": "Smallest singular value of a random rectangular matrix",
+        "authors": [
+          "Rudelson, Mark",
+          "Vershynin, Roman"
+        ],
+        "year": 2009,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Smallest+singular+value+of+a+random+rectangular+matrix&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "books/daglib/0033642",
+      "raw": {
+        "title": "Understanding Machine Learning - From Theory to Algorithms.",
+        "authors": [
+          "Shalev-Shwartz, Shai",
+          "Ben-David, Shai"
+        ],
+        "year": 2014,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Understanding+Machine+Learning+-+From+Theory+to+Algorithms.&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "be3e1e2a-f01d-3e5a-b1ac-f6d95c72edd5",
+      "raw": {
+        "title": "Generalized Inversion of Modified Matrices",
+        "authors": [
+          "Carl D. Meyer"
+        ],
+        "year": 1973,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Generalized+Inversion+of+Modified+Matrices&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "rudelson2009smallest",
+      "raw": {
+        "title": "Smallest singular value of a random rectangular matrix",
+        "authors": [
+          "Rudelson, Mark",
+          "Vershynin, Roman"
+        ],
+        "year": 2009,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Smallest+singular+value+of+a+random+rectangular+matrix&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "vershynin_2018",
+      "raw": {
+        "title": "High-Dimensional Probability: An Introduction with Applications in Data Science",
+        "authors": [
+          "Vershynin, Roman"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=High-Dimensional+Probability%3A+An+Introduction+with+Applications+in+Data+Science&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "vershynin_2018-DUPLICATE",
+      "raw": {
+        "title": "High-Dimensional Probability: An Introduction with Applications in Data Science",
+        "authors": [
+          "Vershynin, Roman"
+        ],
+        "year": 2018,
+        "doi": "10.1017/9781108231596",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4250954493",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "High-Dimensional Probability",
+        "year": 2018,
+        "authors": [
+          "Roman Vershynin"
+        ]
+      },
+      "title_similarity": 0.7272727272727272,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "smallest_sing_val",
+      "raw": {
+        "title": "Smallest singular value of a random rectangular matrix",
+        "authors": [
+          "Rudelson, Mark",
+          "Vershynin, Roman"
+        ],
+        "year": 2009,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Smallest+singular+value+of+a+random+rectangular+matrix&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Ball",
+      "raw": {
+        "title": "An Elementary Introduction to Modern Convex Geometry",
+        "authors": [
+          "Keith Ball"
+        ],
+        "year": 1997,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=An+Elementary+Introduction+to+Modern+Convex+Geometry&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "OLD-brutzkus2017sgd-OLD",
+      "raw": {
+        "title": "SGD learns over-parameterized networks that provably generalize on linearly separable data",
+        "authors": [
+          "Brutzkus, Alon",
+          "Globerson, Amir",
+          "Malach, Eran",
+          "Shalev-Shwartz, Shai"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=SGD+learns+over-parameterized+networks+that+provably+generalize+on+linearly+separable+data&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "brutzkus2017sgd",
+      "raw": {
+        "title": "SGD Learns Over-parameterized Networks that Provably Generalize on Linearly Separable Data",
+        "authors": [
+          "Alon Brutzkus",
+          "Amir Globerson",
+          "Eran Malach",
+          "Shai Shalev-Shwartz"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=SGD+Learns+Over-parameterized+Networks+that+Provably+Generalize+on+Linearly+Separable+Data&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "wainwright2019high",
+      "raw": {
+        "title": "High-dimensional statistics: A non-asymptotic viewpoint",
+        "authors": [
+          "Wainwright, Martin J"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=High-dimensional+statistics%3A+A+non-asymptotic+viewpoint&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "OLD-cid2018lipschitz-OLD",
+      "raw": {
+        "title": "A Lipschitz condition along a transversal foliation implies local uniqueness for ODEs",
+        "authors": [
+          "J. Ángel Cid",
+          "F. Adrián F. Tojo"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": "1801.01724"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1801.01724&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "cid2018lipschitz",
+      "raw": {
+        "title": "A Lipschitz condition along a transversal foliation implies local uniqueness for ODEs",
+        "authors": [
+          "J. Ángel Cid",
+          "F. Adrián F. Tojo"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=A+Lipschitz+condition+along+a+transversal+foliation+implies+local+uniqueness+for+ODEs&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Horn_Johnson_1991",
+      "raw": {
+        "title": "Singular value inequalities",
+        "authors": [
+          "Horn, Roger A.",
+          "Johnson, Charles R."
+        ],
+        "year": 1991,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Singular+value+inequalities&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "montanari2023universality",
+      "raw": {
+        "title": "Universality of max-margin classifiers",
+        "authors": [
+          "Montanari, Andrea",
+          "Ruan, Feng",
+          "Saeed, Basil",
+          "Sohn, Youngtak"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Universality+of+max-margin+classifiers&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "montanari2023universality-DUPLICATE",
+      "raw": {
+        "title": "Universality of max-margin classifiers",
+        "authors": [
+          "Andrea Montanari",
+          "Feng Ruan",
+          "Basil Saeed",
+          "Youngtak Sohn"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": "2310.00176"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2310.00176&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "soudry2018the",
+      "raw": {
+        "title": "The Implicit Bias of Gradient Descent on Separable Data",
+        "authors": [
+          "Daniel Soudry",
+          "Elad Hoffer",
+          "Nathan Srebro"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=The+Implicit+Bias+of+Gradient+Descent+on+Separable+Data&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zhang2021understanding",
+      "raw": {
+        "title": "Understanding deep learning (still) requires rethinking generalization",
+        "authors": [
+          "Zhang, Chiyuan",
+          "Bengio, Samy",
+          "Hardt, Moritz",
+          "Recht, Benjamin",
+          "Vinyals, Oriol"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Understanding+deep+learning+%28still%29+requires+rethinking+generalization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "belkin2018understand",
+      "raw": {
+        "title": "To understand deep learning we need to understand kernel learning",
+        "authors": [
+          "Belkin, Mikhail",
+          "Ma, Siyuan",
+          "Mandal, Soumik"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=To+understand+deep+learning+we+need+to+understand+kernel+learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "yang2020tensor",
+      "raw": {
+        "title": "Tensor programs ii: Neural tangent kernel for any architecture",
+        "authors": [
+          "Yang, Greg"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Tensor+programs+ii%3A+Neural+tangent+kernel+for+any+architecture&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "jacotneural",
+      "raw": {
+        "title": "Neural Tangent Kernel: Convergence and Generalization in Neural Networks",
+        "authors": [
+          "Jacot, Arthur",
+          "Gabriel, Franck",
+          "Hongler, Cl{\\'e}ment"
+        ],
+        "year": null,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Neural+Tangent+Kernel%3A+Convergence+and+Generalization+in+Neural+Networks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "cheng2020survey",
+      "raw": {
+        "title": "A Survey of Model Compression and Acceleration for Deep Neural Networks",
+        "authors": [
+          "Yu Cheng",
+          "Duo Wang",
+          "Pan Zhou",
+          "Tao Zhang"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": "1710.09282"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1710.09282&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "chaudhari2021attentive",
+      "raw": {
+        "title": "An Attentive Survey of Attention Models",
+        "authors": [
+          "Sneha Chaudhari",
+          "Varun Mithal",
+          "Gungor Polatkan",
+          "Rohan Ramanath"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": "1904.02874"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1904.02874&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "big_hurts_performance",
+      "raw": {
+        "title": "Deep Double Descent: Where Bigger Models and More Data Hurt",
+        "authors": [
+          "Nakkiran, Preetum",
+          "Kaplun, Gal",
+          "Bansal, Yamini",
+          "Yang, Tristan",
+          "Barak, Boaz",
+          "Sutskever, Ilya"
+        ],
+        "year": 2019,
+        "doi": "10.48550/ARXIV.1912.02292",
+        "arxiv_id": null
+      },
+      "status": "not_found",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "pmlr-v178-shamir22a",
+      "raw": {
+        "title": "The Implicit Bias of Benign Overfitting",
+        "authors": [
+          "Shamir, Ohad"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=The+Implicit+Bias+of+Benign+Overfitting&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "belkin2019reconciling",
+      "raw": {
+        "title": "Reconciling modern machine-learning practice and the classical bias--variance trade-off",
+        "authors": [
+          "Belkin, Mikhail",
+          "Hsu, Daniel",
+          "Ma, Siyuan",
+          "Mandal, Soumik"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Reconciling+modern+machine-learning+practice+and+the+classical+bias--variance+trade-off&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "doi:10.1073/pnas.1903070116-DUPLICATE",
+      "raw": {
+        "title": "Reconciling modern machine-learning practice and the classical bias\\&\\#x2013;variance trade-off",
+        "authors": [
+          "Mikhail Belkin",
+          "Daniel Hsu",
+          "Siyuan Ma",
+          "Soumik Mandal"
+        ],
+        "year": 2019,
+        "doi": "10.1073/pnas.1903070116",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2963518130",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Reconciling modern machine-learning practice and the classical bias–variance trade-off",
+        "year": 2019,
+        "authors": [
+          "Mikhail Belkin",
+          "Daniel Hsu",
+          "Siyuan Ma",
+          "Soumik Mandal"
+        ]
+      },
+      "title_similarity": 0.9392265193370166,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "frei2022benign-OLD",
+      "raw": {
+        "title": "Benign overfitting without linearity: Neural network classifiers trained by gradient descent for noisy linear data",
+        "authors": [
+          "Frei, Spencer",
+          "Chatterji, Niladri S",
+          "Bartlett, Peter"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Benign+overfitting+without+linearity%3A+Neural+network+classifiers+trained+by+gradient+descent+for+noisy+linear+data&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "frei2022benign",
+      "raw": {
+        "title": "Benign Overfitting without Linearity: Neural Network Classifiers Trained by Gradient Descent for Noisy Linear Data",
+        "authors": [
+          "Frei, Spencer",
+          "Chatterji, Niladri S",
+          "Bartlett, Peter"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Benign+Overfitting+without+Linearity%3A+Neural+Network+Classifiers+Trained+by+Gradient+Descent+for+Noisy+Linear+Data&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "chatterji2021finite",
+      "raw": {
+        "title": "Finite-sample analysis of interpolating linear classifiers in the overparameterized regime",
+        "authors": [
+          "Chatterji, Niladri S",
+          "Long, Philip M"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Finite-sample+analysis+of+interpolating+linear+classifiers+in+the+overparameterized+regime&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "https://doi.org/10.48550/arxiv.2102.02410",
+      "raw": {
+        "title": "A Local Convergence Theory for Mildly Over-Parameterized Two-Layer Neural Network",
+        "authors": [
+          "Zhou, Mo",
+          "Ge, Rong",
+          "Jin, Chi"
+        ],
+        "year": 2021,
+        "doi": "10.48550/ARXIV.2102.02410",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3128532242",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "A Local Convergence Theory for Mildly Over-Parameterized Two-Layer Neural Network",
+        "year": 2021,
+        "authors": [
+          "Mo Zhou",
+          "Rong Ge",
+          "Chi Jin"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "pmlr-v125-yehudai20a",
+      "raw": {
+        "title": "Learning a Single Neuron with Gradient Methods",
+        "authors": [
+          "Yehudai, Gilad",
+          "Ohad, Shamir"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Learning+a+Single+Neuron+with+Gradient+Methods&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "phuong2021the",
+      "raw": {
+        "title": "The inductive bias of ReLU networks on orthogonally separable data",
+        "authors": [
+          "Mary Phuong",
+          "Christoph H Lampert"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=The+inductive+bias+of+ReLU+networks+on+orthogonally+separable+data&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "JMLR:v22:20-974",
+      "raw": {
+        "title": "Finite-sample Analysis of Interpolating Linear Classifiers in the Overparameterized Regime",
+        "authors": [
+          "Niladri S. Chatterji",
+          "Philip M. Long"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Finite-sample+Analysis+of+Interpolating+Linear+Classifiers+in+the+Overparameterized+Regime&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "10.1214/17-ECP92",
+      "raw": {
+        "title": "On the sub-Gaussianity of the Beta and Dirichlet distributions",
+        "authors": [
+          "Olivier Marchal",
+          "Julyan Arbel"
+        ],
+        "year": 2017,
+        "doi": "10.1214/17-ECP92",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2610858089",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "On the sub-Gaussianity of the Beta and Dirichlet distributions",
+        "year": 2017,
+        "authors": [
+          "Olivier Marchal",
+          "Julyan Arbel"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "10.1214/aos/1015957395",
+      "raw": {
+        "title": "Adaptive estimation of a quadratic functional by model selection",
+        "authors": [
+          "B. Laurent",
+          "P. Massart"
+        ],
+        "year": 2000,
+        "doi": "10.1214/aos/1015957395",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W1560153690",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Adaptive estimation of a quadratic functional by model selection",
+        "year": 2000,
+        "authors": [
+          "Béatrice Laurent",
+          "Pascal Massart"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "bardenet2015concentration",
+      "raw": {
+        "title": "Concentration inequalities for sampling without replacement",
+        "authors": [
+          "Bardenet, R{\\'e}mi",
+          "Maillard, Odalric-Ambrym"
+        ],
+        "year": 2015,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Concentration+inequalities+for+sampling+without+replacement&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zhangunderstanding",
+      "raw": {
+        "title": "Understanding deep learning requires rethinking generalization",
+        "authors": [
+          "Zhang, Chiyuan",
+          "Bengio, Samy",
+          "Hardt, Moritz",
+          "Recht, Benjamin",
+          "Vinyals, Oriol"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Understanding+deep+learning+requires+rethinking+generalization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "belkin2019reconciling-DUPLICATE",
+      "raw": {
+        "title": "Reconciling modern machine-learning practice and the classical bias--variance trade-off",
+        "authors": [
+          "Belkin, Mikhail",
+          "Hsu, Daniel",
+          "Ma, Siyuan",
+          "Mandal, Soumik"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Reconciling+modern+machine-learning+practice+and+the+classical+bias--variance+trade-off&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "bartlett2020benign",
+      "raw": {
+        "title": "Benign overfitting in linear regression",
+        "authors": [
+          "Bartlett, Peter L",
+          "Long, Philip M",
+          "Lugosi, G{\\'a}bor",
+          "Tsigler, Alexander"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Benign+overfitting+in+linear+regression&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "frei2021provable",
+      "raw": {
+        "title": "Provable generalization of SGD-trained neural networks of any width in the presence of adversarial label noise",
+        "authors": [
+          "Frei, Spencer",
+          "Cao, Yuan",
+          "Gu, Quanquan"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Provable+generalization+of+SGD-trained+neural+networks+of+any+width+in+the+presence+of+adversarial+label+noise&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "cao2022benign-OLD",
+      "raw": {
+        "title": "Benign overfitting in two-layer convolutional neural networks",
+        "authors": [
+          "Cao, Yuan",
+          "Chen, Zixiang",
+          "Belkin, Misha",
+          "Gu, Quanquan"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Benign+overfitting+in+two-layer+convolutional+neural+networks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "cao2022benign",
+      "raw": {
+        "title": "Benign Overfitting in Two-layer Convolutional Neural Networks",
+        "authors": [
+          "Cao, Yuan",
+          "Chen, Zixiang",
+          "Belkin, Misha",
+          "Gu, Quanquan"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Benign+Overfitting+in+Two-layer+Convolutional+Neural+Networks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "pmlr-v80-belkin18a",
+      "raw": {
+        "title": "To Understand Deep Learning We Need to Understand Kernel Learning",
+        "authors": [
+          "Belkin, Mikhail",
+          "Ma, Siyuan",
+          "Mandal, Soumik"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=To+Understand+Deep+Learning+We+Need+to+Understand+Kernel+Learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "kou2023benign",
+      "raw": {
+        "title": "Benign Overfitting in Two-layer ReLU Convolutional Neural Networks",
+        "authors": [
+          "Kou, Yiwen",
+          "Chen, Zixiang",
+          "Chen, Yuanzhou",
+          "Gu, Quanquan"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Benign+Overfitting+in+Two-layer+ReLU+Convolutional+Neural+Networks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "kou2023benign-OLD",
+      "raw": {
+        "title": "Benign Overfitting for Two-layer ReLU Networks",
+        "authors": [
+          "Yiwen Kou",
+          "Zixiang Chen",
+          "Yuanzhou Chen",
+          "Quanquan Gu"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": "2303.04145"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2303.04145&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "9051968",
+      "raw": {
+        "title": "Harmless Interpolation of Noisy Data in Regression",
+        "authors": [
+          "Muthukumar, Vidya",
+          "Vodrahalli, Kailas",
+          "Subramanian, Vignesh",
+          "Sahai, Anant"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Harmless+Interpolation+of+Noisy+Data+in+Regression&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "10.1214/21-AOS2133",
+      "raw": {
+        "title": "Surprises in high-dimensional ridgeless least squares interpolation",
+        "authors": [
+          "Trevor Hastie",
+          "Andrea Montanari",
+          "Saharon Rosset",
+          "Ryan J. Tibshirani"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Surprises+in+high-dimensional+ridgeless+least+squares+interpolation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "NEURIPS2020_72e6d323",
+      "raw": {
+        "title": "On the Optimal Weighted $\\ell_2$ Regularization in Overparameterized Linear Regression",
+        "authors": [
+          "Wu, Denny",
+          "Xu, Ji"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=On+the+Optimal+Weighted+%24%5Cell_2%24+Regularization+in+Overparameterized+Linear+Regression&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "pmlr-v134-zou21a",
+      "raw": {
+        "title": "Benign Overfitting of Constant-Stepsize SGD for Linear Regression",
+        "authors": [
+          "Zou, Difan",
+          "Wu, Jingfeng",
+          "Braverman, Vladimir",
+          "Gu, Quanquan",
+          "Kakade, Sham"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Benign+Overfitting+of+Constant-Stepsize+SGD+for+Linear+Regression&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "NEURIPS2021_46e0eae7",
+      "raw": {
+        "title": "Risk Bounds for Over-parameterized Maximum Margin Classification on Sub-Gaussian Mixtures",
+        "authors": [
+          "Cao, Yuan",
+          "Gu, Quanquan",
+          "Belkin, Mikhail"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Risk+Bounds+for+Over-parameterized+Maximum+Margin+Classification+on+Sub-Gaussian+Mixtures&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "koehler2021uniform",
+      "raw": {
+        "title": "Uniform Convergence of Interpolators: Gaussian Width, Norm Bounds and Benign Overfitting",
+        "authors": [
+          "Frederic Koehler",
+          "Lijia Zhou",
+          "Danica J. Sutherland",
+          "Nathan Srebro"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Uniform+Convergence+of+Interpolators%3A+Gaussian+Width%2C+Norm+Bounds+and+Benign+Overfitting&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "JMLR:v23:21-1199",
+      "raw": {
+        "title": "Foolish Crowds Support Benign Overfitting",
+        "authors": [
+          "Niladri S. Chatterji",
+          "Philip M. Long"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Foolish+Crowds+Support+Benign+Overfitting&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Wang2021TightBF",
+      "raw": {
+        "title": "Tight bounds for minimum $\\ell_1$-norm interpolation of noisy data",
+        "authors": [
+          "Guillaume Wang",
+          "Konstantin Donhauser",
+          "Fanny Yang"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Tight+bounds+for+minimum+%24%5Cell_1%24-norm+interpolation+of+noisy+data&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "NEURIPS2021_caaa29ea",
+      "raw": {
+        "title": "Benign Overfitting in Multiclass Classification: All Roads Lead to Interpolation",
+        "authors": [
+          "Wang, Ke",
+          "Muthukumar, Vidya",
+          "Thrampoulidis, Christos"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Benign+Overfitting+in+Multiclass+Classification%3A+All+Roads+Lead+to+Interpolation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "NEURIPS2018_e2231217",
+      "raw": {
+        "title": "Overfitting or perfect fitting? Risk bounds for classification and regression rules that interpolate",
+        "authors": [
+          "Belkin, Mikhail",
+          "Hsu, Daniel J",
+          "Mitra, Partha"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Overfitting+or+perfect+fitting%3F+Risk+bounds+for+classification+and+regression+rules+that+interpolate&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Mei2019TheGE-OLD",
+      "raw": {
+        "title": "The Generalization Error of Random Features Regression: Precise Asymptotics and the Double Descent Curve",
+        "authors": [
+          "Song Mei",
+          "Andrea Montanari"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=The+Generalization+Error+of+Random+Features+Regression%3A+Precise+Asymptotics+and+the+Double+Descent+Curve&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Mei2019TheGE",
+      "raw": {
+        "title": "The Generalization Error of Random Features Regression: Precise Asymptotics and the Double Descent Curve",
+        "authors": [
+          "Mei, Song",
+          "Montanari, Andrea"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=The+Generalization+Error+of+Random+Features+Regression%3A+Precise+Asymptotics+and+the+Double+Descent+Curve&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "10.1214/19-AOS1849",
+      "raw": {
+        "title": "Just interpolate: Kernel “Ridgeless” regression can generalize",
+        "authors": [
+          "Tengyuan Liang",
+          "Alexander Rakhlin"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Just+interpolate%3A+Kernel+%E2%80%9CRidgeless%E2%80%9D+regression+can+generalize&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Liang2019OnTM-OLD",
+      "raw": {
+        "title": "On the Multiple Descent of Minimum-Norm Interpolants and Restricted Lower Isometry of Kernels",
+        "authors": [
+          "Tengyuan Liang",
+          "Alexander Rakhlin",
+          "Xiyu Zhai"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=On+the+Multiple+Descent+of+Minimum-Norm+Interpolants+and+Restricted+Lower+Isometry+of+Kernels&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Liang2019OnTM",
+      "raw": {
+        "title": "On the Multiple Descent of Minimum-Norm Interpolants and Restricted Lower Isometry of Kernels",
+        "authors": [
+          "Liang, Tengyuan",
+          "Rakhlin, Alexander",
+          "Zhai, Xiyu"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=On+the+Multiple+Descent+of+Minimum-Norm+Interpolants+and+Restricted+Lower+Isometry+of+Kernels&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "NEURIPS2018_5a4be1fa",
+      "raw": {
+        "title": "Neural Tangent Kernel: Convergence and Generalization in Neural Networks",
+        "authors": [
+          "Jacot, Arthur",
+          "Gabriel, Franck",
+          "Hongler, Clement"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Neural+Tangent+Kernel%3A+Convergence+and+Generalization+in+Neural+Networks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Adlam2020TheNT-OLD",
+      "raw": {
+        "title": "The Neural Tangent Kernel in High Dimensions: Triple Descent and a Multi-Scale Theory of Generalization",
+        "authors": [
+          "Ben Adlam",
+          "Jeffrey Pennington"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=The+Neural+Tangent+Kernel+in+High+Dimensions%3A+Triple+Descent+and+a+Multi-Scale+Theory+of+Generalization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Adlam2020TheNT",
+      "raw": {
+        "title": "The Neural Tangent Kernel in High Dimensions: Triple Descent and a Multi-Scale Theory of Generalization",
+        "authors": [
+          "Adlam, Ben",
+          "Pennington, Jeffrey"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=The+Neural+Tangent+Kernel+in+High+Dimensions%3A+Triple+Descent+and+a+Multi-Scale+Theory+of+Generalization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "pmlr-v206-xu23k",
+      "raw": {
+        "title": "Benign overfitting of non-smooth neural networks beyond lazy training",
+        "authors": [
+          "Xu, Xingyu",
+          "Gu, Yuantao"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Benign+overfitting+of+non-smooth+neural+networks+beyond+lazy+training&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "2bdbec4e1d184ed2a506902fa665f1ef",
+      "raw": {
+        "title": "On exact computation with an infinitely wide neural net",
+        "authors": [
+          "Sanjeev Arora",
+          "Du, {Simon S.}",
+          "Wei Hu",
+          "Zhiyuan Li",
+          "Ruslan Salakhutdinov",
+          "Ruosong Wang"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=On+exact+computation+with+an+infinitely+wide+neural+net&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "8671751",
+      "raw": {
+        "title": "Learning ReLU Networks on Linearly Separable Data: Algorithm, Optimality, and Generalization",
+        "authors": [
+          "Wang, Gang",
+          "Giannakis, Georgios B.",
+          "Chen, Jie"
+        ],
+        "year": 2019,
+        "doi": "10.1109/TSP.2019.2904921",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2885208219",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Learning ReLU Networks on Linearly Separable Data: Algorithm, Optimality, and Generalization",
+        "year": 2019,
+        "authors": [
+          "Gang Wang",
+          "Georgios B. Giannakis",
+          "Jie Chen"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "brutzkus2018sgd",
+      "raw": {
+        "title": "SGD Learns Over-parameterized Networks that Provably Generalize on Linearly Separable Data",
+        "authors": [
+          "Alon Brutzkus",
+          "Amir Globerson",
+          "Eran Malach",
+          "Shai Shalev-Shwartz"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=SGD+Learns+Over-parameterized+Networks+that+Provably+Generalize+on+Linearly+Separable+Data&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "9477126",
+      "raw": {
+        "title": "Learning Two-Layer ReLU Networks Is Nearly as Easy as Learning Linear Classifiers on Separable Data",
+        "authors": [
+          "Yang, Qiuling",
+          "Sadeghi, Alireza",
+          "Wang, Gang",
+          "Sun, Jian"
+        ],
+        "year": 2021,
+        "doi": "10.1109/TSP.2021.3094911",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3177987681",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Learning Two-Layer ReLU Networks Is Nearly as Easy as Learning Linear Classifiers on Separable Data",
+        "year": 2021,
+        "authors": [
+          "Qiuling Yang",
+          "Alireza Sadeghi",
+          "Gang Wang",
+          "Jian Sun"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "maennel2018gradient",
+      "raw": {
+        "title": "Gradient Descent Quantizes ReLU Network Features",
+        "authors": [
+          "Hartmut Maennel",
+          "Olivier Bousquet",
+          "Sylvain Gelly"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": "1803.08367"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1803.08367&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "concise_formulas_spherical_cap",
+      "raw": {
+        "title": "Concise Formulas for the Area and Volume of a Hyperspherical Cap",
+        "authors": [
+          "S, Li"
+        ],
+        "year": 2011,
+        "doi": "10.3923/ajms.2011.66.70",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2321124713",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Concise Formulas for the Area and Volume of a Hyperspherical Cap",
+        "year": 2010,
+        "authors": [
+          "S. Li"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "proximal_duchi",
+      "raw": {
+        "title": "Stochastic (Approximate) Proximal Point Methods: Convergence, Optimality, and Adaptivity",
+        "authors": [
+          "Asi, Hilal",
+          "Duchi, John C."
+        ],
+        "year": 2019,
+        "doi": "10.1137/18M1230323",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2897048230",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Stochastic (Approximate) Proximal Point Methods: Convergence, Optimality, and Adaptivity",
+        "year": 2019,
+        "authors": [
+          "Hilal Asi",
+          "John C. Duchi"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "mallinar2022benign",
+      "raw": {
+        "title": "Benign, Tempered, or Catastrophic: Toward a Refined Taxonomy of Overfitting",
+        "authors": [
+          "Neil Rohit Mallinar",
+          "James B Simon",
+          "Amirhesam Abedsoltan",
+          "Parthe Pandit",
+          "Misha Belkin",
+          "Preetum Nakkiran"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Benign%2C+Tempered%2C+or+Catastrophic%3A+Toward+a+Refined+Taxonomy+of+Overfitting&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "10.5555/3546258.3546480",
+      "raw": {
+        "title": "Classification vs Regression in Overparameterized Regimes: Does the Loss Function Matter?",
+        "authors": [
+          "Muthukumar, Vidya",
+          "Narang, Adhyyan",
+          "Subramanian, Vignesh",
+          "Belkin, Mikhail",
+          "Hsu, Daniel",
+          "Sahai, Anant"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Classification+vs+Regression+in+Overparameterized+Regimes%3A+Does+the+Loss+Function+Matter%3F&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "direct-alignment",
+      "raw": {
+        "title": "Directional convergence and alignment in deep learning",
+        "authors": [
+          "Ji, Ziwei",
+          "Telgarsky, Matus"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Directional+convergence+and+alignment+in+deep+learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "direct-alignment-OLD",
+      "raw": {
+        "title": "Directional Convergence and Alignment in Deep Learning",
+        "authors": [
+          "Ji, Ziwei",
+          "Telgarsky, Matus"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Directional+Convergence+and+Alignment+in+Deep+Learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "max-homogen",
+      "raw": {
+        "title": "Gradient Descent Maximizes the Margin of Homogeneous Neural Networks",
+        "authors": [
+          "Kaifeng Lyu",
+          "Jian Li"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Gradient+Descent+Maximizes+the+Margin+of+Homogeneous+Neural+Networks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "pmlr-v125-ji20a",
+      "raw": {
+        "title": "Gradient descent follows the regularization path for general losses",
+        "authors": [
+          "Ji, Ziwei",
+          "Dud{\\'i}k, Miroslav",
+          "Schapire, Robert E.",
+          "Telgarsky, Matus"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Gradient+descent+follows+the+regularization+path+for+general+losses&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "FreiVBS23",
+      "raw": {
+        "title": "Benign Overfitting in Linear Classifiers and Leaky ReLU Networks from KKT Conditions for Margin Maximization",
+        "authors": [
+          "Spencer Frei",
+          "Gal Vardi",
+          "Peter L. Bartlett",
+          "Nathan Srebro"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Benign+Overfitting+in+Linear+Classifiers+and+Leaky+ReLU+Networks+from+KKT+Conditions+for+Margin+Maximization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "xu2024benign",
+      "raw": {
+        "title": "Benign Overfitting and Grokking in ReLU Networks for XOR Cluster Data",
+        "authors": [
+          "Zhiwei Xu",
+          "Yutong Wang",
+          "Spencer Frei",
+          "Gal Vardi",
+          "Wei Hu"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Benign+Overfitting+and+Grokking+in+ReLU+Networks+for+XOR+Cluster+Data&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "chen2023why",
+      "raw": {
+        "title": "Why Does Sharpness-Aware Minimization Generalize Better Than SGD?",
+        "authors": [
+          "Zixiang Chen",
+          "Junkai Zhang",
+          "Yiwen Kou",
+          "Xiangning Chen",
+          "Cho-Jui Hsieh",
+          "Quanquan Gu"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Why+Does+Sharpness-Aware+Minimization+Generalize+Better+Than+SGD%3F&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "montanari2023generalization",
+      "raw": {
+        "title": "The generalization error of max-margin linear classifiers: Benign overfitting and high-dimensional asymptotics in the overparametrized regime",
+        "authors": [
+          "Montanari, Andrea",
+          "Ruan, Feng",
+          "Sohn, Youngtak",
+          "Yan, Jun"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=The+generalization+error+of+max-margin+linear+classifiers%3A+Benign+overfitting+and+high-dimensional+asymptotics+in+the+overparametrized+regime&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "montanari2023generalization-DUPLICATE",
+      "raw": {
+        "title": "The generalization error of max-margin linear classifiers: Benign overfitting and high-dimensional asymptotics in the overparametrized regime",
+        "authors": [
+          "Montanari, Andrea",
+          "Ruan, Feng",
+          "Sohn, Youngtak",
+          "Yan, Jun"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=The+generalization+error+of+max-margin+linear+classifiers%3A+Benign+overfitting+and+high-dimensional+asymptotics+in+the+overparametrized+regime&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "polya1949remarks",
+      "raw": {
+        "title": "Remarks on computing the probability integral in one and two dimensions",
+        "authors": [
+          "P{\\'o}lya, George"
+        ],
+        "year": 1949,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Remarks+on+computing+the+probability+integral+in+one+and+two+dimensions&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "li2010concise",
+      "raw": {
+        "title": "Concise formulas for the area and volume of a hyperspherical cap",
+        "authors": [
+          "Li, Shengqiao"
+        ],
+        "year": 2010,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Concise+formulas+for+the+area+and+volume+of+a+hyperspherical+cap&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "cerone2007special",
+      "raw": {
+        "title": "Special functions: approximations and bounds",
+        "authors": [
+          "Cerone, Pietro"
+        ],
+        "year": 2007,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Special+functions%3A+approximations+and+bounds&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "karhadkar2024bounds",
+      "raw": {
+        "title": "Bounds for the smallest eigenvalue of the NTK for arbitrary spherical data of arbitrary dimension",
+        "authors": [
+          "Karhadkar, Kedar",
+          "Murray, Michael",
+          "Mont{\\'u}far, Guido"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Bounds+for+the+smallest+eigenvalue+of+the+NTK+for+arbitrary+spherical+data+of+arbitrary+dimension&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "laurent2000adaptive",
+      "raw": {
+        "title": "Adaptive estimation of a quadratic functional by model selection",
+        "authors": [
+          "Laurent, Beatrice",
+          "Massart, Pascal"
+        ],
+        "year": 2000,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Adaptive+estimation+of+a+quadratic+functional+by+model+selection&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ongie2019function",
+      "raw": {
+        "title": "A function space view of bounded norm infinite width relu nets: The multivariate case",
+        "authors": [
+          "Ongie, Greg",
+          "Willett, Rebecca",
+          "Soudry, Daniel",
+          "Srebro, Nathan"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=A+function+space+view+of+bounded+norm+infinite+width+relu+nets%3A+The+multivariate+case&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "eppstein1997nearest",
+      "raw": {
+        "title": "On nearest-neighbor graphs",
+        "authors": [
+          "Eppstein, David",
+          "Paterson, Michael S",
+          "Yao, F Frances"
+        ],
+        "year": 1997,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=On+nearest-neighbor+graphs&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "buchholz2022kernel",
+      "raw": {
+        "title": "Kernel interpolation in Sobolev spaces is not consistent in low dimensions",
+        "authors": [
+          "Buchholz, Simon"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Kernel+interpolation+in+Sobolev+spaces+is+not+consistent+in+low+dimensions&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "evans2022partial",
+      "raw": {
+        "title": "Partial differential equations",
+        "authors": [
+          "Evans, Lawrence C"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Partial+differential+equations&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "koskela1990capacity",
+      "raw": {
+        "title": "Capacity extension domains",
+        "authors": [
+          "P. Koskela"
+        ],
+        "year": 1990,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Capacity+extension+domains&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "gilbarg1977elliptic",
+      "raw": {
+        "title": "Elliptic partial differential equations of second order",
+        "authors": [
+          "Gilbarg, David",
+          "Trudinger, Neil S",
+          "Gilbarg, David",
+          "Trudinger, NS"
+        ],
+        "year": 1977,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Elliptic+partial+differential+equations+of+second+order&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "haas2023mind",
+      "raw": {
+        "title": "Mind the spikes: Benign overfitting of kernels and neural networks in fixed dimension",
+        "authors": [
+          "Haas, Moritz",
+          "Holzm{\\\"u}ller, David",
+          "Luxburg, Ulrike",
+          "Steinwart, Ingo"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Mind+the+spikes%3A+Benign+overfitting+of+kernels+and+neural+networks+in+fixed+dimension&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "slagle2021one",
+      "raw": {
+        "title": "One hundred probability and statistics inequalities",
+        "authors": [
+          "Slagle, CNP"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=One+hundred+probability+and+statistics+inequalities&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "combes2024extension",
+      "raw": {
+        "title": "An extension of McDiarmid's inequality",
+        "authors": [
+          "Combes, Richard"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=An+extension+of+McDiarmid%27s+inequality&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "harel2024provable",
+      "raw": {
+        "title": "Provable tempered overfitting of minimal nets and typical nets",
+        "authors": [
+          "Harel, Itamar",
+          "Hoza, William",
+          "Vardi, Gal",
+          "Evron, Itay",
+          "Srebro, Nati",
+          "Soudry, Daniel"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Provable+tempered+overfitting+of+minimal+nets+and+typical+nets&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "barzilai2025beyond",
+      "raw": {
+        "title": "Beyond Benign Overfitting in Nadaraya-Watson Interpolators",
+        "authors": [
+          "Daniel Barzilai",
+          "Guy Kornowski",
+          "Ohad Shamir"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Beyond+Benign+Overfitting+in+Nadaraya-Watson+Interpolators&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "joshi2023noisy",
+      "raw": {
+        "title": "Noisy interpolation learning with shallow univariate ReLU networks",
+        "authors": [
+          "Joshi, Nirmit",
+          "Vardi, Gal",
+          "Srebro, Nathan"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Noisy+interpolation+learning+with+shallow+univariate+ReLU+networks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "cover1967nearest",
+      "raw": {
+        "title": "Nearest neighbor pattern classification",
+        "authors": [
+          "Cover, Thomas",
+          "Hart, Peter"
+        ],
+        "year": 1967,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Nearest+neighbor+pattern+classification&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "karhadkar2024benign",
+      "raw": {
+        "title": "Benign overfitting in leaky ReLU networks with moderate input dimension",
+        "authors": [
+          "Karhadkar, Kedar",
+          "George, Erin",
+          "Murray, Michael",
+          "Montufar, Guido F",
+          "Needell, Deanna"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Benign+overfitting+in+leaky+ReLU+networks+with+moderate+input+dimension&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "magen2024benign",
+      "raw": {
+        "title": "Benign overfitting in single-head attention",
+        "authors": [
+          "Magen, Roey",
+          "Shang, Shuning",
+          "Xu, Zhiwei",
+          "Frei, Spencer",
+          "Hu, Wei",
+          "Vardi, Gal"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Benign+overfitting+in+single-head+attention&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "kur2024minimum",
+      "raw": {
+        "title": "Minimum norm interpolation meets the local theory of banach spaces",
+        "authors": [
+          "Kur, Gil",
+          "Abdalla, Pedro",
+          "Bizeul, Pierre",
+          "Yang, Fanny"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Minimum+norm+interpolation+meets+the+local+theory+of+banach+spaces&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "rakhlin2019consistency",
+      "raw": {
+        "title": "Consistency of interpolation with Laplace kernels is a high-dimensional phenomenon",
+        "authors": [
+          "Rakhlin, Alexander",
+          "Zhai, Xiyu"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Consistency+of+interpolation+with+Laplace+kernels+is+a+high-dimensional+phenomenon&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "beaglehole2023inconsistency",
+      "raw": {
+        "title": "On the inconsistency of kernel ridgeless regression in fixed dimensions",
+        "authors": [
+          "Beaglehole, Daniel",
+          "Belkin, Mikhail",
+          "Pandit, Parthe"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=On+the+inconsistency+of+kernel+ridgeless+regression+in+fixed+dimensions&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "wang2022binary",
+      "raw": {
+        "title": "Binary classification of Gaussian mixtures: Abundance of support vectors, benign overfitting, and regularization",
+        "authors": [
+          "Wang, Ke",
+          "Thrampoulidis, Christos"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Binary+classification+of+Gaussian+mixtures%3A+Abundance+of+support+vectors%2C+benign+overfitting%2C+and+regularization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "pmlr-v235-cheng24g",
+      "raw": {
+        "title": "Characterizing Overfitting in Kernel Ridgeless Regression Through the Eigenspectrum",
+        "authors": [
+          "Cheng, Tin Sum",
+          "Lucchi, Aurelien",
+          "Kratsios, Anastasis",
+          "Belius, David"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Characterizing+Overfitting+in+Kernel+Ridgeless+Regression+Through+the+Eigenspectrum&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "li2024kernel",
+      "raw": {
+        "title": "Kernel interpolation generalizes poorly",
+        "authors": [
+          "Li, Yicheng",
+          "Zhang, Haobo",
+          "Lin, Qian"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Kernel+interpolation+generalizes+poorly&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "yang2025sobolev",
+      "raw": {
+        "title": "Sobolev norm inconsistency of kernel interpolation",
+        "authors": [
+          "Yang, Yunfei"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Sobolev+norm+inconsistency+of+kernel+interpolation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    }
+  ]
+}

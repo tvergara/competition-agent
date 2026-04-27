@@ -1,0 +1,1655 @@
+{
+  "paper_id": "c14689e6-34c8-4488-9aa1-2b6bd9c5b808",
+  "total": 59,
+  "verified": 24,
+  "mismatch": 0,
+  "missing": 2,
+  "ambiguous": 0,
+  "error": 26,
+  "skipped": 7,
+  "s2_consulted": 2,
+  "s2_lifted": 0,
+  "key_style_outliers": [],
+  "entries": [
+    {
+      "key": "schiestle2025transformations",
+      "raw": {
+        "title": "Transformations from the Shop Floor: AI System-to-Model Innovation",
+        "authors": [
+          "Schiestle, Jonah",
+          "Imbrie, Andrew"
+        ],
+        "year": 2025,
+        "doi": "10.51593/20240056",
+        "arxiv_id": null
+      },
+      "status": "not_found",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Wozniak2010_CoffeeTest",
+      "raw": {
+        "title": "Could a Computer Make a Cup of Coffee?",
+        "authors": [
+          "Wozniak, Steve"
+        ],
+        "year": 2010,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "turing1950_TuringTest",
+      "raw": {
+        "title": "I.—COMPUTING MACHINERY AND INTELLIGENCE",
+        "authors": [
+          "Turing, A. M."
+        ],
+        "year": 1950,
+        "doi": "10.1093/mind/LIX.236.433",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2001771035",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "I.—COMPUTING MACHINERY AND INTELLIGENCE",
+        "year": 1950,
+        "authors": [
+          "Alan Turing"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Levesque_WinogradSchemaChallenge",
+      "raw": {
+        "title": "The Winograd schema challenge",
+        "authors": [
+          "Levesque, Hector J.",
+          "Davis, Ernest",
+          "Morgenstern, Leora"
+        ],
+        "year": 2012,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=The+Winograd+schema+challenge&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Nilsson_EmploymentTest",
+      "raw": {
+        "title": "Human-Level Artificial Intelligence? Be Serious!",
+        "authors": [
+          "Nilsson, Nils J."
+        ],
+        "year": 2005,
+        "doi": "https://doi.org/10.1609/aimag.v26i4.1850",
+        "arxiv_id": null
+      },
+      "status": "not_found",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "russell_norvig_2010_AIModernApproach",
+      "raw": {
+        "title": "Artificial Intelligence: A Modern Approach",
+        "authors": [
+          "Russell, Stuart J",
+          "Norvig, Peter"
+        ],
+        "year": 2010,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Artificial+Intelligence%3A+A+Modern+Approach&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Searle_1980_sentience",
+      "raw": {
+        "title": "Minds, brains, and programs",
+        "authors": [
+          "Searle, John R."
+        ],
+        "year": 1980,
+        "doi": "10.1017/S0140525X00005756",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2251410821",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Minds, brains, and programs",
+        "year": 1980,
+        "authors": [
+          "John R. Searle"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "chollet2019measureintelligence",
+      "raw": {
+        "title": "On the Measure of Intelligence",
+        "authors": [
+          "François Chollet"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": "1911.01547"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1911.01547&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "legg2007universal",
+      "raw": {
+        "title": "Universal intelligence: A definition of machine intelligence",
+        "authors": [
+          "Legg, Shane",
+          "Hutter, Marcus"
+        ],
+        "year": 2007,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Universal+intelligence%3A+A+definition+of+machine+intelligence&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Hassabis2025XUniversalIntelligence",
+      "raw": {
+        "title": "Yann is just plain incorrect here, he's confusing general intelligence with universal intelligence",
+        "authors": [
+          "Hassabis, Demis"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Musk2025DemisIsRight",
+      "raw": {
+        "title": "Demis is right",
+        "authors": [
+          "Musk, Elon"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Chollet_arcprizePrizeWhatIsAGI",
+      "raw": {
+        "title": "ARC Prize - What is ARC-AGI? --- arcprize.org",
+        "authors": [],
+        "year": null,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=ARC+Prize+-+What+is+ARC-AGI%3F+---+arcprize.org&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Wolpert_NoFreeLunch",
+      "raw": {
+        "title": "No free lunch theorems for optimization",
+        "authors": [
+          "Wolpert, D.H.",
+          "Macready, W.G."
+        ],
+        "year": 1997,
+        "doi": "10.1109/4235.585893",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2151554678",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "No free lunch theorems for optimization",
+        "year": 1997,
+        "authors": [
+          "David H. Wolpert",
+          "William G. Macready"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Wang2019_OnDefiningArtificialIntelligence",
+      "raw": {
+        "title": "On Defining Artificial Intelligence",
+        "authors": [
+          "Wang, Pei"
+        ],
+        "year": 2019,
+        "doi": "10.2478/jagi-2019-0002",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2969912247",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "On Defining Artificial Intelligence",
+        "year": 2019,
+        "authors": [
+          "Pei Wang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Morris_LevelsOfAGI",
+      "raw": {
+        "title": "Position: levels of AGI for operationalizing progress on the path to AGI",
+        "authors": [
+          "Morris, Meredith Ringel",
+          "Sohl-Dickstein, Jascha",
+          "Fiedel, Noah",
+          "Warkentin, Tris",
+          "Dafoe, Allan",
+          "Faust, Aleksandra",
+          "Farabet, Clement",
+          "Legg, Shane"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Position%3A+levels+of+AGI+for+operationalizing+progress+on+the+path+to+AGI&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "hendrycks2025definitionagi",
+      "raw": {
+        "title": "A Definition of AGI",
+        "authors": [
+          "Dan Hendrycks",
+          "Dawn Song",
+          "Christian Szegedy",
+          "Honglak Lee",
+          "Yarin Gal",
+          "Erik Brynjolfsson",
+          "Sharon Li",
+          "Andy Zou",
+          "Lionel Levine",
+          "Bo Han",
+          "Jie Fu",
+          "Ziwei Liu",
+          "Jinwoo Shin",
+          "Kimin Lee",
+          "Mantas Mazeika",
+          "Long Phan",
+          "George Ingebretsen",
+          "Adam Khoja",
+          "Cihang Xie",
+          "Olawale Salaudeen",
+          "Matthias Hein",
+          "Kevin Zhao",
+          "Alexander Pan",
+          "David Duvenaud",
+          "Bo Li",
+          "Steve Omohundro",
+          "Gabriel Alfour",
+          "Max Tegmark",
+          "Kevin McGrew",
+          "Gary Marcus",
+          "Jaan Tallinn",
+          "Eric Schmidt",
+          "Yoshua Bengio"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2510.18212"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2510.18212&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "openai_charter",
+      "raw": {
+        "title": "OpenAI Charter",
+        "authors": [
+          "OpenAI"
+        ],
+        "year": null,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Mitchell2024_DebatesOnTheNatureOfAGI",
+      "raw": {
+        "title": "Debates on the nature of artificial general intelligence",
+        "authors": [
+          "Melanie Mitchell"
+        ],
+        "year": 2024,
+        "doi": "10.1126/science.ado7069",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4393036073",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Debates on the nature of artificial general intelligence",
+        "year": 2024,
+        "authors": [
+          "Melanie Mitchell"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "lecun2022path",
+      "raw": {
+        "title": "A path towards autonomous machine intelligence version 0.9. 2, 2022-06-27",
+        "authors": [
+          "LeCun, Yann"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=A+path+towards+autonomous+machine+intelligence+version+0.9.+2%2C+2022-06-27&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "craik1967nature",
+      "raw": {
+        "title": "The nature of explanation",
+        "authors": [
+          "Craik, Kenneth James Williams"
+        ],
+        "year": 1967,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=The+nature+of+explanation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "he2020momentum",
+      "raw": {
+        "title": "Momentum contrast for unsupervised visual representation learning",
+        "authors": [
+          "He, Kaiming",
+          "Fan, Haoqi",
+          "Wu, Yuxin",
+          "Xie, Saining",
+          "Girshick, Ross"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Momentum+contrast+for+unsupervised+visual+representation+learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "grill2020bootstrap",
+      "raw": {
+        "title": "Bootstrap your own latent-a new approach to self-supervised learning",
+        "authors": [
+          "Grill, Jean-Bastien",
+          "Strub, Florian",
+          "Altch{\\'e}, Florent",
+          "Tallec, Corentin",
+          "Richemond, Pierre",
+          "Buchatskaya, Elena",
+          "Doersch, Carl",
+          "Avila Pires, Bernardo",
+          "Guo, Zhaohan",
+          "Gheshlaghi Azar, Mohammad",
+          "others"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Bootstrap+your+own+latent-a+new+approach+to+self-supervised+learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "chen2020simple",
+      "raw": {
+        "title": "A simple framework for contrastive learning of visual representations",
+        "authors": [
+          "Chen, Ting",
+          "Kornblith, Simon",
+          "Norouzi, Mohammad",
+          "Hinton, Geoffrey"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=A+simple+framework+for+contrastive+learning+of+visual+representations&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "he2022masked",
+      "raw": {
+        "title": "Masked autoencoders are scalable vision learners",
+        "authors": [
+          "He, Kaiming",
+          "Chen, Xinlei",
+          "Xie, Saining",
+          "Li, Yanghao",
+          "Doll{\\'a}r, Piotr",
+          "Girshick, Ross"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Masked+autoencoders+are+scalable+vision+learners&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "lin2021limitations",
+      "raw": {
+        "title": "Limitations of autoregressive models and their alternatives",
+        "authors": [
+          "Lin, Chu-Cheng",
+          "Jaech, Aaron",
+          "Li, Xin",
+          "Gormley, Matthew R",
+          "Eisner, Jason"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Limitations+of+autoregressive+models+and+their+alternatives&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "lecun_objective_driven_ai_harvard_2024",
+      "raw": {
+        "title": "Objective-Driven AI: Towards AI systems that can learn, remember, reason, and plan",
+        "authors": [
+          "Yann LeCun"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Forister_RevisitingEvoOfEcoSpec",
+      "raw": {
+        "title": "Revisiting the evolution of ecological specialization, with emphasis on insect–plant interactions",
+        "authors": [
+          "Forister, M. L.",
+          "Dyer, L. A.",
+          "Singer, M. S.",
+          "Stireman III, J. O.",
+          "Lill, J. T."
+        ],
+        "year": 2012,
+        "doi": "https://doi.org/10.1890/11-0650.1",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2117456267",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Revisiting the evolution of ecological specialization, with emphasis on insect–plant interactions",
+        "year": 2011,
+        "authors": [
+          "M. L. Forister",
+          "Lee A. Dyer",
+          "Michael S. Singer",
+          "John O. Stireman",
+          "John T. Lill"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Vamosi2014_EvoEcoSpec_phylogenitAnalysis",
+      "raw": {
+        "title": "Evolutionary ecology of specialization: insights from phylogenetic analysis",
+        "authors": [
+          "Vamosi, Jana C.",
+          "Armbruster, W. Scott",
+          "Renner, Susanne S."
+        ],
+        "year": 2014,
+        "doi": "10.1098/rspb.2014.2004",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2158515481",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Evolutionary ecology of specialization: insights from phylogenetic analysis",
+        "year": 2014,
+        "authors": [
+          "Jana C. Vamosi",
+          "W. Scott Armbruster",
+          "Susanne S. Renner"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Futuyma1988_EvoOfEcoSpec",
+      "raw": {
+        "title": "THE EVOLUTION OF ECOLOGICAL SPECIALIZATION",
+        "authors": [
+          "Futuyma, Douglas J.",
+          "Moreno, Gabriel"
+        ],
+        "year": 1988,
+        "doi": "https://doi.org/10.1146/annurev.es.19.110188.001231",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2137906281",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "THE EVOLUTION OF ECOLOGICAL SPECIALIZATION",
+        "year": 1988,
+        "authors": [
+          "Douglas J. Futuyma",
+          "Gabriel Moreno"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Kassen2002_ExpEvoOfSpecGenDiv",
+      "raw": {
+        "title": "The experimental evolution of specialists, generalists, and the maintenance of diversity",
+        "authors": [
+          "Kassen, R."
+        ],
+        "year": 2002,
+        "doi": "10.1046/j.1420-9101.2002.00377.x",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2098544815",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "The experimental evolution of specialists, generalists, and the maintenance of diversity",
+        "year": 2002,
+        "authors": [
+          "Rees Kassen"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "ruder2017overviewmultitasklearningdeep",
+      "raw": {
+        "title": "An Overview of Multi-Task Learning in Deep Neural Networks",
+        "authors": [
+          "Sebastian Ruder"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": "1706.05098"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1706.05098&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "narayanan2025ai",
+      "raw": {
+        "title": "AI as normal technology",
+        "authors": [
+          "Narayanan, Arvind",
+          "Kapoor, Sayash"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=AI+as+normal+technology&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Campbell_DeepBlue_Chess",
+      "raw": {
+        "title": "Deep Blue",
+        "authors": [
+          "Campbell, Murray",
+          "Hoane, A. Joseph",
+          "Hsu, Feng-hsiung"
+        ],
+        "year": 2002,
+        "doi": "10.1016/S0004-3702(01)00129-1",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2911296969",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Deep Blue",
+        "year": 2002,
+        "authors": [
+          "Murray Campbell",
+          "A. Joseph Hoane",
+          "Feng-hsiung Hsu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Silver2018_AlphaGo",
+      "raw": {
+        "title": "A general reinforcement learning algorithm that masters chess, shogi, and Go through self-play",
+        "authors": [
+          "David Silver",
+          "Thomas Hubert",
+          "Julian Schrittwieser",
+          "Ioannis Antonoglou",
+          "Matthew Lai",
+          "Arthur Guez",
+          "Marc Lanctot",
+          "Laurent Sifre",
+          "Dharshan Kumaran",
+          "Thore Graepel",
+          "Timothy Lillicrap",
+          "Karen Simonyan",
+          "Demis Hassabis"
+        ],
+        "year": 2018,
+        "doi": "10.1126/science.aar6404",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2902907165",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "A general reinforcement learning algorithm that masters chess, shogi, and Go through self-play",
+        "year": 2018,
+        "authors": [
+          "David Silver",
+          "Thomas Hubert",
+          "Julian Schrittwieser",
+          "Ioannis Antonoglou",
+          "Matthew Lai",
+          "Arthur Guez",
+          "Marc Lanctot",
+          "Laurent Sifre",
+          "Dharshan Kumaran",
+          "Thore Graepel",
+          "Timothy Lillicrap",
+          "Karen Simonyan",
+          "Demis Hassabis"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Hannan_Freeman_1977_EcologyOfOrganizations",
+      "raw": {
+        "title": "The Population Ecology of Organizations",
+        "authors": [
+          "Hannan, Michael T.",
+          "Freeman, John"
+        ],
+        "year": 1977,
+        "doi": "10.1086/226424",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3125349408",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "The Population Ecology of Organizations",
+        "year": 1977,
+        "authors": [
+          "Michael T. Hannan",
+          "John H. Freeman"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Loasby_1983_EvoTheoEconChange",
+      "raw": {
+        "title": "An Evolutionary Theory of Economic Change",
+        "authors": [
+          "Loasby, Brian J."
+        ],
+        "year": 1983,
+        "doi": "10.2307/2232409",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2137358449",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "An Evolutionary Theory of Economic Change.",
+        "year": 1983,
+        "authors": [
+          "Brian J. Loasby",
+          "Richard R. Nelson",
+          "Sidney G. Winter"
+        ]
+      },
+      "title_similarity": 0.9879518072289157,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Fedus2022_MixtureOfExperts",
+      "raw": {
+        "title": "Switch transformers: scaling to trillion parameter models with simple and efficient sparsity",
+        "authors": [
+          "Fedus, William",
+          "Zoph, Barret",
+          "Shazeer, Noam"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Switch+transformers%3A+scaling+to+trillion+parameter+models+with+simple+and+efficient+sparsity&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Bylander1994",
+      "raw": {
+        "title": "The computational complexity of propositional STRIPS planning",
+        "authors": [
+          "Tom Bylander"
+        ],
+        "year": 1994,
+        "doi": "https://doi.org/10.1016/0004-3702(94)90081-7",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2061146398",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "The computational complexity of propositional STRIPS planning",
+        "year": 1994,
+        "authors": [
+          "Tom Bylander"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "noauthor_openai_nodate",
+      "raw": {
+        "title": "OpenAI Charter",
+        "authors": [],
+        "year": null,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "LittmanGoldsmithMundhenk1998",
+      "raw": {
+        "title": "The Computational Complexity of Probabilistic Planning",
+        "authors": [
+          "Littman, M. L.",
+          "Goldsmith, J.",
+          "Mundhenk, M."
+        ],
+        "year": 1998,
+        "doi": "10.1613/jair.505",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W1980251859",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "The Computational Complexity of Probabilistic Planning",
+        "year": 1998,
+        "authors": [
+          "Michael L. Littman",
+          "Judy Goldsmith",
+          "M. Mundhenk"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Jumper2021",
+      "raw": {
+        "title": "Highly accurate protein structure prediction with AlphaFold",
+        "authors": [
+          "Jumper, John",
+          "Evans, Richard",
+          "Pritzel, Alexander",
+          "Green, Tim",
+          "Figurnov, Michael",
+          "Ronneberger, Olaf",
+          "Tunyasuvunakool, Kathryn",
+          "Bates, Russ",
+          "{\\v{Z}}{\\'i}dek, Augustin",
+          "Potapenko, Anna",
+          "Bridgland, Alex",
+          "Meyer, Clemens",
+          "Kohl, Simon A. A.",
+          "Ballard, Andrew J.",
+          "Cowie, Andrew",
+          "Romera-Paredes, Bernardino",
+          "Nikolov, Stanislav",
+          "Jain, Rishub",
+          "Adler, Jonas",
+          "Back, Trevor",
+          "Petersen, Stig",
+          "Reiman, David",
+          "Clancy, Ellen",
+          "Zielinski, Michal",
+          "Steinegger, Martin",
+          "Pacholska, Michalina",
+          "Berghammer, Tamas",
+          "Bodenstein, Sebastian",
+          "Silver, David",
+          "Vinyals, Oriol",
+          "Senior, Andrew W.",
+          "Kavukcuoglu, Koray",
+          "Kohli, Pushmeet",
+          "Hassabis, Demis"
+        ],
+        "year": 2021,
+        "doi": "10.1038/s41586-021-03819-2",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3177828909",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Highly accurate protein structure prediction with AlphaFold",
+        "year": 2021,
+        "authors": [
+          "John Jumper",
+          "Richard Evans",
+          "Alexander Pritzel",
+          "Tim Green",
+          "Michael Figurnov",
+          "Olaf Ronneberger",
+          "Kathryn Tunyasuvunakool",
+          "Russ Bates",
+          "Augustin Žídek",
+          "Anna Potapenko",
+          "Alex Bridgland",
+          "Clemens Meyer",
+          "Simon Köhl",
+          "Andrew J. Ballard",
+          "Andrew Cowie",
+          "Bernardino Romera‐Paredes",
+          "Stanislav Nikolov",
+          "Rishub Jain",
+          "Jonas Adler",
+          "Trevor Back",
+          "Stig Petersen",
+          "David Reiman",
+          "Ellen Clancy",
+          "Michał Zieliński",
+          "Martin Steinegger",
+          "Michalina Pacholska",
+          "Tamas Berghammer",
+          "Sebastian W. Bodenstein",
+          "David Silver",
+          "Oriol Vinyals",
+          "Andrew Senior",
+          "Koray Kavukcuoglu",
+          "Pushmeet Kohli",
+          "Demis Hassabis"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "TverskyKahneman1974",
+      "raw": {
+        "title": "Judgment under Uncertainty: Heuristics and Biases",
+        "authors": [
+          "Amos Tversky",
+          "Daniel Kahneman"
+        ],
+        "year": 1974,
+        "doi": "10.1126/science.185.4157.1124",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4292157289",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Judgment under Uncertainty: Heuristics and Biases",
+        "year": 1974,
+        "authors": [
+          "Amos Tversky",
+          "Daniel Kahneman"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Li2018Mismatch",
+      "raw": {
+        "title": "The Evolutionary Mismatch Hypothesis: Implications for Psychological Science",
+        "authors": [
+          "Norman P. Li",
+          "Mark van Vugt",
+          "Stephen M. Colarelli"
+        ],
+        "year": 2018,
+        "doi": "10.1177/0963721417731378",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2778609808",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "The Evolutionary Mismatch Hypothesis: Implications for Psychological Science",
+        "year": 2017,
+        "authors": [
+          "Norman P. Li",
+          "Mark van Vugt",
+          "Stephen M. Colarelli"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Domingos2012",
+      "raw": {
+        "title": "A few useful things to know about machine learning",
+        "authors": [
+          "Domingos, Pedro"
+        ],
+        "year": 2012,
+        "doi": "10.1145/2347736.2347755",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2161336914",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "A few useful things to know about machine learning",
+        "year": 2012,
+        "authors": [
+          "Pedro Domingos"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "zhao2025absolutezeroreinforcedselfplay",
+      "raw": {
+        "title": "Absolute Zero: Reinforced Self-play Reasoning with Zero Data",
+        "authors": [
+          "Andrew Zhao",
+          "Yiran Wu",
+          "Yang Yue",
+          "Tong Wu",
+          "Quentin Xu",
+          "Yang Yue",
+          "Matthieu Lin",
+          "Shenzhi Wang",
+          "Qingyun Wu",
+          "Zilong Zheng",
+          "Gao Huang"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2505.03335"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2505.03335&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "LeCun2015DeepLearning",
+      "raw": {
+        "title": "Deep learning",
+        "authors": [
+          "LeCun, Yann",
+          "Bengio, Yoshua",
+          "Hinton, Geoffrey"
+        ],
+        "year": 2015,
+        "doi": "10.1038/nature14539",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2919115771",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Deep learning",
+        "year": 2015,
+        "authors": [
+          "Yann LeCun",
+          "Yoshua Bengio",
+          "Geoffrey E. Hinton"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Assran2023_I_JEPA",
+      "raw": {
+        "title": "Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture",
+        "authors": [
+          "Assran, Mahmoud",
+          "Duval, Quentin",
+          "Misra, Ishan",
+          "Bojanowski, Piotr",
+          "Vincent, Pascal",
+          "Rabbat, Michael",
+          "LeCun, Yann",
+          "Ballas, Nicolas"
+        ],
+        "year": 2023,
+        "doi": "10.1109/CVPR52729.2023.01499",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4386076428",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture",
+        "year": 2023,
+        "authors": [
+          "Mahmoud Assran",
+          "Quentin Duval",
+          "Ishan Misra",
+          "Piotr Bojanowski",
+          "P. Vincent",
+          "Michael Rabbat",
+          "Yann LeCun",
+          "Nicolas Ballas"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "hafner2025_Dreamer4",
+      "raw": {
+        "title": "Training Agents Inside of Scalable World Models",
+        "authors": [
+          "Danijar Hafner",
+          "Wilson Yan",
+          "Timothy Lillicrap"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2509.24527"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2509.24527&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "bruce2024_genie_generativeinteractiveenvironments",
+      "raw": {
+        "title": "Genie: Generative Interactive Environments",
+        "authors": [
+          "Jake Bruce",
+          "Michael Dennis",
+          "Ashley Edwards",
+          "Jack Parker-Holder",
+          "Yuge Shi",
+          "Edward Hughes",
+          "Matthew Lai",
+          "Aditi Mavalankar",
+          "Richie Steigerwald",
+          "Chris Apps",
+          "Yusuf Aytar",
+          "Sarah Bechtle",
+          "Feryal Behbahani",
+          "Stephanie Chan",
+          "Nicolas Heess",
+          "Lucy Gonzalez",
+          "Simon Osindero",
+          "Sherjil Ozair",
+          "Scott Reed",
+          "Jingwei Zhang",
+          "Konrad Zolna",
+          "Jeff Clune",
+          "Nando de Freitas",
+          "Satinder Singh",
+          "Tim Rocktäschel"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2402.15391"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2402.15391&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "su2025largelanguagemodelsreally",
+      "raw": {
+        "title": "Do Large Language Models (Really) Need Statistical Foundations?",
+        "authors": [
+          "Weijie Su"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2505.19145"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2505.19145&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Huang2024_LLM2LMM",
+      "raw": {
+        "title": "From Large Language Models to Large Multimodal Models: A Literature Review",
+        "authors": [
+          "Huang, Dawei",
+          "Yan, Chuan",
+          "Li, Qing",
+          "Peng, Xiaojiang"
+        ],
+        "year": 2024,
+        "doi": "10.3390/app14125068",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4399547912",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "From Large Language Models to Large Multimodal Models: A Literature Review",
+        "year": 2024,
+        "authors": [
+          "Dawei Huang",
+          "Chuan Yan",
+          "Qing Li",
+          "Xiaojiang Peng"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "wyder2025common",
+      "raw": {
+        "title": "Common task framework for a critical evaluation of scientific machine learning algorithms",
+        "authors": [
+          "Wyder, Philippe Martin",
+          "Goldfeder, Judah",
+          "Yermakov, Alexey",
+          "Zhao, Yue",
+          "Riva, Stefano",
+          "Williams, Jan P",
+          "Zoro, David",
+          "Rude, Amy Sara",
+          "Tomasetto, Matteo",
+          "Germany, Joe",
+          "others"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Common+task+framework+for+a+critical+evaluation+of+scientific+machine+learning+algorithms&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "balestriero2023cookbookselfsupervisedlearning",
+      "raw": {
+        "title": "A Cookbook of Self-Supervised Learning",
+        "authors": [
+          "Randall Balestriero",
+          "Mark Ibrahim",
+          "Vlad Sobal",
+          "Ari Morcos",
+          "Shashank Shekhar",
+          "Tom Goldstein",
+          "Florian Bordes",
+          "Adrien Bardes",
+          "Gregoire Mialon",
+          "Yuandong Tian",
+          "Avi Schwarzschild",
+          "Andrew Gordon Wilson",
+          "Jonas Geiping",
+          "Quentin Garrido",
+          "Pierre Fernandez",
+          "Amir Bar",
+          "Hamed Pirsiavash",
+          "Yann LeCun",
+          "Micah Goldblum"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": "2304.12210"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2304.12210&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "sutton2019bitter",
+      "raw": {
+        "title": "The bitter lesson",
+        "authors": [
+          "Sutton, Richard"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=The+bitter+lesson&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "van2025joint",
+      "raw": {
+        "title": "Joint Embedding vs Reconstruction: Provable Benefits of Latent Space Prediction for Self Supervised Learning",
+        "authors": [
+          "Van Assel, Hugues",
+          "Ibrahim, Mark",
+          "Biancalani, Tommaso",
+          "Regev, Aviv",
+          "Balestriero, Randall"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Joint+Embedding+vs+Reconstruction%3A+Provable+Benefits+of+Latent+Space+Prediction+for+Self+Supervised+Learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "finn2017model",
+      "raw": {
+        "title": "Model-agnostic meta-learning for fast adaptation of deep networks",
+        "authors": [
+          "Finn, Chelsea",
+          "Abbeel, Pieter",
+          "Levine, Sergey"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Model-agnostic+meta-learning+for+fast+adaptation+of+deep+networks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Schrittwieser2020",
+      "raw": {
+        "title": "Mastering Atari, Go, chess and shogi by planning with a learned model",
+        "authors": [
+          "Schrittwieser, Julian",
+          "Antonoglou, Ioannis",
+          "Hubert, Thomas",
+          "Simonyan, Karen",
+          "Sifre, Laurent",
+          "Schmitt, Simon",
+          "Guez, Arthur",
+          "Lockhart, Edward",
+          "Hassabis, Demis",
+          "Graepel, Thore",
+          "Lillicrap, Timothy",
+          "Silver, David"
+        ],
+        "year": 2020,
+        "doi": "10.1038/s41586-020-03051-4",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2989847975",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Mastering Atari, Go, chess and shogi by planning with a learned model",
+        "year": 2020,
+        "authors": [
+          "Julian Schrittwieser",
+          "Ioannis Antonoglou",
+          "Thomas Hubert",
+          "Karen Simonyan",
+          "Laurent Sifre",
+          "Simon Schmitt",
+          "Arthur Guez",
+          "Edward Lockhart",
+          "Demis Hassabis",
+          "Thore Graepel",
+          "Timothy Lillicrap",
+          "David Silver"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "aguerra_y_arcas_norvig_2023",
+      "raw": {
+        "title": "Artificial General Intelligence Is Already Here",
+        "authors": [
+          "Agüera y Arcas, Blaise",
+          "Norvig, Peter"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "chen_belkin_bergen_danks_2026",
+      "raw": {
+        "title": "Does AI already have human-level intelligence? The evidence is clear",
+        "authors": [
+          "Chen, Eddy Keming",
+          "Belkin, Mikhail",
+          "Bergen, Leon",
+          "Danks, David"
+        ],
+        "year": 2026,
+        "doi": "10.1038/d41586-026-00285-6",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W7127148431",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Does AI already have human-level intelligence? The evidence is clear",
+        "year": 2026,
+        "authors": [
+          "Eddy Keming Chen",
+          "Mikhail Belkin",
+          "Leon Bergen",
+          "David Danks"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    }
+  ]
+}

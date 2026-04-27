@@ -1,0 +1,759 @@
+{
+  "paper_id": "ac461ebd-79b8-4738-8ec3-929a94b6729a",
+  "total": 28,
+  "verified": 3,
+  "mismatch": 0,
+  "missing": 0,
+  "ambiguous": 0,
+  "error": 24,
+  "skipped": 1,
+  "s2_consulted": 0,
+  "s2_lifted": 0,
+  "key_style_outliers": [
+    "pew_atp_wave79_2020"
+  ],
+  "entries": [
+    {
+      "key": "bastani2025human",
+      "raw": {
+        "title": "The Human-AI Contracting Paradox",
+        "authors": [
+          "Bastani, Hamsa",
+          "Cachon, Gerard P"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=The+Human-AI+Contracting+Paradox&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zrnic2024active",
+      "raw": {
+        "title": "Active statistical inference",
+        "authors": [
+          "Zrnic, Tijana",
+          "Cand{\\`e}s, Emmanuel J"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Active+statistical+inference&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "pew_atp_wave79_2020",
+      "raw": {
+        "title": "American Trends Panel: Wave 79",
+        "authors": [
+          "{Pew Research Center}"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "bludau2022structural",
+      "raw": {
+        "title": "The structural context of posttranslational modifications at a proteome-wide scale",
+        "authors": [
+          "Bludau, Isabell",
+          "Willems, Sander",
+          "Zeng, Wen-Feng",
+          "Strauss, Maximilian T",
+          "Hansen, Fynn M",
+          "Tanzer, Maria C",
+          "Karayel, Ozge",
+          "Schulman, Brenda A",
+          "Mann, Matthias"
+        ],
+        "year": 2022,
+        "doi": "10.1371/journal.pbio.3001636",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4280512557",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "The structural context of posttranslational modifications at a proteome-wide scale",
+        "year": 2022,
+        "authors": [
+          "Isabell Bludau",
+          "Sander Willems",
+          "Wenfeng Zeng",
+          "Maximilian T. Strauss",
+          "Fynn M. Hansen",
+          "Maria C. Tanzer",
+          "Özge Karayel",
+          "Brenda A. Schulman",
+          "Matthias Mann"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "angelopoulos2023prediction",
+      "raw": {
+        "title": "Prediction-powered inference",
+        "authors": [
+          "Angelopoulos, Anastasios N.",
+          "Bates, Stephen",
+          "Fannjiang, Clara",
+          "Jordan, Michael I.",
+          "Zrnic, Tijana"
+        ],
+        "year": 2023,
+        "doi": "10.1126/science.adi6000",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4388520288",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Prediction-powered inference",
+        "year": 2023,
+        "authors": [
+          "Anastasios N. Angelopoulos",
+          "Stephen Bates",
+          "Clara Fannjiang",
+          "Michael I. Jordan",
+          "Tijana Zrnic"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "jumper2021alphafold",
+      "raw": {
+        "title": "Highly accurate protein structure prediction with AlphaFold",
+        "authors": [
+          "Jumper, John",
+          "Evans, Richard",
+          "Pritzel, Alexander",
+          "Green, Tim",
+          "Figurnov, Michael",
+          "Ronneberger, Olaf",
+          "Tunyasuvunakool, Kathryn",
+          "Bates, Russ",
+          "Z\\'{i}dek, Augustin",
+          "Potapenko, Anna",
+          "others"
+        ],
+        "year": 2021,
+        "doi": "10.1038/s41586-021-03819-2",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3177828909",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Highly accurate protein structure prediction with AlphaFold",
+        "year": 2021,
+        "authors": [
+          "John Jumper",
+          "Richard Evans",
+          "Alexander Pritzel",
+          "Tim Green",
+          "Michael Figurnov",
+          "Olaf Ronneberger",
+          "Kathryn Tunyasuvunakool",
+          "Russ Bates",
+          "Augustin Žídek",
+          "Anna Potapenko",
+          "Alex Bridgland",
+          "Clemens Meyer",
+          "Simon Köhl",
+          "Andrew J. Ballard",
+          "Andrew Cowie",
+          "Bernardino Romera‐Paredes",
+          "Stanislav Nikolov",
+          "Rishub Jain",
+          "Jonas Adler",
+          "Trevor Back",
+          "Stig Petersen",
+          "David Reiman",
+          "Ellen Clancy",
+          "Michał Zieliński",
+          "Martin Steinegger",
+          "Michalina Pacholska",
+          "Tamas Berghammer",
+          "Sebastian W. Bodenstein",
+          "David Silver",
+          "Oriol Vinyals",
+          "Andrew Senior",
+          "Koray Kavukcuoglu",
+          "Pushmeet Kohli",
+          "Demis Hassabis"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "wu2022survey",
+      "raw": {
+        "title": "A survey of human-in-the-loop for machine learning",
+        "authors": [
+          "Wu, Xingjiao",
+          "Xiao, Luwei",
+          "Sun, Yixuan",
+          "Zhang, Junhang",
+          "Ma, Tianlong",
+          "He, Liang"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=A+survey+of+human-in-the-loop+for+machine+learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "sambasivan2021everyone",
+      "raw": {
+        "title": "“Everyone wants to do the model work, not the data work”: Data Cascades in High-Stakes AI",
+        "authors": [
+          "Sambasivan, Nithya",
+          "Kapania, Shivani",
+          "Highfill, Hannah",
+          "Akrong, Diana",
+          "Paritosh, Praveen",
+          "Aroyo, Lora M"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=%E2%80%9CEveryone+wants+to+do+the+model+work%2C+not+the+data+work%E2%80%9D%3A+Data+Cascades+in+High-Stakes+AI&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "settles2009active",
+      "raw": {
+        "title": "Active learning literature survey",
+        "authors": [
+          "Settles, Burr"
+        ],
+        "year": 2009,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Active+learning+literature+survey&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ipeirotis2010quality",
+      "raw": {
+        "title": "Quality management on amazon mechanical turk",
+        "authors": [
+          "Ipeirotis, Panagiotis G",
+          "Provost, Foster",
+          "Wang, Jing"
+        ],
+        "year": 2010,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Quality+management+on+amazon+mechanical+turk&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "iyengar2000active",
+      "raw": {
+        "title": "Active learning using adaptive resampling",
+        "authors": [
+          "Iyengar, Vijay S",
+          "Apte, Chidanand",
+          "Zhang, Tong"
+        ],
+        "year": 2000,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Active+learning+using+adaptive+resampling&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "oleson2011programmatic",
+      "raw": {
+        "title": "Programmatic gold: Targeted and scalable quality assurance in crowdsourcing.",
+        "authors": [
+          "Oleson, David",
+          "Sorokin, Alexander",
+          "Laughlin, Greg P",
+          "Hester, Vaughn",
+          "Le, John",
+          "Biewald, Lukas"
+        ],
+        "year": 2011,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Programmatic+gold%3A+Targeted+and+scalable+quality+assurance+in+crowdsourcing.&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "mason2009financial",
+      "raw": {
+        "title": "Financial incentives and the\" performance of crowds\"",
+        "authors": [
+          "Mason, Winter",
+          "Watts, Duncan J"
+        ],
+        "year": 2009,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Financial+incentives+and+the%22+performance+of+crowds%22&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "yin2026synthetic",
+      "raw": {
+        "title": "Synthetic but Not Infinite: How Much LLM-Generated Data to Use in Market Research",
+        "authors": [
+          "Yin, Qichuan Ethan",
+          "Xin, Linwei"
+        ],
+        "year": 2026,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Synthetic+but+Not+Infinite%3A+How+Much+LLM-Generated+Data+to+Use+in+Market+Research&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "huang2025uncertainty",
+      "raw": {
+        "title": "Uncertainty quantification for LLM-based survey simulations",
+        "authors": [
+          "Huang, Chengpiao",
+          "Wu, Yuhang",
+          "Wang, Kaizheng"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Uncertainty+quantification+for+LLM-based+survey+simulations&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "achiam2023gpt",
+      "raw": {
+        "title": "Gpt-4 technical report",
+        "authors": [
+          "Achiam, Josh",
+          "Adler, Steven",
+          "Agarwal, Sandhini",
+          "Ahmad, Lama",
+          "Akkaya, Ilge",
+          "Aleman, Florencia Leoni",
+          "Almeida, Diogo",
+          "Altenschmidt, Janko",
+          "Altman, Sam",
+          "Anadkat, Shyamal",
+          "others"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Gpt-4+technical+report&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ashktorab2021ai",
+      "raw": {
+        "title": "Ai-assisted human labeling: Batching for efficiency without overreliance",
+        "authors": [
+          "Ashktorab, Zahra",
+          "Desmond, Michael",
+          "Andres, Josh",
+          "Muller, Michael",
+          "Joshi, Narendra Nath",
+          "Brachman, Michelle",
+          "Sharma, Aabhas",
+          "Brimijoin, Kristina",
+          "Pan, Qian",
+          "Wolf, Christine T",
+          "others"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Ai-assisted+human+labeling%3A+Batching+for+efficiency+without+overreliance&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "daniel2018quality",
+      "raw": {
+        "title": "Quality control in crowdsourcing: A survey of quality attributes, assessment techniques, and assurance actions",
+        "authors": [
+          "Daniel, Florian",
+          "Kucherbaev, Pavel",
+          "Cappiello, Cinzia",
+          "Benatallah, Boualem",
+          "Allahbakhsh, Mohammad"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Quality+control+in+crowdsourcing%3A+A+survey+of+quality+attributes%2C+assessment+techniques%2C+and+assurance+actions&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "hu2018inference",
+      "raw": {
+        "title": "Inference aided reinforcement learning for incentive mechanism design in crowdsourcing",
+        "authors": [
+          "Hu, Zehong",
+          "Liang, Yitao",
+          "Zhang, Jie",
+          "Li, Zhao",
+          "Liu, Yang"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Inference+aided+reinforcement+learning+for+incentive+mechanism+design+in+crowdsourcing&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "saig2023delegated",
+      "raw": {
+        "title": "Delegated classification",
+        "authors": [
+          "Saig, Eden",
+          "Talgam-Cohen, Inbal",
+          "Rosenfeld, Nir"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Delegated+classification&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ziegler2022adversarial",
+      "raw": {
+        "title": "Adversarial training for high-stakes reliability",
+        "authors": [
+          "Ziegler, Daniel",
+          "Nix, Seraphina",
+          "Chan, Lawrence",
+          "Bauman, Tim",
+          "Schmidt-Nielsen, Peter",
+          "Lin, Tao",
+          "Scherlis, Adam",
+          "Nabeshima, Noa",
+          "Weinstein-Raun, Benjamin",
+          "de Haas, Daniel",
+          "others"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Adversarial+training+for+high-stakes+reliability&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "de2024towards",
+      "raw": {
+        "title": "Towards human-AI complementarity with prediction sets",
+        "authors": [
+          "De Toni, Giovanni",
+          "Okati, Nastaran",
+          "Thejaswi, Suhas",
+          "Straitouri, Eleni",
+          "Rodriguez, Manuel"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Towards+human-AI+complementarity+with+prediction+sets&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "goel2023llms",
+      "raw": {
+        "title": "Llms accelerate annotation for medical information extraction",
+        "authors": [
+          "Goel, Akshay",
+          "Gueta, Almog",
+          "Gilon, Omry",
+          "Liu, Chang",
+          "Erell, Sofia",
+          "Nguyen, Lan Huong",
+          "Hao, Xiaohong",
+          "Jaber, Bolous",
+          "Reddy, Shashir",
+          "Kartha, Rupesh",
+          "others"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Llms+accelerate+annotation+for+medical+information+extraction&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "caro2026introduction",
+      "raw": {
+        "title": "Introduction to the Special Issue on the Human-Algorithm Connection",
+        "authors": [
+          "Caro, Felipe",
+          "Colliard, Jean-Edouard",
+          "Katok, Elena",
+          "Ockenfels, Axel",
+          "Stier-Moses, Nicolas",
+          "Tucker, Catherine",
+          "Wu, DJ"
+        ],
+        "year": 2026,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Introduction+to+the+Special+Issue+on+the+Human-Algorithm+Connection&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "krakowski2026human",
+      "raw": {
+        "title": "Human-centered artificial intelligence: A field experiment",
+        "authors": [
+          "Krakowski, Sebastian",
+          "Haftor, Darek",
+          "Luger, Johannes",
+          "Pashkevich, Natallia",
+          "Raisch, Sebastian"
+        ],
+        "year": 2026,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Human-centered+artificial+intelligence%3A+A+field+experiment&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "madras2018predict",
+      "raw": {
+        "title": "Predict responsibly: improving fairness and accuracy by learning to defer",
+        "authors": [
+          "Madras, David",
+          "Pitassi, Toni",
+          "Zemel, Richard"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Predict+responsibly%3A+improving+fairness+and+accuracy+by+learning+to+defer&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "charusaie2022sample",
+      "raw": {
+        "title": "Sample efficient learning of predictors that complement humans",
+        "authors": [
+          "Charusaie, Mohammad-Amin",
+          "Mozannar, Hussein",
+          "Sontag, David",
+          "Samadi, Samira"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Sample+efficient+learning+of+predictors+that+complement+humans&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "blezek2021ai",
+      "raw": {
+        "title": "AI integration in the clinical workflow",
+        "authors": [
+          "Blezek, Daniel J",
+          "Olson-Williams, Lonny",
+          "Missert, Andrew",
+          "Korfiatis, Pangiotis"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=AI+integration+in+the+clinical+workflow&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    }
+  ]
+}

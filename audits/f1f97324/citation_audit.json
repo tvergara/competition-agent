@@ -1,0 +1,3017 @@
+{
+  "paper_id": "f1f97324-d907-432a-8ba9-01873d0b28cc",
+  "total": 127,
+  "verified": 1,
+  "mismatch": 0,
+  "missing": 0,
+  "ambiguous": 0,
+  "error": 121,
+  "skipped": 5,
+  "s2_consulted": 0,
+  "s2_lifted": 0,
+  "key_style_outliers": [
+    "wei20202",
+    "DORMAND198019"
+  ],
+  "entries": [
+    {
+      "key": "vaswani2017attention",
+      "raw": {
+        "title": "Attention is all you need",
+        "authors": [
+          "Vaswani, A"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Attention+is+all+you+need&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "li2020fourier",
+      "raw": {
+        "title": "Fourier neural operator for parametric partial differential equations",
+        "authors": [
+          "Li, Zongyi",
+          "Kovachki, Nikola",
+          "Azizzadenesheli, Kamyar",
+          "Liu, Burigede",
+          "Bhattacharya, Kaushik",
+          "Stuart, Andrew",
+          "Anandkumar, Anima"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Fourier+neural+operator+for+parametric+partial+differential+equations&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "lu2019deeponet",
+      "raw": {
+        "title": "Deeponet: Learning nonlinear operators for identifying differential equations based on the universal approximation theorem of operators",
+        "authors": [
+          "Lu, Lu",
+          "Jin, Pengzhan",
+          "Karniadakis, George Em"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Deeponet%3A+Learning+nonlinear+operators+for+identifying+differential+equations+based+on+the+universal+approximation+theorem+of+operators&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ho2020denoising",
+      "raw": {
+        "title": "Denoising diffusion probabilistic models",
+        "authors": [
+          "Ho, Jonathan",
+          "Jain, Ajay",
+          "Abbeel, Pieter"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Denoising+diffusion+probabilistic+models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "sohl2015deep",
+      "raw": {
+        "title": "Deep unsupervised learning using nonequilibrium thermodynamics",
+        "authors": [
+          "Sohl-Dickstein, Jascha",
+          "Weiss, Eric",
+          "Maheswaranathan, Niru",
+          "Ganguli, Surya"
+        ],
+        "year": 2015,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Deep+unsupervised+learning+using+nonequilibrium+thermodynamics&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "molinaro2023neural",
+      "raw": {
+        "title": "Neural inverse operators for solving PDE inverse problems",
+        "authors": [
+          "Molinaro, Roberto",
+          "Yang, Yunan",
+          "Engquist, Bj{\\\"o}rn",
+          "Mishra, Siddhartha"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Neural+inverse+operators+for+solving+PDE+inverse+problems&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "pathak2022fourcastnet",
+      "raw": {
+        "title": "Fourcastnet: A global data-driven high-resolution weather model using adaptive fourier neural operators",
+        "authors": [
+          "Pathak, Jaideep",
+          "Subramanian, Shashank",
+          "Harrington, Peter",
+          "Raja, Sanjeev",
+          "Chattopadhyay, Ashesh",
+          "Mardani, Morteza",
+          "Kurth, Thorsten",
+          "Hall, David",
+          "Li, Zongyi",
+          "Azizzadenesheli, Kamyar",
+          "others"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Fourcastnet%3A+A+global+data-driven+high-resolution+weather+model+using+adaptive+fourier+neural+operators&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "wen2022u",
+      "raw": {
+        "title": "U-FNO—An enhanced Fourier neural operator-based deep-learning model for multiphase flow",
+        "authors": [
+          "Wen, Gege",
+          "Li, Zongyi",
+          "Azizzadenesheli, Kamyar",
+          "Anandkumar, Anima",
+          "Benson, Sally M"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=U-FNO%E2%80%94An+enhanced+Fourier+neural+operator-based+deep-learning+model+for+multiphase+flow&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "kurth2023fourcastnet",
+      "raw": {
+        "title": "Fourcastnet: Accelerating global high-resolution weather forecasting using adaptive fourier neural operators",
+        "authors": [
+          "Kurth, Thorsten",
+          "Subramanian, Shashank",
+          "Harrington, Peter",
+          "Pathak, Jaideep",
+          "Mardani, Morteza",
+          "Hall, David",
+          "Miele, Andrea",
+          "Kashinath, Karthik",
+          "Anandkumar, Anima"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Fourcastnet%3A+Accelerating+global+high-resolution+weather+forecasting+using+adaptive+fourier+neural+operators&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "cao2023residual",
+      "raw": {
+        "title": "Residual-based error correction for neural operator accelerated infinite-dimensional Bayesian inverse problems",
+        "authors": [
+          "Cao, Lianghao",
+          "O'Leary-Roseberry, Thomas",
+          "Jha, Prashant K",
+          "Oden, J Tinsley",
+          "Ghattas, Omar"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Residual-based+error+correction+for+neural+operator+accelerated+infinite-dimensional+Bayesian+inverse+problems&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "chung2022diffusion",
+      "raw": {
+        "title": "Diffusion posterior sampling for general noisy inverse problems",
+        "authors": [
+          "Chung, Hyungjin",
+          "Kim, Jeongsol",
+          "Mccann, Michael T",
+          "Klasky, Marc L",
+          "Ye, Jong Chul"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Diffusion+posterior+sampling+for+general+noisy+inverse+problems&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "huang2024diffusionpde",
+      "raw": {
+        "title": "DiffusionPDE: Generative PDE-solving under partial observation",
+        "authors": [
+          "Huang, Jiahe",
+          "Yang, Guandao",
+          "Wang, Zichen",
+          "Park, Jeong Joon"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=DiffusionPDE%3A+Generative+PDE-solving+under+partial+observation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "hu2024computational",
+      "raw": {
+        "title": "On computational limits of modern hopfield models: A fine-grained complexity analysis",
+        "authors": [
+          "Hu, Jerry Yao-Chieh",
+          "Lin, Thomas",
+          "Song, Zhao",
+          "Liu, Han"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=On+computational+limits+of+modern+hopfield+models%3A+A+fine-grained+complexity+analysis&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "song2020score",
+      "raw": {
+        "title": "Score-based generative modeling through stochastic differential equations",
+        "authors": [
+          "Song, Yang",
+          "Sohl-Dickstein, Jascha",
+          "Kingma, Diederik P",
+          "Kumar, Abhishek",
+          "Ermon, Stefano",
+          "Poole, Ben"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Score-based+generative+modeling+through+stochastic+differential+equations&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "song2019generative",
+      "raw": {
+        "title": "Generative modeling by estimating gradients of the data distribution",
+        "authors": [
+          "Song, Yang",
+          "Ermon, Stefano"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Generative+modeling+by+estimating+gradients+of+the+data+distribution&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "vincent2011connection",
+      "raw": {
+        "title": "A connection between score matching and denoising autoencoders",
+        "authors": [
+          "Vincent, Pascal"
+        ],
+        "year": 2011,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=A+connection+between+score+matching+and+denoising+autoencoders&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "jalal2021robust",
+      "raw": {
+        "title": "Robust compressed sensing mri with deep generative priors",
+        "authors": [
+          "Jalal, Ajil",
+          "Arvinte, Marius",
+          "Daras, Giannis",
+          "Price, Eric",
+          "Dimakis, Alexandros G",
+          "Tamir, Jon"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Robust+compressed+sensing+mri+with+deep+generative+priors&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "kovachki2023neural",
+      "raw": {
+        "title": "Neural operator: Learning maps between function spaces with applications to pdes",
+        "authors": [
+          "Kovachki, Nikola",
+          "Li, Zongyi",
+          "Liu, Burigede",
+          "Azizzadenesheli, Kamyar",
+          "Bhattacharya, Kaushik",
+          "Stuart, Andrew",
+          "Anandkumar, Anima"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Neural+operator%3A+Learning+maps+between+function+spaces+with+applications+to+pdes&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "raissi2019physics",
+      "raw": {
+        "title": "Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations",
+        "authors": [
+          "Raissi, Maziar",
+          "Perdikaris, Paris",
+          "Karniadakis, George E"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Physics-informed+neural+networks%3A+A+deep+learning+framework+for+solving+forward+and+inverse+problems+involving+nonlinear+partial+differential+equations&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "sirignano2018dgm",
+      "raw": {
+        "title": "DGM: A deep learning algorithm for solving partial differential equations",
+        "authors": [
+          "Sirignano, Justin",
+          "Spiliopoulos, Konstantinos"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=DGM%3A+A+deep+learning+algorithm+for+solving+partial+differential+equations&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "karniadakis2021physics",
+      "raw": {
+        "title": "Physics-informed machine learning",
+        "authors": [
+          "Karniadakis, George Em",
+          "Kevrekidis, Ioannis G",
+          "Lu, Lu",
+          "Perdikaris, Paris",
+          "Wang, Sifan",
+          "Yang, Liu"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Physics-informed+machine+learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "wang2022and",
+      "raw": {
+        "title": "When and why PINNs fail to train: A neural tangent kernel perspective",
+        "authors": [
+          "Wang, Sifan",
+          "Yu, Xinling",
+          "Perdikaris, Paris"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=When+and+why+PINNs+fail+to+train%3A+A+neural+tangent+kernel+perspective&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "krishnapriyan2021characterizing",
+      "raw": {
+        "title": "Characterizing possible failure modes in physics-informed neural networks",
+        "authors": [
+          "Krishnapriyan, Aditi",
+          "Gholami, Amir",
+          "Zhe, Shandian",
+          "Kirby, Robert",
+          "Mahoney, Michael W"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Characterizing+possible+failure+modes+in+physics-informed+neural+networks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "chuang2023predictive",
+      "raw": {
+        "title": "Predictive limitations of physics-informed neural networks in vortex shedding",
+        "authors": [
+          "Chuang, Pi-Yueh",
+          "Barba, Lorena A"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Predictive+limitations+of+physics-informed+neural+networks+in+vortex+shedding&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "cai2021deepm",
+      "raw": {
+        "title": "DeepM\\&Mnet: Inferring the electroconvection multiphysics fields based on operator approximation by neural networks",
+        "authors": [
+          "Cai, Shengze",
+          "Wang, Zhicheng",
+          "Lu, Lu",
+          "Zaki, Tamer A",
+          "Karniadakis, George Em"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=DeepM%5C%26Mnet%3A+Inferring+the+electroconvection+multiphysics+fields+based+on+operator+approximation+by+neural+networks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "lin2021operator",
+      "raw": {
+        "title": "Operator learning for predicting multiscale bubble growth dynamics",
+        "authors": [
+          "Lin, Chensen",
+          "Li, Zhen",
+          "Lu, Lu",
+          "Cai, Shengze",
+          "Maxey, Martin",
+          "Karniadakis, George Em"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Operator+learning+for+predicting+multiscale+bubble+growth+dynamics&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "li2020neural",
+      "raw": {
+        "title": "Neural operator: Graph kernel network for partial differential equations",
+        "authors": [
+          "Li, Zongyi",
+          "Kovachki, Nikola",
+          "Azizzadenesheli, Kamyar",
+          "Liu, Burigede",
+          "Bhattacharya, Kaushik",
+          "Stuart, Andrew",
+          "Anandkumar, Anima"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Neural+operator%3A+Graph+kernel+network+for+partial+differential+equations&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "cao2024laplace",
+      "raw": {
+        "title": "Laplace neural operator for solving differential equations",
+        "authors": [
+          "Cao, Qianying",
+          "Goswami, Somdatta",
+          "Karniadakis, George Em"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Laplace+neural+operator+for+solving+differential+equations&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "li2020multipole",
+      "raw": {
+        "title": "Multipole graph neural operator for parametric partial differential equations",
+        "authors": [
+          "Li, Zongyi",
+          "Kovachki, Nikola",
+          "Azizzadenesheli, Kamyar",
+          "Liu, Burigede",
+          "Stuart, Andrew",
+          "Bhattacharya, Kaushik",
+          "Anandkumar, Anima"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Multipole+graph+neural+operator+for+parametric+partial+differential+equations&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "jatyani2024unifying",
+      "raw": {
+        "title": "Unifying Subsampling Pattern Variations for Compressed Sensing MRI with Neural Operators",
+        "authors": [
+          "Armeet Singh Jatyani",
+          "Jiayun Wang",
+          "Zihui Wu",
+          "Miguel Liu-Schiaffini",
+          "Bahareh Tolooshams",
+          "Anima Anandkumar"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "zheng2025inversebench",
+      "raw": {
+        "title": "InverseBench: Benchmarking Plug-and-Play Diffusion Models for Scientific Inverse Problems",
+        "authors": [
+          "Hongkai Zheng",
+          "Wenda Chu",
+          "Bingliang Zhang",
+          "Zihui Wu",
+          "Austin Wang",
+          "Berthy Feng",
+          "Caifeng Zou",
+          "Yu Sun",
+          "Nikola Borislavov Kovachki",
+          "Zachary E Ross",
+          "Katherine Bouman",
+          "Yisong Yue"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "li2024physics",
+      "raw": {
+        "title": "Physics-informed neural operator for learning partial differential equations",
+        "authors": [
+          "Li, Zongyi",
+          "Zheng, Hongkai",
+          "Kovachki, Nikola",
+          "Jin, David",
+          "Chen, Haoxuan",
+          "Liu, Burigede",
+          "Azizzadenesheli, Kamyar",
+          "Anandkumar, Anima"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Physics-informed+neural+operator+for+learning+partial+differential+equations&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zhang2025improving",
+      "raw": {
+        "title": "Improving diffusion inverse problem solving with decoupled noise annealing",
+        "authors": [
+          "Zhang, Bingliang",
+          "Chu, Wenda",
+          "Berner, Julius",
+          "Meng, Chenlin",
+          "Anandkumar, Anima",
+          "Song, Yang"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Improving+diffusion+inverse+problem+solving+with+decoupled+noise+annealing&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "wang2025fundiffdiffusionmodelsfunction",
+      "raw": {
+        "title": "FunDiff: Diffusion Models over Function Spaces for Physics-Informed Generative Modeling",
+        "authors": [
+          "Sifan Wang",
+          "Zehao Dou",
+          "Tong-Rui Liu",
+          "Lu Lu"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2506.07902"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2506.07902&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "li2024learning",
+      "raw": {
+        "title": "Learning spatiotemporal dynamics with a pretrained generative model",
+        "authors": [
+          "Li, Zeyu",
+          "Han, Wang",
+          "Zhang, Yue",
+          "Fu, Qingfei",
+          "Li, Jingxuan",
+          "Qin, Lizi",
+          "Dong, Ruoyu",
+          "Sun, Hao",
+          "Deng, Yue",
+          "Yang, Lijun"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Learning+spatiotemporal+dynamics+with+a+pretrained+generative+model&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "shysheya2024conditional",
+      "raw": {
+        "title": "On conditional diffusion models for PDE simulations",
+        "authors": [
+          "Shysheya, Aliaksandra",
+          "Diaconu, Cristiana",
+          "Bergamin, Federico",
+          "Perdikaris, Paris",
+          "Hern{\\'a}ndez-Lobato, Jos{\\'e} Miguel",
+          "Turner, Richard",
+          "Mathieu, Emile"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=On+conditional+diffusion+models+for+PDE+simulations&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zhang2025physicsinformeddistillationdiffusionmodels",
+      "raw": {
+        "title": "Physics-Informed Distillation of Diffusion Models for PDE-Constrained Generation",
+        "authors": [
+          "Yi Zhang",
+          "Difan Zou"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2505.22391"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2505.22391&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "bastek2025physicsinformeddiffusionmodels",
+      "raw": {
+        "title": "Physics-Informed Diffusion Models",
+        "authors": [
+          "Jan-Hendrik Bastek",
+          "WaiChing Sun",
+          "Dennis M. Kochmann"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2403.14404"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2403.14404&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "hu2025waveletdiffusionneuraloperator",
+      "raw": {
+        "title": "Wavelet Diffusion Neural Operator",
+        "authors": [
+          "Peiyan Hu",
+          "Rui Wang",
+          "Xiang Zheng",
+          "Tao Zhang",
+          "Haodong Feng",
+          "Ruiqi Feng",
+          "Long Wei",
+          "Yue Wang",
+          "Zhi-Ming Ma",
+          "Tailin Wu"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2412.04833"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2412.04833&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "berner2025principled",
+      "raw": {
+        "title": "Principled Approaches for Extending Neural Architectures to Function Spaces for Operator Learning",
+        "authors": [
+          "Berner, Julius",
+          "Liu-Schiaffini, Miguel",
+          "Kossaifi, Jean",
+          "Duruisseaux, Valentin",
+          "Bonev, Boris",
+          "Azizzadenesheli, Kamyar",
+          "Anandkumar, Anima"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Principled+Approaches+for+Extending+Neural+Architectures+to+Function+Spaces+for+Operator+Learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "chen2025invertible",
+      "raw": {
+        "title": "Invertible diffusion models for compressed sensing",
+        "authors": [
+          "Chen, Bin",
+          "Zhang, Zhenyu",
+          "Li, Weiqi",
+          "Zhao, Chen",
+          "Yu, Jiwen",
+          "Zhao, Shijie",
+          "Chen, Jie",
+          "Zhang, Jian"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Invertible+diffusion+models+for+compressed+sensing&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "wang2024qmri",
+      "raw": {
+        "title": "qMRI diffuser: quantitative T1 mapping of the brain using a denoising diffusion probabilistic model",
+        "authors": [
+          "Wang, Shishuai",
+          "Ma, Hua",
+          "Hernandez-Tamames, Juan A",
+          "Klein, Stefan",
+          "Poot, Dirk HJ"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=qMRI+diffuser%3A+quantitative+T1+mapping+of+the+brain+using+a+denoising+diffusion+probabilistic+model&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "tolooshams2025equiregequivarianceregularizeddiffusion",
+      "raw": {
+        "title": "EquiReg: Equivariance Regularized Diffusion for Inverse Problems",
+        "authors": [
+          "Bahareh Tolooshams",
+          "Aditi Chandrashekar",
+          "Rayhan Zirvi",
+          "Abbas Mammadov",
+          "Jiachen Yao",
+          "Chuwei Wang",
+          "Anima Anandkumar"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2505.22973"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2505.22973&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "pavliotis2014stochastic",
+      "raw": {
+        "title": "Stochastic processes and applications",
+        "authors": [
+          "Pavliotis, Grigorios A"
+        ],
+        "year": 2014,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Stochastic+processes+and+applications&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "wang2022approximately",
+      "raw": {
+        "title": "Approximately equivariant networks for imperfectly symmetric dynamics",
+        "authors": [
+          "Wang, Rui",
+          "Walters, Robin",
+          "Yu, Rose"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Approximately+equivariant+networks+for+imperfectly+symmetric+dynamics&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "bronstein2021geometric",
+      "raw": {
+        "title": "Geometric deep learning: Grids, groups, graphs, geodesics, and gauges",
+        "authors": [
+          "Bronstein, Michael M",
+          "Bruna, Joan",
+          "Cohen, Taco",
+          "Veli{\\v{c}}kovi{\\'c}, Petar"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Geometric+deep+learning%3A+Grids%2C+groups%2C+graphs%2C+geodesics%2C+and+gauges&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "satorras2021n",
+      "raw": {
+        "title": "E (n) equivariant graph neural networks",
+        "authors": [
+          "Satorras, V{\\i}ctor Garcia",
+          "Hoogeboom, Emiel",
+          "Welling, Max"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=E+%28n%29+equivariant+graph+neural+networks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "cohen2016group",
+      "raw": {
+        "title": "Group equivariant convolutional networks",
+        "authors": [
+          "Cohen, Taco",
+          "Welling, Max"
+        ],
+        "year": 2016,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Group+equivariant+convolutional+networks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "finzi2020generalizing",
+      "raw": {
+        "title": "Generalizing convolutional neural networks for equivariance to lie groups on arbitrary continuous data",
+        "authors": [
+          "Finzi, Marc",
+          "Stanton, Samuel",
+          "Izmailov, Pavel",
+          "Wilson, Andrew Gordon"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Generalizing+convolutional+neural+networks+for+equivariance+to+lie+groups+on+arbitrary+continuous+data&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "thomas2018tensor",
+      "raw": {
+        "title": "Tensor field networks: Rotation-and translation-equivariant neural networks for 3d point clouds",
+        "authors": [
+          "Thomas, Nathaniel",
+          "Smidt, Tess",
+          "Kearnes, Steven",
+          "Yang, Lusann",
+          "Li, Li",
+          "Kohlhoff, Kai",
+          "Riley, Patrick"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Tensor+field+networks%3A+Rotation-and+translation-equivariant+neural+networks+for+3d+point+clouds&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "fuchs2020se",
+      "raw": {
+        "title": "Se (3)-transformers: 3d roto-translation equivariant attention networks",
+        "authors": [
+          "Fuchs, Fabian",
+          "Worrall, Daniel",
+          "Fischer, Volker",
+          "Welling, Max"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Se+%283%29-transformers%3A+3d+roto-translation+equivariant+attention+networks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "cotter2009bayesian",
+      "raw": {
+        "title": "Bayesian inverse problems for functions and applications to fluid mechanics",
+        "authors": [
+          "Cotter, Simon L",
+          "Dashti, Massoumeh",
+          "Robinson, James Cooper",
+          "Stuart, Andrew M"
+        ],
+        "year": 2009,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Bayesian+inverse+problems+for+functions+and+applications+to+fluid+mechanics&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "das2012simulated",
+      "raw": {
+        "title": "A simulated annealing-based inverse computational fluid dynamics model for unknown parameter estimation in fluid flow problem",
+        "authors": [
+          "Das, Ranjan"
+        ],
+        "year": 2012,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=A+simulated+annealing-based+inverse+computational+fluid+dynamics+model+for+unknown+parameter+estimation+in+fluid+flow+problem&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "gregson2014capture",
+      "raw": {
+        "title": "From capture to simulation: connecting forward and inverse problems in fluids",
+        "authors": [
+          "Gregson, James",
+          "Ihrke, Ivo",
+          "Thuerey, Nils",
+          "Heidrich, Wolfgang"
+        ],
+        "year": 2014,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=From+capture+to+simulation%3A+connecting+forward+and+inverse+problems+in+fluids&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "nolte2022inverse",
+      "raw": {
+        "title": "Inverse problems in blood flow modeling: A review",
+        "authors": [
+          "Nolte, David",
+          "Bertoglio, Crist{\\'o}bal"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Inverse+problems+in+blood+flow+modeling%3A+A+review&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "iglesias2013ensemble",
+      "raw": {
+        "title": "Ensemble Kalman methods for inverse problems",
+        "authors": [
+          "Iglesias, Marco A",
+          "Law, Kody JH",
+          "Stuart, Andrew M"
+        ],
+        "year": 2013,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Ensemble+Kalman+methods+for+inverse+problems&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "fan2020solving",
+      "raw": {
+        "title": "Solving inverse problems in steady-state navier-stokes equations using deep neural networks",
+        "authors": [
+          "Fan, Tiffany",
+          "Xu, Kailai",
+          "Pathak, Jay",
+          "Darve, Eric"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Solving+inverse+problems+in+steady-state+navier-stokes+equations+using+deep+neural+networks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "song2021solving",
+      "raw": {
+        "title": "Solving inverse problems in medical imaging with score-based generative models",
+        "authors": [
+          "Song, Yang",
+          "Shen, Liyue",
+          "Xing, Lei",
+          "Ermon, Stefano"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Solving+inverse+problems+in+medical+imaging+with+score-based+generative+models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zhu2018image",
+      "raw": {
+        "title": "Image reconstruction by domain-transform manifold learning",
+        "authors": [
+          "Zhu, Bo",
+          "Liu, Jeremiah Z",
+          "Cauley, Stephen F",
+          "Rosen, Bruce R",
+          "Rosen, Matthew S"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Image+reconstruction+by+domain-transform+manifold+learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "mardani2017deep",
+      "raw": {
+        "title": "Deep generative adversarial networks for compressed sensing automates MRI",
+        "authors": [
+          "Mardani, Morteza",
+          "Gong, Enhao",
+          "Cheng, Joseph Y",
+          "Vasanawala, Shreyas",
+          "Zaharchuk, Greg",
+          "Alley, Marcus",
+          "Thakur, Neil",
+          "Han, Song",
+          "Dally, William",
+          "Pauly, John M",
+          "others"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Deep+generative+adversarial+networks+for+compressed+sensing+automates+MRI&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "shen2019patient",
+      "raw": {
+        "title": "Patient-specific reconstruction of volumetric computed tomography images from a single projection view via deep learning",
+        "authors": [
+          "Shen, Liyue",
+          "Zhao, Wei",
+          "Xing, Lei"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Patient-specific+reconstruction+of+volumetric+computed+tomography+images+from+a+single+projection+view+via+deep+learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "wurfl2018deep",
+      "raw": {
+        "title": "Deep learning computed tomography: Learning projection-domain weights from image domain in limited angle problems",
+        "authors": [
+          "W{\\\"u}rfl, Tobias",
+          "Hoffmann, Mathis",
+          "Christlein, Vincent",
+          "Breininger, Katharina",
+          "Huang, Yixin",
+          "Unberath, Mathias",
+          "Maier, Andreas K"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Deep+learning+computed+tomography%3A+Learning+projection-domain+weights+from+image+domain+in+limited+angle+problems&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ghani2018deep",
+      "raw": {
+        "title": "Deep learning-based sinogram completion for low-dose CT",
+        "authors": [
+          "Ghani, Muhammad Usman",
+          "Karl, W Clem"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Deep+learning-based+sinogram+completion+for+low-dose+CT&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "wei20202",
+      "raw": {
+        "title": "2-step sparse-view ct reconstruction with a domain-specific perceptual network",
+        "authors": [
+          "Wei, Haoyu",
+          "Schiffers, Florian",
+          "W{\\\"u}rfl, Tobias",
+          "Shen, Daming",
+          "Kim, Daniel",
+          "Katsaggelos, Aggelos K",
+          "Cossairt, Oliver"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=2-step+sparse-view+ct+reconstruction+with+a+domain-specific+perceptual+network&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "louis1992medical",
+      "raw": {
+        "title": "Medical imaging: state of the art and future development",
+        "authors": [
+          "Louis, AK"
+        ],
+        "year": 1992,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Medical+imaging%3A+state+of+the+art+and+future+development&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "arridge1999optical",
+      "raw": {
+        "title": "Optical tomography in medical imaging",
+        "authors": [
+          "Arridge, Simon R"
+        ],
+        "year": 1999,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Optical+tomography+in+medical+imaging&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "senouf2019self",
+      "raw": {
+        "title": "Self-supervised learning of inverse problem solvers in medical imaging",
+        "authors": [
+          "Senouf, Ortal",
+          "Vedula, Sanketh",
+          "Weiss, Tomer",
+          "Bronstein, Alex",
+          "Michailovich, Oleg",
+          "Zibulevsky, Michael"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Self-supervised+learning+of+inverse+problem+solvers+in+medical+imaging&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "sidky2020cnns",
+      "raw": {
+        "title": "Do CNNs solve the CT inverse problem?",
+        "authors": [
+          "Sidky, Emil Y",
+          "Lorente, Iris",
+          "Brankov, Jovan G",
+          "Pan, Xiaochuan"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Do+CNNs+solve+the+CT+inverse+problem%3F&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "wang2012regularization",
+      "raw": {
+        "title": "Regularization for inverse models in remote sensing",
+        "authors": [
+          "Wang, Yanfei"
+        ],
+        "year": 2012,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Regularization+for+inverse+models+in+remote+sensing&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "kagiwada1990associate",
+      "raw": {
+        "title": "Associate memories for system identification: Inverse problems in remote sensing",
+        "authors": [
+          "Kagiwada, Harriet",
+          "Kalaba, Robert",
+          "Timko, Steve",
+          "Ueno, Sueo"
+        ],
+        "year": 1990,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Associate+memories+for+system+identification%3A+Inverse+problems+in+remote+sensing&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "davis1995solving",
+      "raw": {
+        "title": "Solving inverse problems by Bayesian iterative inversion of a forward model with applications to parameter mapping using SMMR remote sensing data",
+        "authors": [
+          "Davis, Daniel T",
+          "Chen, Zhengxiao",
+          "Hwang, Jenq-Neng",
+          "Tsang, Leung",
+          "Njoku, Eni"
+        ],
+        "year": 1995,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Solving+inverse+problems+by+Bayesian+iterative+inversion+of+a+forward+model+with+applications+to+parameter+mapping+using+SMMR+remote+sensing+data&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "kostsov2015general",
+      "raw": {
+        "title": "General approach to the formulation and solution of the multi-parameter inverse problems of atmospheric remote sensing with measurements and constraints of different types",
+        "authors": [
+          "Kostsov, VS"
+        ],
+        "year": 2015,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=General+approach+to+the+formulation+and+solution+of+the+multi-parameter+inverse+problems+of+atmospheric+remote+sensing+with+measurements+and+constraints+of+different+types&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "tarantola2005inverse",
+      "raw": {
+        "title": "Inverse problem theory and methods for model parameter estimation",
+        "authors": [
+          "Tarantola, Albert"
+        ],
+        "year": 2005,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Inverse+problem+theory+and+methods+for+model+parameter+estimation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "groetsch1993inverse",
+      "raw": {
+        "title": "Inverse problems in the mathematical sciences",
+        "authors": [
+          "Groetsch, Charles W",
+          "Groetsch, CW"
+        ],
+        "year": 1993,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Inverse+problems+in+the+mathematical+sciences&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "beck1985inverse",
+      "raw": {
+        "title": "Inverse heat conduction: Ill-posed problems",
+        "authors": [
+          "Beck, James V",
+          "Blackwell, Ben",
+          "Clair, Charles R St"
+        ],
+        "year": 1985,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Inverse+heat+conduction%3A+Ill-posed+problems&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "mueller2012linear",
+      "raw": {
+        "title": "Linear and nonlinear inverse problems with practical applications",
+        "authors": [
+          "Mueller, Jennifer L",
+          "Siltanen, Samuli"
+        ],
+        "year": 2012,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Linear+and+nonlinear+inverse+problems+with+practical+applications&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "cardoso2023monte",
+      "raw": {
+        "title": "Monte Carlo guided diffusion for Bayesian linear inverse problems",
+        "authors": [
+          "Cardoso, Gabriel",
+          "Idrissi, Yazid Janati El",
+          "Corff, Sylvain Le",
+          "Moulines, Eric"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Monte+Carlo+guided+diffusion+for+Bayesian+linear+inverse+problems&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "dou2024diffusion",
+      "raw": {
+        "title": "Diffusion posterior sampling for linear inverse problem solving: A filtering perspective",
+        "authors": [
+          "Dou, Zehao",
+          "Song, Yang"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Diffusion+posterior+sampling+for+linear+inverse+problem+solving%3A+A+filtering+perspective&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "kawar2021snips",
+      "raw": {
+        "title": "Snips: Solving noisy inverse problems stochastically",
+        "authors": [
+          "Kawar, Bahjat",
+          "Vaksman, Gregory",
+          "Elad, Michael"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Snips%3A+Solving+noisy+inverse+problems+stochastically&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "kawar2022denoising",
+      "raw": {
+        "title": "Denoising diffusion restoration models",
+        "authors": [
+          "Kawar, Bahjat",
+          "Elad, Michael",
+          "Ermon, Stefano",
+          "Song, Jiaming"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Denoising+diffusion+restoration+models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "wang2022zero",
+      "raw": {
+        "title": "Zero-shot image restoration using denoising diffusion null-space model",
+        "authors": [
+          "Wang, Yinhuai",
+          "Yu, Jiwen",
+          "Zhang, Jian"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Zero-shot+image+restoration+using+denoising+diffusion+null-space+model&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "morss2001idealized",
+      "raw": {
+        "title": "Idealized adaptive observation strategies for improving numerical weather prediction",
+        "authors": [
+          "Morss, Rebecca E",
+          "Emanuel, Kerry A",
+          "Snyder, Chris"
+        ],
+        "year": 2001,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Idealized+adaptive+observation+strategies+for+improving+numerical+weather+prediction&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "allen2025end",
+      "raw": {
+        "title": "End-to-end data-driven weather prediction",
+        "authors": [
+          "Allen, Anna",
+          "Markou, Stratis",
+          "Tebbutt, Will",
+          "Requeima, James",
+          "Bruinsma, Wessel P",
+          "Andersson, Tom R",
+          "Herzog, Michael",
+          "Lane, Nicholas D",
+          "Chantry, Matthew",
+          "Hosking, J Scott",
+          "others"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=End-to-end+data-driven+weather+prediction&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "manshausen2024generative",
+      "raw": {
+        "title": "Generative data assimilation of sparse weather station observations at kilometer scales",
+        "authors": [
+          "Manshausen, Peter",
+          "Cohen, Yair",
+          "Harrington, Peter",
+          "Pathak, Jaideep",
+          "Pritchard, Mike",
+          "Garg, Piyush",
+          "Mardani, Morteza",
+          "Kashinath, Karthik",
+          "Byrne, Simon",
+          "Brenowitz, Noah"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Generative+data+assimilation+of+sparse+weather+station+observations+at+kilometer+scales&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "andrychowicz2023deep",
+      "raw": {
+        "title": "Deep learning for day forecasts from sparse observations",
+        "authors": [
+          "Andrychowicz, Marcin",
+          "Espeholt, Lasse",
+          "Li, Di",
+          "Merchant, Samier",
+          "Merose, Alexander",
+          "Zyda, Fred",
+          "Agrawal, Shreya",
+          "Kalchbrenner, Nal"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Deep+learning+for+day+forecasts+from+sparse+observations&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "gholami2010regularization",
+      "raw": {
+        "title": "Regularization of linear and non-linear geophysical ill-posed problems with joint sparsity constraints",
+        "authors": [
+          "Gholami, A",
+          "Siahkoohi, HR"
+        ],
+        "year": 2010,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Regularization+of+linear+and+non-linear+geophysical+ill-posed+problems+with+joint+sparsity+constraints&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "herrmann2012efficient",
+      "raw": {
+        "title": "Efficient least-squares imaging with sparsity promotion and compressive sensing",
+        "authors": [
+          "Herrmann, Felix J",
+          "Li, Xiang"
+        ],
+        "year": 2012,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Efficient+least-squares+imaging+with+sparsity+promotion+and+compressive+sensing&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "parsekian2015multiscale",
+      "raw": {
+        "title": "Multiscale geophysical imaging of the critical zone",
+        "authors": [
+          "Parsekian, Andrew D",
+          "Singha, Kamini",
+          "Minsley, Burke J",
+          "Holbrook, W Steven",
+          "Slater, Lee"
+        ],
+        "year": 2015,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Multiscale+geophysical+imaging+of+the+critical+zone&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "batzolis2021conditional",
+      "raw": {
+        "title": "Conditional image generation with score-based diffusion models",
+        "authors": [
+          "Batzolis, Georgios",
+          "Stanczuk, Jan",
+          "Sch{\\\"o}nlieb, Carola-Bibiane",
+          "Etmann, Christian"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Conditional+image+generation+with+score-based+diffusion+models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "tashiro2021csdi",
+      "raw": {
+        "title": "Csdi: Conditional score-based diffusion models for probabilistic time series imputation",
+        "authors": [
+          "Tashiro, Yusuke",
+          "Song, Jiaming",
+          "Song, Yang",
+          "Ermon, Stefano"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Csdi%3A+Conditional+score-based+diffusion+models+for+probabilistic+time+series+imputation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "song2023pseudoinverse",
+      "raw": {
+        "title": "Pseudoinverse-guided diffusion models for inverse problems",
+        "authors": [
+          "Song, Jiaming",
+          "Vahdat, Arash",
+          "Mardani, Morteza",
+          "Kautz, Jan"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Pseudoinverse-guided+diffusion+models+for+inverse+problems&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "yang2024guidance",
+      "raw": {
+        "title": "Guidance with spherical gaussian constraint for conditional diffusion",
+        "authors": [
+          "Yang, Lingxiao",
+          "Ding, Shutong",
+          "Cai, Yifan",
+          "Yu, Jingyi",
+          "Wang, Jingya",
+          "Shi, Ye"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Guidance+with+spherical+gaussian+constraint+for+conditional+diffusion&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "wu2024principled",
+      "raw": {
+        "title": "Principled probabilistic imaging using diffusion models as plug-and-play priors",
+        "authors": [
+          "Wu, Zihui",
+          "Sun, Yu",
+          "Chen, Yifan",
+          "Zhang, Bingliang",
+          "Yue, Yisong",
+          "Bouman, Katherine"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Principled+probabilistic+imaging+using+diffusion+models+as+plug-and-play+priors&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "song2020denoising",
+      "raw": {
+        "title": "Denoising diffusion implicit models",
+        "authors": [
+          "Song, Jiaming",
+          "Meng, Chenlin",
+          "Ermon, Stefano"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Denoising+diffusion+implicit+models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "chen2024data",
+      "raw": {
+        "title": "Data-efficient operator learning via unsupervised pretraining and in-context learning",
+        "authors": [
+          "Chen, Wuyang",
+          "Song, Jialin",
+          "Ren, Pu",
+          "Subramanian, Shashank",
+          "Morozov, Dmitriy",
+          "Mahoney, Michael W"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Data-efficient+operator+learning+via+unsupervised+pretraining+and+in-context+learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "shalev2014understanding",
+      "raw": {
+        "title": "Understanding machine learning: From theory to algorithms",
+        "authors": [
+          "Shalev-Shwartz, Shai",
+          "Ben-David, Shai"
+        ],
+        "year": 2014,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Understanding+machine+learning%3A+From+theory+to+algorithms&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "saharia2022palette",
+      "raw": {
+        "title": "Palette: Image-to-image diffusion models",
+        "authors": [
+          "Saharia, Chitwan",
+          "Chan, William",
+          "Chang, Huiwen",
+          "Lee, Chris",
+          "Ho, Jonathan",
+          "Salimans, Tim",
+          "Fleet, David",
+          "Norouzi, Mohammad"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Palette%3A+Image-to-image+diffusion+models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "whang2022deblurring",
+      "raw": {
+        "title": "Deblurring via stochastic refinement",
+        "authors": [
+          "Whang, Jay",
+          "Delbracio, Mauricio",
+          "Talebi, Hossein",
+          "Saharia, Chitwan",
+          "Dimakis, Alexandros G",
+          "Milanfar, Peyman"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Deblurring+via+stochastic+refinement&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "daras2024survey",
+      "raw": {
+        "title": "A survey on diffusion models for inverse problems",
+        "authors": [
+          "Daras, Giannis",
+          "Chung, Hyungjin",
+          "Lai, Chieh-Hsin",
+          "Mitsufuji, Yuki",
+          "Ye, Jong Chul",
+          "Milanfar, Peyman",
+          "Dimakis, Alexandros G",
+          "Delbracio, Mauricio"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=A+survey+on+diffusion+models+for+inverse+problems&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "song2023loss",
+      "raw": {
+        "title": "Loss-guided diffusion models for plug-and-play controllable generation",
+        "authors": [
+          "Song, Jiaming",
+          "Zhang, Qinsheng",
+          "Yin, Hongxu",
+          "Mardani, Morteza",
+          "Liu, Ming-Yu",
+          "Kautz, Jan",
+          "Chen, Yongxin",
+          "Vahdat, Arash"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Loss-guided+diffusion+models+for+plug-and-play+controllable+generation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zhu2023denoising",
+      "raw": {
+        "title": "Denoising diffusion models for plug-and-play image restoration",
+        "authors": [
+          "Zhu, Yuanzhi",
+          "Zhang, Kai",
+          "Liang, Jingyun",
+          "Cao, Jiezhang",
+          "Wen, Bihan",
+          "Timofte, Radu",
+          "Van Gool, Luc"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Denoising+diffusion+models+for+plug-and-play+image+restoration&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "mardani2023variational",
+      "raw": {
+        "title": "A variational perspective on solving inverse problems with diffusion models",
+        "authors": [
+          "Mardani, Morteza",
+          "Song, Jiaming",
+          "Kautz, Jan",
+          "Vahdat, Arash"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=A+variational+perspective+on+solving+inverse+problems+with+diffusion+models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "shu2023physics",
+      "raw": {
+        "title": "A physics-informed diffusion model for high-fidelity flow field reconstruction",
+        "authors": [
+          "Shu, Dule",
+          "Li, Zijie",
+          "Farimani, Amir Barati"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=A+physics-informed+diffusion+model+for+high-fidelity+flow+field+reconstruction&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "jacobsen2025cocogen",
+      "raw": {
+        "title": "Cocogen: Physically consistent and conditioned score-based generative models for forward and inverse problems",
+        "authors": [
+          "Jacobsen, Christian",
+          "Zhuang, Yilin",
+          "Duraisamy, Karthik"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Cocogen%3A+Physically+consistent+and+conditioned+score-based+generative+models+for+forward+and+inverse+problems&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "courant1967partial",
+      "raw": {
+        "title": "On the partial difference equations of mathematical physics",
+        "authors": [
+          "Courant, Richard",
+          "Friedrichs, Kurt",
+          "Lewy, Hans"
+        ],
+        "year": 1967,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=On+the+partial+difference+equations+of+mathematical+physics&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "li2022transformer",
+      "raw": {
+        "title": "Transformer for partial differential equations' operator learning",
+        "authors": [
+          "Li, Zijie",
+          "Meidani, Kazem",
+          "Farimani, Amir Barati"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Transformer+for+partial+differential+equations%27+operator+learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "li2023fourier",
+      "raw": {
+        "title": "Fourier neural operator with learned deformations for pdes on general geometries",
+        "authors": [
+          "Li, Zongyi",
+          "Huang, Daniel Zhengyu",
+          "Liu, Burigede",
+          "Anandkumar, Anima"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Fourier+neural+operator+with+learned+deformations+for+pdes+on+general+geometries&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "duruisseaux2025fourierneuraloperatorsexplained",
+      "raw": {
+        "title": "Fourier Neural Operators Explained: A Practical Perspective",
+        "authors": [
+          "Valentin Duruisseaux",
+          "Jean Kossaifi",
+          "Anima Anandkumar"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2512.01421"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2512.01421&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "leung2021level",
+      "raw": {
+        "title": "A level-set adjoint-state method for transmission traveltime tomography in irregular domains",
+        "authors": [
+          "Leung, Shingyu",
+          "Qian, Jianliang",
+          "Hu, Jiangtao"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=A+level-set+adjoint-state+method+for+transmission+traveltime+tomography+in+irregular+domains&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "plessix2006review",
+      "raw": {
+        "title": "A review of the adjoint-state method for computing the gradient of a functional with geophysical applications",
+        "authors": [
+          "Plessix, R-E"
+        ],
+        "year": 2006,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=A+review+of+the+adjoint-state+method+for+computing+the+gradient+of+a+functional+with+geophysical+applications&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "shi2025stochastic",
+      "raw": {
+        "title": "Stochastic process learning via operator flow matching",
+        "authors": [
+          "Shi, Yaozhong",
+          "Ross, Zachary E",
+          "Asimaki, Domniki",
+          "Azizzadenesheli, Kamyar"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Stochastic+process+learning+via+operator+flow+matching&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "sawhney2025beyond",
+      "raw": {
+        "title": "Beyond Loss Guidance: Using PDE Residuals as Spectral Attention in Diffusion Neural Operators",
+        "authors": [
+          "Sawhney, Medha",
+          "Neog, Abhilash",
+          "Khurana, Mridul",
+          "Karpatne, Anuj"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Beyond+Loss+Guidance%3A+Using+PDE+Residuals+as+Spectral+Attention+in+Diffusion+Neural+Operators&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "xu2024provably",
+      "raw": {
+        "title": "Provably robust score-based diffusion posterior sampling for plug-and-play image reconstruction",
+        "authors": [
+          "Xu, Xingyu",
+          "Chi, Yuejie"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Provably+robust+score-based+diffusion+posterior+sampling+for+plug-and-play+image+reconstruction&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "gelman1995bayesian",
+      "raw": {
+        "title": "Bayesian data analysis",
+        "authors": [
+          "Gelman, Andrew",
+          "Carlin, John B",
+          "Stern, Hal S",
+          "Rubin, Donald B"
+        ],
+        "year": 1995,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Bayesian+data+analysis&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "baptista2025memorization",
+      "raw": {
+        "title": "Memorization and regularization in generative diffusion models",
+        "authors": [
+          "Baptista, Ricardo",
+          "Dasgupta, Agnimitra",
+          "Kovachki, Nikola B",
+          "Oberai, Assad",
+          "Stuart, Andrew M"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Memorization+and+regularization+in+generative+diffusion+models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "cheng2025gradientfree",
+      "raw": {
+        "title": "Gradient-Free Generation for Hard-Constrained Systems",
+        "authors": [
+          "Chaoran Cheng",
+          "Boran Han",
+          "Danielle C. Maddix",
+          "Abdul Fatir Ansari",
+          "Andrew Stuart",
+          "Michael W. Mahoney",
+          "Bernie Wang"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "kerrigan2023functionalflowmatching",
+      "raw": {
+        "title": "Functional Flow Matching",
+        "authors": [
+          "Gavin Kerrigan",
+          "Giosue Migliorini",
+          "Padhraic Smyth"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": "2305.17209"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2305.17209&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "kim2025flowdpsflowdrivenposteriorsampling",
+      "raw": {
+        "title": "FlowDPS: Flow-Driven Posterior Sampling for Inverse Problems",
+        "authors": [
+          "Jeongsol Kim",
+          "Bryan Sangwoo Kim",
+          "Jong Chul Ye"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2503.08136"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2503.08136&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "utkarsh2025physicsconstrainedflowmatchingsampling",
+      "raw": {
+        "title": "Physics-Constrained Flow Matching: Sampling Generative Models with Hard Constraints",
+        "authors": [
+          "Utkarsh Utkarsh",
+          "Pengfei Cai",
+          "Alan Edelman",
+          "Rafael Gomez-Bombarelli",
+          "Christopher Vincent Rackauckas"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2506.04171"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2506.04171&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "benhamu2024dflowdifferentiatingflowscontrolled",
+      "raw": {
+        "title": "D-Flow: Differentiating through Flows for Controlled Generation",
+        "authors": [
+          "Heli Ben-Hamu",
+          "Omri Puny",
+          "Itai Gat",
+          "Brian Karrer",
+          "Uriel Singer",
+          "Yaron Lipman"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2402.14017"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2402.14017&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Patel_2025_ICCV",
+      "raw": {
+        "title": "FlowChef: Steering of Rectified Flow Models for Controlled Generations",
+        "authors": [
+          "Patel, Maitreya",
+          "Wen, Song",
+          "Metaxas, Dimitris N.",
+          "Yang, Yezhou"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=FlowChef%3A+Steering+of+Rectified+Flow+Models+for+Controlled+Generations&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "DORMAND198019",
+      "raw": {
+        "title": "A family of embedded Runge-Kutta formulae",
+        "authors": [
+          "J.R. Dormand",
+          "P.J. Prince"
+        ],
+        "year": 1980,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=A+family+of+embedded+Runge-Kutta+formulae&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "smformula",
+      "raw": {
+        "title": "Adjustment of an Inverse Matrix Corresponding to a Change in One Element of a Given Matrix",
+        "authors": [
+          "Jack Sherman",
+          "Winifred J. Morrison"
+        ],
+        "year": 1950,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "li2025physicsaligned",
+      "raw": {
+        "title": "Physics-aligned field reconstruction with diffusion bridge",
+        "authors": [
+          "Zeyu Li",
+          "Hongkun Dou",
+          "Shen Fang",
+          "Wang Han",
+          "Yue Deng",
+          "Lijun Yang"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "karras2022elucidatingdesignspacediffusionbased",
+      "raw": {
+        "title": "Elucidating the Design Space of Diffusion-Based Generative Models",
+        "authors": [
+          "Tero Karras",
+          "Miika Aittala",
+          "Timo Aila",
+          "Samuli Laine"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": "2206.00364"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2206.00364&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Amor_s_Trepat_2026",
+      "raw": {
+        "title": "Guiding diffusion models to reconstruct flow fields from sparse data",
+        "authors": [
+          "Amorós-Trepat, Marc",
+          "Medrano-Navarro, Luis",
+          "Liu, Qiang",
+          "Guastoni, Luca",
+          "Thuerey, Nils"
+        ],
+        "year": 2026,
+        "doi": "10.1063/5.0304492",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4417048510",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Guiding diffusion models to reconstruct flow fields from sparse data",
+        "year": 2026,
+        "authors": [
+          "Marc Amorós-Trepat",
+          "Luis Medrano-Navarro",
+          "Qiang Liu",
+          "Luca Guastoni",
+          "Nils Thuerey"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "yao2025guided",
+      "raw": {
+        "title": "Guided Diffusion Sampling on Function Spaces with Applications to PDEs",
+        "authors": [
+          "Jiachen Yao",
+          "Abbas Mammadov",
+          "Julius Berner",
+          "Gavin Kerrigan",
+          "Jong Chul Ye",
+          "Kamyar Azizzadenesheli",
+          "Anima Anandkumar"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2505.17004"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2505.17004&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    }
+  ]
+}

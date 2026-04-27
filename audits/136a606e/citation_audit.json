@@ -1,0 +1,1461 @@
+{
+  "paper_id": "136a606e-c591-4eca-a248-70822da51479",
+  "total": 53,
+  "verified": 29,
+  "mismatch": 3,
+  "missing": 6,
+  "ambiguous": 0,
+  "error": 12,
+  "skipped": 3,
+  "s2_consulted": 9,
+  "s2_lifted": 0,
+  "key_style_outliers": [],
+  "entries": [
+    {
+      "key": "amos2019limitedmultilabelprojectionlayer",
+      "raw": {
+        "title": "The Limited Multi-Label Projection Layer",
+        "authors": [
+          "Brandon Amos",
+          "Vladlen Koltun",
+          "J. Zico Kolter"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": "1906.08707"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1906.08707&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "mensch_differentiable_2018",
+      "raw": {
+        "title": "Differentiable Dynamic Programming for Structured Prediction and Attention",
+        "authors": [
+          "Mensch, Arthur",
+          "Blondel, Mathieu"
+        ],
+        "year": 2018,
+        "doi": "10.48550/arXiv.1802.03676",
+        "arxiv_id": "1802.03676"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2787063232",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Differentiable Dynamic Programming for Structured Prediction and Attention",
+        "year": 2018,
+        "authors": [
+          "Arthur Mensch",
+          "Mathieu Blondel"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "berthet_learning_2020",
+      "raw": {
+        "title": "Learning with Differentiable Perturbed Optimizers",
+        "authors": [
+          "Berthet, Quentin",
+          "Blondel, Mathieu",
+          "Teboul, Olivier",
+          "Cuturi, Marco",
+          "Vert, Jean-Philippe",
+          "Bach, Francis"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": "2002.08676"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2002.08676&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "blondel_learning_2020",
+      "raw": {
+        "title": "Learning with Fenchel-Young Losses",
+        "authors": [
+          "Blondel, Mathieu",
+          "Martins, André F. T.",
+          "Niculae, Vlad"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": "1901.02324"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1901.02324&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "mandi_interior_2020",
+      "raw": {
+        "title": "Interior Point Solving for LP-based prediction+optimisation",
+        "authors": [
+          "Mandi, Jayanta",
+          "Guns, Tias"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": "2010.13943"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2010.13943&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "blondel_learning_2019",
+      "raw": {
+        "title": "Learning Classifiers with Fenchel-Young Losses: Generalized Entropies, Margins, and Algorithms",
+        "authors": [
+          "Blondel, Mathieu",
+          "Martins, André F. T.",
+          "Niculae, Vlad"
+        ],
+        "year": 2019,
+        "doi": "10.48550/arXiv.1805.09717",
+        "arxiv_id": "1805.09717"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2804360054",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Learning Classifiers with Fenchel-Young Losses: Generalized Entropies, Margins, and Algorithms",
+        "year": 2018,
+        "authors": [
+          "Mathieu Blondel",
+          "André F. T. Martins",
+          "Vlad Niculae"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "mulamba_contrastive_2021",
+      "raw": {
+        "title": "Contrastive Losses and Solution Caching for Predict-and-Optimize",
+        "authors": [
+          "Mulamba, Maxime",
+          "Mandi, Jayanta",
+          "Diligenti, Michelangelo",
+          "Lombardi, Michele",
+          "Bucarey, Victor",
+          "Guns, Tias"
+        ],
+        "year": 2021,
+        "doi": "10.48550/arXiv.2011.05354",
+        "arxiv_id": "2011.05354"
+      },
+      "status": "not_found",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "tang_pyepo_2023",
+      "raw": {
+        "title": "PyEPO: A PyTorch-based End-to-End Predict-then-Optimize Library for Linear and Integer Programming",
+        "authors": [
+          "Tang, Bo",
+          "Khalil, Elias B."
+        ],
+        "year": 2023,
+        "doi": "10.48550/arXiv.2206.14234",
+        "arxiv_id": "2206.14234"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4283755393",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "PyEPO: A PyTorch-based End-to-End Predict-then-Optimize Library for Linear and Integer Programming",
+        "year": 2022,
+        "authors": [
+          "Bo Tang",
+          "Elias B. Khalil"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "rockafellar_convex_1970",
+      "raw": {
+        "title": "Convex Analysis",
+        "authors": [
+          "Rockafellar, R. Tyrrell"
+        ],
+        "year": 1970,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "sander_fast_2023",
+      "raw": {
+        "title": "Fast, Differentiable and Sparse Top-k: a Convex Analysis Perspective",
+        "authors": [
+          "Sander, Michael E.",
+          "Puigcerver, Joan",
+          "Djolonga, Josip",
+          "Peyré, Gabriel",
+          "Blondel, Mathieu"
+        ],
+        "year": 2023,
+        "doi": "10.48550/arXiv.2302.01425",
+        "arxiv_id": "2302.01425"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4319452215",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Fast, Differentiable and Sparse Top-k: a Convex Analysis Perspective",
+        "year": 2023,
+        "authors": [
+          "Michael E. Sander",
+          "Joan Puigcerver",
+          "Josip Djolonga",
+          "Gabriel Peyré",
+          "Mathieu Blondel"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "danskin_theory_1966",
+      "raw": {
+        "title": "The Theory of Max-Min, with Applications",
+        "authors": [
+          "Danskin, John M."
+        ],
+        "year": 1966,
+        "doi": "10.1137/0114053",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2005895359",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "The Theory of Max-Min, with Applications",
+        "year": 1966,
+        "authors": [
+          "John M. Danskin"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "blondel_elements_2025",
+      "raw": {
+        "title": "The Elements of Differentiable Programming",
+        "authors": [
+          "Blondel, Mathieu",
+          "Roulet, Vincent"
+        ],
+        "year": 2025,
+        "doi": "10.48550/arXiv.2403.14606",
+        "arxiv_id": "2403.14606"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4393119324",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "The Elements of Differentiable Programming",
+        "year": 2024,
+        "authors": [
+          "Mathieu Blondel",
+          "Vincent Roulet"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "elmachtoub_smart_2020",
+      "raw": {
+        "title": "Smart \"Predict, then Optimize\"",
+        "authors": [
+          "Elmachtoub, Adam N.",
+          "Grigas, Paul"
+        ],
+        "year": 2020,
+        "doi": "10.48550/arXiv.1710.08005",
+        "arxiv_id": "1710.08005"
+      },
+      "status": "not_found",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "muraoka1971parallelism",
+      "raw": {
+        "title": "Parallelism exposure and exploitation in programs",
+        "authors": [
+          "Muraoka, Yoichi"
+        ],
+        "year": 1971,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Parallelism+exposure+and+exploitation+in+programs&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ferber_mipaal_2019",
+      "raw": {
+        "title": "MIPaaL: Mixed Integer Program as a Layer",
+        "authors": [
+          "Ferber, Aaron",
+          "Wilder, Bryan",
+          "Dilkina, Bistra",
+          "Tambe, Milind"
+        ],
+        "year": 2019,
+        "doi": "10.48550/arXiv.1907.05912",
+        "arxiv_id": "1907.05912"
+      },
+      "status": "not_found",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "mandi_decision-focused_2024",
+      "raw": {
+        "title": "Decision-Focused Learning: Foundations, State of the Art, Benchmark and Future Opportunities",
+        "authors": [
+          "Mandi, Jayanta",
+          "Kotary, James",
+          "Berden, Senne",
+          "Mulamba, Maxime",
+          "Bucarey, Victor",
+          "Guns, Tias",
+          "Fioretto, Ferdinando"
+        ],
+        "year": 2024,
+        "doi": "10.1613/jair.1.15320",
+        "arxiv_id": "2307.13565"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4402114587",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Decision-Focused Learning: Foundations, State of the Art, Benchmark and Future Opportunities",
+        "year": 2024,
+        "authors": [
+          "Jayanta Mandi",
+          "James Kotary",
+          "Senne Berden",
+          "Maxime Mulamba",
+          "Víctor Bucarey",
+          "Tias Guns",
+          "Ferdinando Fioretto"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "petersen_differentiable_2021",
+      "raw": {
+        "title": "Differentiable Sorting Networks for Scalable Sorting and Ranking Supervision",
+        "authors": [
+          "Petersen, Felix",
+          "Borgelt, Christian",
+          "Kuehne, Hilde",
+          "Deussen, Oliver"
+        ],
+        "year": 2021,
+        "doi": "10.48550/arXiv.2105.04019",
+        "arxiv_id": "2105.04019"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3160897135",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Differentiable Sorting Networks for Scalable Sorting and Ranking Supervision",
+        "year": 2021,
+        "authors": [
+          "Felix Petersen",
+          "Christian Borgelt",
+          "Hilde Kuehne",
+          "Oliver Deußen"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "talluri2006theory",
+      "raw": {
+        "title": "The theory and practice of revenue management",
+        "authors": [
+          "Talluri, Kalyan T",
+          "Van Ryzin, Garrett J"
+        ],
+        "year": 2006,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=The+theory+and+practice+of+revenue+management&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "lafferty_conditional_2001",
+      "raw": {
+        "title": "Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data",
+        "authors": [
+          "Lafferty, John D.",
+          "McCallum, Andrew",
+          "Pereira, Fernando C. N."
+        ],
+        "year": 2001,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Conditional+Random+Fields%3A+Probabilistic+Models+for+Segmenting+and+Labeling+Sequence+Data&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "chen_dynamic_2020",
+      "raw": {
+        "title": "Dynamic Assortment Optimization with Changing Contextual Information",
+        "authors": [
+          "Chen, Xi",
+          "Wang, Yining",
+          "Zhou, Yuan"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "lam_numba_2015",
+      "raw": {
+        "title": "Numba: a LLVM-based Python JIT compiler",
+        "authors": [
+          "Lam, Siu Kwan",
+          "Pitrou, Antoine",
+          "Seibert, Stanley"
+        ],
+        "year": 2015,
+        "doi": "10.1145/2833157.2833162",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2245493112",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Numba",
+        "year": 2015,
+        "authors": [
+          "Siu Kwan Lam",
+          "Antoine Pitrou",
+          "Stanley Seibert"
+        ]
+      },
+      "title_similarity": 0.22727272727272735,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "kool_stochastic_2019",
+      "raw": {
+        "title": "Stochastic Beams and Where to Find Them: The Gumbel-Top-k Trick for Sampling Sequences Without Replacement",
+        "authors": [
+          "Kool, Wouter",
+          "van Hoof, Herke",
+          "Welling, Max"
+        ],
+        "year": 2019,
+        "doi": "10.48550/arXiv.1903.06059",
+        "arxiv_id": "1903.06059"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2921353810",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Stochastic Beams and Where to Find Them: The Gumbel-Top-k Trick for Sampling Sequences Without Replacement",
+        "year": 2019,
+        "authors": [
+          "Wouter Kool",
+          "Herke van Hoof",
+          "Max Welling"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "bengio_estimating_2013",
+      "raw": {
+        "title": "Estimating or Propagating Gradients Through Stochastic Neurons for Conditional Computation",
+        "authors": [
+          "Bengio, Yoshua",
+          "Léonard, Nicholas",
+          "Courville, Aaron"
+        ],
+        "year": 2013,
+        "doi": "10.48550/arXiv.1308.3432",
+        "arxiv_id": "1308.3432"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2242818861",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Estimating or Propagating Gradients Through Stochastic Neurons for Conditional Computation",
+        "year": 2013,
+        "authors": [
+          "Yoshua Bengio",
+          "Nicholas Léonard",
+          "Aaron Courville"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "vieira2014gumbel",
+      "raw": {
+        "title": "Gumbel-max trick and weighted reservoir sampling (blog post)",
+        "authors": [
+          "Tim Vieira"
+        ],
+        "year": 2014,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Gumbel-max+trick+and+weighted+reservoir+sampling+%28blog+post%29&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "qian_multi-vector_2022",
+      "raw": {
+        "title": "Multi-Vector Retrieval as Sparse Alignment",
+        "authors": [
+          "Qian, Yujie",
+          "Lee, Jinhyuk",
+          "Duddu, Sai Meher Karthik",
+          "Dai, Zhuyun",
+          "Brahma, Siddhartha",
+          "Naim, Iftekhar",
+          "Lei, Tao",
+          "Zhao, Vincent Y."
+        ],
+        "year": 2022,
+        "doi": "10.48550/arXiv.2211.01267",
+        "arxiv_id": "2211.01267"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4308163580",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Multi-Vector Retrieval as Sparse Alignment",
+        "year": 2022,
+        "authors": [
+          "Yujie Qian",
+          "Jinhyuk Lee",
+          "Sai Meher Karthik Duddu",
+          "Zhuyun Dai",
+          "Siddhartha Brahma",
+          "Iftekhar Naim",
+          "Tao Lei",
+          "Vincent Y. Zhao"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "blondel_fast_2020",
+      "raw": {
+        "title": "Fast Differentiable Sorting and Ranking",
+        "authors": [
+          "Blondel, Mathieu",
+          "Teboul, Olivier",
+          "Berthet, Quentin",
+          "Djolonga, Josip"
+        ],
+        "year": 2020,
+        "doi": "10.48550/arXiv.2002.08871",
+        "arxiv_id": "2002.08871"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3007289089",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Fast Differentiable Sorting and Ranking",
+        "year": 2020,
+        "authors": [
+          "Mathieu Blondel",
+          "Olivier Teboul",
+          "Quentin Berthet",
+          "Josip Djolonga"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "schulman_proximal_2017",
+      "raw": {
+        "title": "Proximal Policy Optimization Algorithms",
+        "authors": [
+          "Schulman, John",
+          "Wolski, Filip",
+          "Dhariwal, Prafulla",
+          "Radford, Alec",
+          "Klimov, Oleg"
+        ],
+        "year": 2017,
+        "doi": "10.48550/arXiv.1707.06347",
+        "arxiv_id": "1707.06347"
+      },
+      "status": "not_found",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "cuturi_differentiable_2019",
+      "raw": {
+        "title": "Differentiable Ranks and Sorting using Optimal Transport",
+        "authors": [
+          "Cuturi, Marco",
+          "Teboul, Olivier",
+          "Vert, Jean-Philippe"
+        ],
+        "year": 2019,
+        "doi": "10.48550/arXiv.1905.11885",
+        "arxiv_id": "1905.11885"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2987665534",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Differentiable Ranks and Sorting using Optimal Transport",
+        "year": 2019,
+        "authors": [
+          "Marco Cuturi",
+          "Olivier Teboul",
+          "Jean‐Philippe Vert"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "xie_differentiable_2020",
+      "raw": {
+        "title": "Differentiable Top-k Operator with Optimal Transport",
+        "authors": [
+          "Xie, Yujia",
+          "Dai, Hanjun",
+          "Chen, Minshuo",
+          "Dai, Bo",
+          "Zhao, Tuo",
+          "Zha, Hongyuan",
+          "Wei, Wei",
+          "Pfister, Tomas"
+        ],
+        "year": 2020,
+        "doi": "10.48550/arXiv.2002.06504",
+        "arxiv_id": "2002.06504"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3005799618",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Differentiable Top-k Operator with Optimal Transport",
+        "year": 2020,
+        "authors": [
+          "Yujia Xie",
+          "Hanjun Dai",
+          "Minshuo Chen",
+          "Bo Dai",
+          "Tuo Zhao",
+          "Hongyuan Zha",
+          "Wei Wei",
+          "Tomas Pfister"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "sinkhorn_diagonal_1967",
+      "raw": {
+        "title": "Diagonal Equivalence to Matrices with Prescribed Row and Column Sums",
+        "authors": [
+          "Sinkhorn, Richard"
+        ],
+        "year": 1967,
+        "doi": "10.2307/2314570",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2312355711",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Diagonal Equivalence to Matrices with Prescribed Row and Column Sums",
+        "year": 1967,
+        "authors": [
+          "Richard Sinkhorn"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "cuturi_sinkhorn_2013",
+      "raw": {
+        "title": "Sinkhorn Distances: Lightspeed Computation of Optimal Transportation Distances",
+        "authors": [
+          "Cuturi, Marco"
+        ],
+        "year": 2013,
+        "doi": "10.48550/arXiv.1306.0895",
+        "arxiv_id": "1306.0895"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W1511358834",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Sinkhorn Distances: Lightspeed Computation of Optimal Transportation Distances",
+        "year": 2013,
+        "authors": [
+          "Marco Cuturi"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "sahoo_backpropagation_2023",
+      "raw": {
+        "title": "Backpropagation through Combinatorial Algorithms: Identity with Projection Works",
+        "authors": [
+          "Sahoo, Subham Sekhar",
+          "Paulus, Anselm",
+          "Vlastelica, Marin",
+          "Musil, Vít",
+          "Kuleshov, Volodymyr",
+          "Martius, Georg"
+        ],
+        "year": 2023,
+        "doi": "10.48550/arXiv.2205.15213",
+        "arxiv_id": "2205.15213"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4302008975",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Backpropagation through Combinatorial Algorithms: Identity with Projection Works",
+        "year": 2022,
+        "authors": [
+          "Subham Sekhar Sahoo",
+          "Anselm Paulus",
+          "Marin Vlastelica",
+          "Vít Musil",
+          "Volodymyr Kuleshov",
+          "Georg Martius"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "vlastelica_differentiation_2020",
+      "raw": {
+        "title": "Differentiation of Blackbox Combinatorial Solvers",
+        "authors": [
+          "Vlastelica, Marin",
+          "Paulus, Anselm",
+          "Musil, Vit",
+          "Martius, Georg",
+          "Rolinek, Michal"
+        ],
+        "year": 2020,
+        "doi": "10.48550/arXiv.1912.02175",
+        "arxiv_id": "1912.02175"
+      },
+      "status": "not_found",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "amos_optnet_2021",
+      "raw": {
+        "title": "OptNet: Differentiable Optimization as a Layer in Neural Networks",
+        "authors": [
+          "Amos, Brandon",
+          "Kolter, J. Zico"
+        ],
+        "year": 2021,
+        "doi": "10.48550/arXiv.1703.00443",
+        "arxiv_id": "1703.00443"
+      },
+      "status": "metadata_mismatch",
+      "openalex_id": "https://openalex.org/W2592457170",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "OptNet: Differentiable Optimization as a Layer in Neural Networks",
+        "year": 2017,
+        "authors": [
+          "Brandon Amos",
+          "J. Zico Kolter"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [
+        "year"
+      ],
+      "error": null
+    },
+    {
+      "key": "cordonnier_differentiable_2021",
+      "raw": {
+        "title": "Differentiable Patch Selection for Image Recognition",
+        "authors": [
+          "Cordonnier, Jean-Baptiste",
+          "Mahendran, Aravindh",
+          "Dosovitskiy, Alexey",
+          "Weissenborn, Dirk",
+          "Uszkoreit, Jakob",
+          "Unterthiner, Thomas"
+        ],
+        "year": 2021,
+        "doi": "10.48550/arXiv.2104.03059",
+        "arxiv_id": "2104.03059"
+      },
+      "status": "not_found",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "eisner_inside-outside_2016",
+      "raw": {
+        "title": "Inside-Outside and Forward-Backward Algorithms Are Just Backprop (tutorial paper)",
+        "authors": [
+          "Eisner, Jason"
+        ],
+        "year": 2016,
+        "doi": "10.18653/v1/W16-5901",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2565877108",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Inside-Outside and Forward-Backward Algorithms Are Just Backprop (tutorial paper)",
+        "year": 2016,
+        "authors": [
+          "Jason Eisner"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "li_first-_2009",
+      "raw": {
+        "title": "First- and second-order expectation semirings with applications to minimum-risk training on translation forests",
+        "authors": [
+          "Li, Zhifei",
+          "Eisner, Jason"
+        ],
+        "year": 2009,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "ahmed_simple_2024",
+      "raw": {
+        "title": "SIMPLE: A Gradient Estimator for \\$k\\$-Subset Sampling",
+        "authors": [
+          "Ahmed, Kareem",
+          "Zeng, Zhe",
+          "Niepert, Mathias",
+          "Broeck, Guy Van den"
+        ],
+        "year": 2024,
+        "doi": "10.48550/arXiv.2210.01941",
+        "arxiv_id": "2210.01941"
+      },
+      "status": "metadata_mismatch",
+      "openalex_id": "https://openalex.org/W4303449589",
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/24f89e3d55cd639a1f0f31c43e636d2b3bb66b2d",
+      "match_source": "openalex",
+      "best_match": {
+        "title": "SIMPLE: A Gradient Estimator for $k$-Subset Sampling",
+        "year": 2022,
+        "authors": [
+          "Kareem Ahmed",
+          "Zhe Zeng",
+          "Mathias Niepert",
+          "Guy Van den Broeck"
+        ]
+      },
+      "title_similarity": 0.9811320754716981,
+      "mismatches": [
+        "year"
+      ],
+      "error": null
+    },
+    {
+      "key": "niepert_implicit_2021",
+      "raw": {
+        "title": "Implicit MLE: Backpropagating Through Discrete Exponential Family Distributions",
+        "authors": [
+          "Niepert, Mathias",
+          "Minervini, Pasquale",
+          "Franceschi, Luca"
+        ],
+        "year": 2021,
+        "doi": "10.48550/arXiv.2106.01798",
+        "arxiv_id": "2106.01798"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3172439871",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Implicit MLE: Backpropagating Through Discrete Exponential Family Distributions",
+        "year": 2021,
+        "authors": [
+          "Mathias Niepert",
+          "Pasquale Minervini",
+          "Luca Franceschi"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "hoppe_structured_2025",
+      "raw": {
+        "title": "Structured Reinforcement Learning for Combinatorial Decision-Making",
+        "authors": [
+          "Hoppe, Heiko",
+          "Baty, Léo",
+          "Bouvier, Louis",
+          "Parmentier, Axel",
+          "Schiffer, Maximilian"
+        ],
+        "year": 2025,
+        "doi": "10.48550/arXiv.2505.19053",
+        "arxiv_id": "2505.19053"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4414582049",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Structured Reinforcement Learning for Combinatorial Decision-Making",
+        "year": 2025,
+        "authors": [
+          "Heiko Hoppe",
+          "Léo Baty",
+          "Louis Bouvier",
+          "Axel Parmentier",
+          "Maximilian Schiffer"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "wainwright_graphical_2008",
+      "raw": {
+        "title": "Graphical Models, Exponential Families, and Variational Inference",
+        "authors": [
+          "Wainwright, Martin J.",
+          "Jordan, Michael I."
+        ],
+        "year": 2008,
+        "doi": "10.1561/2200000001",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4293052541",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Graphical Models, Exponential Families, and Variational Inference",
+        "year": 2008,
+        "authors": [
+          "Martin J. Wainwright",
+          "Michael I. Jordan"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "kingma_auto-encoding_2022",
+      "raw": {
+        "title": "Auto-Encoding Variational Bayes",
+        "authors": [
+          "Kingma, Diederik P.",
+          "Welling, Max"
+        ],
+        "year": 2022,
+        "doi": "10.48550/arXiv.1312.6114",
+        "arxiv_id": "1312.6114"
+      },
+      "status": "metadata_mismatch",
+      "openalex_id": "https://openalex.org/W1959608418",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Auto-Encoding Variational Bayes",
+        "year": 2013,
+        "authors": [
+          "Diederik P. Kingma",
+          "Max Welling"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [
+        "year"
+      ],
+      "error": null
+    },
+    {
+      "key": "rolfe_discrete_2017",
+      "raw": {
+        "title": "Discrete Variational Autoencoders",
+        "authors": [
+          "Rolfe, Jason Tyler"
+        ],
+        "year": 2017,
+        "doi": "10.48550/arXiv.1609.02200",
+        "arxiv_id": "1609.02200"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2519430864",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Discrete Variational Autoencoders",
+        "year": 2016,
+        "authors": [
+          "Jason Tyler Rolfe"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "sklaviadis_fenchel-young_2025",
+      "raw": {
+        "title": "Fenchel-Young Variational Learning",
+        "authors": [
+          "Sklaviadis, Sophia",
+          "Martins, Andre",
+          "Figueiredo, Mario"
+        ],
+        "year": 2025,
+        "doi": "10.48550/arXiv.2502.10295",
+        "arxiv_id": "2502.10295"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4407632876",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Fenchel-Young Variational Learning",
+        "year": 2025,
+        "authors": [
+          "Sophia Sklaviadis",
+          "Moellenhoff, Thomas",
+          "André F. T. Martins",
+          "Mário A. T. Figueiredo"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "martello_knapsack_1990",
+      "raw": {
+        "title": "Knapsack problems: algorithms and computer implementations",
+        "authors": [
+          "Martello, Silvano",
+          "Toth, Paolo"
+        ],
+        "year": 1990,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Knapsack+problems%3A+algorithms+and+computer+implementations&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "kellerer_knapsack_2004",
+      "raw": {
+        "title": "Knapsack Problems",
+        "authors": [
+          "Kellerer, Hans",
+          "Pferschy, Ulrich",
+          "Pisinger, David"
+        ],
+        "year": 2004,
+        "doi": "10.1007/978-3-540-24777-7",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4236127247",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Knapsack Problems",
+        "year": 2004,
+        "authors": [
+          "Hans Kellerer",
+          "Ulrich Pferschy",
+          "David Pisinger"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "dalle_learning_2022",
+      "raw": {
+        "title": "Learning with Combinatorial Optimization Layers: a Probabilistic Approach",
+        "authors": [
+          "Dalle, Guillaume",
+          "Baty, Léo",
+          "Bouvier, Louis",
+          "Parmentier, Axel"
+        ],
+        "year": 2022,
+        "doi": "10.48550/arXiv.2207.13513",
+        "arxiv_id": "2207.13513"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4288726758",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Learning with Combinatorial Optimization Layers: a Probabilistic Approach",
+        "year": 2022,
+        "authors": [
+          "Guillaume Dalle",
+          "Léo Baty",
+          "Louis Bouvier",
+          "Axel Parmentier"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "vivier-ardisson_learning_2025",
+      "raw": {
+        "title": "Learning with Local Search MCMC Layers",
+        "authors": [
+          "Vivier-Ardisson, Germain",
+          "Blondel, Mathieu",
+          "Parmentier, Axel"
+        ],
+        "year": 2025,
+        "doi": "10.48550/arXiv.2505.14240",
+        "arxiv_id": "2505.14240"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4415023019",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Learning with Local Search MCMC Layers",
+        "year": 2025,
+        "authors": [
+          "Germain Vivier--Ardisson",
+          "Mathieu Blondel",
+          "Axel Parmentier"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "martins_softmax_2016",
+      "raw": {
+        "title": "From Softmax to Sparsemax: A Sparse Model of Attention and Multi-Label Classification",
+        "authors": [
+          "Martins, André F. T.",
+          "Astudillo, Ramón Fernandez"
+        ],
+        "year": 2016,
+        "doi": "10.48550/arXiv.1602.02068",
+        "arxiv_id": "1602.02068"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2253795368",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "From Softmax to Sparsemax: A Sparse Model of Attention and Multi-Label Classification",
+        "year": 2016,
+        "authors": [
+          "André F. T. Martins",
+          "Ramón Fernández Astudillo"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "mckenzie_differentiating_2024",
+      "raw": {
+        "title": "Differentiating Through Integer Linear Programs with Quadratic Regularization and Davis-Yin Splitting",
+        "authors": [
+          "McKenzie, Daniel",
+          "Fung, Samy Wu",
+          "Heaton, Howard"
+        ],
+        "year": 2024,
+        "doi": "10.48550/arXiv.2301.13395",
+        "arxiv_id": "2301.13395"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4318903805",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Differentiating Through Integer Linear Programs with Quadratic Regularization and Davis-Yin Splitting",
+        "year": 2023,
+        "authors": [
+          "Daniel McKenzie",
+          "Samy Wu Fung",
+          "Howard Heaton"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "petersen2022differentiable",
+      "raw": {
+        "title": "Differentiable top-k classification learning",
+        "authors": [
+          "Petersen, Felix",
+          "Kuehne, Hilde",
+          "Borgelt, Christian",
+          "Deussen, Oliver"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Differentiable+top-k+classification+learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "niculae2020lp",
+      "raw": {
+        "title": "Lp-sparsemap: Differentiable relaxed optimization for sparse structured prediction",
+        "authors": [
+          "Niculae, Vlad",
+          "Martins, Andre"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Lp-sparsemap%3A+Differentiable+relaxed+optimization+for+sparse+structured+prediction&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "mcdonald2006discriminative",
+      "raw": {
+        "title": "Discriminative sentence compression with soft syntactic evidence",
+        "authors": [
+          "McDonald, Ryan"
+        ],
+        "year": 2006,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Discriminative+sentence+compression+with+soft+syntactic+evidence&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    }
+  ]
+}

@@ -1,0 +1,1996 @@
+{
+  "paper_id": "654a43e3-57ac-44fd-ba2f-8337ebe3b3f6",
+  "total": 65,
+  "verified": 20,
+  "mismatch": 0,
+  "missing": 0,
+  "ambiguous": 0,
+  "error": 37,
+  "skipped": 8,
+  "s2_consulted": 0,
+  "s2_lifted": 0,
+  "key_style_outliers": [
+    "52046",
+    "gemini3",
+    "Qwen2.5-Omni",
+    "Qwen3-Omni",
+    "10.1007/978-3-031-72989-8_4",
+    "gpt52"
+  ],
+  "entries": [
+    {
+      "key": "liu-etal-2023-towards-interpretable",
+      "raw": {
+        "title": "Towards Interpretable and Efficient Automatic Reference-Based Summarization Evaluation",
+        "authors": [
+          "Liu, Yixin",
+          "Fabbri, Alexander",
+          "Zhao, Yilun",
+          "Liu, Pengfei",
+          "Joty, Shafiq",
+          "Wu, Chien-Sheng",
+          "Xiong, Caiming",
+          "Radev, Dragomir"
+        ],
+        "year": 2023,
+        "doi": "10.18653/v1/2023.emnlp-main.1018",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4389520127",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Towards Interpretable and Efficient Automatic Reference-Based Summarization Evaluation",
+        "year": 2023,
+        "authors": [
+          "Yixin Liu",
+          "Alexander R. Fabbri",
+          "Yilun Zhao",
+          "Pengfei Liu",
+          "Shafiq Joty",
+          "Chien-Sheng Wu",
+          "Caiming Xiong",
+          "Dragomir Radev"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "min-etal-2023-factscore",
+      "raw": {
+        "title": "FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation",
+        "authors": [
+          "Min, Sewon",
+          "Krishna, Kalpesh",
+          "Lyu, Xinxi",
+          "Lewis, Mike",
+          "Yih, Wen-tau",
+          "Koh, Pang",
+          "Iyyer, Mohit",
+          "Zettlemoyer, Luke",
+          "Hajishirzi, Hannaneh"
+        ],
+        "year": 2023,
+        "doi": "10.18653/v1/2023.emnlp-main.741",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4389519598",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation",
+        "year": 2023,
+        "authors": [
+          "Sewon Min",
+          "Kalpesh Krishna",
+          "Xinxi Lyu",
+          "Mike Lewis",
+          "Wen-tau Yih",
+          "Pang Wei Koh",
+          "Mohit Iyyer",
+          "Luke Zettlemoyer",
+          "Hannaneh Hajishirzi"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "wei2024longform",
+      "raw": {
+        "title": "Long-form factuality in large language models",
+        "authors": [
+          "Jerry Wei",
+          "Chengrun Yang",
+          "Xinying Song",
+          "Yifeng Lu",
+          "Nathan Zixia Hu",
+          "Jie Huang",
+          "Dustin Tran",
+          "Daiyi Peng",
+          "Ruibo Liu",
+          "Da Huang",
+          "Cosmo Du",
+          "Quoc V Le"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "jacovi2025factsgroundingleaderboardbenchmarking",
+      "raw": {
+        "title": "The FACTS Grounding Leaderboard: Benchmarking LLMs' Ability to Ground Responses to Long-Form Input",
+        "authors": [
+          "Alon Jacovi",
+          "Andrew Wang",
+          "Chris Alberti",
+          "Connie Tao",
+          "Jon Lipovetz",
+          "Kate Olszewska",
+          "Lukas Haas",
+          "Michelle Liu",
+          "Nate Keating",
+          "Adam Bloniarz",
+          "Carl Saroufim",
+          "Corey Fry",
+          "Dror Marcus",
+          "Doron Kukliansky",
+          "Gaurav Singh Tomar",
+          "James Swirhun",
+          "Jinwei Xing",
+          "Lily Wang",
+          "Madhu Gurumurthy",
+          "Michael Aaron",
+          "Moran Ambar",
+          "Rachana Fellinger",
+          "Rui Wang",
+          "Zizhao Zhang",
+          "Sasha Goldshtein",
+          "Dipanjan Das"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2501.03200"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2501.03200&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "cheng2025factsleaderboardcomprehensivebenchmark",
+      "raw": {
+        "title": "The FACTS Leaderboard: A Comprehensive Benchmark for Large Language Model Factuality",
+        "authors": [
+          "Aileen Cheng",
+          "Alon Jacovi",
+          "Amir Globerson",
+          "Ben Golan",
+          "Charles Kwong",
+          "Chris Alberti",
+          "Connie Tao",
+          "Eyal Ben-David",
+          "Gaurav Singh Tomar",
+          "Lukas Haas",
+          "Yonatan Bitton",
+          "Adam Bloniarz",
+          "Aijun Bai",
+          "Andrew Wang",
+          "Anfal Siddiqui",
+          "Arturo Bajuelos Castillo",
+          "Aviel Atias",
+          "Chang Liu",
+          "Corey Fry",
+          "Daniel Balle",
+          "Deepanway Ghosal",
+          "Doron Kukliansky",
+          "Dror Marcus",
+          "Elena Gribovskaya",
+          "Eran Ofek",
+          "Honglei Zhuang",
+          "Itay Laish",
+          "Jan Ackermann",
+          "Lily Wang",
+          "Meg Risdal",
+          "Megan Barnes",
+          "Michael Fink",
+          "Mohamed Amin",
+          "Moran Ambar",
+          "Natan Potikha",
+          "Nikita Gupta",
+          "Nitzan Katz",
+          "Noam Velan",
+          "Ofir Roval",
+          "Ori Ram",
+          "Polina Zablotskaia",
+          "Prathamesh Bang",
+          "Priyanka Agrawal",
+          "Rakesh Ghiya",
+          "Sanjay Ganapathy",
+          "Simon Baumgartner",
+          "Sofia Erell",
+          "Sushant Prakash",
+          "Thibault Sellam",
+          "Vikram Rao",
+          "Xuanhui Wang",
+          "Yaroslav Akulov",
+          "Yulong Yang",
+          "Zhen Yang",
+          "Zhixin Lai",
+          "Zhongru Wu",
+          "Anca Dragan",
+          "Avinatan Hassidim",
+          "Fernando Pereira",
+          "Slav Petrov",
+          "Srinivasan Venkatachary",
+          "Tulsee Doshi",
+          "Yossi Matias",
+          "Sasha Goldshtein",
+          "Dipanjan Das"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2512.10791"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2512.10791&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "gao-etal-2023-enabling",
+      "raw": {
+        "title": "Enabling Large Language Models to Generate Text with Citations",
+        "authors": [
+          "Gao, Tianyu",
+          "Yen, Howard",
+          "Yu, Jiatong",
+          "Chen, Danqi"
+        ],
+        "year": 2023,
+        "doi": "10.18653/v1/2023.emnlp-main.398",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4389520670",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Enabling Large Language Models to Generate Text with Citations",
+        "year": 2023,
+        "authors": [
+          "Tianyu Gao",
+          "H. W. Yen",
+          "Jiatong Yu",
+          "Danqi Chen"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "li2025vidhallucevaluatingtemporalhallucinations",
+      "raw": {
+        "title": "VidHalluc: Evaluating Temporal Hallucinations in Multimodal Large Language Models for Video Understanding",
+        "authors": [
+          "Chaoyu Li",
+          "Eun Woo Im",
+          "Pooyan Fazli"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2412.03735"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2412.03735&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "wang2024videohallucerevaluatingintrinsicextrinsic",
+      "raw": {
+        "title": "VideoHallucer: Evaluating Intrinsic and Extrinsic Hallucinations in Large Video-Language Models",
+        "authors": [
+          "Yuxuan Wang",
+          "Yueqian Wang",
+          "Dongyan Zhao",
+          "Cihang Xie",
+          "Zilong Zheng"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2406.16338"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2406.16338&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "gao-etal-2023-rarr",
+      "raw": {
+        "title": "RARR: Researching and Revising What Language Models Say, Using Language Models",
+        "authors": [
+          "Gao, Luyu",
+          "Dai, Zhuyun",
+          "Pasupat, Panupong",
+          "Chen, Anthony",
+          "Chaganty, Arun Tejasvi",
+          "Fan, Yicheng",
+          "Zhao, Vincent",
+          "Lao, Ni",
+          "Lee, Hongrae",
+          "Juan, Da-Cheng",
+          "Guu, Kelvin"
+        ],
+        "year": 2023,
+        "doi": "10.18653/v1/2023.acl-long.910",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4385570481",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "RARR: Researching and Revising What Language Models Say, Using Language Models",
+        "year": 2023,
+        "authors": [
+          "Luyu Gao",
+          "Zhuyun Dai",
+          "Panupong Pasupat",
+          "Anthony Chen",
+          "Arun Tejasvi Chaganty",
+          "Yicheng Fan",
+          "Vincent Zhao",
+          "Ni Lao",
+          "Hongrae Lee",
+          "Da-Cheng Juan",
+          "Kelvin Guu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "wan2025generationprograms",
+      "raw": {
+        "title": "GenerationPrograms: Fine-grained Attribution with Executable Programs",
+        "authors": [
+          "David Wan",
+          "Eran Hirsch",
+          "Elias Stengel-Eskin",
+          "Ido Dagan",
+          "Mohit Bansal"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "52046",
+      "raw": {
+        "title": "Attributed Question Answering: Evaluation and Modeling for Attributed Large Language Models",
+        "authors": [
+          "Bernd Bohnet",
+          "Vinh Tran",
+          "Pat Verga",
+          "Roee Aharoni",
+          "Daniel Andor",
+          "Livio Baldini Soares",
+          "Massimiliano Ciaramita",
+          "Jacob Eisenstein",
+          "Kuzman Ganchev",
+          "Jonathan Herzig",
+          "Kai Hui",
+          "Tom Kwiatkowski",
+          "Ji Ma",
+          "Jianmo Ni",
+          "Tal Schuster",
+          "Lierni Sestorain Saralegui",
+          "William Weston Cohen",
+          "Michael Collins",
+          "Dipanjan Das",
+          "Don Metzler",
+          "Slav Petrov",
+          "Kellie Webster"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": "2212.08037"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2212.08037&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "rohrbach-etal-2018-object",
+      "raw": {
+        "title": "Object Hallucination in Image Captioning",
+        "authors": [
+          "Rohrbach, Anna",
+          "Hendricks, Lisa Anne",
+          "Burns, Kaylee",
+          "Darrell, Trevor",
+          "Saenko, Kate"
+        ],
+        "year": 2018,
+        "doi": "10.18653/v1/D18-1437",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2892087592",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Object Hallucination in Image Captioning",
+        "year": 2018,
+        "authors": [
+          "Anna Rohrbach",
+          "Lisa Anne Hendricks",
+          "Kaylee Burns",
+          "Trevor Darrell",
+          "Kate Saenko"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "li-etal-2023-evaluating",
+      "raw": {
+        "title": "Evaluating Object Hallucination in Large Vision-Language Models",
+        "authors": [
+          "Li, Yifan",
+          "Du, Yifan",
+          "Zhou, Kun",
+          "Wang, Jinpeng",
+          "Zhao, Xin",
+          "Wen, Ji-Rong"
+        ],
+        "year": 2023,
+        "doi": "10.18653/v1/2023.emnlp-main.20",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4389523832",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Evaluating Object Hallucination in Large Vision-Language Models",
+        "year": 2023,
+        "authors": [
+          "Yifan Li",
+          "Yifan Du",
+          "Kun Zhou",
+          "Jinpeng Wang",
+          "Zhao Xin",
+          "Ji-Rong Wen"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "hendricks2017localizingmomentsvideonatural",
+      "raw": {
+        "title": "Localizing Moments in Video with Natural Language",
+        "authors": [
+          "Lisa Anne Hendricks",
+          "Oliver Wang",
+          "Eli Shechtman",
+          "Josef Sivic",
+          "Trevor Darrell",
+          "Bryan Russell"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": "1708.01641"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1708.01641&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "lei-etal-2021-mtvr",
+      "raw": {
+        "title": "mTVR: Multilingual Moment Retrieval in Videos",
+        "authors": [
+          "Lei, Jie",
+          "Berg, Tamara",
+          "Bansal, Mohit"
+        ],
+        "year": 2021,
+        "doi": "10.18653/v1/2021.acl-short.92",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3173449436",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "mTVR: Multilingual Moment Retrieval in Videos",
+        "year": 2021,
+        "authors": [
+          "Jie Lei",
+          "Tamara L. Berg",
+          "Mohit Bansal"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "chen2023program",
+      "raw": {
+        "title": "Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks",
+        "authors": [
+          "Wenhu Chen",
+          "Xueguang Ma",
+          "Xinyi Wang",
+          "William W. Cohen"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "surismenon2023vipergpt",
+      "raw": {
+        "title": "ViperGPT: Visual Inference via Python Execution for Reasoning",
+        "authors": [
+          "D\\'idac Sur\\'is",
+          "Sachit Menon",
+          "Carl Vondrick"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=ViperGPT%3A+Visual+Inference+via+Python+Execution+for+Reasoning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "hu-etal-2025-mcitebench",
+      "raw": {
+        "title": "MCiteBench: A Multimodal Benchmark for Generating Text with Citations",
+        "authors": [
+          "Hu, Caiyu",
+          "Zhang, Yikai",
+          "Zhu, Tinghui",
+          "Ye, Yiwei",
+          "Xiao, Yanghua"
+        ],
+        "year": 2025,
+        "doi": "10.18653/v1/2025.findings-emnlp.318",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4416034977",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "MCiteBench: A Multimodal Benchmark for Generating Text with Citations",
+        "year": 2025,
+        "authors": [
+          "Caiyu Hu",
+          "Yikai Zhang",
+          "Tinghui Zhu",
+          "Yiwei Ye",
+          "Yanghua Xiao"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "dong2025mmdocrag",
+      "raw": {
+        "title": "Benchmarking Retrieval-Augmented Multimodal Generation for Document Question Answering",
+        "authors": [
+          "Kuicai Dong",
+          "Yujing Chang",
+          "Shijie Huang",
+          "Yasheng Wang",
+          "Ruiming Tang",
+          "Yong Liu"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2505.16470"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2505.16470&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "hu2025videommmu",
+      "raw": {
+        "title": "Video-MMMU: Evaluating Knowledge Acquisition from Multi-Discipline Professional Videos",
+        "authors": [
+          "Kairui Hu",
+          "Penghao Wu",
+          "Fanyi Pu",
+          "Wang Xiao",
+          "Yuanhan Zhang",
+          "Xiang Yue",
+          "Bo Li",
+          "Ziwei Liu"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2501.13826"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2501.13826&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "hong2025worldsenseevaluatingrealworldomnimodal",
+      "raw": {
+        "title": "WorldSense: Evaluating Real-world Omnimodal Understanding for Multimodal LLMs",
+        "authors": [
+          "Jack Hong",
+          "Shilin Yan",
+          "Jiayin Cai",
+          "Xiaolong Jiang",
+          "Yao Hu",
+          "Weidi Xie"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2502.04326"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2502.04326&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "slobodkin-etal-2024-attribute",
+      "raw": {
+        "title": "Attribute First, then Generate: Locally-attributable Grounded Text Generation",
+        "authors": [
+          "Slobodkin, Aviv",
+          "Hirsch, Eran",
+          "Cattan, Arie",
+          "Schuster, Tal",
+          "Dagan, Ido"
+        ],
+        "year": 2024,
+        "doi": "10.18653/v1/2024.acl-long.182",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4402684029",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Attribute First, then Generate: Locally-attributable Grounded Text Generation",
+        "year": 2024,
+        "authors": [
+          "Aviv Slobodkin",
+          "Eran Hirsch",
+          "Arie Cattan",
+          "Tal Schuster",
+          "Ido Dagan"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "song2025mavisbenchmarkmultimodalsource",
+      "raw": {
+        "title": "MAVIS: A Benchmark for Multimodal Source Attribution in Long-form Visual Question Answering",
+        "authors": [
+          "Seokwon Song",
+          "Minsu Park",
+          "Gunhee Kim"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2511.12142"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2511.12142&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Ren2023TimeChat",
+      "raw": {
+        "title": "TimeChat: A Time-sensitive Multimodal Large Language Model for Long Video Understanding",
+        "authors": [
+          "Shuhuai Ren",
+          "Linli Yao",
+          "Shicheng Li",
+          "Xu Sun",
+          "Lu Hou"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=TimeChat%3A+A+Time-sensitive+Multimodal+Large+Language+Model+for+Long+Video+Understanding&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "huang2024vtimellm",
+      "raw": {
+        "title": "Vtimellm: Empower llm to grasp video moments",
+        "authors": [
+          "Huang, Bin",
+          "Wang, Xin",
+          "Chen, Hong",
+          "Song, Zihan",
+          "Zhu, Wenwu"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Vtimellm%3A+Empower+llm+to+grasp+video+moments&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "wang-etal-2025-grounded",
+      "raw": {
+        "title": "Grounded-VideoLLM: Sharpening Fine-grained Temporal Grounding in Video Large Language Models",
+        "authors": [
+          "Wang, Haibo",
+          "Xu, Zhiyang",
+          "Cheng, Yu",
+          "Diao, Shizhe",
+          "Zhou, Yufan",
+          "Cao, Yixin",
+          "Wang, Qifan",
+          "Ge, Weifeng",
+          "Huang, Lifu"
+        ],
+        "year": 2025,
+        "doi": "10.18653/v1/2025.findings-emnlp.50",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4416035957",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Grounded-VideoLLM: Sharpening Fine-grained Temporal Grounding in Video Large Language Models",
+        "year": 2025,
+        "authors": [
+          "Haibo Wang",
+          "Zhiyang Xu",
+          "Yu Cheng",
+          "Shizhe Diao",
+          "Yufan Zhou",
+          "Yixin Cao",
+          "Qifan Wang",
+          "Weifeng Ge",
+          "Lifu Huang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "choi-etal-2021-decontextualization",
+      "raw": {
+        "title": "Decontextualization: Making Sentences Stand-Alone",
+        "authors": [
+          "Choi, Eunsol",
+          "Palomaki, Jennimaria",
+          "Lamm, Matthew",
+          "Kwiatkowski, Tom",
+          "Das, Dipanjan",
+          "Collins, Michael"
+        ],
+        "year": 2021,
+        "doi": "10.1162/tacl_a_00377",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3128754101",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Decontextualization: Making Sentences Stand-Alone",
+        "year": 2021,
+        "authors": [
+          "Eunsol Choi",
+          "Jennimaria Palomaki",
+          "Matthew Lamm",
+          "Tom Kwiatkowski",
+          "Dipanjan Das",
+          "Michael Collins"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "liu-etal-2023-evaluating",
+      "raw": {
+        "title": "Evaluating Verifiability in Generative Search Engines",
+        "authors": [
+          "Liu, Nelson",
+          "Zhang, Tianyi",
+          "Liang, Percy"
+        ],
+        "year": 2023,
+        "doi": "10.18653/v1/2023.findings-emnlp.467",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4389518954",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Evaluating Verifiability in Generative Search Engines",
+        "year": 2023,
+        "authors": [
+          "Nelson F. Liu",
+          "Tianyi Zhang",
+          "Percy Liang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "laban-etal-2022-summac",
+      "raw": {
+        "title": "SummaC: Re-Visiting NLI-based Models for Inconsistency Detection in Summarization",
+        "authors": [
+          "Laban, Philippe",
+          "Schnabel, Tobias",
+          "Bennett, Paul N.",
+          "Hearst, Marti A."
+        ],
+        "year": 2022,
+        "doi": "10.1162/tacl_a_00453",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3213990450",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "<scp>SummaC</scp>: Re-Visiting NLI-based Models for Inconsistency Detection in Summarization",
+        "year": 2022,
+        "authors": [
+          "Philippe Laban",
+          "Tobias Schnabel",
+          "Paul N. Bennett",
+          "Marti A. Hearst"
+        ]
+      },
+      "title_similarity": 0.9419354838709677,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "fierro-etal-2024-learning",
+      "raw": {
+        "title": "Learning to Plan and Generate Text with Citations",
+        "authors": [
+          "Fierro, Constanza",
+          "Amplayo, Reinald Kim",
+          "Huot, Fantine",
+          "De Cao, Nicola",
+          "Maynez, Joshua",
+          "Narayan, Shashi",
+          "Lapata, Mirella"
+        ],
+        "year": 2024,
+        "doi": "10.18653/v1/2024.acl-long.615",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4402671995",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Learning to Plan and Generate Text with Citations",
+        "year": 2024,
+        "authors": [
+          "Constanza Fierro",
+          "Reinald Kim Amplayo",
+          "Fantine Huot",
+          "Nicola De Cao",
+          "Joshua Maynez",
+          "Shashi Narayan",
+          "Mirella Lapata"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "yue-etal-2023-automatic",
+      "raw": {
+        "title": "Automatic Evaluation of Attribution by Large Language Models",
+        "authors": [
+          "Yue, Xiang",
+          "Wang, Boshi",
+          "Chen, Ziru",
+          "Zhang, Kai",
+          "Su, Yu",
+          "Sun, Huan"
+        ],
+        "year": 2023,
+        "doi": "10.18653/v1/2023.findings-emnlp.307",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4389518925",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Automatic Evaluation of Attribution by Large Language Models",
+        "year": 2023,
+        "authors": [
+          "Xiang Yue",
+          "Boshi Wang",
+          "Ziru Chen",
+          "Kai Zhang",
+          "Yu Su",
+          "Huan Sun"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "li-etal-2024-towards-verifiable",
+      "raw": {
+        "title": "Towards Verifiable Generation: A Benchmark for Knowledge-aware Language Model Attribution",
+        "authors": [
+          "Li, Xinze",
+          "Cao, Yixin",
+          "Pan, Liangming",
+          "Ma, Yubo",
+          "Sun, Aixin"
+        ],
+        "year": 2024,
+        "doi": "10.18653/v1/2024.findings-acl.28",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4402670800",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Towards Verifiable Generation: A Benchmark for Knowledge-aware Language Model Attribution",
+        "year": 2024,
+        "authors": [
+          "Xinze Li",
+          "Yixin Cao",
+          "Liangming Pan",
+          "Yubo Ma",
+          "Aixin Sun"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "lee2024largelanguagemodelstruly",
+      "raw": {
+        "title": "How Well Do Large Language Models Truly Ground?",
+        "authors": [
+          "Hyunji Lee",
+          "Sejune Joo",
+          "Chaeeun Kim",
+          "Joel Jang",
+          "Doyoung Kim",
+          "Kyoung-Woon On",
+          "Minjoon Seo"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2311.09069"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2311.09069&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "comanici2025gemini",
+      "raw": {
+        "title": "Gemini 2.5: Pushing the frontier with advanced reasoning, multimodality, long context, and next generation agentic capabilities",
+        "authors": [
+          "Comanici, Gheorghe",
+          "Bieber, Eric",
+          "Schaekermann, Mike",
+          "Pasupat, Ice",
+          "Sachdeva, Noveen",
+          "Dhillon, Inderjit",
+          "Blistein, Marcel",
+          "Ram, Ori",
+          "Zhang, Dan",
+          "Rosen, Evan",
+          "others"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Gemini+2.5%3A+Pushing+the+frontier+with+advanced+reasoning%2C+multimodality%2C+long+context%2C+and+next+generation+agentic+capabilities&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "gemini3",
+      "raw": {
+        "title": "Gemini 3",
+        "authors": [
+          "Google"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Gemini+3&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Qwen2.5-Omni",
+      "raw": {
+        "title": "Qwen2.5-Omni Technical Report",
+        "authors": [
+          "Jin Xu, Zhifang Guo, Jinzheng He, Hangrui Hu, Ting He, Shuai Bai, Keqin Chen, Jialin Wang, Yang Fan, Kai Dang, Bin Zhang, Xiong Wang, Yunfei Chu, Junyang Lin"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Qwen2.5-Omni+Technical+Report&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Qwen3-Omni",
+      "raw": {
+        "title": "Qwen3-Omni Technical Report",
+        "authors": [
+          "Jin Xu",
+          "Zhifang Guo",
+          "Hangrui Hu",
+          "Yunfei Chu",
+          "Xiong Wang",
+          "Jinzheng He",
+          "Yuxuan Wang",
+          "Xian Shi",
+          "Ting He",
+          "Xinfa Zhu",
+          "Yuanjun Lv",
+          "Yongqi Wang",
+          "Dake Guo",
+          "He Wang",
+          "Linhan Ma",
+          "Pei Zhang",
+          "Xinyu Zhang",
+          "Hongkun Hao",
+          "Zishan Guo",
+          "Baosong Yang",
+          "Bin Zhang",
+          "Ziyang Ma",
+          "Xipin Wei",
+          "Shuai Bai",
+          "Keqin Chen",
+          "Xuejing Liu",
+          "Peng Wang",
+          "Mingkun Yang",
+          "Dayiheng Liu",
+          "Xingzhang Ren",
+          "Bo Zheng",
+          "Rui Men",
+          "Fan Zhou",
+          "Bowen Yu",
+          "Jianxin Yang",
+          "Le Yu",
+          "Jingren Zhou",
+          "Junyang Lin"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Qwen3-Omni+Technical+Report&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "yu2025mramgbenchcomprehensivebenchmarkadvancing",
+      "raw": {
+        "title": "MRAMG-Bench: A Comprehensive Benchmark for Advancing Multimodal Retrieval-Augmented Multimodal Generation",
+        "authors": [
+          "Qinhan Yu",
+          "Zhiyou Xiao",
+          "Binghui Li",
+          "Zhengren Wang",
+          "Chong Chen",
+          "Wentao Zhang"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2502.04176"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2502.04176&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Ji_2023",
+      "raw": {
+        "title": "Survey of Hallucination in Natural Language Generation",
+        "authors": [
+          "Ji, Ziwei",
+          "Lee, Nayeon",
+          "Frieske, Rita",
+          "Yu, Tiezheng",
+          "Su, Dan",
+          "Xu, Yan",
+          "Ishii, Etsuko",
+          "Bang, Ye Jin",
+          "Madotto, Andrea",
+          "Fung, Pascale"
+        ],
+        "year": 2023,
+        "doi": "10.1145/3571730",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4309674289",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Survey of Hallucination in Natural Language Generation",
+        "year": 2022,
+        "authors": [
+          "Ziwei Ji",
+          "Nayeon Lee",
+          "Rita Frieske",
+          "Tiezheng Yu",
+          "Dan Su",
+          "Yan Xu",
+          "Etsuko Ishii",
+          "Ye Jin Bang",
+          "Andrea Madotto",
+          "Pascale Fung"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "li2022faithfulnessnaturallanguagegeneration",
+      "raw": {
+        "title": "Faithfulness in Natural Language Generation: A Systematic Survey of Analysis, Evaluation and Optimization Methods",
+        "authors": [
+          "Wei Li",
+          "Wenhao Wu",
+          "Moye Chen",
+          "Jiachen Liu",
+          "Xinyan Xiao",
+          "Hua Wu"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": "2203.05227"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2203.05227&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "krishna-etal-2021-hurdles",
+      "raw": {
+        "title": "Hurdles to Progress in Long-form Question Answering",
+        "authors": [
+          "Krishna, Kalpesh",
+          "Roy, Aurko",
+          "Iyyer, Mohit"
+        ],
+        "year": 2021,
+        "doi": "10.18653/v1/2021.naacl-main.393",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3134521268",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Hurdles to Progress in Long-form Question Answering",
+        "year": 2021,
+        "authors": [
+          "Kalpesh Krishna",
+          "Aurko Roy",
+          "Mohit Iyyer"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "lin-2004-rouge",
+      "raw": {
+        "title": "ROUGE: A Package for Automatic Evaluation of Summaries",
+        "authors": [
+          "Lin, Chin-Yew"
+        ],
+        "year": 2004,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "weller-etal-2024-according",
+      "raw": {
+        "title": "``According to . . . ``: Prompting Language Models Improves Quoting from Pre-Training Data",
+        "authors": [
+          "Weller, Orion",
+          "Marone, Marc",
+          "Weir, Nathaniel",
+          "Lawrie, Dawn",
+          "Khashabi, Daniel",
+          "Van Durme, Benjamin"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=%60%60According+to+.+.+.+%60%60%3A+Prompting+Language+Models+Improves+Quoting+from+Pre-Training+Data&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "chen2022muragmultimodalretrievalaugmentedgenerator",
+      "raw": {
+        "title": "MuRAG: Multimodal Retrieval-Augmented Generator for Open Question Answering over Images and Text",
+        "authors": [
+          "Wenhu Chen",
+          "Hexiang Hu",
+          "Xi Chen",
+          "Pat Verga",
+          "William W. Cohen"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": "2210.02928"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2210.02928&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "lei2019tvqalocalizedcompositionalvideo",
+      "raw": {
+        "title": "TVQA: Localized, Compositional Video Question Answering",
+        "authors": [
+          "Jie Lei",
+          "Licheng Yu",
+          "Mohit Bansal",
+          "Tamara L. Berg"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": "1809.01696"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1809.01696&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "lei2020tvrlargescaledatasetvideosubtitle",
+      "raw": {
+        "title": "TVR: A Large-Scale Dataset for Video-Subtitle Moment Retrieval",
+        "authors": [
+          "Jie Lei",
+          "Licheng Yu",
+          "Tamara L. Berg",
+          "Mohit Bansal"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": "2001.09099"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2001.09099&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Wang_2025_CVPR",
+      "raw": {
+        "title": "VideoTree: Adaptive Tree-based Video Representation for LLM Reasoning on Long Videos",
+        "authors": [
+          "Wang, Ziyang",
+          "Yu, Shoubin",
+          "Stengel-Eskin, Elias",
+          "Yoon, Jaehong",
+          "Cheng, Feng",
+          "Bertasius, Gedas",
+          "Bansal, Mohit"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=VideoTree%3A+Adaptive+Tree-based+Video+Representation+for+LLM+Reasoning+on+Long+Videos&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "wang2025timerefinetemporalgroundingtime",
+      "raw": {
+        "title": "TimeRefine: Temporal Grounding with Time Refining Video LLM",
+        "authors": [
+          "Xizi Wang",
+          "Feng Cheng",
+          "Ziyang Wang",
+          "Huiyu Wang",
+          "Md Mohaiminul Islam",
+          "Lorenzo Torresani",
+          "Mohit Bansal",
+          "Gedas Bertasius",
+          "David Crandall"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2412.09601"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2412.09601&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "wang2025activevideoperceptioniterative",
+      "raw": {
+        "title": "Active Video Perception: Iterative Evidence Seeking for Agentic Long Video Understanding",
+        "authors": [
+          "Ziyang Wang",
+          "Honglu Zhou",
+          "Shijie Wang",
+          "Junnan Li",
+          "Caiming Xiong",
+          "Silvio Savarese",
+          "Mohit Bansal",
+          "Michael S. Ryoo",
+          "Juan Carlos Niebles"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2512.05774"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2512.05774&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "wang-etal-2025-video",
+      "raw": {
+        "title": "Video-RTS: Rethinking Reinforcement Learning and Test-Time Scaling for Efficient and Enhanced Video Reasoning",
+        "authors": [
+          "Wang, Ziyang",
+          "Yoon, Jaehong",
+          "Yu, Shoubin",
+          "Islam, Md Mohaiminul",
+          "Bertasius, Gedas",
+          "Bansal, Mohit"
+        ],
+        "year": 2025,
+        "doi": "10.18653/v1/2025.emnlp-main.1428",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4416035648",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Video-RTS: Rethinking Reinforcement Learning and Test-Time Scaling for Efficient and Enhanced Video Reasoning",
+        "year": 2025,
+        "authors": [
+          "Ziyang Wang",
+          "Jaehong Yoon",
+          "Shoubin Yu",
+          "Md. Mohaiminul Islam",
+          "Gedas Bertasius",
+          "Mohit Bansal"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "nakano2021webgpt",
+      "raw": {
+        "title": "Webgpt: Browser-assisted question-answering with human feedback",
+        "authors": [
+          "Reiichiro Nakano",
+          "Jacob Hilton",
+          "Suchir Balaji",
+          "Jeff Wu",
+          "Long Ouyang",
+          "Christina Kim",
+          "Christopher Hesse",
+          "Shantanu Jain",
+          "Vineet Kosaraju",
+          "William Saunders",
+          "Xu Jiang",
+          "Karl Cobbe",
+          "Tyna Eloundou",
+          "Gretchen Krueger",
+          "Kevin Button",
+          "Matthew Knight",
+          "Benjamin Chess",
+          "John Schulman"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Webgpt%3A+Browser-assisted+question-answering+with+human+feedback&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "menick2022teaching",
+      "raw": {
+        "title": "Teaching language models to support answers with verified quotes",
+        "authors": [
+          "Menick, Jacob",
+          "Trebacz, Maja",
+          "Mikulik, Vladimir",
+          "Aslanides, John",
+          "Song, Francis",
+          "Chadwick, Martin",
+          "Glaese, Mia",
+          "Young, Susannah",
+          "Campbell-Gillingham, Lucy",
+          "Irving, Geoffrey",
+          "McAleese, Nat"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Teaching+language+models+to+support+answers+with+verified+quotes&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "asai2024selfrag",
+      "raw": {
+        "title": "Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection",
+        "authors": [
+          "Akari Asai",
+          "Zeqiu Wu",
+          "Yizhong Wang",
+          "Avirup Sil",
+          "Hannaneh Hajishirzi"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "chen-etal-2024-complex",
+      "raw": {
+        "title": "Complex Claim Verification with Evidence Retrieved in the Wild",
+        "authors": [
+          "Chen, Jifan",
+          "Kim, Grace",
+          "Sriram, Aniruddh",
+          "Durrett, Greg",
+          "Choi, Eunsol"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Complex+Claim+Verification+with+Evidence+Retrieved+in+the+Wild&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "hsu-etal-2024-calm",
+      "raw": {
+        "title": "CaLM: Contrasting Large and Small Language Models to Verify Grounded Generation",
+        "authors": [
+          "Hsu, I-Hung",
+          "Wang, Zifeng",
+          "Le, Long",
+          "Miculicich, Lesly",
+          "Peng, Nanyun",
+          "Lee, Chen-Yu",
+          "Pfister, Tomas"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=CaLM%3A+Contrasting+Large+and+Small+Language+Models+to+Verify+Grounded+Generation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "10.1007/978-3-031-72989-8_4",
+      "raw": {
+        "title": "VideoAgent: Long-Form Video Understanding with Large Language Model as Agent",
+        "authors": [
+          "Wang, Xiaohan",
+          "Zhang, Yuhui",
+          "Zohar, Orr",
+          "Yeung-Levy, Serena"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=VideoAgent%3A+Long-Form+Video+Understanding+with+Large+Language+Model+as+Agent&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "mahmood2025vurf",
+      "raw": {
+        "title": "VURF: A General-purpose Reasoning and Self-refinement Framework for Video Understanding",
+        "authors": [
+          "Ahmad Mahmood",
+          "Ashmal Vayani",
+          "Muzammal Naseer",
+          "Salman Khan",
+          "Fahad Shahbaz Khan"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Min_2024_CVPR",
+      "raw": {
+        "title": "MoReVQA: Exploring Modular Reasoning Models for Video Question Answering",
+        "authors": [
+          "Min, Juhong",
+          "Buch, Shyamal",
+          "Nagrani, Arsha",
+          "Cho, Minsu",
+          "Schmid, Cordelia"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=MoReVQA%3A+Exploring+Modular+Reasoning+Models+for+Video+Question+Answering&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "li2025adaptive",
+      "raw": {
+        "title": "Adaptive Fast-and-Slow Visual Program Reasoning for Long-Form VideoQA",
+        "authors": [
+          "Li, Chenglin",
+          "Han, Feng",
+          "Tao, Feng",
+          "Li, Ruilin",
+          "Chen, Qianglong",
+          "Tong, Jingqi",
+          "Zhang, Yin",
+          "Wang, Jiaqi"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Adaptive+Fast-and-Slow+Visual+Program+Reasoning+for+Long-Form+VideoQA&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "lightman2024lets",
+      "raw": {
+        "title": "Let's Verify Step by Step",
+        "authors": [
+          "Hunter Lightman",
+          "Vineet Kosaraju",
+          "Yuri Burda",
+          "Harrison Edwards",
+          "Bowen Baker",
+          "Teddy Lee",
+          "Jan Leike",
+          "John Schulman",
+          "Ilya Sutskever",
+          "Karl Cobbe"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "gemmateam2025gemma3technicalreport",
+      "raw": {
+        "title": "Gemma 3 Technical Report",
+        "authors": [
+          "{{Gemma Team}}"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2503.19786"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2503.19786&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "gpt52",
+      "raw": {
+        "title": "Introducing GPT-5.2",
+        "authors": [
+          "{OpenAI}"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "zhang-etal-2025-longcite",
+      "raw": {
+        "title": "LongCite: Enabling LLMs to Generate Fine-grained Citations in Long-Context QA",
+        "authors": [
+          "Zhang, Jiajie",
+          "Bai, Yushi",
+          "Lv, Xin",
+          "Gu, Wanjun",
+          "Liu, Danqing",
+          "Zou, Minhao",
+          "Cao, Shulin",
+          "Hou, Lei",
+          "Dong, Yuxiao",
+          "Feng, Ling",
+          "Li, Juanzi"
+        ],
+        "year": 2025,
+        "doi": "10.18653/v1/2025.findings-acl.264",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4412888613",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "LongCite: Enabling LLMs to Generate Fine-grained Citations in Long-Context QA",
+        "year": 2025,
+        "authors": [
+          "Jiajie Zhang",
+          "Yushi Bai",
+          "Xin Lv",
+          "Wanjun Gu",
+          "Danqing Liu",
+          "Minhao Zou",
+          "Shulin Cao",
+          "Lei Hou",
+          "Yuxiao Dong",
+          "Ling Feng",
+          "Juanzi Li"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "luo2025thinkingdriftsevidentialgrounding",
+      "raw": {
+        "title": "When Thinking Drifts: Evidential Grounding for Robust Video Reasoning",
+        "authors": [
+          "Mi Luo",
+          "Zihui Xue",
+          "Alex Dimakis",
+          "Kristen Grauman"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2510.06077"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2510.06077&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "xiao2024can",
+      "raw": {
+        "title": "Can i trust your answer? visually grounded video question answering",
+        "authors": [
+          "Xiao, Junbin",
+          "Yao, Angela",
+          "Li, Yicong",
+          "Chua, Tat-Seng"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Can+i+trust+your+answer%3F+visually+grounded+video+question+answering&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    }
+  ]
+}

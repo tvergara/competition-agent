@@ -1,0 +1,4172 @@
+{
+  "paper_id": "89966544-bbb8-4e5f-b49e-a0981d135c72",
+  "total": 108,
+  "verified": 98,
+  "mismatch": 5,
+  "missing": 3,
+  "ambiguous": 2,
+  "error": 0,
+  "skipped": 0,
+  "s2_consulted": 107,
+  "s2_lifted": 0,
+  "key_style_outliers": [
+    "langley00",
+    "mitchell80",
+    "kearns89",
+    "DudaHart2nd",
+    "Newell81",
+    "Samuel59",
+    "deng20213d",
+    "chu20253d",
+    "3DAffordSplat",
+    "heidinger20252handedafforder",
+    "9981900",
+    "hong20233d",
+    "tian20253"
+  ],
+  "entries": [
+    {
+      "key": "langley00",
+      "raw": {
+        "title": "Crafting Papers on Machine Learning",
+        "authors": [
+          "P. Langley"
+        ],
+        "year": 2000,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/3efcb97c1de1c87832a7a1d99e91801992a938ec",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Crafting Papers on Machine Learning",
+        "year": 2000,
+        "authors": [
+          "P. Langley"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "mitchell80",
+      "raw": {
+        "title": "The Need for Biases in Learning Generalizations",
+        "authors": [
+          "T. M. Mitchell"
+        ],
+        "year": 1980,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "metadata_mismatch",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/6cf35ec34efa592f83e3a1b748aea14957fc784a",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "The Need for Biases in Learning Generalizations",
+        "year": 2007,
+        "authors": [
+          "Tom Michael Mitchell"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [
+        "year"
+      ],
+      "error": null
+    },
+    {
+      "key": "kearns89",
+      "raw": {
+        "title": "Computational Complexity of Machine Learning",
+        "authors": [
+          "M. J. Kearns"
+        ],
+        "year": 1989,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/a54657b8de38a18f30fd154d713f9522f705166c",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Computational complexity of machine learning",
+        "year": 1990,
+        "authors": [
+          "M. Kearns"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "MachineLearningI",
+      "raw": {
+        "title": "Machine Learning: An Artificial Intelligence Approach, Vol. I",
+        "authors": [],
+        "year": 1983,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "metadata_mismatch",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/b6df5c2ac2f91d71b1d08d76135e2a470ac1ad1e",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "MACHINE LEARNING An Artificial Intelligence Approach",
+        "year": 2009,
+        "authors": [
+          "R. Michalski",
+          "Tom M Mitchell",
+          "Jack Mostow",
+          "Bernard Nudel",
+          "Michael Rychener",
+          "R. Quinlan",
+          "H. Simon",
+          "D. Sleeman",
+          "Robert Stepp",
+          "P. Utgoff"
+        ]
+      },
+      "title_similarity": 0.9203539823008849,
+      "mismatches": [
+        "year",
+        "authors"
+      ],
+      "error": null
+    },
+    {
+      "key": "DudaHart2nd",
+      "raw": {
+        "title": "Pattern Classification",
+        "authors": [
+          "R. O. Duda",
+          "P. E. Hart",
+          "D. G. Stork"
+        ],
+        "year": 2000,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "ambiguous",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/b07ce649d6f6eb636872527104b0209d3edc8188",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Pattern classification and scene analysis",
+        "year": 1974,
+        "authors": [
+          "R. Duda",
+          "P. Hart"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "anonymous",
+      "raw": {
+        "title": "Suppressed for Anonymity",
+        "authors": [
+          "Author, N. N."
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "not_found",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Newell81",
+      "raw": {
+        "title": "Mechanisms of Skill Acquisition and the Law of Practice",
+        "authors": [
+          "A. Newell",
+          "P. S. Rosenbloom"
+        ],
+        "year": 1981,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "metadata_mismatch",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/8f410281861aae69abb29bda90497c86ca929823",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Mechanisms of Skill Acquisition and the Law of Practice",
+        "year": 1993,
+        "authors": [
+          "A. Newell"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [
+        "year"
+      ],
+      "error": null
+    },
+    {
+      "key": "Samuel59",
+      "raw": {
+        "title": "Some Studies in Machine Learning Using the Game of Checkers",
+        "authors": [
+          "A. L. Samuel"
+        ],
+        "year": 1959,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "ambiguous",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/e9e6bb5f2a04ae30d8ecc9287f8b702eedd7b772",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Some Studies in Machine Learning Using the Game of Checkers",
+        "year": 1995,
+        "authors": [
+          "A. Samuel"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "nguyen2023open",
+      "raw": {
+        "title": "Open-vocabulary affordance detection in 3d point clouds",
+        "authors": [
+          "Nguyen, Toan",
+          "Vu, Minh Nhat",
+          "Vuong, An",
+          "Nguyen, Dzung",
+          "Vo, Thieu",
+          "Le, Ngan",
+          "Nguyen, Anh"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/d6198adc08e46cf1cf16a497887f2056f4de09cf",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Open-Vocabulary Affordance Detection in 3D Point Clouds",
+        "year": 2023,
+        "authors": [
+          "Toan Ngyen",
+          "Minh N. Vu",
+          "Annalies Vuong",
+          "Dzung Nguyen",
+          "T. Vo",
+          "Ngan T. H. Le",
+          "A. Nguyen"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "deng20213d",
+      "raw": {
+        "title": "3d affordancenet: A benchmark for visual object affordance understanding",
+        "authors": [
+          "Deng, Shengheng",
+          "Xu, Xun",
+          "Wu, Chaozheng",
+          "Chen, Ke",
+          "Jia, Kui"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/63508e386705e1340944db73e4d690dbc7febb37",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "3D AffordanceNet: A Benchmark for Visual Object Affordance Understanding",
+        "year": 2021,
+        "authors": [
+          "Sheng Deng",
+          "Xun Xu",
+          "Chaozheng Wu",
+          "Ke Chen",
+          "K. Jia"
+        ]
+      },
+      "title_similarity": 0.957983193277311,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "IAGNet",
+      "raw": {
+        "title": "Grounding 3d object affordance from 2d interactions in images",
+        "authors": [
+          "Yang, Yuhang",
+          "Zhai, Wei",
+          "Luo, Hongchen",
+          "Cao, Yang",
+          "Luo, Jiebo",
+          "Zha, Zheng-Jun"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/6c33123180ba3570e4d3770c5d050afd4553d7d0",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Grounding 3D Object Affordance from 2D Interactions in Images",
+        "year": 2023,
+        "authors": [
+          "Yuhang Yang",
+          "Wei Zhai",
+          "Hongcheng Luo",
+          "Yang Cao",
+          "Jiebo Luo",
+          "Zhengjun Zha"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "li2024laso",
+      "raw": {
+        "title": "LASO: Language-guided Affordance Segmentation on 3D Object",
+        "authors": [
+          "Li, Yicong",
+          "Zhao, Na",
+          "Xiao, Junbin",
+          "Feng, Chun",
+          "Wang, Xiang",
+          "Chua, Tat-seng"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/1f5d49bc63c2f5396ebfe83b39c6ab5d622bc36c",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "LASO: Language-Guided Affordance Segmentation on 3D Object",
+        "year": 2024,
+        "authors": [
+          "Yicong Li",
+          "Na Zhao",
+          "Junbin Xiao",
+          "Chun Feng",
+          "Xiang Wang",
+          "Tat-Seng Chua"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "mo2022o2o",
+      "raw": {
+        "title": "O2o-afford: Annotation-free large-scale object-object affordance learning",
+        "authors": [
+          "Mo, Kaichun",
+          "Qin, Yuzhe",
+          "Xiang, Fanbo",
+          "Su, Hao",
+          "Guibas, Leonidas"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/43cac4f24dcb4af468e3e6099bcc09336cdaf390",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "O2O-Afford: Annotation-Free Large-Scale Object-Object Affordance Learning",
+        "year": 2021,
+        "authors": [
+          "Kaichun Mo",
+          "Yuzhe Qin",
+          "Fanbo Xiang",
+          "Hao Su",
+          "L. Guibas"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "xu2022partafford",
+      "raw": {
+        "title": "Partafford: Part-level affordance discovery from 3d objects",
+        "authors": [
+          "Xu, Chao",
+          "Chen, Yixin",
+          "Wang, He",
+          "Zhu, Song-Chun",
+          "Zhu, Yixin",
+          "Huang, Siyuan"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/ddf2d6b3ab3bf5f596927c460846839d5cb46fcf",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "PartAfford: Part-level Affordance Discovery from 3D Objects",
+        "year": 2022,
+        "authors": [
+          "Chao Xu",
+          "Yixin Chen",
+          "He Wang",
+          "Song-Chun Zhu",
+          "Yixin Zhu",
+          "Siyuan Huang"
+        ]
+      },
+      "title_similarity": 0.9243697478991596,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "gao2024learning",
+      "raw": {
+        "title": "Learning 2d invariant affordance knowledge for 3d affordance grounding",
+        "authors": [
+          "Gao, Xianqiang",
+          "Zhang, Pingrui",
+          "Qu, Delin",
+          "Wang, Dong",
+          "Wang, Zhigang",
+          "Ding, Yan",
+          "Zhao, Bin",
+          "Li, Xuelong"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/23ba6e631032d90c8c3a998fe1eac5161ca4f167",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Learning 2D Invariant Affordance Knowledge for 3D Affordance Grounding",
+        "year": 2024,
+        "authors": [
+          "Xianqiang Gao",
+          "Pingrui Zhang",
+          "Delin Qu",
+          "Dong Wang",
+          "Zhigang Wang",
+          "Yan Ding",
+          "Bin Zhao",
+          "Xuelong Li"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "chu2024iris",
+      "raw": {
+        "title": "IRIS: Interactive Responsive Intelligent Segmentation for 3D Affordance Analysis",
+        "authors": [
+          "Chu, Meng",
+          "Zhang, Xuan"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "not_found",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "li2024one",
+      "raw": {
+        "title": "One-shot open affordance learning with foundation models",
+        "authors": [
+          "Li, Gen",
+          "Sun, Deqing",
+          "Sevilla-Lara, Laura",
+          "Jampani, Varun"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/44ffd204f371bca28c94d490b5b8c0b3ea701d0a",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "One-Shot Open Affordance Learning with Foundation Models",
+        "year": 2023,
+        "authors": [
+          "Gen Li",
+          "Deqing Sun",
+          "Laura Sevilla-Lara",
+          "Varun Jampani"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "nasiriany2024rt",
+      "raw": {
+        "title": "RT-Affordance: Affordances are Versatile Intermediate Representations for Robot Manipulation",
+        "authors": [
+          "Nasiriany, Soroush",
+          "Kirmani, Sean",
+          "Ding, Tianli",
+          "Smith, Laura",
+          "Zhu, Yuke",
+          "Driess, Danny",
+          "Sadigh, Dorsa",
+          "Xiao, Ted"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/59d2d7092051a8ca8bd7aba1db75db9631e36aa5",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "RT-Affordance: Affordances are Versatile Intermediate Representations for Robot Manipulation",
+        "year": 2024,
+        "authors": [
+          "Soroush Nasiriany",
+          "Sean Kirmani",
+          "Tianli Ding",
+          "Laura Smith",
+          "Yuke Zhu",
+          "Danny Driess",
+          "Dorsa Sadigh",
+          "Ted Xiao"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "shao2024great",
+      "raw": {
+        "title": "GREAT: Geometry-Intention Collaborative Inference for Open-Vocabulary 3D Object Affordance Grounding",
+        "authors": [
+          "Shao, Yawen",
+          "Zhai, Wei",
+          "Yang, Yuhang",
+          "Luo, Hongchen",
+          "Cao, Yang",
+          "Zha, Zheng-Jun"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/0d8381d6cc2644805202a2b24af9ec740f42d797",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "GREAT: Geometry-Intention Collaborative Inference for Open-Vocabulary 3D Object Affordance Grounding",
+        "year": 2024,
+        "authors": [
+          "Yawen Shao",
+          "Wei Zhai",
+          "Yuhang Yang",
+          "Hongcheng Luo",
+          "Yang Cao",
+          "Zhengjun Zha"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "qian2024affordancellm",
+      "raw": {
+        "title": "Affordancellm: Grounding affordance from vision language models",
+        "authors": [
+          "Qian, Shengyi",
+          "Chen, Weifeng",
+          "Bai, Min",
+          "Zhou, Xiong",
+          "Tu, Zhuowen",
+          "Li, Li Erran"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/46e32d4b037968a10a6a5f531731e4b514ae6cd2",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "AffordanceLLM: Grounding Affordance from Vision Language Models",
+        "year": 2024,
+        "authors": [
+          "Shengyi Qian",
+          "Weifeng Chen",
+          "Min Bai",
+          "Xiong Zhou",
+          "Zhuowen Tu",
+          "Li Erran Li"
+        ]
+      },
+      "title_similarity": 0.9504950495049505,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "xuweakly",
+      "raw": {
+        "title": "Weakly-Supervised Affordance Grounding Guided by Part-Level Semantic Priors",
+        "authors": [
+          "Xu, Peiran",
+          "Yadong, MU"
+        ],
+        "year": null,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/fe7c13261a5ffe5909e803b8f34991ea48fc9884",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Weakly-Supervised Affordance Grounding Guided by Part-Level Semantic Priors",
+        "year": 2025,
+        "authors": [
+          "Peiran Xu",
+          "Yadong Mu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "delitzas2024scenefun3d",
+      "raw": {
+        "title": "SceneFun3D: fine-grained functionality and affordance understanding in 3D scenes",
+        "authors": [
+          "Delitzas, Alexandros",
+          "Takmaz, Ayca",
+          "Tombari, Federico",
+          "Sumner, Robert",
+          "Pollefeys, Marc",
+          "Engelmann, Francis"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/6bc92aa4bd2ed2fd5b558b33c20f389e2e56f7ae",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "SceneFun3D: Fine-Grained Functionality and Affordance Understanding in 3D Scenes",
+        "year": 2024,
+        "authors": [
+          "Alexandros Delitzas",
+          "Ayca Takmaz",
+          "Federico Tombari",
+          "Robert W. Sumner",
+          "M. Pollefeys",
+          "Francis Engelmann"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "lu2024geal",
+      "raw": {
+        "title": "GEAL: Generalizable 3D Affordance Learning with Cross-Modal Consistency",
+        "authors": [
+          "Lu, Dongyue",
+          "Kong, Lingdong",
+          "Huang, Tianxin",
+          "Lee, Gim Hee"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/ae48ada3548809bdc0694be5edbc6bd559115574",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "GEAL: Generalizable 3D Affordance Learning with Cross-Modal Consistency",
+        "year": 2024,
+        "authors": [
+          "Dongyue Lu",
+          "Lingdong Kong",
+          "Tianxin Huang",
+          "Gim Hee Lee"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "chu20253d",
+      "raw": {
+        "title": "3D-AffordanceLLM: Harnessing Large Language Models for Open-Vocabulary Affordance Detection in 3D Worlds",
+        "authors": [
+          "Chu, Hengshuo",
+          "Deng, Xiang",
+          "Chen, Xiaoyang",
+          "Li, Yinchuan",
+          "Hao, Jianye",
+          "Nie, Liqiang"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/ae55aca82b9e20deaceca8fa33efd65d4e4c4062",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "3D-AffordanceLLM: Harnessing Large Language Models for Open-Vocabulary Affordance Detection in 3D Worlds",
+        "year": 2025,
+        "authors": [
+          "Hengshuo Chu",
+          "Xiang Deng",
+          "Qi Lv",
+          "Xiaoyang Chen",
+          "Yinchuan Li",
+          "Jianye Hao",
+          "Liqiang Nie"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "ning2023where2explore",
+      "raw": {
+        "title": "Where2explore: Few-shot affordance learning for unseen novel categories of articulated objects",
+        "authors": [
+          "Ning, Chuanruo",
+          "Wu, Ruihai",
+          "Lu, Haoran",
+          "Mo, Kaichun",
+          "Dong, Hao"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/8240d0f26984b74e6c50fcdec3ff30829adb962f",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Where2Explore: Few-shot Affordance Learning for Unseen Novel Categories of Articulated Objects",
+        "year": 2023,
+        "authors": [
+          "Chuanruo Ning",
+          "Ruihai Wu",
+          "Haoran Lu",
+          "Kaichun Mo",
+          "Hao Dong"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "ju2024robo",
+      "raw": {
+        "title": "Robo-abc: Affordance generalization beyond categories via semantic correspondence for robot manipulation",
+        "authors": [
+          "Ju, Yuanchen",
+          "Hu, Kaizhe",
+          "Zhang, Guowei",
+          "Zhang, Gu",
+          "Jiang, Mingrun",
+          "Xu, Huazhe"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/f1def0e4f10226e6e1dde40dc40fa96f5c9b41ac",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Robo-ABC: Affordance Generalization Beyond Categories via Semantic Correspondence for Robot Manipulation",
+        "year": 2024,
+        "authors": [
+          "Yuanchen Ju",
+          "Kaizhe Hu",
+          "Guowei Zhang",
+          "Gu Zhang",
+          "Ming Jiang",
+          "Huazhe Xu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "wu2023learning2",
+      "raw": {
+        "title": "Learning environment-aware affordance for 3d articulated object manipulation under occlusions",
+        "authors": [
+          "Wu, Ruihai",
+          "Cheng, Kai",
+          "Zhao, Yan",
+          "Ning, Chuanruo",
+          "Zhan, Guanqi",
+          "Dong, Hao"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/20c0321dc08385d604a16a7ebec72b9c3ad6aabe",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Learning Environment-Aware Affordance for 3D Articulated Object Manipulation under Occlusions",
+        "year": 2023,
+        "authors": [
+          "Kai Cheng",
+          "Ruihai Wu",
+          "Yan Shen",
+          "Chuanruo Ning",
+          "Guanqi Zhan",
+          "Hao Dong"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "yu2025seqafford",
+      "raw": {
+        "title": "Seqafford: Sequential 3d affordance reasoning via multimodal large language model",
+        "authors": [
+          "Yu, Chunlin",
+          "Wang, Hanqing",
+          "Shi, Ye",
+          "Luo, Haoyang",
+          "Yang, Sibei",
+          "Yu, Jingyi",
+          "Wang, Jingya"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/9e1a70320701ebc42a74bbdae8338aa3ae68b400",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "SeqAfford: Sequential 3D Affordance Reasoning via Multimodal Large Language Model",
+        "year": 2024,
+        "authors": [
+          "Chunlin Yu",
+          "Hanqing Wang",
+          "Ye Shi",
+          "Haoyang Luo",
+          "Sibei Yang",
+          "Jingyi Yu",
+          "Jingya Wang"
+        ]
+      },
+      "title_similarity": 0.9570552147239263,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "3DAffordSplat",
+      "raw": {
+        "title": "3DAffordSplat: Efficient Affordance Reasoning with 3D Gaussians",
+        "authors": [
+          "Zeming wei",
+          "Junyi Lin",
+          "Yang Liu",
+          "Weixing Chen",
+          "Jingzhou Luo",
+          "Guanbin Li",
+          "Liang Lin"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2504.11218"
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/bca2f5b8ee7935e9a6ccae2fe217e8e0d003dd8a",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "3DAffordSplat: Efficient Affordance Reasoning with 3D Gaussians",
+        "year": 2025,
+        "authors": [
+          "Zeming Wei",
+          "Junyi Lin",
+          "Yang Liu",
+          "Weixing Chen",
+          "Jing-Hua Luo",
+          "Guanbin Li",
+          "Liang Lin"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "gibson1977theory",
+      "raw": {
+        "title": "The theory of affordances",
+        "authors": [
+          "Gibson, James J"
+        ],
+        "year": 1977,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/5e6dd0dbcf1f250332143c06953806fada30dbe3",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "The theory of affordances",
+        "year": 1977,
+        "authors": [
+          "J. J. Gibson"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "tong2024oval",
+      "raw": {
+        "title": "OVAL-prompt: Open-vocabulary affordance localization for robot manipulation through LLM affordance-grounding",
+        "authors": [
+          "Tong, Edmond",
+          "Opipari, Anthony",
+          "Lewis, Stanley",
+          "Zeng, Zhen",
+          "Jenkins, Odest Chadwicke"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/b24f28e425957aadbf45d71fd6fdcc8325e5bdf2",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "OVAL-Prompt: Open-Vocabulary Affordance Localization for Robot Manipulation through LLM Affordance-Grounding",
+        "year": 2024,
+        "authors": [
+          "Edmond Tong",
+          "A. Opipari",
+          "Stanley R. Lewis",
+          "Zhen Zeng",
+          "O. C. Jenkins"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "tang2025uad",
+      "raw": {
+        "title": "UAD: Unsupervised Affordance Distillation for Generalization in Robotic Manipulation",
+        "authors": [
+          "Tang, Yihe",
+          "Huang, Wenlong",
+          "Wang, Yingke",
+          "Li, Chengshu",
+          "Yuan, Roy",
+          "Zhang, Ruohan",
+          "Wu, Jiajun",
+          "Fei-Fei, Li"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/a7992218b0f8c8663e8ac144fcf58017a2a3c335",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "UAD: Unsupervised Affordance Distillation for Generalization in Robotic Manipulation",
+        "year": 2025,
+        "authors": [
+          "Yihe Tang",
+          "Wenlong Huang",
+          "Yingke Wang",
+          "Chengshu Li",
+          "Roy Yuan",
+          "Ruohan Zhang",
+          "Jiajun Wu",
+          "Fei-Fei Li"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "wei2025afforddexgrasp",
+      "raw": {
+        "title": "Afforddexgrasp: Open-set language-guided dexterous grasp with generalizable-instructive affordance",
+        "authors": [
+          "Wei, Yi-Lin",
+          "Lin, Mu",
+          "Lin, Yuhao",
+          "Jiang, Jian-Jian",
+          "Wu, Xiao-Ming",
+          "Zeng, Ling-An",
+          "Zheng, Wei-Shi"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/ff034669dda6d00d8f4a1d6d40503526a7e5f4e7",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "AffordDexGrasp: Open-set Language-guided Dexterous Grasp with Generalizable-Instructive Affordance",
+        "year": 2025,
+        "authors": [
+          "Yi-Lin Wei",
+          "Mu Lin",
+          "Yuhao Lin",
+          "Jian-Jian Jiang",
+          "Xiao-Ming Wu",
+          "Ling-an Zeng",
+          "Wei-Shi Zheng"
+        ]
+      },
+      "title_similarity": 0.98989898989899,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "zhang2023affordance",
+      "raw": {
+        "title": "Affordance-driven next-best-view planning for robotic grasping",
+        "authors": [
+          "Zhang, Xuechao",
+          "Wang, Dong",
+          "Han, Sun",
+          "Li, Weichuang",
+          "Zhao, Bin",
+          "Wang, Zhigang",
+          "Duan, Xiaoming",
+          "Fang, Chongrong",
+          "Li, Xuelong",
+          "He, Jianping"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/3a9a453f86464daeab8fd9d160973d427ffd18af",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Affordance-Driven Next-Best-View Planning for Robotic Grasping",
+        "year": 2023,
+        "authors": [
+          "Xuechao Zhang",
+          "Dong Wang",
+          "Sunghwan Han",
+          "Weichuang Li",
+          "Bin Zhao",
+          "Zhigang Wang",
+          "Xiaoming Duan",
+          "Chongrong Fang",
+          "Xuelong Li",
+          "Jianping He"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "luo2023learning",
+      "raw": {
+        "title": "Learning visual affordance grounding from demonstration videos",
+        "authors": [
+          "Luo, Hongchen",
+          "Zhai, Wei",
+          "Zhang, Jing",
+          "Cao, Yang",
+          "Tao, Dacheng"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "metadata_mismatch",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/2b199697d77d2bb946579129b8e11aa69ce62174",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Learning Visual Affordance Grounding From Demonstration Videos",
+        "year": 2021,
+        "authors": [
+          "Hongcheng Luo",
+          "Wei Zhai",
+          "Jing Zhang",
+          "Yang Cao",
+          "D. Tao"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [
+        "year"
+      ],
+      "error": null
+    },
+    {
+      "key": "luo2024visual",
+      "raw": {
+        "title": "Visual-Geometric Collaborative Guidance for Affordance Learning",
+        "authors": [
+          "Luo, Hongchen",
+          "Zhai, Wei",
+          "Wang, Jiao",
+          "Cao, Yang",
+          "Zha, Zheng-Jun"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/59627fe9f0daf1c203e3252e2e5116fea3fa7c81",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Visual-Geometric Collaborative Guidance for Affordance Learning",
+        "year": 2024,
+        "authors": [
+          "Hongcheng Luo",
+          "Wei Zhai",
+          "Jiao Wang",
+          "Yang Cao",
+          "Zhengjun Zha"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "bahl2023affordances",
+      "raw": {
+        "title": "Affordances from human videos as a versatile representation for robotics",
+        "authors": [
+          "Bahl, Shikhar",
+          "Mendonca, Russell",
+          "Chen, Lili",
+          "Jain, Unnat",
+          "Pathak, Deepak"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/253b41369d003952874c6a47a6038277b165cfa0",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Affordances from Human Videos as a Versatile Representation for Robotics",
+        "year": 2023,
+        "authors": [
+          "Shikhar Bahl",
+          "R. Mendonca",
+          "Lili Chen",
+          "Unnat Jain",
+          "Deepak Pathak"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "luo2022learning",
+      "raw": {
+        "title": "Learning affordance grounding from exocentric images",
+        "authors": [
+          "Luo, Hongchen",
+          "Zhai, Wei",
+          "Zhang, Jing",
+          "Cao, Yang",
+          "Tao, Dacheng"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/036b13418c8d197ed31392bc75dd69b4f29bb224",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Learning Affordance Grounding from Exocentric Images",
+        "year": 2022,
+        "authors": [
+          "Hongcheng Luo",
+          "Wei Zhai",
+          "Jing Zhang",
+          "Yang Cao",
+          "Dacheng Tao"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "chen2023affordance",
+      "raw": {
+        "title": "Affordance grounding from demonstration video to target image",
+        "authors": [
+          "Chen, Joya",
+          "Gao, Difei",
+          "Lin, Kevin Qinghong",
+          "Shou, Mike Zheng"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/6ddc0853a759b9dda704ead98e6affd01e956f61",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Affordance Grounding from Demonstration Video to Target Image",
+        "year": 2023,
+        "authors": [
+          "Joya Chen",
+          "Difei Gao",
+          "Kevin Lin",
+          "Mike Zheng Shou"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Rai_2024_CVPR",
+      "raw": {
+        "title": "Strategies to Leverage Foundational Model Knowledge in Object Affordance Grounding",
+        "authors": [
+          "Rai, Arushi",
+          "Buettner, Kyle",
+          "Kovashka, Adriana"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/e88bbf62d3ce30e5a4c8ba7919f9d0ce37573d92",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Strategies to Leverage Foundational Model Knowledge in Object Affordance Grounding",
+        "year": 2024,
+        "authors": [
+          "Arushi Rai",
+          "Kyle Buettner",
+          "Adriana Kovashka"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "wang2025dag",
+      "raw": {
+        "title": "DAG: Unleash the Potential of Diffusion Model for Open-Vocabulary 3D Affordance Grounding",
+        "authors": [
+          "Wang, Hanqing",
+          "Zhang, Zhenhao",
+          "Ji, Kaiyang",
+          "Liu, Mingyu",
+          "Yin, Wenti",
+          "Chen, Yuchao",
+          "Liu, Zhirui",
+          "Zeng, Xiangyu",
+          "Gui, Tianxiang",
+          "Zhang, Hangxing"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/fde191ef152b4f203aec6fe62b03b53ae5c2e224",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "DAG: Unleash the Potential of Diffusion Model for Open-Vocabulary 3D Affordance Grounding",
+        "year": 2025,
+        "authors": [
+          "Hanqing Wang",
+          "Zhenhao Zhang",
+          "Kaiyang Ji",
+          "Mingyu Liu",
+          "Wenti Yin",
+          "Yuchao Chen",
+          "Zhirui Liu",
+          "Xiangyu Zeng",
+          "Tianxiang Gui",
+          "Hangxing Zhang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Deng_2021_CVPR",
+      "raw": {
+        "title": "3D AffordanceNet: A Benchmark for Visual Object Affordance Understanding",
+        "authors": [
+          "Deng, Shengheng",
+          "Xu, Xun",
+          "Wu, Chaozheng",
+          "Chen, Ke",
+          "Jia, Kui"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/63508e386705e1340944db73e4d690dbc7febb37",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "3D AffordanceNet: A Benchmark for Visual Object Affordance Understanding",
+        "year": 2021,
+        "authors": [
+          "Sheng Deng",
+          "Xun Xu",
+          "Chaozheng Wu",
+          "Ke Chen",
+          "K. Jia"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Mo_2021_CoRL",
+      "raw": {
+        "title": "O2O-Afford: Annotation-Free Large-Scale Object-Object Affordance Learning",
+        "authors": [
+          "Mo, Kaichun",
+          "Qin, Yuzhe",
+          "Xiang, Fanbo",
+          "Su, Hao",
+          "Guibas, Leonidas J."
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/43cac4f24dcb4af468e3e6099bcc09336cdaf390",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "O2O-Afford: Annotation-Free Large-Scale Object-Object Affordance Learning",
+        "year": 2021,
+        "authors": [
+          "Kaichun Mo",
+          "Yuzhe Qin",
+          "Fanbo Xiang",
+          "Hao Su",
+          "L. Guibas"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Xu_2022_arXiv",
+      "raw": {
+        "title": "PartAfford: Part-level Affordance Discovery from 3D Objects",
+        "authors": [
+          "Xu, Chao",
+          "Chen, Yixin",
+          "Wang, He",
+          "Zhu, Song-Chun",
+          "Zhu, Yixin",
+          "Huang, Siyuan"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/ddf2d6b3ab3bf5f596927c460846839d5cb46fcf",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "PartAfford: Part-level Affordance Discovery from 3D Objects",
+        "year": 2022,
+        "authors": [
+          "Chao Xu",
+          "Yixin Chen",
+          "He Wang",
+          "Song-Chun Zhu",
+          "Yixin Zhu",
+          "Siyuan Huang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "laso",
+      "raw": {
+        "title": "Grounding 3D Object Affordance with Language Instructions, Visual Observations and Interactions",
+        "authors": [
+          "Zhu, He",
+          "Kong, Quyu",
+          "Xu, Kechun",
+          "Xia, Xunlong",
+          "Deng, Bing",
+          "Ye, Jieping",
+          "Xiong, Rong",
+          "Wang, Yue"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/5d8b0a24b754e8e0ae67287313314f92d49c762e",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Grounding 3D Object Affordance with Language Instructions, Visual Observations and Interactions",
+        "year": 2025,
+        "authors": [
+          "He Zhu",
+          "Quyu Kong",
+          "Kechun Xu",
+          "Xunlong Xia",
+          "Bing Deng",
+          "Jieping Ye",
+          "Rong Xiong",
+          "Yue Wang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "SeqAfford",
+      "raw": {
+        "title": "SeqAfford: Sequential 3D Affordance Reasoning via Multimodal Large Language Model",
+        "authors": [
+          "Yu, Chunlin",
+          "Wang, Hanqing",
+          "Shi, Ye",
+          "Luo, Haoyang",
+          "Yang, Sibei",
+          "Yu, Jingyi",
+          "Wang, Jingya"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/9e1a70320701ebc42a74bbdae8338aa3ae68b400",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "SeqAfford: Sequential 3D Affordance Reasoning via Multimodal Large Language Model",
+        "year": 2024,
+        "authors": [
+          "Chunlin Yu",
+          "Hanqing Wang",
+          "Ye Shi",
+          "Haoyang Luo",
+          "Sibei Yang",
+          "Jingyi Yu",
+          "Jingya Wang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "SeqAffordSplat",
+      "raw": {
+        "title": "SeqAffordSplat: Scene-level Sequential Affordance Reasoning on 3D Gaussian Splatting",
+        "authors": [
+          "Li, Di",
+          "Feng, Jie",
+          "Chen, Jiahao",
+          "Dong, Weisheng",
+          "Li, Guanbin",
+          "Zheng, Yuhui",
+          "Feng, Mingtao",
+          "Shi, Guangming"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/fc6cf760f8fbb75ff47e4c142bc922977ae49bd7",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "SeqAffordSplat: Scene-level Sequential Affordance Reasoning on 3D Gaussian Splatting",
+        "year": 2025,
+        "authors": [
+          "Di Li",
+          "Jie Feng",
+          "Jiahao Chen",
+          "Weisheng Dong",
+          "Guanbin Li",
+          "Yuhui Zheng",
+          "Mingtao Feng",
+          "G. Shi"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "GREAT",
+      "raw": {
+        "title": "GREAT: Geometry-Intention Collaborative Inference for Open-Vocabulary 3D Object Affordance Grounding",
+        "authors": [
+          "Shao, Yawen",
+          "Zhai, Wei",
+          "Yang, Yuhang",
+          "Luo, Hongcheng",
+          "Cao, Yang",
+          "Zha, Zhengjun"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/0d8381d6cc2644805202a2b24af9ec740f42d797",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "GREAT: Geometry-Intention Collaborative Inference for Open-Vocabulary 3D Object Affordance Grounding",
+        "year": 2024,
+        "authors": [
+          "Yawen Shao",
+          "Wei Zhai",
+          "Yuhang Yang",
+          "Hongcheng Luo",
+          "Yang Cao",
+          "Zhengjun Zha"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "AGPIL",
+      "raw": {
+        "title": "Grounding 3D Object Affordance with Language Instructions, Visual Observations and Interactions",
+        "authors": [
+          "Zhu, He",
+          "Kong, Quyu",
+          "Xu, Kechun",
+          "Xia, Xunlong",
+          "Deng, Bing",
+          "Ye, Jieping",
+          "Xiong, Rong",
+          "Wang, Yue"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/5d8b0a24b754e8e0ae67287313314f92d49c762e",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Grounding 3D Object Affordance with Language Instructions, Visual Observations and Interactions",
+        "year": 2025,
+        "authors": [
+          "He Zhu",
+          "Quyu Kong",
+          "Kechun Xu",
+          "Xunlong Xia",
+          "Bing Deng",
+          "Jieping Ye",
+          "Rong Xiong",
+          "Yue Wang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Affogato",
+      "raw": {
+        "title": "Affogato: Learning Open-Vocabulary Affordance Grounding with Automated Data Generation at Scale",
+        "authors": [
+          "Lee, Junha",
+          "Park, Eunha",
+          "Park, Chunghyun",
+          "Kang, Dahyun",
+          "Cho, Minsu"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/3b8a3458ab8321456385ea5568cdecd533868490",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Affogato: Learning Open-Vocabulary Affordance Grounding with Automated Data Generation at Scale",
+        "year": 2025,
+        "authors": [
+          "Junha Lee",
+          "Eunha Park",
+          "Chunghyun Park",
+          "Dahyun Kang",
+          "Minsu Cho"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "radford2021learning",
+      "raw": {
+        "title": "Learning transferable visual models from natural language supervision",
+        "authors": [
+          "Radford, Alec",
+          "Kim, Jong Wook",
+          "Hallacy, Chris",
+          "Ramesh, Aditya",
+          "Goh, Gabriel",
+          "Agarwal, Sandhini",
+          "Sastry, Girish",
+          "Askell, Amanda",
+          "Mishkin, Pamela",
+          "Clark, Jack",
+          "others"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/6f870f7f02a8c59c3e23f407f3ef00dd1dcf8fc4",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Learning Transferable Visual Models From Natural Language Supervision",
+        "year": 2021,
+        "authors": [
+          "Alec Radford",
+          "Jong Wook Kim",
+          "Chris Hallacy",
+          "A. Ramesh",
+          "Gabriel Goh",
+          "S. Agarwal",
+          "G. Sastry",
+          "Amanda Askell",
+          "Pamela Mishkin",
+          "Jack Clark",
+          "Gretchen Krueger",
+          "I. Sutskever"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "thermos2020deep",
+      "raw": {
+        "title": "A deep learning approach to object affordance segmentation",
+        "authors": [
+          "Thermos, Spyridon",
+          "Daras, Petros",
+          "Potamianos, Gerasimos"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/8fd3cb7b995b66312bb42220eadde30d0ae130cd",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "A Deep Learning Approach to Object Affordance Segmentation",
+        "year": 2020,
+        "authors": [
+          "Spyridon Thermos",
+          "P. Daras",
+          "G. Potamianos"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "tang2025closed",
+      "raw": {
+        "title": "Closed-Loop Transfer for Weakly-supervised Affordance Grounding",
+        "authors": [
+          "Tang, Jiajin",
+          "Wei, Zhengxuan",
+          "Zheng, Ge",
+          "Yang, Sibei"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/24957f55e48201ecd8efd1cb41889972026187b7",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Closed-Loop Transfer for Weakly-supervised Affordance Grounding",
+        "year": 2025,
+        "authors": [
+          "Jiajin Tang",
+          "Zhengxuan Wei",
+          "Ge Zheng",
+          "Sibei Yang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "do2018affordancenet",
+      "raw": {
+        "title": "Affordancenet: An end-to-end deep learning approach for object affordance detection",
+        "authors": [
+          "Do, Thanh-Toan",
+          "Nguyen, Anh",
+          "Reid, Ian"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/5d3b74d0702bbdca96f326d2d0ba96349f5c42a6",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "AffordanceNet: An End-to-End Deep Learning Approach for Object Affordance Detection",
+        "year": 2017,
+        "authors": [
+          "Thanh-Toan Do",
+          "A. Nguyen",
+          "I. Reid",
+          "D. Caldwell",
+          "N. Tsagarakis"
+        ]
+      },
+      "title_similarity": 0.9645390070921985,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "zhao2020object",
+      "raw": {
+        "title": "Object affordance detection with relationship-aware network",
+        "authors": [
+          "Zhao, Xue",
+          "Cao, Yang",
+          "Kang, Yu"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/8b2263c2a3993112bd14ea6344ad649436dbbaa1",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Object affordance detection with relationship-aware network",
+        "year": 2019,
+        "authors": [
+          "Xu Zhao",
+          "Yang Cao",
+          "Yu Kang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "jiang2025affordancesam",
+      "raw": {
+        "title": "AffordanceSAM: Segment Anything Once More in Affordance Grounding",
+        "authors": [
+          "Jiang, Dengyang",
+          "Wang, Zanyi",
+          "Li, Hengzhuang",
+          "Dang, Sizhe",
+          "Ma, Teli",
+          "Wei, Wei",
+          "Dai, Guang",
+          "Zhang, Lei",
+          "Wang, Mengmeng"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/470ec311cb6718239c5cff2f3978a934efb60c2e",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "AffordanceSAM: Segment Anything Once More in Affordance Grounding",
+        "year": 2025,
+        "authors": [
+          "Dengyang Jiang",
+          "Mengmeng Wang",
+          "Teli Ma",
+          "Hengzhuang Li",
+          "Yong Liu",
+          "Guang Dai",
+          "Lei Zhang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "li2023locate",
+      "raw": {
+        "title": "Locate: Localize and transfer object parts for weakly supervised affordance grounding",
+        "authors": [
+          "Li, Gen",
+          "Jampani, Varun",
+          "Sun, Deqing",
+          "Sevilla-Lara, Laura"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/c670dd169ba2a9b56db11113d8763a2eecb1811d",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "LOCATE: Localize and Transfer Object Parts for Weakly Supervised Affordance Grounding",
+        "year": 2023,
+        "authors": [
+          "Gen Li",
+          "Varun Jampani",
+          "Deqing Sun",
+          "Laura Sevilla-Lara"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "chen2024worldafford",
+      "raw": {
+        "title": "Worldafford: Affordance grounding based on natural language instructions",
+        "authors": [
+          "Chen, Changmao",
+          "Cong, Yuren",
+          "Kan, Zhen"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "not_found",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "wang2025reasoning",
+      "raw": {
+        "title": "Reasoning Mamba: Hypergraph-Guided Region Relation Calculating for Weakly Supervised Affordance Grounding",
+        "authors": [
+          "Wang, Yuxuan",
+          "Wu, Aming",
+          "Yang, Muli",
+          "Min, Yukuan",
+          "Zhu, Yihang",
+          "Deng, Cheng"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/33c2aa1ccbcd145f2177f4d0a57b0e661a784d11",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Reasoning Mamba: Hypergraph-Guided Region Relation Calculating for Weakly Supervised Affordance Grounding",
+        "year": 2025,
+        "authors": [
+          "Yuxuan Wang",
+          "Aming Wu",
+          "Muli Yang",
+          "Yu Min",
+          "Yihang Zhu",
+          "Cheng Deng"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "moon2025selective",
+      "raw": {
+        "title": "Selective Contrastive Learning for Weakly Supervised Affordance Grounding",
+        "authors": [
+          "Moon, WonJun",
+          "Seong, Hyun Seok",
+          "Heo, Jae-Pil"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/5136aef4e1c310a99b3271edc962d2edb7f555ba",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Selective Contrastive Learning for Weakly Supervised Affordance Grounding",
+        "year": 2025,
+        "authors": [
+          "WonJun Moon",
+          "Hyun Seok Seong",
+          "Jae-pil Heo"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "yang2023grounding3dobjectaffordance",
+      "raw": {
+        "title": "Grounding 3D Object Affordance from 2D Interactions in Images",
+        "authors": [
+          "Yuhang Yang",
+          "Wei Zhai",
+          "Hongchen Luo",
+          "Yang Cao",
+          "Jiebo Luo",
+          "Zheng-Jun Zha"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": "2303.10437"
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/6c33123180ba3570e4d3770c5d050afd4553d7d0",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Grounding 3D Object Affordance from 2D Interactions in Images",
+        "year": 2023,
+        "authors": [
+          "Yuhang Yang",
+          "Wei Zhai",
+          "Hongcheng Luo",
+          "Yang Cao",
+          "Jiebo Luo",
+          "Zhengjun Zha"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "wu2023learning",
+      "raw": {
+        "title": "Learning generalizable dexterous manipulation from human grasp affordance",
+        "authors": [
+          "Wu, Yueh-Hua",
+          "Wang, Jiashun",
+          "Wang, Xiaolong"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/3d5caf82df5eda0b872dd2e64be4a821f8fcbe23",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Learning Generalizable Dexterous Manipulation from Human Grasp Affordance",
+        "year": 2022,
+        "authors": [
+          "Yueh-Hua Wu",
+          "Jiashun Wang",
+          "Xiaolong Wang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "zhao2025towards",
+      "raw": {
+        "title": "Towards affordance-aware robotic dexterous grasping with human-like priors",
+        "authors": [
+          "Zhao, Haoyu",
+          "Zhuang, Linghao",
+          "Zhao, Xingyue",
+          "Zeng, Cheng",
+          "Xu, Haoran",
+          "Jiang, Yuming",
+          "Cen, Jun",
+          "Wang, Kexiang",
+          "Guo, Jiayan",
+          "Huang, Siteng",
+          "others"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/417b52cb5d09973532db22078b5a51275001541a",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Towards Affordance-Aware Robotic Dexterous Grasping with Human-like Priors",
+        "year": 2025,
+        "authors": [
+          "Haoyu Zhao",
+          "Linghao Zhuang",
+          "Xingyue Zhao",
+          "Cheng Zeng",
+          "Haoran Xu",
+          "Yuming Jiang",
+          "Jun Cen",
+          "Kexiang Wang",
+          "Jiayan Guo",
+          "Siteng Huang",
+          "Xin Li",
+          "Deli Zhao",
+          "Hua Zou"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "ma2025glover++",
+      "raw": {
+        "title": "GLOVER++: Unleashing the Potential of Affordance Learning from Human Behaviors for Robotic Manipulation",
+        "authors": [
+          "Ma, Teli",
+          "Zheng, Jia",
+          "Wang, Zifan",
+          "Gao, Ziyao",
+          "Zhou, Jiaming",
+          "Liang, Junwei"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/c4f51e5101e4fff10694dc1797fd2f5e5210123a",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "GLOVER++: Unleashing the Potential of Affordance Learning from Human Behaviors for Robotic Manipulation",
+        "year": 2025,
+        "authors": [
+          "Teli Ma",
+          "Jia Zheng",
+          "Zifan Wang",
+          "Ziyao Gao",
+          "Jiaming Zhou",
+          "Junwei Liang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "yang2024lemon",
+      "raw": {
+        "title": "Lemon: Learning 3d human-object interaction relation from 2d images",
+        "authors": [
+          "Yang, Yuhang",
+          "Zhai, Wei",
+          "Luo, Hongchen",
+          "Cao, Yang",
+          "Zha, Zheng-Jun"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/df1472ff0852a716e7d47aef951cc55f3dc60a23",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "LEMON: Learning 3D Human-Object Interaction Relation from 2D Images",
+        "year": 2023,
+        "authors": [
+          "Yuhang Yang",
+          "Wei Zhai",
+          "Hongcheng Luo",
+          "Yang Cao",
+          "Zheng-Jun Zha"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "fang2018demo2vec",
+      "raw": {
+        "title": "Demo2vec: Reasoning object affordances from online videos",
+        "authors": [
+          "Fang, Kuan",
+          "Wu, Te-Lin",
+          "Yang, Daniel",
+          "Savarese, Silvio",
+          "Lim, Joseph J"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/4c0d3055decc8a6433918920127512e0fcbc06f0",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Demo2Vec: Reasoning Object Affordances from Online Videos",
+        "year": 2018,
+        "authors": [
+          "Kuan Fang",
+          "Te-Lin Wu",
+          "Daniel Yang",
+          "S. Savarese",
+          "Joseph J. Lim"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "heidinger20252handedafforder",
+      "raw": {
+        "title": "2handedafforder: Learning precise actionable bimanual affordances from human videos",
+        "authors": [
+          "Heidinger, Marvin",
+          "Jauhri, Snehal",
+          "Prasad, Vignesh",
+          "Chalvatzaki, Georgia"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/047564f83beda41227febac15d0046111556f0f3",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "2HandedAfforder: Learning Precise Actionable Bimanual Affordances from Human Videos",
+        "year": 2025,
+        "authors": [
+          "M. Heidinger",
+          "Snehal Jauhri",
+          "Vignesh Prasad",
+          "Georgia Chalvatzaki"
+        ]
+      },
+      "title_similarity": 0.9940119760479043,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "liu2024grounding",
+      "raw": {
+        "title": "Grounding 3d scene affordance from egocentric interactions",
+        "authors": [
+          "Liu, Cuiyu",
+          "Zhai, Wei",
+          "Yang, Yuhang",
+          "Luo, Hongchen",
+          "Liang, Sen",
+          "Cao, Yang",
+          "Zha, Zheng-Jun"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/78957cd4008259d72e1a08ec48afe07a8e0513fd",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Grounding 3D Scene Affordance From Egocentric Interactions",
+        "year": 2024,
+        "authors": [
+          "Cuiyu Liu",
+          "Wei Zhai",
+          "Yuhang Yang",
+          "Hongcheng Luo",
+          "Sen Liang",
+          "Yang Cao",
+          "Zhengjun Zha"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "liu2025hoigen",
+      "raw": {
+        "title": "Hoigen-1m: A large-scale dataset for human-object interaction video generation",
+        "authors": [
+          "Liu, Kun",
+          "Liu, Qi",
+          "Liu, Xinchen",
+          "Li, Jie",
+          "Zhang, Yongdong",
+          "Luo, Jiebo",
+          "He, Xiaodong",
+          "Liu, Wu"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/0a9b0eeb6e6cb1bfa3f4cc74f95010ca384dcc41",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "HOIGen-1M: A Large-scale Dataset for Human-Object Interaction Video Generation",
+        "year": 2025,
+        "authors": [
+          "Kun Liu",
+          "Qi Li",
+          "Xinchen Liu",
+          "Jie Li",
+          "Yongdong Zhang",
+          "Jiebo Luo",
+          "Xiaodong He",
+          "Wu Liu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "zhao2025taste",
+      "raw": {
+        "title": "TASTE-Rob: Advancing video generation of task-oriented hand-object interaction for generalizable robotic manipulation",
+        "authors": [
+          "Zhao, Hongxiang",
+          "Liu, Xingchen",
+          "Xu, Mutian",
+          "Hao, Yiming",
+          "Chen, Weikai",
+          "Han, Xiaoguang"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/a20a791f7d7f2a17e52a12a524396ab8036772c3",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "TASTE-Rob: Advancing Video Generation of Task-Oriented Hand-Object Interaction for Generalizable Robotic Manipulation",
+        "year": 2025,
+        "authors": [
+          "Hongxia Zhao",
+          "Xingchen Liu",
+          "Mutian Xu",
+          "Yiming Hao",
+          "Weikai Chen",
+          "Xiaoguang Han"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "9981900",
+      "raw": {
+        "title": "Learning 6-DoF Task-oriented Grasp Detection via Implicit Estimation and Visual Affordance",
+        "authors": [
+          "Chen, Wenkai",
+          "Liang, Hongzhuo",
+          "Chen, Zhaopeng",
+          "Sun, Fuchun",
+          "Zhang, Jianwei"
+        ],
+        "year": 2022,
+        "doi": "10.1109/IROS47612.2022.9981900",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4313003756",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Learning 6-DoF Task-oriented Grasp Detection via Implicit Estimation and Visual Affordance",
+        "year": 2022,
+        "authors": [
+          "Wenkai Chen",
+          "Hongzhuo Liang",
+          "Zhaopeng Chen",
+          "Fuchun Sun",
+          "Jianwei Zhang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "wu2025garmentpile",
+      "raw": {
+        "title": "GarmentPile: Point-Level Visual Affordance Guided Retrieval and Adaptation for Cluttered Garments Manipulation",
+        "authors": [
+          "Wu, Ruihai",
+          "Zhu, Ziyu",
+          "Wang, Yuran",
+          "Chen, Yue",
+          "Wang, Jiarui",
+          "Dong, Hao"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/5d688d8d28b2a4706a838833a4c6ce97e25e027e",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "GarmentPile: Point-Level Visual Affordance Guided Retrieval and Adaptation for Cluttered Garments Manipulation",
+        "year": 2025,
+        "authors": [
+          "Ruihai Wu",
+          "Ziyu Zhu",
+          "Yuran Wang",
+          "Yue Chen",
+          "Jiarui Wang",
+          "Hao Dong"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "xu2024naturalvlm",
+      "raw": {
+        "title": "Naturalvlm: Leveraging fine-grained natural language for affordance-guided visual manipulation",
+        "authors": [
+          "Xu, Ran",
+          "Shen, Yan",
+          "Li, Xiaoqi",
+          "Wu, Ruihai",
+          "Dong, Hao"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/1cd15db8b2c8e5b690ef1d2c2bc9aa4ee60267a4",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "NaturalVLM: Leveraging Fine-Grained Natural Language for Affordance-Guided Visual Manipulation",
+        "year": 2024,
+        "authors": [
+          "Ran Xu",
+          "Yan Shen",
+          "Xiaoqi Li",
+          "Ruihai Wu",
+          "Hao Dong"
+        ]
+      },
+      "title_similarity": 0.970414201183432,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "achiam2023gpt",
+      "raw": {
+        "title": "Gpt-4 technical report",
+        "authors": [
+          "Achiam, Josh",
+          "Adler, Steven",
+          "Agarwal, Sandhini",
+          "Ahmad, Lama",
+          "Akkaya, Ilge",
+          "Aleman, Florencia Leoni",
+          "Almeida, Diogo",
+          "Altenschmidt, Janko",
+          "Altman, Sam",
+          "Anadkat, Shyamal",
+          "others"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/163b4d6a79a5b19af88b8585456363340d9efd04",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "GPT-4 Technical Report",
+        "year": 2023,
+        "authors": [
+          "OpenAI Josh Achiam",
+          "Steven Adler",
+          "S. Agarwal",
+          "L. Ahmad",
+          "Ilge Akkaya",
+          "Florencia Leoni Aleman",
+          "D. Almeida",
+          "Janko Altenschmidt",
+          "S. Altman",
+          "Shyamal Anadkat",
+          "Red Avila",
+          "Igor Babuschkin",
+          "S. Balaji",
+          "Valerie Balcom",
+          "Paul Baltescu",
+          "Haim-ing Bao",
+          "Mo Bavarian",
+          "Jeff Belgum",
+          "Irwan Bello",
+          "Jake Berdine",
+          "Gabriel Bernadett-Shapiro",
+          "Christopher Berner",
+          "Lenny Bogdonoff",
+          "O. Boiko",
+          "Made-laine Boyd",
+          "Anna-Luisa Brakman",
+          "Greg Brockman",
+          "Tim Brooks",
+          "Miles Brundage",
+          "Kevin Button",
+          "Trevor Cai",
+          "Rosie Campbell",
+          "Andrew Cann",
+          "Brittany Carey",
+          "Chelsea Carlson",
+          "Rory Carmichael",
+          "Brooke Chan",
+          "Che Chang",
+          "Fotis Chantzis",
+          "Derek Chen",
+          "Sully Chen",
+          "Ruby Chen",
+          "Jason Chen",
+          "Mark Chen",
+          "Benjamin Chess",
+          "Chester Cho",
+          "Casey Chu",
+          "Hyung Won Chung",
+          "Dave Cummings",
+          "Jeremiah Currier",
+          "Yunxing Dai",
+          "Cory Decareaux",
+          "Thomas Degry",
+          "Noah Deutsch",
+          "Damien Deville",
+          "Arka Dhar",
+          "David Dohan",
+          "Steve Dowling",
+          "Sheila Dunning",
+          "Adrien Ecoffet",
+          "Atty Eleti",
+          "Tyna Eloundou",
+          "David Farhi",
+          "L. Fedus",
+          "Niko Felix",
+          "S. Fishman",
+          "Juston Forte",
+          "Is-abella Fulford",
+          "Leo Gao",
+          "Elie Georges",
+          "C. Gibson",
+          "Vik Goel",
+          "Tarun Gogineni",
+          "Gabriel Goh",
+          "Raphael Gontijo-Lopes",
+          "J. Gordon",
+          "Morgan Grafstein",
+          "Scott Gray",
+          "Ryan Greene",
+          "Joshua Gross",
+          "S. Gu",
+          "Yufei Guo",
+          "Chris Hallacy",
+          "Jesse Han",
+          "J. Harris",
+          "Yuchen He",
+          "Mike Heaton",
+          "Johannes Heidecke",
+          "Chris Hesse",
+          "Alan Hickey",
+          "W. Hickey",
+          "P. Hoeschele",
+          "Brandon Houghton",
+          "Kenny Hsu",
+          "Shengli Hu",
+          "Xin Hu",
+          "Joost Huizinga",
+          "Shantanu Jain",
+          "Shawn Jain",
+          "Joanne Jang",
+          "Angela Jiang",
+          "R. Jiang",
+          "Haozhun Jin",
+          "Denny Jin",
+          "Shino Jomoto",
+          "Billie Jonn",
+          "Heewoo Jun",
+          "Tomer Kaftan",
+          "Lukasz Kaiser",
+          "Ali Kamali",
+          "I. Kanitscheider",
+          "N. Keskar",
+          "Tabarak Khan",
+          "Logan Kilpatrick",
+          "Jong Wook Kim",
+          "Christina Kim",
+          "Yongjik Kim",
+          "Hendrik Kirchner",
+          "J. Kiros",
+          "Matthew Knight",
+          "Daniel Kokotajlo",
+          "Lukasz Kondraciuk",
+          "Andrew Kondrich",
+          "Aris Konstantinidis",
+          "Kyle Kosic",
+          "Gretchen Krueger",
+          "Vishal Kuo",
+          "Michael Lampe",
+          "Ikai Lan",
+          "Teddy Lee",
+          "Jan Leike",
+          "Jade Leung",
+          "Daniel Levy",
+          "Chak Li",
+          "Rachel Lim",
+          "Molly Lin",
+          "Stephanie L. Lin",
+          "Ma-teusz Litwin",
+          "Theresa Lopez",
+          "Ryan Lowe",
+          "Patricia Lue",
+          "A. Makanju",
+          "Kim Malfacini",
+          "Sam Manning",
+          "Todor Markov",
+          "Yaniv Markovski",
+          "Bianca Martin",
+          "Katie Mayer",
+          "Andrew Mayne",
+          "Bob McGrew",
+          "S. McKinney",
+          "Christine McLeavey",
+          "Paul McMillan",
+          "Jake McNeil",
+          "David Medina",
+          "Aalok Mehta",
+          "Jacob Menick",
+          "Luke Metz",
+          "Andrey Mishchenko",
+          "Pamela Mishkin",
+          "Vinnie Monaco",
+          "Evan Morikawa",
+          "Daniel P. Mossing",
+          "Tong Mu",
+          "M. Murati",
+          "O. Murk",
+          "David M'ely",
+          "Ashvin Nair",
+          "Reiichiro Nakano",
+          "Rajeev Nayak",
+          "Arvind Neelakantan",
+          "R. Ngo",
+          "Hyeonwoo Noh",
+          "Ouyang Long",
+          "Cullen O'Keefe",
+          "J. Pachocki",
+          "A. Paino",
+          "Joe Palermo",
+          "Ashley Pantuliano",
+          "Giambattista Parascandolo",
+          "J. Parish",
+          "Emy Parparita",
+          "Alexandre Passos",
+          "Mikhail Pavlov",
+          "Andrew Peng",
+          "Adam Perelman",
+          "Filipe de Avila Belbute Peres",
+          "Michael Petrov",
+          "Henrique Pondé de Oliveira Pinto",
+          "Michael Pokorny",
+          "Michelle Pokrass",
+          "Vitchyr H. Pong",
+          "Tolly Powell",
+          "Alethea Power",
+          "Boris Power",
+          "Elizabeth Proehl",
+          "Raul Puri",
+          "Alec Radford",
+          "Jack W. Rae",
+          "Aditya Ramesh",
+          "Cameron Raymond",
+          "F. Real",
+          "Kendra Rimbach",
+          "Carl Ross",
+          "Bob Rotsted",
+          "Henri Roussez",
+          "N. Ryder",
+          "M. Saltarelli",
+          "Ted Sanders",
+          "Shibani Santurkar",
+          "G. Sastry",
+          "Heather Schmidt",
+          "David Schnurr",
+          "John Schulman",
+          "Daniel Selsam",
+          "Kyla Sheppard",
+          "T. Sherbakov",
+          "Jessica Shieh",
+          "S. Shoker",
+          "Pranav Shyam",
+          "Szymon Sidor",
+          "Eric Sigler",
+          "M. Simens",
+          "Jordan Sitkin",
+          "Katarina Slama",
+          "Ian Sohl",
+          "Benjamin Sokolowsky",
+          "Yang Song",
+          "N. Staudacher",
+          "F. Such",
+          "Natalie Summers",
+          "I. Sutskever",
+          "Jie Tang",
+          "N. Tezak",
+          "Madeleine Thompson",
+          "P. Tillet",
+          "Amin Tootoonchian",
+          "Elizabeth Tseng",
+          "Preston Tuggle",
+          "Nick Turley",
+          "Jerry Tworek",
+          "Juan Felipe Cer'on Uribe",
+          "Andrea Vallone",
+          "Arun Vijayvergiya",
+          "Chelsea Voss",
+          "Carroll L. Wainwright",
+          "Justin Wang",
+          "Alvin Wang",
+          "Ben Wang",
+          "Jonathan Ward",
+          "Jason Wei",
+          "CJ Weinmann",
+          "Akila Welihinda",
+          "Peter Welinder",
+          "Jiayi Weng",
+          "Lilian Weng",
+          "Matt Wiethoff",
+          "Dave Willner",
+          "Clemens Winter",
+          "Samuel Wolrich",
+          "Hannah Wong",
+          "Lauren Workman",
+          "Sherwin Wu",
+          "Jeff Wu",
+          "Michael Wu",
+          "Kai Xiao",
+          "Tao Xu",
+          "Sarah Yoo",
+          "Kevin Yu",
+          "Qim-ing Yuan",
+          "Wojciech Zaremba",
+          "Rowan Zellers",
+          "Chong Zhang",
+          "Marvin Zhang",
+          "Shengjia Zhao",
+          "Tianhao Zheng",
+          "Juntang Zhuang",
+          "William Zhuk",
+          "Barret Zoph"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "yang2025qwen3",
+      "raw": {
+        "title": "Qwen3 technical report",
+        "authors": [
+          "Yang, An",
+          "Li, Anfeng",
+          "Yang, Baosong",
+          "Zhang, Beichen",
+          "Hui, Binyuan",
+          "Zheng, Bo",
+          "Yu, Bowen",
+          "Gao, Chang",
+          "Huang, Chengen",
+          "Lv, Chenxu",
+          "others"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/d2d84d56f730f81d276a02b48d5d44db5bde0b4a",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Qwen3 Technical Report",
+        "year": 2025,
+        "authors": [
+          "An Yang",
+          "Anfeng Li",
+          "Baosong Yang",
+          "Beichen Zhang",
+          "Binyuan Hui",
+          "Bo Zheng",
+          "Bowen Yu",
+          "Chang Gao",
+          "Chengen Huang",
+          "Chenxu Lv",
+          "Chujie Zheng",
+          "Dayiheng Liu",
+          "Fan Zhou",
+          "Fei Huang",
+          "Feng Hu",
+          "Hao Ge",
+          "Haoran Wei",
+          "Huan Lin",
+          "Jialong Tang",
+          "Jian Yang",
+          "Jianhong Tu",
+          "Jianwei Zhang",
+          "Jianxin Yang",
+          "Jiaxin Yang",
+          "Jingren Zhou",
+          "Jingren Zhou",
+          "Junyan Lin",
+          "K. Dang",
+          "Keqin Bao",
+          "Ke‐Pei Yang",
+          "Le Yu",
+          "Li-Chun Deng",
+          "Mei Li",
+          "Min Xue",
+          "Mingze Li",
+          "Pei Zhang",
+          "Peng Wang",
+          "Qin Zhu",
+          "Rui Men",
+          "Ruize Gao",
+          "Shi-Qiang Liu",
+          "Shuang Luo",
+          "Tianhao Li",
+          "Tianyi Tang",
+          "Wenbiao Yin",
+          "Xingzhang Ren",
+          "Xinyu Wang",
+          "Xinyu Zhang",
+          "Xuancheng Ren",
+          "Yang Fan",
+          "Yang Su",
+          "Yi-Chao Zhang",
+          "Yinger Zhang",
+          "Yu Wan",
+          "Yuqiong Liu",
+          "Zekun Wang",
+          "Zeyu Cui",
+          "Zhenru Zhang",
+          "Zhipeng Zhou",
+          "Zihan Qiu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "zhu2023minigpt",
+      "raw": {
+        "title": "Minigpt-4: Enhancing vision-language understanding with advanced large language models",
+        "authors": [
+          "Zhu, Deyao",
+          "Chen, Jun",
+          "Shen, Xiaoqian",
+          "Li, Xiang",
+          "Elhoseiny, Mohamed"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/ca6a2bc279be5a3349a22bfd6866ed633d18734b",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models",
+        "year": 2023,
+        "authors": [
+          "Deyao Zhu",
+          "Jun Chen",
+          "Xiaoqian Shen",
+          "Xiang Li",
+          "Mohamed Elhoseiny"
+        ]
+      },
+      "title_similarity": 0.9479768786127167,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "xu2024pointllm",
+      "raw": {
+        "title": "Pointllm: Empowering large language models to understand point clouds",
+        "authors": [
+          "Xu, Runsen",
+          "Wang, Xiaolong",
+          "Wang, Tai",
+          "Chen, Yilun",
+          "Pang, Jiangmiao",
+          "Lin, Dahua"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/6bcc6ab9c28805d4067e99b2cdc7524550fe80e1",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "PointLLM: Empowering Large Language Models to Understand Point Clouds",
+        "year": 2023,
+        "authors": [
+          "Runsen Xu",
+          "Xiaolong Wang",
+          "Tai Wang",
+          "Yilun Chen",
+          "Jiangmiao Pang",
+          "Dahua Lin"
+        ]
+      },
+      "title_similarity": 0.9624060150375939,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "qi2024shapellm",
+      "raw": {
+        "title": "Shapellm: Universal 3d object understanding for embodied interaction",
+        "authors": [
+          "Qi, Zekun",
+          "Dong, Runpei",
+          "Zhang, Shaochen",
+          "Geng, Haoran",
+          "Han, Chunrui",
+          "Ge, Zheng",
+          "Yi, Li",
+          "Ma, Kaisheng"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/74c68aed85f2fe8019113bbdb533fcba7e3ce0bd",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "ShapeLLM: Universal 3D Object Understanding for Embodied Interaction",
+        "year": 2024,
+        "authors": [
+          "Zekun Qi",
+          "Runpei Dong",
+          "Shaochen Zhang",
+          "Haoran Geng",
+          "Chunrui Han",
+          "Zheng Ge",
+          "Li Yi",
+          "Kaisheng Ma"
+        ]
+      },
+      "title_similarity": 0.9343065693430657,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "hong20233d",
+      "raw": {
+        "title": "3d-llm: Injecting the 3d world into large language models",
+        "authors": [
+          "Hong, Yining",
+          "Zhen, Haoyu",
+          "Chen, Peihao",
+          "Zheng, Shuhong",
+          "Du, Yilun",
+          "Chen, Zhenfang",
+          "Gan, Chuang"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/7637ed79d30d0139901175ae4abedd822c217ab4",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "3D-LLM: Injecting the 3D World into Large Language Models",
+        "year": 2023,
+        "authors": [
+          "Yining Hong",
+          "Haoyu Zhen",
+          "Peihao Chen",
+          "Shuhong Zheng",
+          "Yilun Du",
+          "Zhenfang Chen",
+          "Chuang Gan"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "yu2022point",
+      "raw": {
+        "title": "Point-bert: Pre-training 3d point cloud transformers with masked point modeling",
+        "authors": [
+          "Yu, Xumin",
+          "Tang, Lulu",
+          "Rao, Yongming",
+          "Huang, Tiejun",
+          "Zhou, Jie",
+          "Lu, Jiwen"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/dd2819016c6bf244c39b3e6707b60389bbdbcd21",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Point-BERT: Pre-training 3D Point Cloud Transformers with Masked Point Modeling",
+        "year": 2021,
+        "authors": [
+          "Xumin Yu",
+          "Lulu Tang",
+          "Yongming Rao",
+          "Tiejun Huang",
+          "Jie Zhou",
+          "Jiwen Lu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "lin2023video",
+      "raw": {
+        "title": "Video-llava: Learning united visual representation by alignment before projection",
+        "authors": [
+          "Lin, Bin",
+          "Ye, Yang",
+          "Zhu, Bin",
+          "Cui, Jiaxi",
+          "Ning, Munan",
+          "Jin, Peng",
+          "Yuan, Li"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/107fb6eec2febbae12db29bf3e311aaf5680027c",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Video-LLaVA: Learning United Visual Representation by Alignment Before Projection",
+        "year": 2023,
+        "authors": [
+          "Bin Lin",
+          "Bin Zhu",
+          "Yang Ye",
+          "Munan Ning",
+          "Peng Jin",
+          "Li Yuan"
+        ]
+      },
+      "title_similarity": 0.9570552147239263,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "lai2024lisa",
+      "raw": {
+        "title": "Lisa: Reasoning segmentation via large language model",
+        "authors": [
+          "Lai, Xin",
+          "Tian, Zhuotao",
+          "Chen, Yukang",
+          "Li, Yanwei",
+          "Yuan, Yuhui",
+          "Liu, Shu",
+          "Jia, Jiaya"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/ad113d8b6f8f6dace7abd12dc88af520aaaf3fc7",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "LISA: Reasoning Segmentation via Large Language Model",
+        "year": 2023,
+        "authors": [
+          "Xin Lai",
+          "Zhuotao Tian",
+          "Yukang Chen",
+          "Yanwei Li",
+          "Yuhui Yuan",
+          "Shu Liu",
+          "Jiaya Jia"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "lobo2008auc",
+      "raw": {
+        "title": "AUC: a misleading measure of the performance of predictive distribution models",
+        "authors": [
+          "Lobo, Jorge M",
+          "Jim{\\'e}nez-Valverde, Alberto",
+          "Real, Raimundo"
+        ],
+        "year": 2008,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/946cedb78c6dfaa1c6a53e24da8989e455da005a",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "AUC: a misleading measure of the performance of predictive distribution models",
+        "year": 2008,
+        "authors": [
+          "J. Lobo",
+          "A. Jiménez‐Valverde",
+          "R. Real"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "rahman2016optimizing",
+      "raw": {
+        "title": "Optimizing intersection-over-union in deep neural networks for image segmentation",
+        "authors": [
+          "Rahman, Md Atiqur",
+          "Wang, Yang"
+        ],
+        "year": 2016,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/64dc671107cfdf98e02e76cbc993732d47210549",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Optimizing Intersection-Over-Union in Deep Neural Networks for Image Segmentation",
+        "year": 2016,
+        "authors": [
+          "Md.Atiqur Rahman",
+          "Yang Wang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "swain1991color",
+      "raw": {
+        "title": "Color indexing",
+        "authors": [
+          "Swain, Michael J",
+          "Ballard, Dana H"
+        ],
+        "year": 1991,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/5b1e1696564e5a3021ac3a501c9deeb6c0fbc637",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Color indexing",
+        "year": 1991,
+        "authors": [
+          "M. Swain",
+          "D. Ballard"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "willmott2005advantages",
+      "raw": {
+        "title": "Advantages of the mean absolute error (MAE) over the root mean square error (RMSE) in assessing average model performance",
+        "authors": [
+          "Willmott, Cort J",
+          "Matsuura, Kenji"
+        ],
+        "year": 2005,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/581d0024eccf55493dd7d63554063a683bef6103",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Advantages of the mean absolute error (MAE) over the root mean square error (RMSE) in assessing average model performance",
+        "year": 2005,
+        "authors": [
+          "C. Willmott",
+          "K. Matsuura"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "touvron2023llama",
+      "raw": {
+        "title": "Llama: Open and efficient foundation language models",
+        "authors": [
+          "Touvron, Hugo",
+          "Lavril, Thibaut",
+          "Izacard, Gautier",
+          "Martinet, Xavier",
+          "Lachaux, Marie-Anne",
+          "Lacroix, Timoth{\\'e}e",
+          "Rozi{\\`e}re, Baptiste",
+          "Goyal, Naman",
+          "Hambro, Eric",
+          "Azhar, Faisal",
+          "others"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/57e849d0de13ed5f91d086936296721d4ff75a75",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "LLaMA: Open and Efficient Foundation Language Models",
+        "year": 2023,
+        "authors": [
+          "Hugo Touvron",
+          "Thibaut Lavril",
+          "Gautier Izacard",
+          "X. Martinet",
+          "M. Lachaux",
+          "Timothée Lacroix",
+          "Baptiste Rozière",
+          "Naman Goyal",
+          "Eric Hambro",
+          "Faisal Azhar",
+          "Aur'elien Rodriguez",
+          "Armand Joulin",
+          "Edouard Grave",
+          "Guillaume Lample"
+        ]
+      },
+      "title_similarity": 0.9904761904761905,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "zhu2023languagebind",
+      "raw": {
+        "title": "Languagebind: Extending video-language pretraining to n-modality by language-based semantic alignment",
+        "authors": [
+          "Zhu, Bin",
+          "Lin, Bin",
+          "Ning, Munan",
+          "Yan, Yang",
+          "Cui, Jiaxi",
+          "Wang, HongFa",
+          "Pang, Yatian",
+          "Jiang, Wenhao",
+          "Zhang, Junwu",
+          "Li, Zongwei",
+          "others"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/8eb99f1ed884356871ddbcf1377b82359071906a",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "LanguageBind: Extending Video-Language Pretraining to N-modality by Language-based Semantic Alignment",
+        "year": 2023,
+        "authors": [
+          "Bin Zhu",
+          "Bin Lin",
+          "Munan Ning",
+          "Yang Yan",
+          "Jiaxi Cui",
+          "Hongfa Wang",
+          "Yatian Pang",
+          "Wenhao Jiang",
+          "Junwu Zhang",
+          "Zong-Rui Li",
+          "Wancai Zhang",
+          "Zhifeng Li",
+          "Wei Liu",
+          "Liejie Yuan"
+        ]
+      },
+      "title_similarity": 0.9458128078817734,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "zhang2023uni3d",
+      "raw": {
+        "title": "Uni3d: A unified baseline for multi-dataset 3d object detection",
+        "authors": [
+          "Zhang, Bo",
+          "Yuan, Jiakang",
+          "Shi, Botian",
+          "Chen, Tao",
+          "Li, Yikang",
+          "Qiao, Yu"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/dac0605e837764f6ac612fe69dd2ad43f4624966",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Uni3D: A Unified Baseline for Multi-Dataset 3D Object Detection",
+        "year": 2023,
+        "authors": [
+          "Bo Zhang",
+          "Jiakang Yuan",
+          "Botian Shi",
+          "Tao Chen",
+          "Yikang Li",
+          "Y. Qiao"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "liu2025stamo",
+      "raw": {
+        "title": "StaMo: Unsupervised Learning of Generalizable Robot Motion from Compact State Representation",
+        "authors": [
+          "Liu, Mingyu",
+          "Shu, Jiuhe",
+          "Chen, Hui",
+          "Li, Zeju",
+          "Zhao, Canyu",
+          "Yang, Jiange",
+          "Gao, Shenyuan",
+          "Chen, Hao",
+          "Shen, Chunhua"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/6a0c8d12cfb104722232f1011b07dbef4531d08c",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "StaMo: Unsupervised Learning of Generalizable Robot Motion from Compact State Representation",
+        "year": 2025,
+        "authors": [
+          "Mingyu Liu",
+          "Jiuhe Shu",
+          "Hui Chen",
+          "Zeju Li",
+          "Canyu Zhao",
+          "Jiange Yang",
+          "Shenyuan Gao",
+          "Hao Chen",
+          "Chunhua Shen"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "hu2021lora",
+      "raw": {
+        "title": "Lora: Low-rank adaptation of large language models",
+        "authors": [
+          "Hu, Edward J",
+          "Shen, Yelong",
+          "Wallis, Phillip",
+          "Allen-Zhu, Zeyuan",
+          "Li, Yuanzhi",
+          "Wang, Shean",
+          "Wang, Lu",
+          "Chen, Weizhu"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/a8ca46b171467ceb2d7652fbfb67fe701ad86092",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "LoRA: Low-Rank Adaptation of Large Language Models",
+        "year": 2021,
+        "authors": [
+          "J. Hu",
+          "Yelong Shen",
+          "Phillip Wallis",
+          "Zeyuan Allen-Zhu",
+          "Yuanzhi Li",
+          "Shean Wang",
+          "Weizhu Chen"
+        ]
+      },
+      "title_similarity": 0.9900990099009901,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "loshchilov2017decoupled",
+      "raw": {
+        "title": "Decoupled weight decay regularization",
+        "authors": [
+          "Loshchilov, I"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/d07284a6811f1b2745d91bdb06b040b57f226882",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Decoupled Weight Decay Regularization",
+        "year": 2017,
+        "authors": [
+          "I. Loshchilov",
+          "F. Hutter"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "dao2022flashattention",
+      "raw": {
+        "title": "Flashattention: Fast and memory-efficient exact attention with io-awareness",
+        "authors": [
+          "Dao, Tri",
+          "Fu, Dan",
+          "Ermon, Stefano",
+          "Rudra, Atri",
+          "R{\\'e}, Christopher"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/87c5b281fa43e6f27191b20a8dd694eda1126336",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness",
+        "year": 2022,
+        "authors": [
+          "Tri Dao",
+          "Daniel Y. Fu",
+          "Stefano Ermon",
+          "A. Rudra",
+          "Christopher R'e"
+        ]
+      },
+      "title_similarity": 0.9271523178807947,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "wang2025partnext",
+      "raw": {
+        "title": "PartNeXt: A Next-Generation Dataset for Fine-Grained and Hierarchical 3D Part Understanding",
+        "authors": [
+          "Wang, Penghao",
+          "He, Yiyang",
+          "Lv, Xin",
+          "Zhou, Yukai",
+          "Xu, Lan",
+          "Yu, Jingyi",
+          "Gu, Jiayuan"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/f1df4e75112f23236afd9e055671fe88b098fea6",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "PartNeXt: A Next-Generation Dataset for Fine-Grained and Hierarchical 3D Part Understanding",
+        "year": 2025,
+        "authors": [
+          "Penghao Wang",
+          "Yi He",
+          "Xin Lv",
+          "Yukai Zhou",
+          "Lan Xu",
+          "Jingyi Yu",
+          "Jiayuan Gu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "zhou2024point",
+      "raw": {
+        "title": "Point-sam: Promptable 3d segmentation model for point clouds",
+        "authors": [
+          "Zhou, Yuchen",
+          "Gu, Jiayuan",
+          "Chiang, Tung Yen",
+          "Xiang, Fanbo",
+          "Su, Hao"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/cd7e6b41486bb1addcfae0354ad3a47ab8bdc126",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Point-SAM: Promptable 3D Segmentation Model for Point Clouds",
+        "year": 2024,
+        "authors": [
+          "Yuchen Zhou",
+          "Jiayuan Gu",
+          "Tung Yen Chiang",
+          "Fanbo Xiang",
+          "Hao Su"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "yang2024sampart3d",
+      "raw": {
+        "title": "Sampart3d: Segment any part in 3d objects",
+        "authors": [
+          "Yang, Yunhan",
+          "Huang, Yukun",
+          "Guo, Yuan-Chen",
+          "Lu, Liangjun",
+          "Wu, Xiaoyang",
+          "Lam, Edmund Y",
+          "Cao, Yan-Pei",
+          "Liu, Xihui"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/8bbaea34567e3693653335ce0f70068b3a977c92",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "SAMPart3D: Segment Any Part in 3D Objects",
+        "year": 2024,
+        "authors": [
+          "Yu-nuo Yang",
+          "Yukun Huang",
+          "Yuan-Chen Guo",
+          "Liangjun Lu",
+          "Xiaoyang Wu",
+          "Edmund Y. Lam",
+          "Yan-Pei Cao",
+          "Xihui Liu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "qu2025spatialvla",
+      "raw": {
+        "title": "Spatialvla: Exploring spatial representations for visual-language-action model",
+        "authors": [
+          "Qu, Delin",
+          "Song, Haoming",
+          "Chen, Qizhi",
+          "Yao, Yuanqi",
+          "Ye, Xinyi",
+          "Ding, Yan",
+          "Wang, Zhigang",
+          "Gu, JiaYuan",
+          "Zhao, Bin",
+          "Wang, Dong",
+          "others"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/10301766e5686bda76722ef2af1362213b934cc0",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "SpatialVLA: Exploring Spatial Representations for Visual-Language-Action Model",
+        "year": 2025,
+        "authors": [
+          "Delin Qu",
+          "Haoming Song",
+          "Qizhi Chen",
+          "Yuanqi Yao",
+          "Xinyi Ye",
+          "Yani Ding",
+          "Zhigang Wang",
+          "Jiayuan Gu",
+          "Bin Zhao",
+          "Dong Wang",
+          "Xuelong Li"
+        ]
+      },
+      "title_similarity": 0.9635036496350365,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "ma2025spatialllm",
+      "raw": {
+        "title": "Spatialllm: A compound 3d-informed design towards spatially-intelligent large multimodal models",
+        "authors": [
+          "Ma, Wufei",
+          "Ye, Luoxin",
+          "de Melo, Celso M",
+          "Yuille, Alan",
+          "Chen, Jieneng"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/b3f25645b4325ef15ef9245584d414be490f84e3",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "SpatialLLM: A Compound 3D-Informed Design towards Spatially-Intelligent Large Multimodal Models",
+        "year": 2025,
+        "authors": [
+          "Wufei Ma",
+          "Luoxin Ye",
+          "Nessa McWeeney",
+          "Celso M de Melo",
+          "Alan L. Yuille",
+          "Jieneng Chen"
+        ]
+      },
+      "title_similarity": 0.9528795811518325,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "yang2023sam3d",
+      "raw": {
+        "title": "Sam3d: Segment anything in 3d scenes",
+        "authors": [
+          "Yang, Yunhan",
+          "Wu, Xiaoyang",
+          "He, Tong",
+          "Zhao, Hengshuang",
+          "Liu, Xihui"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/ea56a40bbad010f7fb854ff66a1638fa927e4041",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "SAM3D: Segment Anything in 3D Scenes",
+        "year": 2023,
+        "authors": [
+          "Yu-nuo Yang",
+          "Xiaoyang Wu",
+          "Tongyao He",
+          "Hengshuang Zhao",
+          "Xihui Liu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "tan2024epmf",
+      "raw": {
+        "title": "EPMF: Efficient perception-aware multi-sensor fusion for 3D semantic segmentation",
+        "authors": [
+          "Tan, Mingkui",
+          "Zhuang, Zhuangwei",
+          "Chen, Sitao",
+          "Li, Rong",
+          "Jia, Kui",
+          "Wang, Qicheng",
+          "Li, Yuanqing"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "metadata_mismatch",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/ee5cac4c1a8946681f208d6c58a48263b3123a44",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "EPMF: Efficient Perception-Aware Multi-Sensor Fusion for 3D Semantic Segmentation",
+        "year": 2021,
+        "authors": [
+          "Zhuangwei Zhuang",
+          "Rongqing Li",
+          "Yuanqing Li",
+          "K. Jia",
+          "Qicheng Wang",
+          "Mingkui Tan"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [
+        "year"
+      ],
+      "error": null
+    },
+    {
+      "key": "aiello2022cross",
+      "raw": {
+        "title": "Cross-modal learning for image-guided point cloud shape completion",
+        "authors": [
+          "Aiello, Emanuele",
+          "Valsesia, Diego",
+          "Magli, Enrico"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/d5705c994743f80316cab4414cc0a9ac98cd55d4",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Cross-modal Learning for Image-Guided Point Cloud Shape Completion",
+        "year": 2022,
+        "authors": [
+          "Emanuele Aiello",
+          "D. Valsesia",
+          "E. Magli"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "tian20253",
+      "raw": {
+        "title": "O$^3$ Afford: One-Shot 3D Object-to-Object Affordance Grounding for Generalizable Robotic Manipulation",
+        "authors": [
+          "Tian, Tongxuan",
+          "Kang, Xuhui",
+          "Kuo, Yen-Ling"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/38c8cd3accb89c3b925c540e7ac3b28ee68774d1",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "O3Afford: One-Shot 3D Object-to-Object Affordance Grounding for Generalizable Robotic Manipulation",
+        "year": 2025,
+        "authors": [
+          "Tongxuan Tian",
+          "Xuhui Kang",
+          "Yen-Ling Kuo"
+        ]
+      },
+      "title_similarity": 0.96,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "wang2025affordbot",
+      "raw": {
+        "title": "AffordBot: 3D Fine-grained Embodied Reasoning via Multimodal Large Language Models",
+        "authors": [
+          "Wang, Xinyi",
+          "Yang, Xun",
+          "Xu, Yanlong",
+          "Wu, Yuchen",
+          "Li, Zhen",
+          "Zhao, Na"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/07dc76504676a7e7d2a8684a5e6e797d6f8c1547",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "AffordBot: 3D Fine-grained Embodied Reasoning via Multimodal Large Language Models",
+        "year": 2025,
+        "authors": [
+          "Xinyi Wang",
+          "Xun Yang",
+          "Yanlong Xu",
+          "Yuchen Wu",
+          "Zhen Li",
+          "Na Zhao"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "liu2025pavlm",
+      "raw": {
+        "title": "PAVLM: Advancing point cloud based affordance understanding via vision-language model",
+        "authors": [
+          "Liu, Shang-Ching",
+          "Chen, Wenkai",
+          "Cheng, Wei-Lun",
+          "Huang, Yen-Lin",
+          "Liao, I-Bin",
+          "Li, Yung-Hui",
+          "Zhang, Jianwei",
+          "others"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/bac4a080b5b8e0d9bbcc95328d894830a82e9703",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "PAVLM: Advancing Point Cloud based Affordance Understanding Via Vision-Language Model",
+        "year": 2024,
+        "authors": [
+          "Shang-Ching Liu",
+          "Van-Nhiem Tran",
+          "Wenkai Chen",
+          "Wei-Lun Cheng",
+          "Yen-Lin Huang",
+          "I-Bin Liao",
+          "Yung-Hui Li",
+          "Jianwei Zhang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "wang2025odyssey",
+      "raw": {
+        "title": "Odyssey: Open-world quadrupeds exploration and manipulation for long-horizon tasks",
+        "authors": [
+          "Wang, Kaijun",
+          "Lu, Liqin",
+          "Liu, Mingyu",
+          "Jiang, Jianuo",
+          "Li, Zeju",
+          "Zhang, Bolin",
+          "Zheng, Wancai",
+          "Yu, Xinyi",
+          "Chen, Hao",
+          "Shen, Chunhua"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/330c687e31435bab05222e4fcb1592fc36065132",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "ODYSSEY: Open-World Quadrupeds Exploration and Manipulation for Long-Horizon Tasks",
+        "year": 2025,
+        "authors": [
+          "Kaijun Wang",
+          "Liqin Lu",
+          "Mingyu Liu",
+          "Jian-Jian Jiang",
+          "Zeju Li",
+          "Bolin Zhang",
+          "Wancai Zheng",
+          "Xinyi Yu",
+          "Hao Chen",
+          "Chunhua Shen"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "liu2025bridge",
+      "raw": {
+        "title": "Bridge Thinking and Acting: Unleashing Physical Potential of VLM with Generalizable Action Expert",
+        "authors": [
+          "Liu, Mingyu",
+          "Huang, Zheng",
+          "Lin, Xiaoyi",
+          "Zhu, Muzhi",
+          "Zhao, Canyu",
+          "Du, Zongze",
+          "Wang, Yating",
+          "Zhu, Haoyi",
+          "Chen, Hao",
+          "Shen, Chunhua"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/0ed6a8c053efb0c73a021245cfbf0aafb4d65f99",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Bridge Thinking and Acting: Unleashing Physical Potential of VLM with Generalizable Action Expert",
+        "year": 2025,
+        "authors": [
+          "Mingyu Liu",
+          "Zheng Huang",
+          "Xiaoyi Lin",
+          "Muzhi Zhu",
+          "Canyu Zhao",
+          "Zongze Du",
+          "Yating Wang",
+          "Haoyi Zhu",
+          "Hao Chen",
+          "Chunhua Shen"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "wang2025affordance",
+      "raw": {
+        "title": "Affordance-r1: Reinforcement learning for generalizable affordance reasoning in multimodal large language model",
+        "authors": [
+          "Wang, Hanqing",
+          "Wang, Shaoyang",
+          "Zhong, Yiming",
+          "Yang, Zemin",
+          "Wang, Jiamin",
+          "Cui, Zhiqing",
+          "Yuan, Jiahao",
+          "Han, Yifan",
+          "Liu, Mingyu",
+          "Ma, Yuexin"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/cd3e98eceb49fd2d63926efa62efee1e1aa5a517",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Affordance-R1: Reinforcement Learning for Generalizable Affordance Reasoning in Multimodal Large Language Model",
+        "year": 2025,
+        "authors": [
+          "Hanqing Wang",
+          "Shaoyang Wang",
+          "Yiming Zhong",
+          "Zemin Yang",
+          "Jiamin Wang",
+          "Zhiqing Cui",
+          "Jiahao Yuan",
+          "Yifan Han",
+          "Mingyu Liu",
+          "Yuexin Ma"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "zhang2025a4",
+      "raw": {
+        "title": "A4-Agent: An Agentic Framework for Zero-Shot Affordance Reasoning",
+        "authors": [
+          "Zhang, Zixin",
+          "Chen, Kanghao",
+          "Wang, Hanqing",
+          "Zhang, Hongfei",
+          "Chen, Harold Haodong",
+          "Liao, Chenfei",
+          "Guo, Litao",
+          "Chen, Ying-Cong"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/dd9f2112f554bb2fc39c9f7a833667428b5f6d57",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "A4-Agent: An Agentic Framework for Zero-Shot Affordance Reasoning",
+        "year": 2025,
+        "authors": [
+          "Zixin Zhang",
+          "Kanghao Chen",
+          "Hanqing Wang",
+          "Hongfei Zhang",
+          "Harold Haodong Chen",
+          "Chenfei Liao",
+          "Litao Guo",
+          "Ying-Cong Chen"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    }
+  ]
+}

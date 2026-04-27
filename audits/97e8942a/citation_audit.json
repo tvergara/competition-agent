@@ -1,0 +1,3612 @@
+{
+  "paper_id": "97e8942a-7437-4034-b592-f37236365587",
+  "total": 157,
+  "verified": 1,
+  "mismatch": 0,
+  "missing": 0,
+  "ambiguous": 0,
+  "error": 153,
+  "skipped": 3,
+  "s2_consulted": 0,
+  "s2_lifted": 0,
+  "key_style_outliers": [
+    "pmlr-v206-stanton23a"
+  ],
+  "entries": [
+    {
+      "key": "amodei2016concrete",
+      "raw": {
+        "title": "Concrete Problems in AI Safety",
+        "authors": [
+          "Amodei, Dario",
+          "Olah, Chris",
+          "Steinhardt, Jacob",
+          "Christiano, Paul",
+          "Schulman, John",
+          "Man{\\'e}, Dan"
+        ],
+        "year": 2016,
+        "doi": null,
+        "arxiv_id": "1606.06565"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1606.06565&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Angelopoulos_pid",
+      "raw": {
+        "title": "Conformal PID Control for Time Series Prediction",
+        "authors": [
+          "Angelopoulos, Anastasios",
+          "Candes, Emmanuel",
+          "Tibshirani, Ryan J"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Conformal+PID+Control+for+Time+Series+Prediction&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "angelopoulos2021learn",
+      "raw": {
+        "title": "Learn then test: Calibrating predictive algorithms to achieve risk control",
+        "authors": [
+          "Angelopoulos, Anastasios N",
+          "Bates, Stephen",
+          "Cand\\`{e}s, Emmanuel J",
+          "Jordan, Michael I",
+          "Lei, Lihua"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Learn+then+test%3A+Calibrating+predictive+algorithms+to+achieve+risk+control&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "angelopoulos2022conformal",
+      "raw": {
+        "title": "Conformal risk control",
+        "authors": [
+          "Angelopoulos, Anastasios N",
+          "Bates, Stephen",
+          "Fisch, Adam",
+          "Lei, Lihua",
+          "Schuster, Tal"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Conformal+risk+control&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "angelopoulos2024theoretical",
+      "raw": {
+        "title": "Theoretical foundations of conformal prediction",
+        "authors": [
+          "Angelopoulos, Anastasios N",
+          "Barber, Rina Foygel",
+          "Bates, Stephen"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Theoretical+foundations+of+conformal+prediction&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "angelopoulos2026conformal",
+      "raw": {
+        "title": "Conformal Risk Control for Non-Monotonic Losses",
+        "authors": [
+          "Anastasios N. Angelopoulos"
+        ],
+        "year": 2026,
+        "doi": null,
+        "arxiv_id": "2602.20151"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2602.20151&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Bai2024-bb",
+      "raw": {
+        "title": "Optimized conformal selection: Powerful selective inference after conformity score optimization",
+        "authors": [
+          "Bai, Tian",
+          "Jin, Ying"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Optimized+conformal+selection%3A+Powerful+selective+inference+after+conformity+score+optimization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "barber2021predictive",
+      "raw": {
+        "title": "Predictive inference with the jackknife+",
+        "authors": [
+          "Barber, Rina Foygel",
+          "Candes, Emmanuel J",
+          "Ramdas, Aaditya",
+          "Tibshirani, Ryan J"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Predictive+inference+with+the+jackknife%2B&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "barber2023",
+      "raw": {
+        "title": "Conformal prediction beyond exchangeability",
+        "authors": [
+          "Barber, Rina Foygel",
+          "Cand\\`{e}s, Emmanuel J",
+          "Ramdas, Aaditya",
+          "Tibshirani, Ryan J"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Conformal+prediction+beyond+exchangeability&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "barber2025unifying",
+      "raw": {
+        "title": "Unifying different theories of conformal prediction",
+        "authors": [
+          "Barber, Rina Foygel",
+          "Tibshirani, Ryan J"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Unifying+different+theories+of+conformal+prediction&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "bastani2022",
+      "raw": {
+        "title": "Practical Adversarial Multivalid Conformal Prediction",
+        "authors": [
+          "Bastani, Osbert",
+          "Gupta, Varun",
+          "Jung, Christopher",
+          "Noarov, Georgy",
+          "Ramalingam, Ramya",
+          "Roth, Aaron"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Practical+Adversarial+Multivalid+Conformal+Prediction&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "bates2021distribution",
+      "raw": {
+        "title": "Distribution-free, risk-controlling prediction sets",
+        "authors": [
+          "Bates, Stephen",
+          "Angelopoulos, Anastasios",
+          "Lei, Lihua",
+          "Malik, Jitendra",
+          "Jordan, Michael"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Distribution-free%2C+risk-controlling+prediction+sets&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "bergstra2011algorithms",
+      "raw": {
+        "title": "Algorithms for hyper-parameter optimization",
+        "authors": [
+          "Bergstra, James",
+          "Bardenet, R{\\'e}mi",
+          "Bengio, Yoshua",
+          "K{\\'e}gl, Bal{\\'a}zs"
+        ],
+        "year": 2011,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Algorithms+for+hyper-parameter+optimization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "berkenkamp2016safe",
+      "raw": {
+        "title": "Safe controller optimization for quadrotors with Gaussian processes",
+        "authors": [
+          "Berkenkamp, Felix",
+          "Schoellig, Angela P",
+          "Krause, Andreas"
+        ],
+        "year": 2016,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Safe+controller+optimization+for+quadrotors+with+Gaussian+processes&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "berkenkamp2017safe",
+      "raw": {
+        "title": "Safe model-based reinforcement learning with stability guarantees",
+        "authors": [
+          "Berkenkamp, Felix",
+          "Turchetta, Matteo",
+          "Schoellig, Angela",
+          "Krause, Andreas"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Safe+model-based+reinforcement+learning+with+stability+guarantees&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "berkenkamp2023bayesian",
+      "raw": {
+        "title": "Bayesian optimization with safety constraints: safe and automatic parameter tuning in robotics",
+        "authors": [
+          "Berkenkamp, Felix",
+          "Krause, Andreas",
+          "Schoellig, Angela P"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Bayesian+optimization+with+safety+constraints%3A+safe+and+automatic+parameter+tuning+in+robotics&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "biderman2023pythia",
+      "raw": {
+        "title": "Pythia: A suite for analyzing large language models across training and scaling",
+        "authors": [
+          "Biderman, Stella",
+          "Schoelkopf, Hailey",
+          "Anthony, Quentin",
+          "Bradley, Herbie",
+          "O'Brien, Kyle",
+          "Hallahan, Eric",
+          "Khan, Mohammad Aflah",
+          "Purohit, Shivanshu",
+          "Prashanth, USVSN Sai",
+          "Raff, Edward",
+          "Skowron, Aviya",
+          "Sutawika, Lintang",
+          "van der Wal, Oskar"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Pythia%3A+A+suite+for+analyzing+large+language+models+across+training+and+scaling&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "bousquet2002stability",
+      "raw": {
+        "title": "Stability and generalization",
+        "authors": [
+          "Bousquet, Olivier",
+          "Elisseeff, Andr{\\'e}"
+        ],
+        "year": 2002,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Stability+and+generalization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "brooks1989airfoil",
+      "raw": {
+        "title": "Airfoil Self-Noise and Prediction",
+        "authors": [
+          "Brooks, Thomas F.",
+          "Pope, D. Stuart",
+          "Marcolini, Michael A."
+        ],
+        "year": 1989,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Airfoil+Self-Noise+and+Prediction&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "cha2024hyperparameters",
+      "raw": {
+        "title": "Hyperparameters in Continual Learning: A Reality Check",
+        "authors": [
+          "Cha, Sungmin",
+          "Cho, Kyunghyun"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Hyperparameters+in+Continual+Learning%3A+A+Reality+Check&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "chandak2020towards",
+      "raw": {
+        "title": "Towards Safe Policy Improvement for Non-Stationary MDPs",
+        "authors": [
+          "Chandak, Yash",
+          "Jordan, Scott",
+          "Theocharous, Georgios",
+          "White, Martha",
+          "Thomas, Philip S."
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Towards+Safe+Policy+Improvement+for+Non-Stationary+MDPs&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "chen2025generalists",
+      "raw": {
+        "title": "Generalists vs. Specialists: Evaluating LLMs on Highly-Constrained Biophysical Sequence Optimization Tasks",
+        "authors": [
+          "Chen, Angelica",
+          "Stanton, Samuel Don",
+          "Ding, Frances",
+          "Alberstein, Robert G",
+          "Watkins, Andrew Martin",
+          "Bonneau, Richard",
+          "Gligorijevic, Vladimir",
+          "Cho, Kyunghyun",
+          "Frey, Nathan C"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Generalists+vs.+Specialists%3A+Evaluating+LLMs+on+Highly-Constrained+Biophysical+Sequence+Optimization+Tasks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "cherian2024large",
+      "raw": {
+        "title": "Large language model validity via enhanced conformal prediction methods",
+        "authors": [
+          "Cherian, John",
+          "Gibbs, Isaac",
+          "Candes, Emmanuel"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Large+language+model+validity+via+enhanced+conformal+prediction+methods&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "christiano2017deep",
+      "raw": {
+        "title": "Deep Reinforcement Learning from Human Preferences",
+        "authors": [
+          "Christiano, Paul F.",
+          "Leike, Jan",
+          "Brown, Tom B.",
+          "Martic, Miljan",
+          "Legg, Shane",
+          "Amodei, Dario"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Deep+Reinforcement+Learning+from+Human+Preferences&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "colombo2020training",
+      "raw": {
+        "title": "Training conformal predictors",
+        "authors": [
+          "Colombo, Nicolo",
+          "Vovk, Vladimir"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Training+conformal+predictors&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "correia2025neurips",
+      "raw": {
+        "title": "Non-exchangeable Conformal Prediction with Optimal Transport: Tackling Distribution Shifts with Unlabeled Data",
+        "authors": [
+          "Correia, Alvaro H. C.",
+          "Louizos, Christos"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Non-exchangeable+Conformal+Prediction+with+Optimal+Transport%3A+Tackling+Distribution+Shifts+with+Unlabeled+Data&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "cortes2024utility",
+      "raw": {
+        "title": "Utility-directed conformal prediction: A decision-aware framework for actionable uncertainty quantification",
+        "authors": [
+          "Cortes-Gomez, Santiago",
+          "Patino, Carlos",
+          "Byun, Yewon",
+          "Wu, Steven",
+          "Horvitz, Eric",
+          "Wilder, Bryan"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Utility-directed+conformal+prediction%3A+A+decision-aware+framework+for+actionable+uncertainty+quantification&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "cranmer2020frontier",
+      "raw": {
+        "title": "The Frontier of Simulation-Based Inference",
+        "authors": [
+          "Cranmer, Kyle",
+          "Brehmer, Johann",
+          "Louppe, Gilles"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=The+Frontier+of+Simulation-Based+Inference&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "cresswell2024conformal",
+      "raw": {
+        "title": "Conformal prediction sets improve human decision making",
+        "authors": [
+          "Cresswell, Jesse C",
+          "Sui, Yi",
+          "Kumar, Bhargava",
+          "Vouitsis, No{\\~A}{\\c{G}}l"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Conformal+prediction+sets+improve+human+decision+making&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "damani2019black",
+      "raw": {
+        "title": "Black box recursive translations for molecular optimization",
+        "authors": [
+          "Damani, Farhan",
+          "Sresht, Vishnu",
+          "Ra, Stephen"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Black+box+recursive+translations+for+molecular+optimization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "damani2023beyond",
+      "raw": {
+        "title": "Beyond the training set: An intuitive method for detecting distribution shift in model-based optimization",
+        "authors": [
+          "Damani, Farhan",
+          "Brookes, David H",
+          "Sternlieb, Theodore",
+          "Webster, Cameron",
+          "Malina, Stephen",
+          "Jajoo, Rishi",
+          "Lin, Kathy",
+          "Sinai, Sam"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Beyond+the+training+set%3A+An+intuitive+method+for+detecting+distribution+shift+in+model-based+optimization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "de2025flow",
+      "raw": {
+        "title": "Flow density control: Generative optimization beyond entropy-regularized fine-tuning",
+        "authors": [
+          "De Santi, Riccardo",
+          "Vlastelica, Marin",
+          "Hsieh, Ya-Ping",
+          "Shen, Zebang",
+          "He, Niao",
+          "Krause, Andreas"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Flow+density+control%3A+Generative+optimization+beyond+entropy-regularized+fine-tuning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "delve1996kin",
+      "raw": {
+        "title": "The DELVE Manual: Data for Evaluating Learning in Valid Experiments",
+        "authors": [
+          "{University of Toronto}"
+        ],
+        "year": 1996,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=The+DELVE+Manual%3A+Data+for+Evaluating+Learning+in+Valid+Experiments&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "dhariwal2021diffusion",
+      "raw": {
+        "title": "Diffusion models beat gans on image synthesis",
+        "authors": [
+          "Dhariwal, Prafulla",
+          "Nichol, Alexander"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Diffusion+models+beat+gans+on+image+synthesis&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ding2023class",
+      "raw": {
+        "title": "Class-conditional conformal prediction with many classes",
+        "authors": [
+          "Ding, Tiffany",
+          "Angelopoulos, Anastasios",
+          "Bates, Stephen",
+          "Jordan, Michael",
+          "Tibshirani, Ryan J"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Class-conditional+conformal+prediction+with+many+classes&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "domingo2024adjoint",
+      "raw": {
+        "title": "Adjoint Matching: Fine-tuning Flow and Diffusion Generative Models with Memoryless Stochastic Optimal Control",
+        "authors": [
+          "Domingo-Enrich, Carles",
+          "Drozdzal, Michal",
+          "Karrer, Brian",
+          "Chen, Ricky T. Q."
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Adjoint+Matching%3A+Fine-tuning+Flow+and+Diffusion+Generative+Models+with+Memoryless+Stochastic+Optimal+Control&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Dua:2019",
+      "raw": {
+        "title": "UCI Machine Learning Repository",
+        "authors": [
+          "Dua, Dheeru",
+          "Graff, Casey"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "dua2019uci",
+      "raw": {
+        "title": "UCI Machine Learning Repository",
+        "authors": [
+          "Dua, Dheeru",
+          "Graff, Casey"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "eriksson2019scalable",
+      "raw": {
+        "title": "Scalable global optimization via local Bayesian optimization",
+        "authors": [
+          "Eriksson, David",
+          "Pearce, Michael",
+          "Gardner, Jacob",
+          "Turner, Ryan",
+          "Poloczek, Matthias"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Scalable+global+optimization+via+local+Bayesian+optimization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ethayarajh2024kto",
+      "raw": {
+        "title": "KTO: Model Alignment as Prospect Theoretic Optimization",
+        "authors": [
+          "Ethayarajh, Kawin",
+          "Xu, Winnie",
+          "Muennighoff, Niklas",
+          "Jurafsky, Dan",
+          "Kiela, Douwe"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=KTO%3A+Model+Alignment+as+Prospect+Theoretic+Optimization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ezzati2008sample",
+      "raw": {
+        "title": "Sample design of the Medical Expenditure Panel Survey household component, 1998-2007",
+        "authors": [
+          "Ezzati-Rice, Trena M",
+          "Rohde, Frederick",
+          "Greenblatt, Janet"
+        ],
+        "year": 2008,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Sample+design+of+the+Medical+Expenditure+Panel+Survey+household+component%2C+1998-2007&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "fannjiang2022conformal",
+      "raw": {
+        "title": "Conformal prediction under feedback covariate shift for biomolecular design",
+        "authors": [
+          "Fannjiang, Clara",
+          "Bates, Stephen",
+          "Angelopoulos, Anastasios N",
+          "Listgarten, Jennifer",
+          "Jordan, Michael I"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Conformal+prediction+under+feedback+covariate+shift+for+biomolecular+design&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "fannjiang2025",
+      "raw": {
+        "title": "Reliable Algorithm Selection for Machine Learning-Guided Design",
+        "authors": [
+          "Fannjiang, Clara",
+          "Park, Ji Won"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Reliable+Algorithm+Selection+for+Machine+Learning-Guided+Design&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "feldman2022achieving",
+      "raw": {
+        "title": "Achieving risk control in online learning settings",
+        "authors": [
+          "Feldman, Shai",
+          "Ringel, Liran",
+          "Bates, Stephen",
+          "Romano, Yaniv"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Achieving+risk+control+in+online+learning+settings&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "feldman2023achieving",
+      "raw": {
+        "title": "Achieving Risk Control in Online Learning Settings",
+        "authors": [
+          "Shai Feldman",
+          "Liran Ringel",
+          "Stephen Bates",
+          "Yaniv Romano"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Achieving+Risk+Control+in+Online+Learning+Settings&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "feurer2019hyperparameter",
+      "raw": {
+        "title": "Hyperparameter optimization",
+        "authors": [
+          "Feurer, Matthias",
+          "Hutter, Frank"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Hyperparameter+optimization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "fleming1982optimal",
+      "raw": {
+        "title": "Optimal control and nonlinear filtering for nondegenerate diffusion processes",
+        "authors": [
+          "Fleming, Wendell H",
+          "Mitter, Sanjoy K"
+        ],
+        "year": 1982,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Optimal+control+and+nonlinear+filtering+for+nondegenerate+diffusion+processes&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "fox2015taming",
+      "raw": {
+        "title": "Taming the Noise in Reinforcement Learning via Soft Updates",
+        "authors": [
+          "Fox, Roy",
+          "Pakman, Ari",
+          "Tishby, Naftali"
+        ],
+        "year": 2016,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Taming+the+Noise+in+Reinforcement+Learning+via+Soft+Updates&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "frey2025lab",
+      "raw": {
+        "title": "Lab-in-the-loop therapeutic antibody design with deep learning",
+        "authors": [
+          "Frey, Nathan C",
+          "H{\\\"o}tzel, Isidro",
+          "Stanton, Samuel D",
+          "Kelly, Ryan",
+          "Alberstein, Robert G",
+          "Makowski, Emily K",
+          "Martinkus, Karolis",
+          "Berenberg, Daniel",
+          "Bevers III, Jack",
+          "Bryson, Tyler",
+          "others"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Lab-in-the-loop+therapeutic+antibody+design+with+deep+learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "gardner2014bayesian",
+      "raw": {
+        "title": "Bayesian Optimization with Inequality Constraints",
+        "authors": [
+          "Gardner, Jacob R",
+          "Kusner, Matt J",
+          "Xu, Zhixiang Eddie",
+          "Weinberger, Kilian Q",
+          "Cunningham, John P"
+        ],
+        "year": 2014,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Bayesian+Optimization+with+Inequality+Constraints&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Gibbs2021-ed",
+      "raw": {
+        "title": "Adaptive conformal inference under distribution shift",
+        "authors": [
+          "Gibbs, Isaac",
+          "Candes, Emmanuel"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Adaptive+conformal+inference+under+distribution+shift&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "gibbs2025conformal",
+      "raw": {
+        "title": "Conformal prediction with conditional guarantees",
+        "authors": [
+          "Gibbs, Isaac",
+          "Cherian, John J",
+          "Cand{\\`e}s, Emmanuel J"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Conformal+prediction+with+conditional+guarantees&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "giguere2022fairness",
+      "raw": {
+        "title": "Fairness Guarantees under Demographic Shift",
+        "authors": [
+          "Giguere, Stephen",
+          "Metevier, Blossom",
+          "Castro da Silva, Bruno",
+          "Brun, Yuriy",
+          "Thomas, Philip S.",
+          "Niekum, Scott"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Fairness+Guarantees+under+Demographic+Shift&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "goeman2010sequential",
+      "raw": {
+        "title": "The sequential rejection principle of familywise error control",
+        "authors": [
+          "Goeman, Jelle J",
+          "Solari, Aldo"
+        ],
+        "year": 2010,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=The+sequential+rejection+principle+of+familywise+error+control&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "gui2025",
+      "raw": {
+        "title": "ACS: An interactive framework for conformal selection",
+        "authors": [
+          "Yu Gui",
+          "Ying Jin",
+          "Yash Nair",
+          "Zhimei Ren"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2507.15825"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2507.15825&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "hastings1970monte",
+      "raw": {
+        "title": "Monte Carlo sampling methods using Markov chains and their applications",
+        "authors": [
+          "Hastings, Wilfred Keith"
+        ],
+        "year": 1970,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Monte+Carlo+sampling+methods+using+Markov+chains+and+their+applications&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ho2022classifier",
+      "raw": {
+        "title": "Classifier-free diffusion guidance",
+        "authors": [
+          "Ho, Jonathan",
+          "Salimans, Tim"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Classifier-free+diffusion+guidance&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "hoff2023bayes",
+      "raw": {
+        "title": "Bayes-optimal prediction with frequentist coverage control",
+        "authors": [
+          "Hoff, Peter"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Bayes-optimal+prediction+with+frequentist+coverage+control&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "holden2009adaptive",
+      "raw": {
+        "title": "Adaptive Independent Metropolis-Hastings",
+        "authors": [
+          "Holden, Lars",
+          "Hauge, Ragnar",
+          "Holden, Marit"
+        ],
+        "year": 2009,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Adaptive+Independent+Metropolis-Hastings&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "hullman2025conformal",
+      "raw": {
+        "title": "Conformal prediction and human decision making",
+        "authors": [
+          "Hullman, Jessica",
+          "Wu, Yifan",
+          "Xie, Dawei",
+          "Guo, Ziyang",
+          "Gelman, Andrew"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Conformal+prediction+and+human+decision+making&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "hutchins1986direct",
+      "raw": {
+        "title": "Direct Manipulation Interfaces",
+        "authors": [
+          "Hutchins, Edwin L",
+          "Hollan, James D",
+          "Norman, Donald A"
+        ],
+        "year": 1986,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Direct+Manipulation+Interfaces&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "jeong2024olaph",
+      "raw": {
+        "title": "OLAPH: Improving Factuality in Biomedical Long-form Question Answering",
+        "authors": [
+          "Jeong, Minbyul",
+          "Hwang, Hyeon",
+          "Yoon, Chanwoong",
+          "Lee, Taewhoo",
+          "Kang, Jaewoo"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=OLAPH%3A+Improving+Factuality+in+Biomedical+Long-form+Question+Answering&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "jiang2025conformal",
+      "raw": {
+        "title": "Conformal linguistic calibration: Trading-off between factuality and specificity",
+        "authors": [
+          "Jiang, Zhengping",
+          "Liu, Anqi",
+          "Van Durme, Benjamin"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Conformal+linguistic+calibration%3A+Trading-off+between+factuality+and+specificity&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "jin2021medqa",
+      "raw": {
+        "title": "What Disease does this Patient Have? A Large-scale Open Domain Question Answering Dataset from Medical Exams",
+        "authors": [
+          "Jin, Di",
+          "Pan, Eileen",
+          "Oufattole, Nassim",
+          "Weng, Wei-Hung",
+          "Fang, Hanyi",
+          "Szolovits, Peter"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=What+Disease+does+this+Patient+Have%3F+A+Large-scale+Open+Domain+Question+Answering+Dataset+from+Medical+Exams&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Jin2022",
+      "raw": {
+        "title": "Selection by prediction with conformal p-values",
+        "authors": [
+          "Jin, Ying",
+          "Cand\\`{e}s, E"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Selection+by+prediction+with+conformal+p-values&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Jin2023-bw",
+      "raw": {
+        "title": "Model-free selective inference under covariate shift via weighted conformal p-values",
+        "authors": [
+          "Jin, Ying",
+          "Cand\\`{e}s, Emmanuel J"
+        ],
+        "year": 2025,
+        "doi": "10.1093/biomet/asaf066",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4414111455",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Model-free selective inference under covariate shift via weighted conformal <i>p</i> -values",
+        "year": 2025,
+        "authors": [
+          "Ying Jin",
+          "Emmanuel J. Candès"
+        ]
+      },
+      "title_similarity": 0.9433962264150944,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "jones1998efficient",
+      "raw": {
+        "title": "Efficient global optimization of expensive black-box functions",
+        "authors": [
+          "Jones, Donald R",
+          "Schonlau, Matthias",
+          "Welch, William J"
+        ],
+        "year": 1998,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Efficient+global+optimization+of+expensive+black-box+functions&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "jonkers2024conformal",
+      "raw": {
+        "title": "Conformal predictive systems under covariate shift",
+        "authors": [
+          "Jonkers, Jef",
+          "Van Wallendael, Glenn",
+          "Duchateau, Luc",
+          "Van Hoecke, Sofie"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Conformal+predictive+systems+under+covariate+shift&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "kakade2002approximately",
+      "raw": {
+        "title": "Approximately Optimal Approximate Reinforcement Learning",
+        "authors": [
+          "Kakade, Sham",
+          "Langford, John"
+        ],
+        "year": 2002,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Approximately+Optimal+Approximate+Reinforcement+Learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "kappen2005path",
+      "raw": {
+        "title": "Path integrals and symmetry breaking for optimal control theory",
+        "authors": [
+          "Kappen, Hilbert J"
+        ],
+        "year": 2005,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Path+integrals+and+symmetry+breaking+for+optimal+control+theory&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "kim2025offline",
+      "raw": {
+        "title": "Offline Model-Based Optimization: Comprehensive Review",
+        "authors": [
+          "Kim, Minsu",
+          "Gu, Jiayao",
+          "Yuan, Ye",
+          "Yun, Taeyoung",
+          "Liu, Zixuan",
+          "Bengio, Yoshua",
+          "Chen, Can"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Offline+Model-Based+Optimization%3A+Comprehensive+Review&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "kirschner2019adaptive",
+      "raw": {
+        "title": "Adaptive and safe Bayesian optimization in high dimensions via one-dimensional subspaces",
+        "authors": [
+          "Kirschner, Johannes",
+          "Mutny, Mojmir",
+          "Hiller, Nicole",
+          "Ischebeck, Rasmus",
+          "Krause, Andreas"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Adaptive+and+safe+Bayesian+optimization+in+high+dimensions+via+one-dimensional+subspaces&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "kiyani2025decision",
+      "raw": {
+        "title": "Decision Theoretic Foundations for Conformal Prediction: Optimal Uncertainty Quantification for Risk-Averse Agents",
+        "authors": [
+          "Kiyani, Shayan",
+          "Pappas, George J",
+          "Roth, Aaron",
+          "Hassani, Hamed"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Decision+Theoretic+Foundations+for+Conformal+Prediction%3A+Optimal+Uncertainty+Quantification+for+Risk-Averse+Agents&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "kumar2020conservative",
+      "raw": {
+        "title": "Conservative q-learning for offline reinforcement learning",
+        "authors": [
+          "Kumar, Aviral",
+          "Zhou, Aurick",
+          "Tucker, George",
+          "Levine, Sergey"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Conservative+q-learning+for+offline+reinforcement+learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "kushner1964new",
+      "raw": {
+        "title": "A new method of locating the maximum point of an arbitrary multipeak curve in the presence of noise",
+        "authors": [
+          "Kushner, Harold J"
+        ],
+        "year": 1964,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=A+new+method+of+locating+the+maximum+point+of+an+arbitrary+multipeak+curve+in+the+presence+of+noise&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Laghuvarapu2023",
+      "raw": {
+        "title": "CoDrug: Conformal Drug Property Prediction with Density Estimation under Covariate Shift",
+        "authors": [
+          "Laghuvarapu, Siddhartha",
+          "Lin, Zhen",
+          "Sun, Jimeng"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=CoDrug%3A+Conformal+Drug+Property+Prediction+with+Density+Estimation+under+Covariate+Shift&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "langford2008epoch",
+      "raw": {
+        "title": "The Epoch-Greedy Algorithm for Multi-armed Bandits with Side Information",
+        "authors": [
+          "Langford, John",
+          "Zhang, Tong"
+        ],
+        "year": 2008,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=The+Epoch-Greedy+Algorithm+for+Multi-armed+Bandits+with+Side+Information&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "lei2018distribution",
+      "raw": {
+        "title": "Distribution-free predictive inference for regression",
+        "authors": [
+          "Lei, Jing",
+          "G'Sell, Max",
+          "Rinaldo, Alessandro",
+          "Tibshirani, Ryan J",
+          "Wasserman, Larry"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Distribution-free+predictive+inference+for+regression&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "lei2021conformal",
+      "raw": {
+        "title": "Conformal inference of counterfactuals and individual treatment effects",
+        "authors": [
+          "Lei, Lihua",
+          "Cand{\\`e}s, Emmanuel J"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Conformal+inference+of+counterfactuals+and+individual+treatment+effects&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "lekeufack2024conformal",
+      "raw": {
+        "title": "Conformal decision theory: Safe autonomous decisions from imperfect predictions",
+        "authors": [
+          "Lekeufack, Jordan",
+          "Angelopoulos, Anastasios N",
+          "Bajcsy, Andrea",
+          "Jordan, Michael I",
+          "Malik, Jitendra"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Conformal+decision+theory%3A+Safe+autonomous+decisions+from+imperfect+predictions&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "li2010contextual",
+      "raw": {
+        "title": "A Contextual-Bandit Approach to Personalized News Article Recommendation",
+        "authors": [
+          "Li, Lihong",
+          "Chu, Wei",
+          "Langford, John",
+          "Schapire, Robert E"
+        ],
+        "year": 2010,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=A+Contextual-Bandit+Approach+to+Personalized+News+Article+Recommendation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "li2023contrastive",
+      "raw": {
+        "title": "Contrastive decoding: Open-ended text generation as optimization",
+        "authors": [
+          "Li, Xiang Lisa",
+          "Holtzman, Ari",
+          "Fried, Daniel",
+          "Liang, Percy",
+          "Eisner, Jason",
+          "Hashimoto, Tatsunori B",
+          "Zettlemoyer, Luke",
+          "Lewis, Mike"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Contrastive+decoding%3A+Open-ended+text+generation+as+optimization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Lindemann2023-aj",
+      "raw": {
+        "title": "Safe planning in dynamic environments using conformal prediction",
+        "authors": [
+          "Lindemann, Lars",
+          "Cleaveland, Matthew",
+          "Shim, Gihyun",
+          "Pappas, George J"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Safe+planning+in+dynamic+environments+using+conformal+prediction&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "lindemann2024formal",
+      "raw": {
+        "title": "Formal verification and control with conformal prediction",
+        "authors": [
+          "Lindemann, Lars",
+          "Zhao, Yiqi",
+          "Yu, Xinyi",
+          "Pappas, George J",
+          "Deshmukh, Jyotirmoy V"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Formal+verification+and+control+with+conformal+prediction&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "loukas2023generalization",
+      "raw": {
+        "title": "Generalization within in silico screening",
+        "authors": [
+          "Loukas, Andreas",
+          "Kessel, Pan",
+          "Gligorijevic, Vladimir",
+          "Bonneau, Richard"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Generalization+within+in+silico+screening&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Luo2024-na",
+      "raw": {
+        "title": "Sample-efficient safety assurances using conformal prediction",
+        "authors": [
+          "Luo, Rachel",
+          "Zhao, Shengjia",
+          "Kuck, Jonathan",
+          "Ivanovic, Boris",
+          "Savarese, Silvio",
+          "Schmerling, Edward",
+          "Pavone, Marco"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Sample-efficient+safety+assurances+using+conformal+prediction&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "metevier2019offline",
+      "raw": {
+        "title": "Offline Contextual Bandits with High Probability Fairness Guarantees",
+        "authors": [
+          "Metevier, Blossom",
+          "Giguere, Stephen",
+          "Brockman, Sarah",
+          "Kobren, Ari",
+          "Brun, Yuriy",
+          "Brunskill, Emma",
+          "Thomas, Philip S."
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Offline+Contextual+Bandits+with+High+Probability+Fairness+Guarantees&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "metropolis1953equation",
+      "raw": {
+        "title": "Equation of state calculations by fast computing machines",
+        "authors": [
+          "Metropolis, Nicholas",
+          "Rosenbluth, Arianna W",
+          "Rosenbluth, Marshall N",
+          "Teller, Augusta H",
+          "Teller, Edward"
+        ],
+        "year": 1953,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Equation+of+state+calculations+by+fast+computing+machines&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "mockus1989bayesian",
+      "raw": {
+        "title": "Bayesian approach to global optimization: theory and applications",
+        "authors": [
+          "Mockus, Jonas"
+        ],
+        "year": 1989,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Bayesian+approach+to+global+optimization%3A+theory+and+applications&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "mohri2024language",
+      "raw": {
+        "title": "Language Models with Conformal Factuality Guarantees",
+        "authors": [
+          "Mohri, Christopher",
+          "Hashimoto, Tatsunori"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Language+Models+with+Conformal+Factuality+Guarantees&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "nair2023randomization",
+      "raw": {
+        "title": "Randomization tests for adaptively collected data",
+        "authors": [
+          "Nair, Yash",
+          "Janson, Lucas"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Randomization+tests+for+adaptively+collected+data&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "norman1988design",
+      "raw": {
+        "title": "The Design of Everyday Things",
+        "authors": [
+          "Norman, Donald A"
+        ],
+        "year": 1988,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=The+Design+of+Everyday+Things&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "overman2024aligning",
+      "raw": {
+        "title": "Aligning model properties via conformal risk control",
+        "authors": [
+          "Overman, William",
+          "Vallon, Jacqueline J",
+          "Bayati, Mohsen"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Aligning+model+properties+via+conformal+risk+control&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "papadopoulos2002inductive",
+      "raw": {
+        "title": "Inductive confidence machines for regression",
+        "authors": [
+          "Papadopoulos, Harris",
+          "Proedrou, Kostas",
+          "Vovk, Volodya",
+          "Gammerman, Alex"
+        ],
+        "year": 2002,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Inductive+confidence+machines+for+regression&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "pedregosa2011scikit",
+      "raw": {
+        "title": "Scikit-learn: Machine Learning in Python",
+        "authors": [
+          "Pedregosa, F.",
+          "Varoquaux, G.",
+          "Gramfort, A.",
+          "Michel, V.",
+          "Thirion, B.",
+          "Grisel, O.",
+          "Blondel, M.",
+          "Prettenhofer, P.",
+          "Weiss, R.",
+          "Dubourg, V.",
+          "Vanderplas, J.",
+          "Passos, A.",
+          "Cournapeau, D.",
+          "Brucher, M.",
+          "Perrot, M.",
+          "Duchesnay, E."
+        ],
+        "year": 2011,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Scikit-learn%3A+Machine+Learning+in+Python&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "pmlr-v206-stanton23a",
+      "raw": {
+        "title": "Bayesian Optimization with Conformal Prediction Sets",
+        "authors": [
+          "Stanton, Samuel",
+          "Maddox, Wesley",
+          "Wilson, Andrew Gordon"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "prinster2022jaws",
+      "raw": {
+        "title": "Jaws: Auditing predictive uncertainty under covariate shift",
+        "authors": [
+          "Prinster, Drew",
+          "Liu, Anqi",
+          "Saria, Suchi"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Jaws%3A+Auditing+predictive+uncertainty+under+covariate+shift&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "prinster2023jaws",
+      "raw": {
+        "title": "Jaws-x: addressing efficiency bottlenecks of conformal prediction under standard and feedback covariate shift",
+        "authors": [
+          "Prinster, Drew",
+          "Saria, Suchi",
+          "Liu, Anqi"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Jaws-x%3A+addressing+efficiency+bottlenecks+of+conformal+prediction+under+standard+and+feedback+covariate+shift&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "prinster2024conformal",
+      "raw": {
+        "title": "Conformal validity guarantees exist for any data distribution (and how to find them)",
+        "authors": [
+          "Prinster, Drew",
+          "Stanton, Samuel",
+          "Liu, Anqi",
+          "Saria, Suchi"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Conformal+validity+guarantees+exist+for+any+data+distribution+%28and+how+to+find+them%29&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "prinster2025watch",
+      "raw": {
+        "title": "WATCH: Adaptive Monitoring for AI Deployments via Weighted-Conformal Martingales",
+        "authors": [
+          "Prinster, Drew",
+          "Han, Xing",
+          "Liu, Anqi",
+          "Saria, Suchi"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=WATCH%3A+Adaptive+Monitoring+for+AI+Deployments+via+Weighted-Conformal+Martingales&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "quach2023conformal",
+      "raw": {
+        "title": "Conformal language modeling",
+        "authors": [
+          "Quach, Victor",
+          "Fisch, Adam",
+          "Schuster, Tal",
+          "Yala, Adam",
+          "Sohn, Jae Ho",
+          "Jaakkola, Tommi S",
+          "Barzilay, Regina"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Conformal+language+modeling&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "rafailov2023direct",
+      "raw": {
+        "title": "Direct Preference Optimization: Your Language Model is Secretly a Reward Model",
+        "authors": [
+          "Rafailov, Rafael",
+          "Sharma, Archit",
+          "Mitchell, Eric",
+          "Ermon, Stefano",
+          "Manning, Christopher D",
+          "Finn, Chelsea"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Direct+Preference+Optimization%3A+Your+Language+Model+is+Secretly+a+Reward+Model&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "raiffa1961applied",
+      "raw": {
+        "title": "Applied statistical decision theory",
+        "authors": [
+          "Raiffa, Howard",
+          "Schlaifer, Robert"
+        ],
+        "year": 1961,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Applied+statistical+decision+theory&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "rajpurkar2016squad",
+      "raw": {
+        "title": "SQuAD: 100,000+ Questions for Machine Comprehension of Text",
+        "authors": [
+          "Rajpurkar, Pranav",
+          "Zhang, Jian",
+          "Lopyrev, Konstantin",
+          "Liang, Percy"
+        ],
+        "year": 2016,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=SQuAD%3A+100%2C000%2B+Questions+for+Machine+Comprehension+of+Text&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "redmond2002data",
+      "raw": {
+        "title": "A Data-Driven Software Tool for Enabling Cooperative Information Sharing Among Police Departments",
+        "authors": [
+          "Redmond, Michael",
+          "Baveja, Alok"
+        ],
+        "year": 2002,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=A+Data-Driven+Software+Tool+for+Enabling+Cooperative+Information+Sharing+Among+Police+Departments&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "rhodes2020",
+      "raw": {
+        "title": "Telescoping Density-Ratio Estimation",
+        "authors": [
+          "Rhodes, Benjamin",
+          "Xu, Kai",
+          "Gutmann, Michael U."
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Telescoping+Density-Ratio+Estimation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "schonlau1998global",
+      "raw": {
+        "title": "Global versus local search in constrained optimization of computer models",
+        "authors": [
+          "Schonlau, Matthias",
+          "Welch, William J",
+          "Jones, Donald R"
+        ],
+        "year": 1998,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Global+versus+local+search+in+constrained+optimization+of+computer+models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "schulman2015trust",
+      "raw": {
+        "title": "Trust region policy optimization",
+        "authors": [
+          "Schulman, John",
+          "Levine, Sergey",
+          "Abbeel, Pieter",
+          "Jordan, Michael",
+          "Moritz, Philipp"
+        ],
+        "year": 2015,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Trust+region+policy+optimization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "schulman2017proximal",
+      "raw": {
+        "title": "Proximal policy optimization algorithms",
+        "authors": [
+          "Schulman, John",
+          "Wolski, Filip",
+          "Dhariwal, Prafulla",
+          "Radford, Alec",
+          "Klimov, Oleg"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Proximal+policy+optimization+algorithms&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "singh2023distribution",
+      "raw": {
+        "title": "Distribution-free risk assessment of regression-based machine learning algorithms",
+        "authors": [
+          "Singh, Sukrita",
+          "Sarna, Neeraj",
+          "Li, Yuanyuan",
+          "Li, Yang",
+          "Orfanoudaki, Agni",
+          "Berger, Michael"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Distribution-free+risk+assessment+of+regression-based+machine+learning+algorithms&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "shalev2010learnability",
+      "raw": {
+        "title": "Learnability, stability and uniform convergence",
+        "authors": [
+          "Shalev-Shwartz, Shai",
+          "Shamir, Ohad",
+          "Srebro, Nathan",
+          "Sridharan, Karthik"
+        ],
+        "year": 2010,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Learnability%2C+stability+and+uniform+convergence&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "smith2006optimizer",
+      "raw": {
+        "title": "The optimizer's curse: Skepticism and postdecision surprise in decision analysis",
+        "authors": [
+          "Smith, James E",
+          "Winkler, Robert L"
+        ],
+        "year": 2006,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=The+optimizer%27s+curse%3A+Skepticism+and+postdecision+surprise+in+decision+analysis&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "snell2025conformal",
+      "raw": {
+        "title": "Conformal prediction as bayesian quadrature",
+        "authors": [
+          "Snell, Jake C",
+          "Griffiths, Thomas L"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Conformal+prediction+as+bayesian+quadrature&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "srinivas2010gaussian",
+      "raw": {
+        "title": "Gaussian Process Optimization in the Bandit Setting: No Regret and Experimental Design",
+        "authors": [
+          "Srinivas, Niranjan",
+          "Krause, Andreas",
+          "Kakade, Sham M",
+          "Seeger, Matthias"
+        ],
+        "year": 2010,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Gaussian+Process+Optimization+in+the+Bandit+Setting%3A+No+Regret+and+Experimental+Design&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "stanton2023bayesian",
+      "raw": {
+        "title": "Bayesian optimization with conformal prediction sets",
+        "authors": [
+          "Stanton, Samuel",
+          "Maddox, Wesley",
+          "Wilson, Andrew Gordon"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Bayesian+optimization+with+conformal+prediction+sets&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "straitouri2023improving",
+      "raw": {
+        "title": "Improving expert predictions with conformal prediction",
+        "authors": [
+          "Straitouri, Eleni",
+          "Wang, Lequn",
+          "Okati, Nastaran",
+          "Rodriguez, Manuel Gomez"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Improving+expert+predictions+with+conformal+prediction&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "stutz2021learning",
+      "raw": {
+        "title": "Learning optimal conformal classifiers",
+        "authors": [
+          "Stutz, David",
+          "Cemgil, Ali Taylan",
+          "Doucet, Arnaud",
+          "others"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Learning+optimal+conformal+classifiers&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "sugiyama2012density",
+      "raw": {
+        "title": "Density Ratio Estimation in Machine Learning",
+        "authors": [
+          "Sugiyama, Masashi",
+          "Suzuki, Taiji",
+          "Kanamori, Takafumi"
+        ],
+        "year": 2012,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Density+Ratio+Estimation+in+Machine+Learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "sui2015safe",
+      "raw": {
+        "title": "Safe exploration for optimization with Gaussian processes",
+        "authors": [
+          "Sui, Yanan",
+          "Gotovos, Alkis",
+          "Burdick, Joel",
+          "Krause, Andreas"
+        ],
+        "year": 2015,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Safe+exploration+for+optimization+with+Gaussian+processes&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "sun2023",
+      "raw": {
+        "title": "Conformal Prediction for Uncertainty-Aware Planning with Diffusion Dynamics Model",
+        "authors": [
+          "Sun, Jiankai",
+          "Jiang, Yiqi",
+          "Qiu, Jianing",
+          "Nobel, Parth",
+          "Kochenderfer, Mykel J",
+          "Schwager, Mac"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Conformal+Prediction+for+Uncertainty-Aware+Planning+with+Diffusion+Dynamics+Model&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "tagasovska2024implicitly",
+      "raw": {
+        "title": "Implicitly guided design with propen: Match your data to follow the gradient",
+        "authors": [
+          "Tagasovska, Nata{\\v{s}}a",
+          "Gligorijevic, Vladimir",
+          "Cho, Kyunghyun",
+          "Loukas, Andreas"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Implicitly+guided+design+with+propen%3A+Match+your+data+to+follow+the+gradient&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "tang2024fine",
+      "raw": {
+        "title": "Fine-tuning of diffusion models via stochastic control: entropy regularization and beyond",
+        "authors": [
+          "Tang, Wenpin",
+          "Zhou, Fuzhong"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Fine-tuning+of+diffusion+models+via+stochastic+control%3A+entropy+regularization+and+beyond&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "taufiq2022conformal",
+      "raw": {
+        "title": "Conformal off-policy prediction in contextual bandits",
+        "authors": [
+          "Taufiq, Muhammad Faaiz",
+          "Ton, Jean-Francois",
+          "Cornish, Rob",
+          "Teh, Yee Whye",
+          "Doucet, Arnaud"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Conformal+off-policy+prediction+in+contextual+bandits&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "teneggi2023trust",
+      "raw": {
+        "title": "How to trust your diffusion model: A convex optimization approach to conformal risk control",
+        "authors": [
+          "Teneggi, Jacopo",
+          "Tivnan, Matthew",
+          "Stayman, Web",
+          "Sulam, Jeremias"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=How+to+trust+your+diffusion+model%3A+A+convex+optimization+approach+to+conformal+risk+control&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "theodorou2010generalized",
+      "raw": {
+        "title": "A generalized path integral control approach to reinforcement learning",
+        "authors": [
+          "Theodorou, Evangelos",
+          "Buchli, Jonas",
+          "Schaal, Stefan"
+        ],
+        "year": 2010,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=A+generalized+path+integral+control+approach+to+reinforcement+learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "thomas2015highconfidence",
+      "raw": {
+        "title": "High Confidence Policy Improvement",
+        "authors": [
+          "Thomas, Philip",
+          "Theocharous, Georgios",
+          "Ghavamzadeh, Mohammad"
+        ],
+        "year": 2015,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=High+Confidence+Policy+Improvement&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "thomas2019preventing",
+      "raw": {
+        "title": "Preventing undesirable behavior of intelligent machines",
+        "authors": [
+          "Thomas, Philip S",
+          "Castro da Silva, Bruno",
+          "Barto, Andrew G",
+          "Giguere, Stephen",
+          "Brun, Yuriy",
+          "Brunskill, Emma"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Preventing+undesirable+behavior+of+intelligent+machines&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "tibshirani2019conformal",
+      "raw": {
+        "title": "Conformal prediction under covariate shift",
+        "authors": [
+          "Tibshirani, Ryan J",
+          "Foygel Barber, Rina",
+          "Candes, Emmanuel",
+          "Ramdas, Aaditya"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Conformal+prediction+under+covariate+shift&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "tierney1994markov",
+      "raw": {
+        "title": "Markov chains for exploring posterior distributions",
+        "authors": [
+          "Tierney, Luke"
+        ],
+        "year": 1994,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Markov+chains+for+exploring+posterior+distributions&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "todorov2009efficient",
+      "raw": {
+        "title": "Efficient computation of optimal actions",
+        "authors": [
+          "Todorov, Emanuel"
+        ],
+        "year": 2009,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Efficient+computation+of+optimal+actions&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "trabucco2021conservative",
+      "raw": {
+        "title": "Conservative objective models for effective offline model-based optimization",
+        "authors": [
+          "Trabucco, Brandon",
+          "Kumar, Aviral",
+          "Geng, Xinyang",
+          "Levine, Sergey"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Conservative+objective+models+for+effective+offline+model-based+optimization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "uehara2024feedback",
+      "raw": {
+        "title": "Feedback Efficient Online Fine-Tuning of Diffusion Models",
+        "authors": [
+          "Uehara, Masatoshi",
+          "Zhao, Yulai",
+          "Black, Kevin",
+          "Hajiramezanali, Ehsan",
+          "Scalia, Gabriele",
+          "Diamant, Nathaniel Lee",
+          "Tseng, Alex M",
+          "Levine, Sergey",
+          "Biancalani, Tommaso"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Feedback+Efficient+Online+Fine-Tuning+of+Diffusion+Models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "uehara2024fine",
+      "raw": {
+        "title": "Fine-tuning of continuous-time diffusion models as entropy-regularized control",
+        "authors": [
+          "Uehara, Masatoshi",
+          "Zhao, Yulai",
+          "Black, Kevin",
+          "Hajiramezanali, Ehsan",
+          "Scalia, Gabriele",
+          "Diamant, Nathaniel Lee",
+          "Tseng, Alex M",
+          "Biancalani, Tommaso",
+          "Levine, Sergey"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Fine-tuning+of+continuous-time+diffusion+models+as+entropy-regularized+control&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "veach1995optimally",
+      "raw": {
+        "title": "Optimally combining sampling techniques for Monte Carlo rendering",
+        "authors": [
+          "Veach, Eric",
+          "Guibas, Leonidas J"
+        ],
+        "year": 1995,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Optimally+combining+sampling+techniques+for+Monte+Carlo+rendering&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "von1963various",
+      "raw": {
+        "title": "Various techniques used in connection with random digits",
+        "authors": [
+          "Von Neumann, John",
+          "others"
+        ],
+        "year": 1963,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Various+techniques+used+in+connection+with+random+digits&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "vovk2003well",
+      "raw": {
+        "title": "Well-calibrated predictions from online compression models",
+        "authors": [
+          "Vovk, Vladimir"
+        ],
+        "year": 2003,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Well-calibrated+predictions+from+online+compression+models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "vovk2005algorithmic",
+      "raw": {
+        "title": "Algorithmic learning in a random world",
+        "authors": [
+          "Vovk, Vladimir",
+          "Gammerman, Alexander",
+          "Shafer, Glenn"
+        ],
+        "year": 2005,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Algorithmic+learning+in+a+random+world&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "vovk2012conditional",
+      "raw": {
+        "title": "Conditional validity of inductive conformal predictors",
+        "authors": [
+          "Vovk, Vladimir"
+        ],
+        "year": 2012,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Conditional+validity+of+inductive+conformal+predictors&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "vovk2017nonparametric",
+      "raw": {
+        "title": "Nonparametric predictive distributions based on conformal prediction",
+        "authors": [
+          "Vovk, Vladimir",
+          "Shen, Jieli",
+          "Manokhin, Valery",
+          "Xie, Min-ge"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Nonparametric+predictive+distributions+based+on+conformal+prediction&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "vovk2018conformal",
+      "raw": {
+        "title": "Conformal predictive decision making",
+        "authors": [
+          "Vovk, Vladimir",
+          "Bendtsen, Claus"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Conformal+predictive+decision+making&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "wang2022",
+      "raw": {
+        "title": "Improving Screening Processes via Calibrated Subset Selection",
+        "authors": [
+          "Lequn Wang",
+          "Thorsten Joachims",
+          "Manuel Gomez Rodriguez"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Improving+Screening+Processes+via+Calibrated+Subset+Selection&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "wang2025",
+      "raw": {
+        "title": "Probabilistically correct language-based multi-robot planning using conformal prediction",
+        "authors": [
+          "Wang, Jun",
+          "He, Guocheng",
+          "Kantaros, Yiannis"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Probabilistically+correct+language-based+multi-robot+planning+using+conformal+prediction&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "wang2025neurips",
+      "raw": {
+        "title": "Conformal Prediction in The Loop: A Feedback-Based Uncertainty Model for Trajectory Optimization",
+        "authors": [
+          "Wang, Han",
+          "Ning, Chao"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Conformal+Prediction+in+The+Loop%3A+A+Feedback-Based+Uncertainty+Model+for+Trajectory+Optimization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "watkins1992q",
+      "raw": {
+        "title": "Q-learning",
+        "authors": [
+          "Watkins, Christopher JCH",
+          "Dayan, Peter"
+        ],
+        "year": 1992,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Q-learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "wei2022finetuned",
+      "raw": {
+        "title": "Finetuned Language Models are Zero-Shot Learners",
+        "authors": [
+          "Wei, Jason",
+          "Bosma, Maarten",
+          "Zhao, Vincent",
+          "Guu, Kelvin",
+          "Yu, Adams Wei",
+          "Lester, Brian",
+          "Du, Nan",
+          "Dai, Andrew M",
+          "Le, Quoc V"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Finetuned+Language+Models+are+Zero-Shot+Learners&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Wheelock2022-fp",
+      "raw": {
+        "title": "Forecasting labels under distribution-shift for machine-guided sequence design",
+        "authors": [
+          "Wheelock, Lauren B",
+          "Malina, Stephen",
+          "Gerold, Jeffrey",
+          "Sinai, Sam"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Forecasting+labels+under+distribution-shift+for+machine-guided+sequence+design&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "williams1992simple",
+      "raw": {
+        "title": "Simple statistical gradient-following algorithms for connectionist reinforcement learning",
+        "authors": [
+          "Williams, Ronald J"
+        ],
+        "year": 1992,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Simple+statistical+gradient-following+algorithms+for+connectionist+reinforcement+learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "yang2024doubly",
+      "raw": {
+        "title": "Doubly robust calibration of prediction sets under covariate shift",
+        "authors": [
+          "Yang, Yachong",
+          "Kuchibhotla, Arun Kumar",
+          "Tchetgen Tchetgen, Eric"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Doubly+robust+calibration+of+prediction+sets+under+covariate+shift&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "yeh2024end",
+      "raw": {
+        "title": "End-to-end conformal calibration for optimization under uncertainty",
+        "authors": [
+          "Yeh, Christopher",
+          "Christianson, Nicolas",
+          "Wu, Alan",
+          "Wierman, Adam",
+          "Yue, Yisong"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=End-to-end+conformal+calibration+for+optimization+under+uncertainty&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "yeh2025conformal",
+      "raw": {
+        "title": "Conformal Risk Training: End-to-End Optimization of Conformal Risk Control",
+        "authors": [
+          "Yeh, Christopher",
+          "Christianson, Nicolas",
+          "Wierman, Adam",
+          "Yue, Yisong"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Conformal+Risk+Training%3A+End-to-End+Optimization+of+Conformal+Risk+Control&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "yuan2023reward",
+      "raw": {
+        "title": "Reward-directed conditional diffusion: Provable distribution estimation and reward improvement",
+        "authors": [
+          "Yuan, Hui",
+          "Huang, Kaixuan",
+          "Ni, Chengzhuo",
+          "Chen, Minshuo",
+          "Wang, Mengdi"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Reward-directed+conditional+diffusion%3A+Provable+distribution+estimation+and+reward+improvement&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zaffran2022adaptive",
+      "raw": {
+        "title": "Adaptive conformal predictions for time series",
+        "authors": [
+          "Zaffran, Margaux",
+          "F{\\'e}ron, Olivier",
+          "Goude, Yannig",
+          "Josse, Julie",
+          "Dieuleveut, Aymeric"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Adaptive+conformal+predictions+for+time+series&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zhang2023conformal",
+      "raw": {
+        "title": "Conformal off-policy prediction",
+        "authors": [
+          "Zhang, Yingying",
+          "Shi, Chengchun",
+          "Luo, Shikai"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Conformal+off-policy+prediction&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zhang2024bayesian",
+      "raw": {
+        "title": "Bayesian optimization with formal safety guarantees via online conformal prediction",
+        "authors": [
+          "Zhang, Yunchuan",
+          "Park, Sangwoo",
+          "Simeone, Osvaldo"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Bayesian+optimization+with+formal+safety+guarantees+via+online+conformal+prediction&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zhang2024evaluating",
+      "raw": {
+        "title": "Evaluating the utility of conformal prediction sets for ai-advised image labeling",
+        "authors": [
+          "Zhang, Dongping",
+          "Chatzimparmpas, Angelos",
+          "Kamali, Negar",
+          "Hullman, Jessica"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Evaluating+the+utility+of+conformal+prediction+sets+for+ai-advised+image+labeling&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zhao2024conformalized",
+      "raw": {
+        "title": "Conformalized interactive imitation learning: Handling expert shift and intermittent feedback",
+        "authors": [
+          "Zhao, Michelle",
+          "Simmons, Reid",
+          "Admoni, Henny",
+          "Ramdas, Aaditya",
+          "Bajcsy, Andrea"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Conformalized+interactive+imitation+learning%3A+Handling+expert+shift+and+intermittent+feedback&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zhou2025conformalized",
+      "raw": {
+        "title": "Conformalized decision risk assessment",
+        "authors": [
+          "Zhou, Wenbin",
+          "Orfanoudaki, Agni",
+          "Zhu, Shixiang"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Conformalized+decision+risk+assessment&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    }
+  ]
+}

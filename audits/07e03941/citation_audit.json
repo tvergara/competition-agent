@@ -1,0 +1,613 @@
+{
+  "paper_id": "07e03941-6b21-4453-a82f-40df30c4752d",
+  "total": 22,
+  "verified": 17,
+  "mismatch": 1,
+  "missing": 0,
+  "ambiguous": 0,
+  "error": 4,
+  "skipped": 0,
+  "s2_consulted": 1,
+  "s2_lifted": 0,
+  "key_style_outliers": [],
+  "entries": [
+    {
+      "key": "ipsen2019pca_missing_phase",
+      "raw": {
+        "title": "Phase transition in PCA with missing data: Reduced signal-to-noise ratio, not sample size!",
+        "authors": [
+          "Ipsen, Niels",
+          "Hansen, Lars Kai"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Phase+transition+in+PCA+with+missing+data%3A+Reduced+signal-to-noise+ratio%2C+not+sample+size%21&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "hotelling1936cca",
+      "raw": {
+        "title": "Relations Between Two Sets of Variates",
+        "authors": [
+          "Hotelling, Harold"
+        ],
+        "year": 1936,
+        "doi": "10.2307/2333955",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4237723258",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Relations Between Two Sets of Variates",
+        "year": 1936,
+        "authors": [
+          "Harold Hotelling"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "rosipal2006pls",
+      "raw": {
+        "title": "Overview and Recent Advances in Partial Least Squares",
+        "authors": [
+          "Rosipal, Roman",
+          "Kr{\\\"a}mer, Nicole"
+        ],
+        "year": 2006,
+        "doi": "10.1007/11752790_2",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2137225583",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Overview and Recent Advances in Partial Least Squares",
+        "year": 2006,
+        "authors": [
+          "Roman Rosipal",
+          "Nicole Krämer"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "boulesteix2007pls",
+      "raw": {
+        "title": "Partial least squares: a versatile tool for the analysis of high-dimensional genomic data",
+        "authors": [
+          "Boulesteix, Anne-Laure",
+          "Strimmer, Korbinian"
+        ],
+        "year": 2007,
+        "doi": "10.1093/bib/bbl016",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2097057782",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Partial least squares: a versatile tool for the analysis of high-dimensional genomic data",
+        "year": 2006,
+        "authors": [
+          "Anne‐Laure Boulesteix",
+          "Korbinian Strimmer"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "leger2025pls",
+      "raw": {
+        "title": "High-Dimensional Partial Least Squares: Spectral Analysis and Fundamental Limitations",
+        "authors": [
+          "L{\\'e}ger, Victor",
+          "Chatelain, Florent"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2512.15684"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2512.15684&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "benaychgeorges2012singular",
+      "raw": {
+        "title": "The singular values and vectors of low rank perturbations of large rectangular random matrices",
+        "authors": [
+          "Benaych-Georges, Florent",
+          "Nadakuditi, Raj Rao"
+        ],
+        "year": 2012,
+        "doi": "10.1016/j.jmva.2012.04.019",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2132657058",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "The singular values and vectors of low rank perturbations of large rectangular random matrices",
+        "year": 2012,
+        "authors": [
+          "Florent Benaych-Georges",
+          "Raj Rao Nadakuditi"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "baik2005bbp",
+      "raw": {
+        "title": "Phase transition of the largest eigenvalue for nonnull complex sample covariance matrices",
+        "authors": [
+          "Baik, Jinho",
+          "Ben Arous, G{\\'e}rard",
+          "P{\\'e}ch{\\'e}, Sandrine"
+        ],
+        "year": 2005,
+        "doi": "10.1214/009117905000000233",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2066459155",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Phase transition of the largest eigenvalue for nonnull complex sample covariance matrices",
+        "year": 2005,
+        "authors": [
+          "Jinho Baik",
+          "Gérard Ben Arous",
+          "Sandrine Péché"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "little2002missing",
+      "raw": {
+        "title": "Statistical Analysis with Missing Data",
+        "authors": [
+          "Little, Roderick J. A.",
+          "Rubin, Donald B."
+        ],
+        "year": 2002,
+        "doi": "10.1002/9781119013563",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2480680997",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Statistical Analysis with Missing Data",
+        "year": 2002,
+        "authors": [
+          "Roderick J. A. Little",
+          "Donald B. Rubin"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "schafer2002missing",
+      "raw": {
+        "title": "Missing data: our view of the state of the art",
+        "authors": [
+          "Schafer, Joseph L.",
+          "Graham, John W."
+        ],
+        "year": 2002,
+        "doi": "10.1037/1082-989X.7.2.147",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2156267802",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Missing data: Our view of the state of the art.",
+        "year": 2002,
+        "authors": [
+          "Joseph L. Schafer",
+          "John W. Graham"
+        ]
+      },
+      "title_similarity": 0.9873417721518988,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "dempster1977em",
+      "raw": {
+        "title": "Maximum likelihood from incomplete data via the EM algorithm",
+        "authors": [
+          "Dempster, Arthur P.",
+          "Laird, Nan M.",
+          "Rubin, Donald B."
+        ],
+        "year": 1977,
+        "doi": "10.1111/j.2517-6161.1977.tb01600.x",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2049633694",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Maximum Likelihood from Incomplete Data Via the <i>EM</i> Algorithm",
+        "year": 1977,
+        "authors": [
+          "A. P. Dempster",
+          "N. M. Laird",
+          "Donald B. Rubin"
+        ]
+      },
+      "title_similarity": 0.9743589743589743,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "tipping1999ppca",
+      "raw": {
+        "title": "Probabilistic principal component analysis",
+        "authors": [
+          "Tipping, Michael E.",
+          "Bishop, Christopher M."
+        ],
+        "year": 1999,
+        "doi": "10.1111/1467-9868.00196",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2125027820",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Probabilistic Principal Component Analysis",
+        "year": 1999,
+        "authors": [
+          "Michael E. Tipping",
+          "Chris Bishop"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "roweis1998empca",
+      "raw": {
+        "title": "EM algorithms for PCA and SPCA",
+        "authors": [
+          "Roweis, Sam"
+        ],
+        "year": 1998,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=EM+algorithms+for+PCA+and+SPCA&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "elb2018ppls",
+      "raw": {
+        "title": "Probabilistic partial least squares model: Identifiability, estimation and application",
+        "authors": [
+          "el Bouhaddani, Said",
+          "Uh, Hae-Won",
+          "Hayward, Caroline",
+          "Jongbloed, Geurt",
+          "Houwing-Duistermaat, Jeanine"
+        ],
+        "year": 2018,
+        "doi": "10.1016/j.jmva.2018.05.009",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2626500613",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Probabilistic partial least squares model: Identifiability, estimation and application",
+        "year": 2018,
+        "authors": [
+          "Said el Bouhaddani",
+          "Hae‐Won Uh",
+          "Caroline Hayward",
+          "Geurt Jongbloed",
+          "Jeanine J. Houwing‐Duistermaat"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "elb2022po2pls",
+      "raw": {
+        "title": "Statistical integration of heterogeneous omics data: Probabilistic two-way partial least squares (PO2PLS)",
+        "authors": [
+          "el Bouhaddani, Said",
+          "Uh, Hae-Won",
+          "Jongbloed, Geurt",
+          "Houwing-Duistermaat, Jeanine"
+        ],
+        "year": 2022,
+        "doi": "10.1111/rssc.12583",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4292168321",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Statistical Integration of Heterogeneous Omics Data: Probabilistic Two-Way Partial Least Squares (PO2PLS)",
+        "year": 2022,
+        "authors": [
+          "Said el Bouhaddani",
+          "Hae‐Won Uh",
+          "Geurt Jongbloed",
+          "Jeanine J. Houwing‐Duistermaat"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "vandevelden2012gcca_missing",
+      "raw": {
+        "title": "Generalized canonical correlation analysis with missing values",
+        "authors": [
+          "van de Velden, Michel",
+          "Takane, Yoshio"
+        ],
+        "year": 2012,
+        "doi": "10.1007/s00180-011-0276-y",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W1517065359",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Generalized canonical correlation analysis with missing values",
+        "year": 2011,
+        "authors": [
+          "Michel van de Velden",
+          "Yoshio Takane"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "biehl1993unsupervised",
+      "raw": {
+        "title": "Statistical mechanics of unsupervised learning",
+        "authors": [
+          "Biehl, Michael",
+          "Mietzner, Andreas"
+        ],
+        "year": 1993,
+        "doi": "10.1209/0295-5075/24/5/017",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2068476337",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Statistical Mechanics of Unsupervised Learning",
+        "year": 1993,
+        "authors": [
+          "Michael Biehl",
+          "A Mietzner"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "hoyle2007multiple",
+      "raw": {
+        "title": "Statistical mechanics of learning multiple orthogonal signals: asymptotic theory and fluctuation effects",
+        "authors": [
+          "Hoyle, David C.",
+          "Rattray, Magnus"
+        ],
+        "year": 2007,
+        "doi": "10.1103/PhysRevE.75.016101",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2026988331",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Statistical mechanics of learning multiple orthogonal signals: Asymptotic theory and fluctuation effects",
+        "year": 2007,
+        "authors": [
+          "David C. Hoyle",
+          "Magnus Rattray"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "bayati2011amp",
+      "raw": {
+        "title": "The dynamics of message passing on dense graphs, with applications to compressed sensing",
+        "authors": [
+          "Bayati, Mohsen",
+          "Montanari, Andrea"
+        ],
+        "year": 2011,
+        "doi": "10.1109/TIT.2010.2094817",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2610971674",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "The Dynamics of Message Passing on Dense Graphs, with Applications to Compressed Sensing",
+        "year": 2011,
+        "authors": [
+          "Mohsen Bayati",
+          "Andrea Montanari"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "tcga2012brca",
+      "raw": {
+        "title": "Comprehensive molecular portraits of human breast tumours",
+        "authors": [
+          "{The Cancer Genome Atlas Network}"
+        ],
+        "year": 2012,
+        "doi": "10.1038/nature11412",
+        "arxiv_id": null
+      },
+      "status": "metadata_mismatch",
+      "openalex_id": "https://openalex.org/W2096283457",
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/facc7f69abc96462e64bf23d29273664d7cc52e0",
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Comprehensive molecular portraits of human breast tumours",
+        "year": 2012,
+        "authors": [
+          "The Cancer Genome Atlas Network"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [
+        "authors"
+      ],
+      "error": null
+    },
+    {
+      "key": "tenxgenomics2021pbmcmultiome",
+      "raw": {
+        "title": "PBMC from a Healthy Donor, Granulocytes Removed Through Cell Sorting (10k)",
+        "authors": [
+          "{10x Genomics}"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=PBMC+from+a+Healthy+Donor%2C+Granulocytes+Removed+Through+Cell+Sorting+%2810k%29&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "mezard1987spin",
+      "raw": {
+        "title": "Spin Glass Theory and Beyond: An Introduction to the Replica Method and Its Applications",
+        "authors": [
+          "M{\\'e}zard, Marc",
+          "Parisi, Giorgio",
+          "Virasoro, Miguel Angel"
+        ],
+        "year": 1987,
+        "doi": "10.1142/0271",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4206502013",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Spin Glass Theory and Beyond",
+        "year": 1986,
+        "authors": [
+          "Marc Mézard",
+          "Giorgio Parisi",
+          "M. A. Virasoro"
+        ]
+      },
+      "title_similarity": 0.8571428571428571,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "nishimori2001statistical",
+      "raw": {
+        "title": "Statistical Physics of Spin Glasses and Information Processing: An Introduction",
+        "authors": [
+          "Nishimori, Hidetoshi"
+        ],
+        "year": 2001,
+        "doi": "10.1093/acprof:oso/9780198509417.001.0001",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W1527520754",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Statistical Physics of Spin Glasses and Information Processing",
+        "year": 2001,
+        "authors": [
+          "Hidetoshi Nishimori"
+        ]
+      },
+      "title_similarity": 0.9026548672566372,
+      "mismatches": [],
+      "error": null
+    }
+  ]
+}

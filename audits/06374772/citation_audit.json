@@ -1,0 +1,1533 @@
+{
+  "paper_id": "06374772-27af-4605-bc96-e8a4b6d7429f",
+  "total": 39,
+  "verified": 18,
+  "mismatch": 2,
+  "missing": 0,
+  "ambiguous": 0,
+  "error": 0,
+  "skipped": 19,
+  "s2_consulted": 18,
+  "s2_lifted": 0,
+  "key_style_outliers": [
+    "deepseekv2"
+  ],
+  "entries": [
+    {
+      "key": "kaplan2020scaling",
+      "raw": {
+        "title": "Scaling Laws for Neural Language Models",
+        "authors": [
+          "Jared Kaplan",
+          "Sam McCandlish",
+          "Tom Henighan",
+          "Tom B. Brown",
+          "Benjamin Chess",
+          "Rewon Child",
+          "Scott Gray",
+          "Alec Radford",
+          "Jeffrey Wu",
+          "Dario Amodei"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": "2001.08361"
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/e6c561d02500b2596a230b341a8eb8b921ca5bf2",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Scaling Laws for Neural Language Models",
+        "year": 2020,
+        "authors": [
+          "J. Kaplan",
+          "Sam McCandlish",
+          "T. Henighan",
+          "Tom B. Brown",
+          "Benjamin Chess",
+          "R. Child",
+          "Scott Gray",
+          "Alec Radford",
+          "Jeff Wu",
+          "Dario Amodei"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "hoffmann2022training",
+      "raw": {
+        "title": "Training compute-optimal large language models",
+        "authors": [
+          "Hoffmann, Jordan",
+          "Borgeaud, Sebastian",
+          "Mensch, Arthur",
+          "Buchatskaya, Elena",
+          "Cai, Trevor",
+          "Rutherford, Eliza",
+          "de Las Casas, Diego",
+          "Hendricks, Lisa Anne",
+          "Welbl, Johannes",
+          "Clark, Aidan",
+          "Hennigan, Tom",
+          "Noland, Eric",
+          "Millican, Katie",
+          "van den Driessche, George",
+          "Damoc, Bogdan",
+          "Guy, Aurelia",
+          "Osindero, Simon",
+          "Simonyan, Karen",
+          "Elsen, Erich",
+          "Vinyals, Oriol",
+          "Rae, Jack W.",
+          "Sifre, Laurent"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/8342b592fe238f3d230e4959b06fd10153c45db1",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Training Compute-Optimal Large Language Models",
+        "year": 2022,
+        "authors": [
+          "Jordan Hoffmann",
+          "Sebastian Borgeaud",
+          "Arthur Mensch",
+          "Elena Buchatskaya",
+          "Trevor Cai",
+          "Eliza Rutherford",
+          "Diego de Las Casas",
+          "Lisa Anne Hendricks",
+          "Johannes Welbl",
+          "Aidan Clark",
+          "T. Hennigan",
+          "Eric Noland",
+          "Katie Millican",
+          "George van den Driessche",
+          "Bogdan Damoc",
+          "Aurelia Guy",
+          "Simon Osindero",
+          "K. Simonyan",
+          "Erich Elsen",
+          "Jack W. Rae",
+          "O. Vinyals",
+          "L. Sifre"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "brown2020language",
+      "raw": {
+        "title": "Language models are few-shot learners",
+        "authors": [
+          "Brown, Tom",
+          "Mann, Benjamin",
+          "Ryder, Nick",
+          "Subbiah, Melanie",
+          "Kaplan, Jared D",
+          "Dhariwal, Prafulla",
+          "Neelakantan, Arvind",
+          "Shyam, Pranav",
+          "Sastry, Girish",
+          "Askell, Amanda",
+          "others"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "chen2020generative",
+      "raw": {
+        "title": "Generative pretraining from pixels",
+        "authors": [
+          "Chen, Mark",
+          "Radford, Alec",
+          "Child, Rewon",
+          "Wu, Jeffrey",
+          "Jun, Heewoo",
+          "Luan, David",
+          "Sutskever, Ilya"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "esser2021taming",
+      "raw": {
+        "title": "Taming transformers for high-resolution image synthesis",
+        "authors": [
+          "Esser, Patrick",
+          "Rombach, Robin",
+          "Ommer, Bj{\\\"o}rn"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "yu2022scaling",
+      "raw": {
+        "title": "Scaling Autoregressive Models for Content-Rich Text-to-Image Generation",
+        "authors": [
+          "Jiahui Yu",
+          "Yuanzhong Xu",
+          "Jing Yu Koh",
+          "Thang Luong",
+          "Gunjan Baid",
+          "Zirui Wang",
+          "Vijay Vasudevan",
+          "Alexander Ku",
+          "Yinfei Yang",
+          "Burcu Karagol Ayan",
+          "Ben Hutchinson",
+          "Wei Han",
+          "Zarana Parekh",
+          "Xin Li",
+          "Han Zhang",
+          "Jason Baldridge",
+          "Yonghui Wu"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": "2206.10789"
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/1243e13254bb4ea1f71b4be8a3e4e54ffd02d2fe",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Scaling Autoregressive Models for Content-Rich Text-to-Image Generation",
+        "year": 2022,
+        "authors": [
+          "Jiahui Yu",
+          "Yuanzhong Xu",
+          "Jing Yu Koh",
+          "Thang Luong",
+          "Gunjan Baid",
+          "Zirui Wang",
+          "Vijay Vasudevan",
+          "Alexander Ku",
+          "Yinfei Yang",
+          "Burcu Karagol Ayan",
+          "Ben Hutchinson",
+          "Wei Han",
+          "Zarana Parekh",
+          "Xin Li",
+          "Han Zhang",
+          "Jason Baldridge",
+          "Yonghui Wu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "llamagen",
+      "raw": {
+        "title": "Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation",
+        "authors": [
+          "Peize Sun",
+          "Yi Jiang",
+          "Shoufa Chen",
+          "Shilong Zhang",
+          "Bingyue Peng",
+          "Ping Luo",
+          "Zehuan Yuan"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2406.06525"
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/b15e6e2b1d81bc110f8fc98c3caf2e25e2512539",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation",
+        "year": 2024,
+        "authors": [
+          "Peize Sun",
+          "Yi Jiang",
+          "Shoufa Chen",
+          "Shilong Zhang",
+          "Bingyue Peng",
+          "Ping Luo",
+          "Zehuan Yuan"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "shazeer2017outrageously",
+      "raw": {
+        "title": "Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer",
+        "authors": [
+          "Noam Shazeer",
+          "Azalia Mirhoseini",
+          "Krzysztof Maziarz",
+          "Andy Davis",
+          "Quoc V. Le",
+          "Geoffrey E. Hinton",
+          "Jeff Dean"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "lepikhin2020gshard",
+      "raw": {
+        "title": "GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding",
+        "authors": [
+          "Dmitry Lepikhin",
+          "HyoukJoong Lee",
+          "Yuanzhong Xu",
+          "Dehao Chen",
+          "Orhan Firat",
+          "Yanping Huang",
+          "Maxim Krikun",
+          "Noam Shazeer",
+          "Zhifeng Chen"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "jiang2024mixtral",
+      "raw": {
+        "title": "Mixtral of Experts",
+        "authors": [
+          "Albert Q. Jiang",
+          "Alexandre Sablayrolles",
+          "Antoine Roux",
+          "Arthur Mensch",
+          "Blanche Savary",
+          "Chris Bamford",
+          "Devendra Singh Chaplot",
+          "Diego de Las Casas",
+          "Emma Bou Hanna",
+          "Florian Bressand",
+          "Gianna Lengyel",
+          "Guillaume Bour",
+          "Guillaume Lample",
+          "L{\\'{e}}lio Renard Lavaud",
+          "Lucile Saulnier",
+          "Marie{-}Anne Lachaux",
+          "Pierre Stock",
+          "Sandeep Subramanian",
+          "Sophia Yang",
+          "Szymon Antoniak",
+          "Teven Le Scao",
+          "Th{\\'{e}}ophile Gervet",
+          "Thibaut Lavril",
+          "Thomas Wang",
+          "Timoth{\\'{e}}e Lacroix",
+          "William El Sayed"
+        ],
+        "year": 2024,
+        "doi": "10.48550/ARXIV.2401.04088",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4390723197",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Mixtral of Experts",
+        "year": 2024,
+        "authors": [
+          "Albert Q. Jiang",
+          "Alexandre Sablayrolles",
+          "Antoine Roux",
+          "Arthur Mensch",
+          "Blanche Savary",
+          "Chris Bamford",
+          "Devendra Singh Chaplot",
+          "Diego de las Casas",
+          "Emma Bou Hanna",
+          "Florian Bressand",
+          "Gianna Lengyel",
+          "Guillaume Bour",
+          "Guillaume Lample",
+          "Lélio Renard Lavaud",
+          "Lucile Saulnier",
+          "Marie-Anne Lachaux",
+          "Pierre Stock",
+          "Sandeep Subramanian",
+          "Sophia Yang",
+          "Szymon Antoniak",
+          "Teven Le Scao",
+          "Théophile Gervet",
+          "Thibaut Lavril",
+          "Thomas J. Wang",
+          "Timothée Lacroix",
+          "William El Sayed"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "puigcerver2023soft",
+      "raw": {
+        "title": "From Sparse to Soft Mixtures of Experts",
+        "authors": [
+          "Puigcerver, Joan",
+          "Riquelme, Carlos",
+          "Mustafa, Basil",
+          "Houlsby, Neil"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": "2308.00951"
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/2edccb8fa562ed52cd49ea6fc67ed32db6218247",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "From Sparse to Soft Mixtures of Experts",
+        "year": 2023,
+        "authors": [
+          "J. Puigcerver",
+          "C. Riquelme",
+          "Basil Mustafa",
+          "N. Houlsby"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "lan2019albert",
+      "raw": {
+        "title": "ALBERT: A Lite BERT for Self-supervised Learning of Language Representations",
+        "authors": [
+          "Zhenzhong Lan",
+          "Mingda Chen",
+          "Sebastian Goodman",
+          "Kevin Gimpel",
+          "Piyush Sharma",
+          "Radu Soricut"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "dehghani2018universal",
+      "raw": {
+        "title": "Universal Transformers",
+        "authors": [
+          "Dehghani, Mostafa",
+          "Gouws, Stephan",
+          "Vinyals, Oriol",
+          "Uszkoreit, Jakob",
+          "Kaiser, {\\L}ukasz"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": "1807.03819"
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/ac4dafdef1d2b685b7f28a11837414573d39ff4e",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Universal Transformers",
+        "year": 2018,
+        "authors": [
+          "Mostafa Dehghani",
+          "Stephan Gouws",
+          "O. Vinyals",
+          "Jakob Uszkoreit",
+          "Lukasz Kaiser"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "lample2019large",
+      "raw": {
+        "title": "Large memory layers with product keys",
+        "authors": [
+          "Lample, Guillaume",
+          "Sablayrolles, Alexandre",
+          "Ranzato, Marc'Aurelio",
+          "Denoyer, Ludovic",
+          "Jegou, Herve"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/bf442ab269074665a68e4dbbe19e4efc97862541",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Large Memory Layers with Product Keys",
+        "year": 2019,
+        "authors": [
+          "Guillaume Lample",
+          "Alexandre Sablayrolles",
+          "Marc'Aurelio Ranzato",
+          "Ludovic Denoyer",
+          "H. Jégou"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "weston2014memory",
+      "raw": {
+        "title": "Memory Networks",
+        "authors": [
+          "Jason Weston",
+          "Sumit Chopra",
+          "Antoine Bordes"
+        ],
+        "year": 2015,
+        "doi": null,
+        "arxiv_id": "1410.3916"
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/71ae756c75ac89e2d731c9c79649562b5768ff39",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Memory Networks",
+        "year": 2014,
+        "authors": [
+          "J. Weston",
+          "S. Chopra",
+          "Antoine Bordes"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "sukhbaatar2015end",
+      "raw": {
+        "title": "End-to-end memory networks",
+        "authors": [
+          "Sukhbaatar, Sainbayar",
+          "Weston, Jason",
+          "Fergus, Rob"
+        ],
+        "year": 2015,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "sukhbaatar2019augmenting",
+      "raw": {
+        "title": "Augmenting Self-attention with Persistent Memory",
+        "authors": [
+          "Sukhbaatar, Sainbayar",
+          "Grave, Edouard",
+          "Lample, Guillaume",
+          "Jegou, Herve",
+          "Joulin, Armand"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": "1907.01470"
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/830995ef17cc291c13f42dfd9f462137de1d2179",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Augmenting Self-attention with Persistent Memory",
+        "year": 2019,
+        "authors": [
+          "Sainbayar Sukhbaatar",
+          "Edouard Grave",
+          "Guillaume Lample",
+          "H. Jégou",
+          "Armand Joulin"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "vaswani2017attention",
+      "raw": {
+        "title": "Attention is all you need",
+        "authors": [
+          "Vaswani, Ashish",
+          "Shazeer, Noam",
+          "Parmar, Niki",
+          "Uszkoreit, Jakob",
+          "Jones, Llion",
+          "Gomez, Aidan N",
+          "Kaiser, {\\L}ukasz",
+          "Polosukhin, Illia"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "geva2021transformer",
+      "raw": {
+        "title": "Transformer Feed-Forward Layers Are Key-Value Memories",
+        "authors": [
+          "Geva, Mor",
+          "Schuster, Roei",
+          "Berant, Jonathan",
+          "Levy, Omer"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "meng2022locating",
+      "raw": {
+        "title": "Locating and editing factual associations in GPT",
+        "authors": [
+          "Meng, Kevin",
+          "Bau, David",
+          "Andonian, Alex",
+          "Belinkov, Yonatan"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/996445d847f06e99b0bd259345408a0cf1bce87e",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Locating and Editing Factual Associations in GPT",
+        "year": 2022,
+        "authors": [
+          "Kevin Meng",
+          "David Bau",
+          "A. Andonian",
+          "Yonatan Belinkov"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "zhou2024value",
+      "raw": {
+        "title": "Value Residual Learning For Alleviating Attention Concentration In Transformers",
+        "authors": [
+          "Zhou, Zhanchao",
+          "Wu, Tianyi",
+          "Jiang, Zhiyun",
+          "Lan, Zhenzhong"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2410.17897"
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/1e89b6858ec00266933f1df49460b8ddc0fffc23",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Value Residual Learning",
+        "year": 2024,
+        "authors": [
+          "Zhanchao Zhou",
+          "Tianyi Wu",
+          "Zhiyun Jiang",
+          "Fares Obeid",
+          "Zhenzhong Lan"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "behrouz2025titans",
+      "raw": {
+        "title": "Titans: Learning to Memorize at Test Time",
+        "authors": [
+          "Behrouz, Ali",
+          "Zhong, Peilin",
+          "Mirrokni, Vahab"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": "2501.00663"
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/5e7a795d89910634f001cc3a631023f1dd4e2e23",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Titans: Learning to Memorize at Test Time",
+        "year": 2024,
+        "authors": [
+          "Ali Behrouz",
+          "Peilin Zhong",
+          "V. Mirrokni"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "fedus2022switch",
+      "raw": {
+        "title": "Switch transformers: Scaling to trillion parameter models with simple and efficient sparsity",
+        "authors": [
+          "Fedus, William",
+          "Zoph, Barret",
+          "Shazeer, Noam"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "su2024roformer",
+      "raw": {
+        "title": "RoFormer: Enhanced Transformer with Rotary Position Embedding",
+        "authors": [
+          "Su, Jianlin",
+          "Ahmed, Murtadha",
+          "Lu, Yu",
+          "Pan, Shengfeng",
+          "Wen, Bo",
+          "Liu, Yunfeng"
+        ],
+        "year": 2024,
+        "doi": "10.1016/j.neucom.2023.127063",
+        "arxiv_id": "2104.09864"
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W4388979610",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "RoFormer: Enhanced transformer with Rotary Position Embedding",
+        "year": 2023,
+        "authors": [
+          "Jianlin Su",
+          "Murtadha Ahmed",
+          "Yu Lu",
+          "Shengfeng Pan",
+          "Bo Wen",
+          "Yunfeng Liu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "deepseekv2",
+      "raw": {
+        "title": "DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model",
+        "authors": [
+          "DeepSeek-AI"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2405.04434"
+      },
+      "status": "metadata_mismatch",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/53a803388e83ae89261624099d7be4287ace67cb",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model",
+        "year": 2024,
+        "authors": [
+          "Zhihong Shao",
+          "Damai Dai",
+          "Daya Guo",
+          "Zihan Wang",
+          "Huajian Xin"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [
+        "authors"
+      ],
+      "error": null
+    },
+    {
+      "key": "moddednanogpt",
+      "raw": {
+        "title": "modded-nanogpt: NanoGPT speedrun",
+        "authors": [
+          "Jordan, Keller",
+          "others"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "nanochat",
+      "raw": {
+        "title": "nanochat: The best ChatGPT that \\$100 can buy",
+        "authors": [
+          "Karpathy, Andrej"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "jordan2024muon",
+      "raw": {
+        "title": "Muon: An optimizer for hidden layers in neural networks",
+        "authors": [
+          "Jordan, Keller",
+          "Jin, Yuchen",
+          "Boza, Vlado",
+          "Jiacheng, You",
+          "Cesista, Franz",
+          "Newhouse, Laker",
+          "Bernstein, Jeremy"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "touvron2021going",
+      "raw": {
+        "title": "Going deeper with image transformers",
+        "authors": [
+          "Touvron, Hugo",
+          "Cord, Matthieu",
+          "Douze, Matthijs",
+          "Massa, Francisco",
+          "Sablayrolles, Alexandre",
+          "J{\\'e}gou, Herv{\\'e}"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "huang2017densely",
+      "raw": {
+        "title": "Densely connected convolutional networks",
+        "authors": [
+          "Huang, Gao",
+          "Liu, Zhuang",
+          "Van Der Maaten, Laurens",
+          "Weinberger, Kilian Q"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "so2021primer",
+      "raw": {
+        "title": "Primer: searching for efficient transformers for language modeling",
+        "authors": [
+          "So, David R.",
+          "Ma\\'{n}ke, Wojciech",
+          "Liu, Hanxiao",
+          "Dai, Zihang",
+          "Shazeer, Noam",
+          "Le, Quoc V."
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/4a8964ea0de47010fb458021b68fa3ef5c4b77b2",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Primer: Searching for Efficient Transformers for Language Modeling",
+        "year": 2021,
+        "authors": [
+          "David R. So",
+          "Wojciech Ma'nke",
+          "Hanxiao Liu",
+          "Zihang Dai",
+          "Noam Shazeer",
+          "Quoc V. Le"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "dehghani2023scaling",
+      "raw": {
+        "title": "Scaling Vision Transformers to 22 Billion Parameters",
+        "authors": [
+          "Dehghani, Mostafa",
+          "Djolonga, Josip",
+          "Mustafa, Basil",
+          "Padlewski, Piotr",
+          "Heek, Jonathan",
+          "Gilmer, Justin",
+          "Steiner, Andreas",
+          "Caron, Mathilde",
+          "Geirhos, Robert",
+          "Alabdulmohsin, Ibrahim",
+          "others"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "lozhkov2024fineweb-edu",
+      "raw": {
+        "title": "FineWeb-Edu: the Finest Collection of Educational Content",
+        "authors": [
+          "Lozhkov, Anton",
+          "Ben Allal, Loubna",
+          "von Werra, Leandro",
+          "Wolf, Thomas"
+        ],
+        "year": 2024,
+        "doi": "10.57967/hf/2497",
+        "arxiv_id": null
+      },
+      "status": "metadata_mismatch",
+      "openalex_id": "https://openalex.org/W6898908466",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "fineweb-edu",
+        "year": 2024,
+        "authors": [
+          "HuggingFaceFW"
+        ]
+      },
+      "title_similarity": 0.318840579710145,
+      "mismatches": [
+        "authors"
+      ],
+      "error": null
+    },
+    {
+      "key": "openai2023gpt4",
+      "raw": {
+        "title": "GPT-4 Technical Report",
+        "authors": [
+          "OpenAI"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": "2303.08774"
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/163b4d6a79a5b19af88b8585456363340d9efd04",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "GPT-4 Technical Report",
+        "year": 2023,
+        "authors": [
+          "OpenAI Josh Achiam",
+          "Steven Adler",
+          "S. Agarwal",
+          "L. Ahmad",
+          "Ilge Akkaya",
+          "Florencia Leoni Aleman",
+          "D. Almeida",
+          "Janko Altenschmidt",
+          "S. Altman",
+          "Shyamal Anadkat",
+          "Red Avila",
+          "Igor Babuschkin",
+          "S. Balaji",
+          "Valerie Balcom",
+          "Paul Baltescu",
+          "Haim-ing Bao",
+          "Mo Bavarian",
+          "Jeff Belgum",
+          "Irwan Bello",
+          "Jake Berdine",
+          "Gabriel Bernadett-Shapiro",
+          "Christopher Berner",
+          "Lenny Bogdonoff",
+          "O. Boiko",
+          "Made-laine Boyd",
+          "Anna-Luisa Brakman",
+          "Greg Brockman",
+          "Tim Brooks",
+          "Miles Brundage",
+          "Kevin Button",
+          "Trevor Cai",
+          "Rosie Campbell",
+          "Andrew Cann",
+          "Brittany Carey",
+          "Chelsea Carlson",
+          "Rory Carmichael",
+          "Brooke Chan",
+          "Che Chang",
+          "Fotis Chantzis",
+          "Derek Chen",
+          "Sully Chen",
+          "Ruby Chen",
+          "Jason Chen",
+          "Mark Chen",
+          "Benjamin Chess",
+          "Chester Cho",
+          "Casey Chu",
+          "Hyung Won Chung",
+          "Dave Cummings",
+          "Jeremiah Currier",
+          "Yunxing Dai",
+          "Cory Decareaux",
+          "Thomas Degry",
+          "Noah Deutsch",
+          "Damien Deville",
+          "Arka Dhar",
+          "David Dohan",
+          "Steve Dowling",
+          "Sheila Dunning",
+          "Adrien Ecoffet",
+          "Atty Eleti",
+          "Tyna Eloundou",
+          "David Farhi",
+          "L. Fedus",
+          "Niko Felix",
+          "S. Fishman",
+          "Juston Forte",
+          "Is-abella Fulford",
+          "Leo Gao",
+          "Elie Georges",
+          "C. Gibson",
+          "Vik Goel",
+          "Tarun Gogineni",
+          "Gabriel Goh",
+          "Raphael Gontijo-Lopes",
+          "J. Gordon",
+          "Morgan Grafstein",
+          "Scott Gray",
+          "Ryan Greene",
+          "Joshua Gross",
+          "S. Gu",
+          "Yufei Guo",
+          "Chris Hallacy",
+          "Jesse Han",
+          "J. Harris",
+          "Yuchen He",
+          "Mike Heaton",
+          "Johannes Heidecke",
+          "Chris Hesse",
+          "Alan Hickey",
+          "W. Hickey",
+          "P. Hoeschele",
+          "Brandon Houghton",
+          "Kenny Hsu",
+          "Shengli Hu",
+          "Xin Hu",
+          "Joost Huizinga",
+          "Shantanu Jain",
+          "Shawn Jain",
+          "Joanne Jang",
+          "Angela Jiang",
+          "R. Jiang",
+          "Haozhun Jin",
+          "Denny Jin",
+          "Shino Jomoto",
+          "Billie Jonn",
+          "Heewoo Jun",
+          "Tomer Kaftan",
+          "Lukasz Kaiser",
+          "Ali Kamali",
+          "I. Kanitscheider",
+          "N. Keskar",
+          "Tabarak Khan",
+          "Logan Kilpatrick",
+          "Jong Wook Kim",
+          "Christina Kim",
+          "Yongjik Kim",
+          "Hendrik Kirchner",
+          "J. Kiros",
+          "Matthew Knight",
+          "Daniel Kokotajlo",
+          "Lukasz Kondraciuk",
+          "Andrew Kondrich",
+          "Aris Konstantinidis",
+          "Kyle Kosic",
+          "Gretchen Krueger",
+          "Vishal Kuo",
+          "Michael Lampe",
+          "Ikai Lan",
+          "Teddy Lee",
+          "Jan Leike",
+          "Jade Leung",
+          "Daniel Levy",
+          "Chak Li",
+          "Rachel Lim",
+          "Molly Lin",
+          "Stephanie L. Lin",
+          "Ma-teusz Litwin",
+          "Theresa Lopez",
+          "Ryan Lowe",
+          "Patricia Lue",
+          "A. Makanju",
+          "Kim Malfacini",
+          "Sam Manning",
+          "Todor Markov",
+          "Yaniv Markovski",
+          "Bianca Martin",
+          "Katie Mayer",
+          "Andrew Mayne",
+          "Bob McGrew",
+          "S. McKinney",
+          "Christine McLeavey",
+          "Paul McMillan",
+          "Jake McNeil",
+          "David Medina",
+          "Aalok Mehta",
+          "Jacob Menick",
+          "Luke Metz",
+          "Andrey Mishchenko",
+          "Pamela Mishkin",
+          "Vinnie Monaco",
+          "Evan Morikawa",
+          "Daniel P. Mossing",
+          "Tong Mu",
+          "M. Murati",
+          "O. Murk",
+          "David M'ely",
+          "Ashvin Nair",
+          "Reiichiro Nakano",
+          "Rajeev Nayak",
+          "Arvind Neelakantan",
+          "R. Ngo",
+          "Hyeonwoo Noh",
+          "Ouyang Long",
+          "Cullen O'Keefe",
+          "J. Pachocki",
+          "A. Paino",
+          "Joe Palermo",
+          "Ashley Pantuliano",
+          "Giambattista Parascandolo",
+          "J. Parish",
+          "Emy Parparita",
+          "Alexandre Passos",
+          "Mikhail Pavlov",
+          "Andrew Peng",
+          "Adam Perelman",
+          "Filipe de Avila Belbute Peres",
+          "Michael Petrov",
+          "Henrique Pondé de Oliveira Pinto",
+          "Michael Pokorny",
+          "Michelle Pokrass",
+          "Vitchyr H. Pong",
+          "Tolly Powell",
+          "Alethea Power",
+          "Boris Power",
+          "Elizabeth Proehl",
+          "Raul Puri",
+          "Alec Radford",
+          "Jack W. Rae",
+          "Aditya Ramesh",
+          "Cameron Raymond",
+          "F. Real",
+          "Kendra Rimbach",
+          "Carl Ross",
+          "Bob Rotsted",
+          "Henri Roussez",
+          "N. Ryder",
+          "M. Saltarelli",
+          "Ted Sanders",
+          "Shibani Santurkar",
+          "G. Sastry",
+          "Heather Schmidt",
+          "David Schnurr",
+          "John Schulman",
+          "Daniel Selsam",
+          "Kyla Sheppard",
+          "T. Sherbakov",
+          "Jessica Shieh",
+          "S. Shoker",
+          "Pranav Shyam",
+          "Szymon Sidor",
+          "Eric Sigler",
+          "M. Simens",
+          "Jordan Sitkin",
+          "Katarina Slama",
+          "Ian Sohl",
+          "Benjamin Sokolowsky",
+          "Yang Song",
+          "N. Staudacher",
+          "F. Such",
+          "Natalie Summers",
+          "I. Sutskever",
+          "Jie Tang",
+          "N. Tezak",
+          "Madeleine Thompson",
+          "P. Tillet",
+          "Amin Tootoonchian",
+          "Elizabeth Tseng",
+          "Preston Tuggle",
+          "Nick Turley",
+          "Jerry Tworek",
+          "Juan Felipe Cer'on Uribe",
+          "Andrea Vallone",
+          "Arun Vijayvergiya",
+          "Chelsea Voss",
+          "Carroll L. Wainwright",
+          "Justin Wang",
+          "Alvin Wang",
+          "Ben Wang",
+          "Jonathan Ward",
+          "Jason Wei",
+          "CJ Weinmann",
+          "Akila Welihinda",
+          "Peter Welinder",
+          "Jiayi Weng",
+          "Lilian Weng",
+          "Matt Wiethoff",
+          "Dave Willner",
+          "Clemens Winter",
+          "Samuel Wolrich",
+          "Hannah Wong",
+          "Lauren Workman",
+          "Sherwin Wu",
+          "Jeff Wu",
+          "Michael Wu",
+          "Kai Xiao",
+          "Tao Xu",
+          "Sarah Yoo",
+          "Kevin Yu",
+          "Qim-ing Yuan",
+          "Wojciech Zaremba",
+          "Rowan Zellers",
+          "Chong Zhang",
+          "Marvin Zhang",
+          "Shengjia Zhao",
+          "Tianhao Zheng",
+          "Juntang Zhuang",
+          "William Zhuk",
+          "Barret Zoph"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "van2017neural",
+      "raw": {
+        "title": "Neural discrete representation learning",
+        "authors": [
+          "van den Oord, Aaron",
+          "Vinyals, Oriol",
+          "Kavukcuoglu, Koray"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/f466157848d1a7772fb6d02cdac9a7a5e7ef982e",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Neural Discrete Representation Learning",
+        "year": 2017,
+        "authors": [
+          "Aäron van den Oord",
+          "O. Vinyals",
+          "K. Kavukcuoglu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "deng2009imagenet",
+      "raw": {
+        "title": "ImageNet: A Large-Scale Hierarchical Image Database",
+        "authors": [
+          "Deng, Jia",
+          "Dong, Wei",
+          "Socher, Richard",
+          "Li, Li-Jia",
+          "Li, Kai",
+          "Fei-Fei, Li"
+        ],
+        "year": 2009,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "heusel2017gans",
+      "raw": {
+        "title": "GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium",
+        "authors": [
+          "Heusel, Martin",
+          "Ramsauer, Hubert",
+          "Unterthiner, Thomas",
+          "Nessler, Bernhard",
+          "Hochreiter, Sepp"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "salimans2016improved",
+      "raw": {
+        "title": "Improved Techniques for Training GANs",
+        "authors": [
+          "Salimans, Tim",
+          "Goodfellow, Ian",
+          "Zaremba, Wojciech",
+          "Cheung, Vicki",
+          "Radford, Alec",
+          "Chen, Xi"
+        ],
+        "year": 2016,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "kynkaanniemi2019improved",
+      "raw": {
+        "title": "Improved precision and recall metric for assessing generative models",
+        "authors": [
+          "Kynk\\\"{a}\\\"{a}nniemi, Tuomas",
+          "Karras, Tero",
+          "Laine, Samuli",
+          "Lehtinen, Jaakko",
+          "Aila, Timo"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/d383dd8ced85d7898d8b1546c514a34fb626ea16",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Improved Precision and Recall Metric for Assessing Generative Models",
+        "year": 2019,
+        "authors": [
+          "T. Kynkäänniemi",
+          "Tero Karras",
+          "S. Laine",
+          "J. Lehtinen",
+          "Timo Aila"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    }
+  ]
+}

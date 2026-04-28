@@ -1,0 +1,2097 @@
+{
+  "paper_id": "e8fc2472-3239-4fc4-9c55-add4146d3338",
+  "total": 62,
+  "verified": 52,
+  "mismatch": 0,
+  "missing": 4,
+  "ambiguous": 4,
+  "error": 1,
+  "skipped": 1,
+  "s2_consulted": 61,
+  "s2_lifted": 60,
+  "key_style_outliers": [],
+  "entries": [
+    {
+      "key": "poli2024mechanistic",
+      "raw": {
+        "title": "Mechanistic design and scaling of hybrid architectures",
+        "authors": [
+          "Poli, Michael",
+          "Thomas, Armin W",
+          "Nguyen, Eric",
+          "Ponnusamy, Pragaash",
+          "Deiseroth, Bj{\\\"o}rn",
+          "Kersting, Kristian",
+          "Suzuki, Taiji",
+          "Hie, Brian",
+          "Ermon, Stefano",
+          "R{\\'e}, Christopher",
+          "others"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/05c1dc502ed51162580ccd320d5668d2fec94a7a",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Mechanistic Design and Scaling of Hybrid Architectures",
+        "year": 2024,
+        "authors": [
+          "Michael Poli",
+          "Armin W. Thomas",
+          "Eric Nguyen",
+          "Pragaash Ponnusamy",
+          "Bjorn Deiseroth",
+          "K. Kersting",
+          "Taiji Suzuki",
+          "Brian L Hie",
+          "Stefano Ermon",
+          "Christopher R'e",
+          "Ce Zhang",
+          "Stefano Massaroli"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Mechanistic+design+and+scaling+of+hybrid+architectures&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "okpekpe2025recalling",
+      "raw": {
+        "title": "When recalling in-context, Transformers are not SSMs",
+        "authors": [
+          "Okpekpe, Destiny",
+          "Orvieto, Antonio"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "not_found",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": "semantic_scholar",
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=When+recalling+in-context%2C+Transformers+are+not+SSMs&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "rusch2024oscillatory",
+      "raw": {
+        "title": "Oscillatory state-space models",
+        "authors": [
+          "Rusch, T Konstantin",
+          "Rus, Daniela"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Oscillatory+state-space+models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "arora2023zoology",
+      "raw": {
+        "title": "Zoology: Measuring and improving recall in efficient language models",
+        "authors": [
+          "Arora, Simran",
+          "Eyuboglu, Sabri",
+          "Timalsina, Aman",
+          "Johnson, Isys",
+          "Poli, Michael",
+          "Zou, James",
+          "Rudra, Atri",
+          "R{\\'e}, Christopher"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/1be73fa3e856c33d0aed1d9e46693523e7fa3c60",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Zoology: Measuring and Improving Recall in Efficient Language Models",
+        "year": 2023,
+        "authors": [
+          "Simran Arora",
+          "Sabri Eyuboglu",
+          "Aman Timalsina",
+          "Isys Johnson",
+          "Michael Poli",
+          "James Zou",
+          "Atri Rudra",
+          "Christopher R'e"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Zoology%3A+Measuring+and+improving+recall+in+efficient+language+models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "olsson2022context",
+      "raw": {
+        "title": "In-context learning and induction heads",
+        "authors": [
+          "Olsson, Catherine",
+          "Elhage, Nelson",
+          "Nanda, Neel",
+          "Joseph, Nicholas",
+          "DasSarma, Nova",
+          "Henighan, Tom",
+          "Mann, Ben",
+          "Askell, Amanda",
+          "Bai, Yuntao",
+          "Chen, Anna",
+          "others"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/c90a99eeb57019732a6cc996bb9eaf13faedf00f",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "In-context Learning and Induction Heads",
+        "year": 2022,
+        "authors": [
+          "Catherine Olsson",
+          "Nelson Elhage",
+          "Neel Nanda",
+          "Nicholas Joseph",
+          "Nova Dassarma",
+          "T. Henighan",
+          "Benjamin Mann",
+          "Amanda Askell",
+          "Yuntao Bai",
+          "Anna Chen",
+          "Tom Conerly",
+          "Dawn Drain",
+          "Deep Ganguli",
+          "Zac Hatfield-Dodds",
+          "Danny Hernandez",
+          "Scott Johnston",
+          "Andy Jones",
+          "John Kernion",
+          "Liane Lovitt",
+          "Kamal Ndousse",
+          "Dario Amodei",
+          "Tom B. Brown",
+          "Jack Clark",
+          "Jared Kaplan",
+          "Sam McCandlish",
+          "Chris Olah"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=In-context+learning+and+induction+heads&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "yang2024parallelizing",
+      "raw": {
+        "title": "Parallelizing linear transformers with the delta rule over sequence length",
+        "authors": [
+          "Yang, Songlin",
+          "Wang, Bailin",
+          "Zhang, Yu",
+          "Shen, Yikang",
+          "Kim, Yoon"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/7afaabb73bec969c0937be46b9f0f757e07c8534",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Parallelizing Linear Transformers with the Delta Rule over Sequence Length",
+        "year": 2024,
+        "authors": [
+          "Songlin Yang",
+          "Bailin Wang",
+          "Yu Zhang",
+          "Yikang Shen",
+          "Yoon Kim"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Parallelizing+linear+transformers+with+the+delta+rule+over+sequence+length&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zucchet2024recurrent",
+      "raw": {
+        "title": "Recurrent neural networks: vanishing and exploding gradients are not the end of the story",
+        "authors": [
+          "Zucchet, Nicolas",
+          "Orvieto, Antonio"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/129c1855ceaf6d2c1825fe8bf16950ee63e4d636",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Recurrent neural networks: vanishing and exploding gradients are not the end of the story",
+        "year": 2024,
+        "authors": [
+          "Nicolas Zucchet",
+          "Antonio Orvieto"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Recurrent+neural+networks%3A+vanishing+and+exploding+gradients+are+not+the+end+of+the+story&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "wang2023stablessm",
+      "raw": {
+        "title": "Stablessm: Alleviating the curse of memory in state-space models through stable reparameterization",
+        "authors": [
+          "Wang, Shida",
+          "Li, Qianxiao"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/9c5062743eaace5c1ff822bba819031f05cd3106",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "StableSSM: Alleviating the Curse of Memory in State-space Models through Stable Reparameterization",
+        "year": 2023,
+        "authors": [
+          "Shida Wang",
+          "Qianxiao Li"
+        ]
+      },
+      "title_similarity": 0.9720670391061452,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Stablessm%3A+Alleviating+the+curse+of+memory+in+state-space+models+through+stable+reparameterization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "movahedi2025fixed",
+      "raw": {
+        "title": "Fixed-Point RNNs: From Diagonal to Dense in a Few Iterations",
+        "authors": [
+          "Movahedi, Sajad",
+          "Sarnthein, Felix",
+          "Cirone, Nicola Muca",
+          "Orvieto, Antonio"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/6c2663c543f8d2c7879ea8018afa0cba21d977a0",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Fixed-Point RNNs: From Diagonal to Dense in a Few Iterations",
+        "year": 2025,
+        "authors": [
+          "Sajad Movahedi",
+          "Felix Sarnthein",
+          "Nicola Muca Cirone",
+          "A. Orvieto"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Fixed-Point+RNNs%3A+From+Diagonal+to+Dense+in+a+Few+Iterations&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "cirone2024theoretical",
+      "raw": {
+        "title": "Theoretical foundations of deep selective state-space models",
+        "authors": [
+          "Cirone, Nicola Muca",
+          "Orvieto, Antonio",
+          "Walker, Benjamin",
+          "Salvi, Cristopher",
+          "Lyons, Terry"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/917096f28209ef90c9e6363cf49438341120af5e",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Theoretical Foundations of Deep Selective State-Space Models",
+        "year": 2024,
+        "authors": [
+          "Nicola Muca Cirone",
+          "Antonio Orvieto",
+          "Benjamin Walker",
+          "C. Salvi",
+          "Terry Lyons"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Theoretical+foundations+of+deep+selective+state-space+models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "gu2023mamba",
+      "raw": {
+        "title": "Mamba: Linear-time sequence modeling with selective state spaces",
+        "authors": [
+          "Gu, Albert",
+          "Dao, Tri"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/7bbc7595196a0606a07506c4fb1473e5e87f6082",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Mamba: Linear-Time Sequence Modeling with Selective State Spaces",
+        "year": 2023,
+        "authors": [
+          "Albert Gu",
+          "Tri Dao"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Mamba%3A+Linear-time+sequence+modeling+with+selective+state+spaces&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "gu2020improving",
+      "raw": {
+        "title": "Improving the gating mechanism of recurrent neural networks",
+        "authors": [
+          "Gu, Albert",
+          "Gulcehre, Caglar",
+          "Paine, Thomas",
+          "Hoffman, Matt",
+          "Pascanu, Razvan"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/335915a27a74e2c3a6c138fcf9c7c9bf4ba6ac8b",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Improving the Gating Mechanism of Recurrent Neural Networks",
+        "year": 2019,
+        "authors": [
+          "Albert Gu",
+          "Çaglar Gülçehre",
+          "T. Paine",
+          "Matthew W. Hoffman",
+          "Razvan Pascanu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Improving+the+gating+mechanism+of+recurrent+neural+networks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "gu2021efficiently",
+      "raw": {
+        "title": "Efficiently modeling long sequences with structured state spaces",
+        "authors": [
+          "Gu, Albert",
+          "Goel, Karan",
+          "R{\\'e}, Christopher"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/ac2618b2ce5cdcf86f9371bcca98bc5e37e46f51",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Efficiently Modeling Long Sequences with Structured State Spaces",
+        "year": 2021,
+        "authors": [
+          "Albert Gu",
+          "Karan Goel",
+          "Christopher R'e"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Efficiently+modeling+long+sequences+with+structured+state+spaces&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "feng2024were",
+      "raw": {
+        "title": "Were rnns all we needed?",
+        "authors": [
+          "Feng, Leo",
+          "Tung, Frederick",
+          "Ahmed, Mohamed Osama",
+          "Bengio, Yoshua",
+          "Hajimirsadeghi, Hossein"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/9e0385afae1aa0e10a134546c1355d758919b46e",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Were RNNs All We Needed?",
+        "year": 2024,
+        "authors": [
+          "Leo Feng",
+          "Frederick Tung",
+          "Mohamed Osama Ahmed",
+          "Y. Bengio",
+          "Hossein Hajimirsadeghi"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Were+rnns+all+we+needed%3F&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "cho2014learning",
+      "raw": {
+        "title": "Learning phrase representations using RNN encoder-decoder for statistical machine translation",
+        "authors": [
+          "Cho, Kyunghyun",
+          "Van Merri{\\\"e}nboer, Bart",
+          "Gulcehre, Caglar",
+          "Bahdanau, Dzmitry",
+          "Bougares, Fethi",
+          "Schwenk, Holger",
+          "Bengio, Yoshua"
+        ],
+        "year": 2014,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/0b544dfe355a5070b60986319a3f51fb45d1348e",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation",
+        "year": 2014,
+        "authors": [
+          "Kyunghyun Cho",
+          "B. V. Merrienboer",
+          "Çaglar Gülçehre",
+          "Dzmitry Bahdanau",
+          "Fethi Bougares",
+          "Holger Schwenk",
+          "Yoshua Bengio"
+        ]
+      },
+      "title_similarity": 0.989247311827957,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Learning+phrase+representations+using+RNN+encoder-decoder+for+statistical+machine+translation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "orvieto2024universality",
+      "raw": {
+        "title": "Universality of Linear Recurrences Followed by Non-linear Projections: Finite-Width Guarantees and Benefits of Complex Eigenvalues",
+        "authors": [
+          "Orvieto, Antonio",
+          "De, Soham",
+          "Gulcehre, Caglar",
+          "Pascanu, Razvan",
+          "Smith, Samuel L"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/0a304c773678824f7ab82e9f1acc8ed86dc668af",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Universality of Linear Recurrences Followed by Non-linear Projections: Finite-Width Guarantees and Benefits of Complex Eigenvalues",
+        "year": 2023,
+        "authors": [
+          "Antonio Orvieto",
+          "Soham De",
+          "Caglar Gulcehre",
+          "Razvan Pascanu",
+          "Samuel L. Smith"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Universality+of+Linear+Recurrences+Followed+by+Non-linear+Projections%3A+Finite-Width+Guarantees+and+Benefits+of+Complex+Eigenvalues&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zancato2024b",
+      "raw": {
+        "title": "B'MOJO: Hybrid State Space Realizations of Foundation Models with Eidetic and Fading Memory",
+        "authors": [
+          "Zancato, Luca",
+          "Seshadri, Arjun",
+          "Dukler, Yonatan",
+          "Golatkar, Aditya Sharad",
+          "Shen, Yantao",
+          "Bowman, Benjamin",
+          "Trager, Matthew",
+          "Achille, Alessandro",
+          "Soatto, Stefano"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/835dcf0ba3402d6a8a8f237ad2020ff3055c9b33",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "B'MOJO: Hybrid State Space Realizations of Foundation Models with Eidetic and Fading Memory",
+        "year": 2024,
+        "authors": [
+          "L. Zancato",
+          "Arjun Seshadri",
+          "Yonatan Dukler",
+          "Aditya Golatkar",
+          "Yantao Shen",
+          "Benjamin Bowman",
+          "Matthew Trager",
+          "A. Achille",
+          "S. Soatto"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=B%27MOJO%3A+Hybrid+State+Space+Realizations+of+Foundation+Models+with+Eidetic+and+Fading+Memory&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "glad2018control",
+      "raw": {
+        "title": "Control theory",
+        "authors": [
+          "Glad, Torkel",
+          "Ljung, Lennart"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "ambiguous",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/10f777895b895f23d43dfe4c98fc62ad6a9a2292",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Linear Matrix Inequalities In System And Control Theory",
+        "year": 1998,
+        "authors": [
+          "E. Yaz"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Control+theory&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "hamilton2020time",
+      "raw": {
+        "title": "Time series analysis",
+        "authors": [
+          "Hamilton, James D"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "ambiguous",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/f8b893f08902dd690a0bd664340214f87b04d5b0",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Time Series Analysis and Its Applications",
+        "year": 2025,
+        "authors": [
+          "R. Shumway",
+          "D. Stoffer"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Time+series+analysis&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "hairer1993solving",
+      "raw": {
+        "title": "Solving ordinary differential equations I: Nonstiff problems",
+        "authors": [
+          "Hairer, Ernst",
+          "Wanner, Gerhard",
+          "N{\\o}rsett, Syvert P"
+        ],
+        "year": 1993,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "ambiguous",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/21a5f22585fbcb9a3d4b0eff83d82ae1d7178fba",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Solving Ordinary Differential Equations I: Nonstiff Problems",
+        "year": 2009,
+        "authors": [
+          "E. Hairer",
+          "S. P. Nørsett",
+          "G. Wanner"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Solving+ordinary+differential+equations+I%3A+Nonstiff+problems&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "pascanu2013difficulty",
+      "raw": {
+        "title": "On the difficulty of training recurrent neural networks",
+        "authors": [
+          "Pascanu, Razvan",
+          "Mikolov, Tomas",
+          "Bengio, Yoshua"
+        ],
+        "year": 2013,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/84069287da0a6b488b8c933f3cb5be759cb6237e",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "On the difficulty of training recurrent neural networks",
+        "year": 2012,
+        "authors": [
+          "Razvan Pascanu",
+          "Tomas Mikolov",
+          "Yoshua Bengio"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=On+the+difficulty+of+training+recurrent+neural+networks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "merrill2023parallelism",
+      "raw": {
+        "title": "The parallelism tradeoff: Limitations of log-precision transformers",
+        "authors": [
+          "Merrill, William",
+          "Sabharwal, Ashish"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/955191363c3676f71766af3d14d1e6bbc0f040d6",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "The Parallelism Tradeoff: Limitations of Log-Precision Transformers",
+        "year": 2022,
+        "authors": [
+          "William Merrill",
+          "Ashish Sabharwal"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=The+parallelism+tradeoff%3A+Limitations+of+log-precision+transformers&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "merrill2024illusion",
+      "raw": {
+        "title": "The illusion of state in state-space models",
+        "authors": [
+          "Merrill, William",
+          "Petty, Jackson",
+          "Sabharwal, Ashish"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/917479a7a72ee7c1fb320c14d770e30ef322ef28",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "The Illusion of State in State-Space Models",
+        "year": 2024,
+        "authors": [
+          "William Merrill",
+          "Jackson Petty",
+          "Ashish Sabharwal"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=The+illusion+of+state+in+state-space+models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "deletang2023language",
+      "raw": {
+        "title": "Language modeling is compression",
+        "authors": [
+          "Del{\\'e}tang, Gr{\\'e}goire",
+          "Ruoss, Anian",
+          "Duquenne, Paul-Ambroise",
+          "Catt, Elliot",
+          "Genewein, Tim",
+          "Mattern, Christopher",
+          "Grau-Moya, Jordi",
+          "Wenliang, Li Kevin",
+          "Aitchison, Matthew",
+          "Orseau, Laurent",
+          "others"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/21091f8133ab034baacb92fdb958e14989eb427f",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Language Modeling Is Compression",
+        "year": 2023,
+        "authors": [
+          "Gr'egoire Del'etang",
+          "Anian Ruoss",
+          "Paul-Ambroise Duquenne",
+          "Elliot Catt",
+          "Tim Genewein",
+          "Christopher Mattern",
+          "Jordi Grau-Moya",
+          "W. Li",
+          "Matthew Aitchison",
+          "Laurent Orseau",
+          "Marcus Hutter",
+          "J. Veness"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Language+modeling+is+compression&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "hutter2005universal",
+      "raw": {
+        "title": "Universal artificial intelligence: Sequential decisions based on algorithmic probability",
+        "authors": [
+          "Hutter, Marcus"
+        ],
+        "year": 2005,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "ambiguous",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/4b3439884c4dbac5fc5530ab5afeaf3669e85462",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Sequential Decisions based on Algorithmic Probability",
+        "year": 2008,
+        "authors": [
+          "Marcus Hutter"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Universal+artificial+intelligence%3A+Sequential+decisions+based+on+algorithmic+probability&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "shannon1948mathematical",
+      "raw": {
+        "title": "A mathematical theory of communication",
+        "authors": [
+          "Shannon, Claude E"
+        ],
+        "year": 1948,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/a54194422c56399b2923b2ad706b8175c8c48258",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "A mathematical theory of communication",
+        "year": 1948,
+        "authors": [
+          "C. Shannon"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=A+mathematical+theory+of+communication&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "dao2024transformers",
+      "raw": {
+        "title": "Transformers are ssms: Generalized models and efficient algorithms through structured state space duality",
+        "authors": [
+          "Dao, Tri",
+          "Gu, Albert"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/ca9f5b3bf0f54ad97513e6175b30497873670fed",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality",
+        "year": 2024,
+        "authors": [
+          "Tri Dao",
+          "Albert Gu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Transformers+are+ssms%3A+Generalized+models+and+efficient+algorithms+through+structured+state+space+duality&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "blelloch1990prefix",
+      "raw": {
+        "title": "Prefix sums and their applications",
+        "authors": [
+          "Blelloch, Guy E"
+        ],
+        "year": 1990,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/ec0bc920662693375a881d8beb8c97bf08281dba",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Prefix sums and their applications",
+        "year": 1990,
+        "authors": [
+          "G. Blelloch"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Prefix+sums+and+their+applications&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "fan2023advancing",
+      "raw": {
+        "title": "Advancing regular language reasoning in linear recurrent neural networks",
+        "authors": [
+          "Fan, Ting-Han",
+          "Chi, Ta-Chung",
+          "Rudnicky, Alexander I"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/06a8f2e3c4266196b008851f1ec7ef9f340809da",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Advancing Regular Language Reasoning in Linear Recurrent Neural Networks",
+        "year": 2023,
+        "authors": [
+          "Ting-Han Fan",
+          "Ta-Chung Chi",
+          "Alexander I. Rudnicky"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Advancing+regular+language+reasoning+in+linear+recurrent+neural+networks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "walker2025structured",
+      "raw": {
+        "title": "Structured Linear CDEs: Maximally Expressive and Parallel-in-Time Sequence Models",
+        "authors": [
+          "Walker, Benjamin",
+          "Yang, Lingyi",
+          "Cirone, Nicola Muca",
+          "Salvi, Cristopher",
+          "Lyons, Terry"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/05301be767cf69312bc534b8be757eb69ea9b4cc",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Structured Linear CDEs: Maximally Expressive and Parallel-in-Time Sequence Models",
+        "year": 2025,
+        "authors": [
+          "Benjamin Walker",
+          "Lingyi Yang",
+          "Nicola Muca Cirone",
+          "C. Salvi",
+          "Terry Lyons"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Structured+Linear+CDEs%3A+Maximally+Expressive+and+Parallel-in-Time+Sequence+Models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "de2024griffin",
+      "raw": {
+        "title": "Griffin: Mixing gated linear recurrences with local attention for efficient language models",
+        "authors": [
+          "De, Soham",
+          "Smith, Samuel L",
+          "Fernando, Anushan",
+          "Botev, Aleksandar",
+          "Cristian-Muraru, George",
+          "Gu, Albert",
+          "Haroun, Ruba",
+          "Berrada, Leonard",
+          "Chen, Yutian",
+          "Srinivasan, Srivatsan",
+          "others"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/d53fe76bd2795a19ddf52d012917782f6f6f2c1e",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Griffin: Mixing Gated Linear Recurrences with Local Attention for Efficient Language Models",
+        "year": 2024,
+        "authors": [
+          "Soham De",
+          "Samuel L. Smith",
+          "Anushan Fernando",
+          "Aleksandar Botev",
+          "George Cristian-Muraru",
+          "Albert Gu",
+          "Ruba Haroun",
+          "Leonard Berrada",
+          "Yutian Chen",
+          "S. Srinivasan",
+          "Guillaume Desjardins",
+          "Arnaud Doucet",
+          "D. Budden",
+          "Y. W. Teh",
+          "Razvan Pascanu",
+          "Nando de Freitas",
+          "Caglar Gulcehre"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Griffin%3A+Mixing+gated+linear+recurrences+with+local+attention+for+efficient+language+models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "orvieto2023resurrecting",
+      "raw": {
+        "title": "Resurrecting recurrent neural networks for long sequences",
+        "authors": [
+          "Orvieto, Antonio",
+          "Smith, Samuel L",
+          "Gu, Albert",
+          "Fernando, Anushan",
+          "Gulcehre, Caglar",
+          "Pascanu, Razvan",
+          "De, Soham"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/f393aff1593c2d370ec0ae004910d18e40524967",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Resurrecting Recurrent Neural Networks for Long Sequences",
+        "year": 2023,
+        "authors": [
+          "Antonio Orvieto",
+          "Samuel L. Smith",
+          "Albert Gu",
+          "Anushan Fernando",
+          "Caglar Gulcehre",
+          "Razvan Pascanu",
+          "Soham De"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Resurrecting+recurrent+neural+networks+for+long+sequences&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "arjovsky2016unitary",
+      "raw": {
+        "title": "Unitary evolution recurrent neural networks",
+        "authors": [
+          "Arjovsky, Martin",
+          "Shah, Amar",
+          "Bengio, Yoshua"
+        ],
+        "year": 2016,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/e9c771197a6564762754e48c1daafb066f449f2e",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Unitary Evolution Recurrent Neural Networks",
+        "year": 2015,
+        "authors": [
+          "Martín Arjovsky",
+          "Amar Shah",
+          "Yoshua Bengio"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Unitary+evolution+recurrent+neural+networks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "helfrich2018orthogonal",
+      "raw": {
+        "title": "Orthogonal recurrent neural networks with scaled Cayley transform",
+        "authors": [
+          "Helfrich, Kyle",
+          "Willmott, Devin",
+          "Ye, Qiang"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/b74bfb6afd5abcb2c6fe0b2f8d60b97cdb80ca55",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Orthogonal Recurrent Neural Networks with Scaled Cayley Transform",
+        "year": 2017,
+        "authors": [
+          "Kyle E. Helfrich",
+          "Devin Willmott",
+          "Q. Ye"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Orthogonal+recurrent+neural+networks+with+scaled+Cayley+transform&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "chang2019antisymmetricrnn",
+      "raw": {
+        "title": "AntisymmetricRNN: A dynamical system view on recurrent neural networks",
+        "authors": [
+          "Chang, Bo",
+          "Chen, Minmin",
+          "Haber, Eldad",
+          "Chi, Ed H"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/e2c8a6b49cd999b16ac4dcfdc375563a6932b1c7",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "AntisymmetricRNN: A Dynamical System View on Recurrent Neural Networks",
+        "year": 2019,
+        "authors": [
+          "B. Chang",
+          "Minmin Chen",
+          "E. Haber",
+          "Ed H. Chi"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=AntisymmetricRNN%3A+A+dynamical+system+view+on+recurrent+neural+networks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "kaplan2020scaling",
+      "raw": {
+        "title": "Scaling laws for neural language models",
+        "authors": [
+          "Kaplan, Jared",
+          "McCandlish, Sam",
+          "Henighan, Tom",
+          "Brown, Tom B",
+          "Chess, Benjamin",
+          "Child, Rewon",
+          "Gray, Scott",
+          "Radford, Alec",
+          "Wu, Jeffrey",
+          "Amodei, Dario"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/e6c561d02500b2596a230b341a8eb8b921ca5bf2",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Scaling Laws for Neural Language Models",
+        "year": 2020,
+        "authors": [
+          "J. Kaplan",
+          "Sam McCandlish",
+          "T. Henighan",
+          "Tom B. Brown",
+          "Benjamin Chess",
+          "R. Child",
+          "Scott Gray",
+          "Alec Radford",
+          "Jeff Wu",
+          "Dario Amodei"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Scaling+laws+for+neural+language+models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zhang2024hedgehog",
+      "raw": {
+        "title": "The hedgehog \\& the porcupine: Expressive linear attentions with softmax mimicry",
+        "authors": [
+          "Zhang, Michael",
+          "Bhatia, Kush",
+          "Kumbong, Hermann",
+          "R{\\'e}, Christopher"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/f4a0c4154203808f362e4678f3741b3d317fdc82",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "The Hedgehog & the Porcupine: Expressive Linear Attentions with Softmax Mimicry",
+        "year": 2024,
+        "authors": [
+          "Michael Zhang",
+          "Kush S. Bhatia",
+          "Hermann Kumbong",
+          "Christopher R'e"
+        ]
+      },
+      "title_similarity": 0.9933774834437087,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=The+hedgehog+%5C%26+the+porcupine%3A+Expressive+linear+attentions+with+softmax+mimicry&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "yang2024gated",
+      "raw": {
+        "title": "Gated delta networks: Improving mamba2 with delta rule",
+        "authors": [
+          "Yang, Songlin",
+          "Kautz, Jan",
+          "Hatamizadeh, Ali"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/968ea1c7f681592ce6b0830eac0b7fda8db71792",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Gated Delta Networks: Improving Mamba2 with Delta Rule",
+        "year": 2024,
+        "authors": [
+          "Songlin Yang",
+          "Jan Kautz",
+          "Ali Hatamizadeh"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Gated+delta+networks%3A+Improving+mamba2+with+delta+rule&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "siems2025deltaproduct",
+      "raw": {
+        "title": "Deltaproduct: Improving state-tracking in linear rnns via householder products",
+        "authors": [
+          "Siems, Julien",
+          "Carstensen, Timur",
+          "Zela, Arber",
+          "Hutter, Frank",
+          "Pontil, Massimiliano",
+          "Grazzi, Riccardo"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/ffb6b2e221497cae064bb87858fc85f542843d76",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "DeltaProduct: Improving State-Tracking in Linear RNNs via Householder Products",
+        "year": 2025,
+        "authors": [
+          "Julien N. Siems",
+          "Timur Carstensen",
+          "Arber Zela",
+          "Frank Hutter",
+          "M. Pontil",
+          "Riccardo Grazzi"
+        ]
+      },
+      "title_similarity": 0.9936305732484076,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Deltaproduct%3A+Improving+state-tracking+in+linear+rnns+via+householder+products&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "gu2025tradeoffs",
+      "raw": {
+        "title": "On the Tradeoffs of State Space Models and Transformers",
+        "authors": [
+          "Albert Gu"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "waleffe2024empirical",
+      "raw": {
+        "title": "An empirical study of mamba-based language models",
+        "authors": [
+          "Waleffe, Roger",
+          "Byeon, Wonmin",
+          "Riach, Duncan",
+          "Norick, Brandon",
+          "Korthikanti, Vijay",
+          "Dao, Tri",
+          "Gu, Albert",
+          "Hatamizadeh, Ali",
+          "Singh, Sudhakar",
+          "Narayanan, Deepak",
+          "others"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/d668f557b922d0cac746c8ec82f7975f06ac906b",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "An Empirical Study of Mamba-based Language Models",
+        "year": 2024,
+        "authors": [
+          "R. Waleffe",
+          "Wonmin Byeon",
+          "Duncan Riach",
+          "Brandon Norick",
+          "V. Korthikanti",
+          "Tri Dao",
+          "Albert Gu",
+          "Ali Hatamizadeh",
+          "Sudhakar Singh",
+          "Deepak Narayanan",
+          "Garvit Kulshreshtha",
+          "Vartika Singh",
+          "J. Casper",
+          "Jan Kautz",
+          "M. Shoeybi",
+          "Bryan Catanzaro"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=An+empirical+study+of+mamba-based+language+models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "hochreiter1997long",
+      "raw": {
+        "title": "Long short-term memory",
+        "authors": [
+          "Hochreiter, Sepp",
+          "Schmidhuber, J{\\\"u}rgen"
+        ],
+        "year": 1997,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/2e9d221c206e9503ceb452302d68d10e293f2a10",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Long Short-Term Memory",
+        "year": 1997,
+        "authors": [
+          "Sepp Hochreiter",
+          "J. Schmidhuber"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Long+short-term+memory&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "vaswani2017attention",
+      "raw": {
+        "title": "Attention is all you need",
+        "authors": [
+          "Vaswani, Ashish",
+          "Shazeer, Noam",
+          "Parmar, Niki",
+          "Uszkoreit, Jakob",
+          "Jones, Llion",
+          "Gomez, Aidan N",
+          "Kaiser, {\\L}ukasz",
+          "Polosukhin, Illia"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Attention is All you Need",
+        "year": 2017,
+        "authors": [
+          "Ashish Vaswani",
+          "Noam Shazeer",
+          "Niki Parmar",
+          "Jakob Uszkoreit",
+          "Llion Jones",
+          "Aidan N. Gomez",
+          "Lukasz Kaiser",
+          "I. Polosukhin"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Attention+is+all+you+need&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "biegun2024rotrnn",
+      "raw": {
+        "title": "Rotrnn: Modelling long sequences with rotations",
+        "authors": [
+          "Biegun, Kai",
+          "Dolga, Rares",
+          "Cunningham, Jake",
+          "Barber, David"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/4fcd94cd8ee484004588c60531952bc56c3af67b",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "RotRNN: Modelling Long Sequences with Rotations",
+        "year": 2024,
+        "authors": [
+          "Rares Dolga",
+          "Kai Biegun",
+          "Jake Cunningham",
+          "David Barber"
+        ]
+      },
+      "title_similarity": 0.9263157894736842,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Rotrnn%3A+Modelling+long+sequences+with+rotations&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "von2025mesanet",
+      "raw": {
+        "title": "MesaNet: Sequence Modeling by Locally Optimal Test-Time Training",
+        "authors": [
+          "von Oswald, Johannes",
+          "Scherrer, Nino",
+          "Kobayashi, Seijin",
+          "Versari, Luca",
+          "Yang, Songlin",
+          "Schlegel, Maximilian",
+          "Maile, Kaitlin",
+          "Schimpf, Yanick",
+          "Sieberling, Oliver",
+          "Meulemans, Alexander",
+          "others"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/a9221f40888cb349e10804f89ed0569c13568605",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "MesaNet: Sequence Modeling by Locally Optimal Test-Time Training",
+        "year": 2025,
+        "authors": [
+          "J. Oswald",
+          "Nino Scherrer",
+          "Seijin Kobayashi",
+          "Luca Versari",
+          "Songlin Yang",
+          "Maximilian Schlegel",
+          "Kaitlin Maile",
+          "Yanick Schimpf",
+          "Oliver Sieberling",
+          "Alexander Meulemans",
+          "R. Saurous",
+          "Guillaume Lajoie",
+          "Charlotte Frenkel",
+          "Razvan Pascanu",
+          "B. A. Y. Arcas",
+          "João Sacramento"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=MesaNet%3A+Sequence+Modeling+by+Locally+Optimal+Test-Time+Training&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "peng2025rwkv",
+      "raw": {
+        "title": "Rwkv-7\" goose\" with expressive dynamic state evolution",
+        "authors": [
+          "Peng, Bo",
+          "Zhang, Ruichong",
+          "Goldstein, Daniel",
+          "Alcaide, Eric",
+          "Du, Xingjian",
+          "Hou, Haowen",
+          "Lin, Jiaju",
+          "Liu, Jiaxing",
+          "Lu, Janna",
+          "Merrill, William",
+          "others"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/42b2027f68035845f599f43f85ed26b237a8b832",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "RWKV-7 \"Goose\" with Expressive Dynamic State Evolution",
+        "year": 2025,
+        "authors": [
+          "Bo Peng",
+          "Ruichong Zhang",
+          "Daniel Goldstein",
+          "Eric Alcaide",
+          "Xingjian Du",
+          "Haowen Hou",
+          "Jiaju Lin",
+          "Jiaxin Liu",
+          "Janna Lu",
+          "William Merrill",
+          "Guangyu Song",
+          "Kaifeng Tan",
+          "Saiteja Utpala",
+          "Nathan Wilce",
+          "J. S. Wind",
+          "Tianyi Wu",
+          "D. Wuttke",
+          "Christian Zhou-Zheng"
+        ]
+      },
+      "title_similarity": 0.9814814814814815,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Rwkv-7%22+goose%22+with+expressive+dynamic+state+evolution&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "sun2024learning",
+      "raw": {
+        "title": "Learning to (learn at test time): Rnns with expressive hidden states",
+        "authors": [
+          "Sun, Yu",
+          "Li, Xinhao",
+          "Dalal, Karan",
+          "Xu, Jiarui",
+          "Vikram, Arjun",
+          "Zhang, Genghan",
+          "Dubois, Yann",
+          "Chen, Xinlei",
+          "Wang, Xiaolong",
+          "Koyejo, Sanmi",
+          "others"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/35ab93f41115e860bee5e202b71061addfd0fd5d",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Learning to (Learn at Test Time): RNNs with Expressive Hidden States",
+        "year": 2024,
+        "authors": [
+          "Yu Sun",
+          "Xinhao Li",
+          "Karan Dalal",
+          "Jiarui Xu",
+          "Arjun Vikram",
+          "Ge Zhang",
+          "Yann Dubois",
+          "Xinlei Chen",
+          "Xiaolong Wang",
+          "Oluwasanmi Koyejo",
+          "Tatsunori Hashimoto",
+          "Carlos Guestrin"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Learning+to+%28learn+at+test+time%29%3A+Rnns+with+expressive+hidden+states&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "grazzi2024unlocking",
+      "raw": {
+        "title": "Unlocking state-tracking in linear rnns through negative eigenvalues",
+        "authors": [
+          "Grazzi, Riccardo",
+          "Siems, Julien",
+          "Zela, Arber",
+          "Franke, J{\\\"o}rg KH",
+          "Hutter, Frank",
+          "Pontil, Massimiliano"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/9d0152fd0d992fa52280d2f83d6aa41490ad95aa",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Unlocking State-Tracking in Linear RNNs Through Negative Eigenvalues",
+        "year": 2024,
+        "authors": [
+          "Riccardo Grazzi",
+          "Julien N. Siems",
+          "Jorg K. H. Franke",
+          "Arber Zela",
+          "Frank Hutter",
+          "M. Pontil"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Unlocking+state-tracking+in+linear+rnns+through+negative+eigenvalues&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "loshchilov2017decoupled",
+      "raw": {
+        "title": "Decoupled weight decay regularization",
+        "authors": [
+          "Loshchilov, Ilya",
+          "Hutter, Frank"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/d07284a6811f1b2745d91bdb06b040b57f226882",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Decoupled Weight Decay Regularization",
+        "year": 2017,
+        "authors": [
+          "I. Loshchilov",
+          "F. Hutter"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Decoupled+weight+decay+regularization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "paszke2019pytorch",
+      "raw": {
+        "title": "Pytorch: An imperative style, high-performance deep learning library",
+        "authors": [
+          "Paszke, Adam",
+          "Gross, Sam",
+          "Massa, Francisco",
+          "Lerer, Adam",
+          "Bradbury, James",
+          "Chanan, Gregory",
+          "Killeen, Trevor",
+          "Lin, Zeming",
+          "Gimelshein, Natalia",
+          "Antiga, Luca",
+          "others"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/3c8a456509e6c0805354bd40a35e3f2dbf8069b1",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "PyTorch: An Imperative Style, High-Performance Deep Learning Library",
+        "year": 2019,
+        "authors": [
+          "Adam Paszke",
+          "Sam Gross",
+          "Francisco Massa",
+          "Adam Lerer",
+          "James Bradbury",
+          "Gregory Chanan",
+          "Trevor Killeen",
+          "Zeming Lin",
+          "N. Gimelshein",
+          "L. Antiga",
+          "Alban Desmaison",
+          "Andreas Köpf",
+          "E. Yang",
+          "Zachary DeVito",
+          "Martin Raison",
+          "Alykhan Tejani",
+          "Sasank Chilamkurthy",
+          "Benoit Steiner",
+          "Lu Fang",
+          "Junjie Bai",
+          "Soumith Chintala"
+        ]
+      },
+      "title_similarity": 0.9927007299270073,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Pytorch%3A+An+imperative+style%2C+high-performance+deep+learning+library&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "loshchilov2016sgdr",
+      "raw": {
+        "title": "Sgdr: Stochastic gradient descent with warm restarts",
+        "authors": [
+          "Loshchilov, Ilya",
+          "Hutter, Frank"
+        ],
+        "year": 2016,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/b022f2a277a4bf5f42382e86e4380b96340b9e86",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "SGDR: Stochastic Gradient Descent with Warm Restarts",
+        "year": 2016,
+        "authors": [
+          "I. Loshchilov",
+          "F. Hutter"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Sgdr%3A+Stochastic+gradient+descent+with+warm+restarts&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "schlag2021linear",
+      "raw": {
+        "title": "Linear transformers are secretly fast weight programmers",
+        "authors": [
+          "Schlag, Imanol",
+          "Irie, Kazuki",
+          "Schmidhuber, J{\\\"u}rgen"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/1a703f08da01cf737cce3fb9064259b3f4b44e9c",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Linear Transformers Are Secretly Fast Weight Programmers",
+        "year": 2021,
+        "authors": [
+          "Imanol Schlag",
+          "K. Irie",
+          "J. Schmidhuber"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Linear+transformers+are+secretly+fast+weight+programmers&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "sarnthein2025linearrecurrencesaccessible",
+      "raw": {
+        "title": "Linear Recurrences Accessible to Everyone",
+        "authors": [
+          "Sarnthein, Felix"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "not_found",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": "semantic_scholar",
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Linear+Recurrences+Accessible+to+Everyone&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "dubinin2024fading",
+      "raw": {
+        "title": "Fading memory as inductive bias in residual recurrent networks",
+        "authors": [
+          "Dubinin, Igor",
+          "Effenberger, Felix"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/a21f564f5f64039939089326fe26ec5a3dd70f85",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Fading memory as inductive bias in residual recurrent networks",
+        "year": 2023,
+        "authors": [
+          "I. Dubinin",
+          "Felix Effenberger"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Fading+memory+as+inductive+bias+in+residual+recurrent+networks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "effenberger2022biology",
+      "raw": {
+        "title": "A biology-inspired recurrent oscillator network for computations in high-dimensional state space",
+        "authors": [
+          "Effenberger, Felix",
+          "Carvalho, Pedro",
+          "Dubinin, Igor",
+          "Singer, Wolf"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "not_found",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": "semantic_scholar",
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=A+biology-inspired+recurrent+oscillator+network+for+computations+in+high-dimensional+state+space&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "rusch_coupled_2021",
+      "raw": {
+        "title": "Coupled Oscillatory Recurrent Neural Network (coRNN): An Accurate and (Gradient) Stable Architecture for Learning Long Time Dependencies",
+        "authors": [
+          "Rusch, T. Konstantin",
+          "Mishra, Siddhartha"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": "2010.00951"
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/fac144db777ddc3d85bb314087889689293affa0",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Coupled Oscillatory Recurrent Neural Network (coRNN): An accurate and (gradient) stable architecture for learning long time dependencies",
+        "year": 2020,
+        "authors": [
+          "T. Konstantin Rusch",
+          "Siddhartha Mishra"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2010.00951&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "chomsky1956three",
+      "raw": {
+        "title": "Three models for the description of language",
+        "authors": [
+          "Chomsky, Noam"
+        ],
+        "year": 1956,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/6e785a402a60353e6e22d6883d3998940dcaea96",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Three models for the description of language",
+        "year": 1956,
+        "authors": [
+          "N. Chomsky"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Three+models+for+the+description+of+language&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "chang2024language",
+      "raw": {
+        "title": "Language models need inductive biases to count inductively",
+        "authors": [
+          "Chang, Yingshan",
+          "Bisk, Yonatan"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/4b0b59a5a0a8685661f9f84b3c86f992ebcb8f14",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Language Models Need Inductive Biases to Count Inductively",
+        "year": 2024,
+        "authors": [
+          "Yingshan Chang",
+          "Yonatan Bisk"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Language+models+need+inductive+biases+to+count+inductively&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "gromov2023grokking",
+      "raw": {
+        "title": "Grokking modular arithmetic",
+        "authors": [
+          "Gromov, Andrey"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/30f468c83afea5c3c94daa5ac285cdaa8019a573",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Grokking modular arithmetic",
+        "year": 2023,
+        "authors": [
+          "A. Gromov"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Grokking+modular+arithmetic&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "deletang2022neural",
+      "raw": {
+        "title": "Neural networks and the chomsky hierarchy",
+        "authors": [
+          "Del{\\'e}tang, Gr{\\'e}goire",
+          "Ruoss, Anian",
+          "Grau-Moya, Jordi",
+          "Genewein, Tim",
+          "Wenliang, Li Kevin",
+          "Catt, Elliot",
+          "Cundy, Chris",
+          "Hutter, Marcus",
+          "Legg, Shane",
+          "Veness, Joel",
+          "others"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/c6d38add1b7bbc10f0da37a90e3f1b51ee5fb617",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Neural Networks and the Chomsky Hierarchy",
+        "year": 2022,
+        "authors": [
+          "Gr'egoire Del'etang",
+          "Anian Ruoss",
+          "Jordi Grau-Moya",
+          "Tim Genewein",
+          "L. Wenliang",
+          "Elliot Catt",
+          "Marcus Hutter",
+          "S. Legg",
+          "Pedro A. Ortega"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Neural+networks+and+the+chomsky+hierarchy&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ajroldi2024plainlm",
+      "raw": {
+        "title": "plainlm: Language model pretraining in pytorch",
+        "authors": [
+          "Ajroldi, Niccolo"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "not_found",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": "semantic_scholar",
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=plainlm%3A+Language+model+pretraining+in+pytorch&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "penedo2024fineweb",
+      "raw": {
+        "title": "The fineweb datasets: Decanting the web for the finest text data at scale",
+        "authors": [
+          "Penedo, Guilherme",
+          "Kydl{\\'\\i}{\\v{c}}ek, Hynek",
+          "Lozhkov, Anton",
+          "Mitchell, Margaret",
+          "Raffel, Colin A",
+          "Von Werra, Leandro",
+          "Wolf, Thomas",
+          "others"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/b83a9e35c3aeeb37708e362473c7617d59b815b5",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "The FineWeb Datasets: Decanting the Web for the Finest Text Data at Scale",
+        "year": 2024,
+        "authors": [
+          "Guilherme Penedo",
+          "Hynek Kydlícek",
+          "Loubna Ben Allal",
+          "Anton Lozhkov",
+          "Margaret Mitchell",
+          "Colin Raffel",
+          "L. V. Werra",
+          "Thomas Wolf"
+        ]
+      },
+      "title_similarity": 0.9763779527559054,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=The+fineweb+datasets%3A+Decanting+the+web+for+the+finest+text+data+at+scale&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    }
+  ]
+}

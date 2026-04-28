@@ -1,0 +1,977 @@
+{
+  "paper_id": null,
+  "total": 31,
+  "verified": 27,
+  "mismatch": 1,
+  "missing": 1,
+  "ambiguous": 2,
+  "error": 0,
+  "skipped": 0,
+  "s2_consulted": 31,
+  "s2_lifted": 31,
+  "key_style_outliers": [],
+  "entries": [
+    {
+      "key": "arjovsky2019irm",
+      "raw": {
+        "title": "Invariant risk minimization",
+        "authors": [
+          "Arjovsky, Martin",
+          "Bottou, L{\\'e}on",
+          "Gulrajani, Ishaan",
+          "Lopez-Paz, David"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/753b7a701adc1b6072378bd048cfa8567885d9c7",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Invariant Risk Minimization",
+        "year": 2019,
+        "authors": [
+          "Martín Arjovsky",
+          "L. Bottou",
+          "Ishaan Gulrajani",
+          "David Lopez-Paz"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Invariant%20risk%20minimization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "rame2022fishr",
+      "raw": {
+        "title": "Fishr: Invariant gradient variances for out-of-distribution generalization",
+        "authors": [
+          "Rame, Alexandre",
+          "Dancette, Corentin",
+          "Cord, Matthieu"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/6bf04318d6e57463f7823b9770c5a6c19a7b47e9",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Fishr: Invariant Gradient Variances for Out-of-distribution Generalization",
+        "year": 2021,
+        "authors": [
+          "Alexandre Ramé",
+          "Corentin Dancette",
+          "M. Cord"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Fishr%3A%20Invariant%20gradient%20variances%20for%20out-of-distribution%20generalization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "wang2023sharpness",
+      "raw": {
+        "title": "Sharpness-aware gradient matching for domain generalization",
+        "authors": [
+          "Wang, Pengfei",
+          "Zhang, Zhaoxiang",
+          "Lei, Zhen",
+          "Zhang, Lei"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/beb8c38446343797168a0c35af0e941799117867",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Sharpness-Aware Gradient Matching for Domain Generalization",
+        "year": 2023,
+        "authors": [
+          "Pengfei Wang",
+          "Zhaoxiang Zhang",
+          "Zhen Lei",
+          "Lei Zhang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Sharpness-aware%20gradient%20matching%20for%20domain%20generalization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "cha2021swad",
+      "raw": {
+        "title": "Swad: Domain generalization by seeking flat minima",
+        "authors": [
+          "Cha, Junbum",
+          "Chun, Sanghyuk",
+          "Lee, Kyungjae",
+          "Cho, Han-Cheol",
+          "Park, Seunghyun",
+          "Lee, Yunsung",
+          "Park, Sungrae"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/4d87a9f6a0bc9c67088193402813da5cba3f06c1",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "SWAD: Domain Generalization by Seeking Flat Minima",
+        "year": 2021,
+        "authors": [
+          "Junbum Cha",
+          "Sanghyuk Chun",
+          "Kyungjae Lee",
+          "Han-Cheol Cho",
+          "Seunghyun Park",
+          "Yunsung Lee",
+          "Sungrae Park"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Swad%3A%20Domain%20generalization%20by%20seeking%20flat%20minima&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "kornblith2019similarity",
+      "raw": {
+        "title": "Similarity of neural network representations revisited",
+        "authors": [
+          "Kornblith, Simon",
+          "Norouzi, Mohammad",
+          "Lee, Honglak",
+          "Hinton, Geoffrey"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/726320cdbd04804ffa8f3a78c095bd1b55a2a695",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Similarity of Neural Network Representations Revisited",
+        "year": 2019,
+        "authors": [
+          "Simon Kornblith",
+          "Mohammad Norouzi",
+          "Honglak Lee",
+          "Geoffrey E. Hinton"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Similarity%20of%20neural%20network%20representations%20revisited&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "ahuja2020invariant",
+      "raw": {
+        "title": "Invariant risk minimization games",
+        "authors": [
+          "Ahuja, Kartik",
+          "Shanmugam, Karthikeyan",
+          "Varshney, Kush",
+          "Dhurandhar, Amit"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/0bdc74cc6716b01eecee50032bf8dc760379e494",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Invariant Risk Minimization Games",
+        "year": 2020,
+        "authors": [
+          "Kartik Ahuja",
+          "Karthikeyan Shanmugam",
+          "Kush R. Varshney",
+          "Amit Dhurandhar"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Invariant%20risk%20minimization%20games&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "krueger2021out",
+      "raw": {
+        "title": "Out-of-Distribution Generalization via Risk Extrapolation (REx)",
+        "authors": [
+          "Krueger, David",
+          "Caballero, Ethan",
+          "Jacobsen, Joern-Henrik",
+          "Zhang, Amy",
+          "Binas, Jonathan",
+          "Zhang, Dinghuai",
+          "Priol, Remi Le",
+          "Courville, Aaron"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/3621fff4a1c791901ea4a1359c10575193ec712d",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Out-of-Distribution Generalization via Risk Extrapolation (REx)",
+        "year": 2020,
+        "authors": [
+          "David Krueger",
+          "Ethan Caballero",
+          "J. Jacobsen",
+          "Amy Zhang",
+          "Jonathan Binas",
+          "Rémi Le Priol",
+          "Aaron C. Courville"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Out-of-Distribution%20Generalization%20via%20Risk%20Extrapolation%20%28REx%29&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "izmailov2018averaging",
+      "raw": {
+        "title": "Averaging weights leads to wider optima and better generalization",
+        "authors": [
+          "Izmailov, Pavel",
+          "Podoprikhin, Dmitrii",
+          "Garipov, Timur",
+          "Vetrov, Dmitry",
+          "Wilson, Andrew Gordon"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/b8989afff14fb630ca58b6afa917fb42574228ee",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Averaging Weights Leads to Wider Optima and Better Generalization",
+        "year": 2018,
+        "authors": [
+          "Pavel Izmailov",
+          "Dmitrii Podoprikhin",
+          "T. Garipov",
+          "D. Vetrov",
+          "A. Wilson"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Averaging%20weights%20leads%20to%20wider%20optima%20and%20better%20generalization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "nguyen2021do",
+      "raw": {
+        "title": "Do wide and deep networks learn the same things? uncovering how neural network representations vary with width and depth",
+        "authors": [
+          "Nguyen, Thao",
+          "Raghu, Maithra",
+          "Kornblith, Simon"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/d21806115a79c960298cfca45a49b24682cac71a",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Do Wide and Deep Networks Learn the Same Things? Uncovering How Neural Network Representations Vary with Width and Depth",
+        "year": 2020,
+        "authors": [
+          "Thao Nguyen",
+          "M. Raghu",
+          "Simon Kornblith"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Do%20wide%20and%20deep%20networks%20learn%20the%20same%20things%3F%20uncovering%20how%20neural%20network%20representations%20vary%20with%20width%20and%20depth&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "jiang2019fantastic",
+      "raw": {
+        "title": "Fantastic generalization measures and where to find them",
+        "authors": [
+          "Jiang, Yiding",
+          "Neyshabur, Behnam",
+          "Mobahi, Hossein",
+          "Krishnan, Dilip",
+          "Bengio, Samy"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/8f18c9da3d1763723c6ef8c3734d74db005d0cff",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Fantastic Generalization Measures and Where to Find Them",
+        "year": 2019,
+        "authors": [
+          "Yiding Jiang",
+          "Behnam Neyshabur",
+          "H. Mobahi",
+          "Dilip Krishnan",
+          "Samy Bengio"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Fantastic%20generalization%20measures%20and%20where%20to%20find%20them&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "foret2020sharpness",
+      "raw": {
+        "title": "Sharpness-aware minimization for efficiently improving generalization",
+        "authors": [
+          "Foret, Pierre",
+          "Kleiner, Ariel",
+          "Mobahi, Hossein",
+          "Neyshabur, Behnam"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/a2cd073b57be744533152202989228cb4122270a",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Sharpness-Aware Minimization for Efficiently Improving Generalization",
+        "year": 2020,
+        "authors": [
+          "Pierre Foret",
+          "Ariel Kleiner",
+          "H. Mobahi",
+          "Behnam Neyshabur"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Sharpness-aware%20minimization%20for%20efficiently%20improving%20generalization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "wang2020understanding",
+      "raw": {
+        "title": "Understanding contrastive representation learning through alignment and uniformity on the hypersphere",
+        "authors": [
+          "Wang, Tongzhou",
+          "Isola, Phillip"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/9a56ab8b1aba50dc2fea3cf4b531d30891a88ba9",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Understanding Contrastive Representation Learning through Alignment and Uniformity on the Hypersphere",
+        "year": 2020,
+        "authors": [
+          "Tongzhou Wang",
+          "Phillip Isola"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Understanding%20contrastive%20representation%20learning%20through%20alignment%20and%20uniformity%20on%20the%20hypersphere&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "belkin2003laplacian",
+      "raw": {
+        "title": "Laplacian eigenmaps for dimensionality reduction and data representation",
+        "authors": [
+          "Belkin, Mikhail",
+          "Niyogi, Partha"
+        ],
+        "year": 2003,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/88816ae492956f3004daa41357166f1181c0c1bf",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Laplacian Eigenmaps for Dimensionality Reduction and Data Representation",
+        "year": 2003,
+        "authors": [
+          "Mikhail Belkin",
+          "P. Niyogi"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Laplacian%20eigenmaps%20for%20dimensionality%20reduction%20and%20data%20representation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "rieck2018neural",
+      "raw": {
+        "title": "Neural persistence: A complexity measure for deep neural networks using algebraic topology",
+        "authors": [
+          "Rieck, Bastian",
+          "Togninalli, Matteo",
+          "Bock, Christian",
+          "Moor, Michael",
+          "Horn, Max",
+          "Gumbsch, Thomas",
+          "Borgwardt, Karsten"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/2484ebfa2053999b4481ab2cd979eccb47cb0321",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Neural Persistence: A Complexity Measure for Deep Neural Networks Using Algebraic Topology",
+        "year": 2018,
+        "authors": [
+          "Bastian Alexander Rieck",
+          "Matteo Togninalli",
+          "Christian Bock",
+          "Michael Moor",
+          "Max Horn",
+          "Thomas Gumbsch",
+          "Karsten M. Borgwardt"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Neural%20persistence%3A%20A%20complexity%20measure%20for%20deep%20neural%20networks%20using%20algebraic%20topology&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "ollivier2007ricci",
+      "raw": {
+        "title": "Ricci curvature of metric spaces",
+        "authors": [
+          "Ollivier, Yann"
+        ],
+        "year": 2007,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/6cedfd36e6d9f83dbb2389cc57a470cde172064f",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Ricci curvature of metric spaces",
+        "year": 2007,
+        "authors": [
+          "Y. Ollivier"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Ricci%20curvature%20of%20metric%20spaces&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "topping2021understanding",
+      "raw": {
+        "title": "Understanding over-squashing and bottlenecks on graphs via curvature",
+        "authors": [
+          "Topping, Jake",
+          "Di Giovanni, Francesco",
+          "Chamberlain, Benjamin Paul",
+          "Dong, Xiaowen",
+          "Bronstein, Michael M"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/04ac11f8db83406b03d92aa4571fc3e6c176c1e3",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Understanding over-squashing and bottlenecks on graphs via curvature",
+        "year": 2021,
+        "authors": [
+          "Jake Topping",
+          "Francesco Di Giovanni",
+          "B. Chamberlain",
+          "Xiaowen Dong",
+          "M. Bronstein"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Understanding%20over-squashing%20and%20bottlenecks%20on%20graphs%20via%20curvature&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "guss2018characterizing",
+      "raw": {
+        "title": "On characterizing the capacity of neural networks using algebraic topology",
+        "authors": [
+          "Guss, William H",
+          "Salakhutdinov, Ruslan"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/247f1ac023ae3b05fd3bdaef9a540eb98bf49966",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "On Characterizing the Capacity of Neural Networks using Algebraic Topology",
+        "year": 2018,
+        "authors": [
+          "William H. Guss",
+          "R. Salakhutdinov"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=On%20characterizing%20the%20capacity%20of%20neural%20networks%20using%20algebraic%20topology&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "smola2003kernels",
+      "raw": {
+        "title": "Kernels and Regularization on Graphs",
+        "authors": [
+          "Smola, Alexander J.",
+          "Kondor, Risi"
+        ],
+        "year": 2003,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/60de4b6068407defa3c88f5feeb8b74d8e55fe9c",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Kernels and Regularization on Graphs",
+        "year": 2003,
+        "authors": [
+          "Alex Smola",
+          "R. Kondor"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Kernels%20and%20Regularization%20on%20Graphs&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "topping2022oversquashing",
+      "raw": {
+        "title": "Understanding over-squashing and bottlenecks on graphs via curvature",
+        "authors": [
+          "Topping, Jake",
+          "Di Giovanni, Francesco",
+          "Chamberlain, Benjamin P.",
+          "Dong, Xiaowen",
+          "Bronstein, Michael M."
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/04ac11f8db83406b03d92aa4571fc3e6c176c1e3",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Understanding over-squashing and bottlenecks on graphs via curvature",
+        "year": 2021,
+        "authors": [
+          "Jake Topping",
+          "Francesco Di Giovanni",
+          "B. Chamberlain",
+          "Xiaowen Dong",
+          "M. Bronstein"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Understanding%20over-squashing%20and%20bottlenecks%20on%20graphs%20via%20curvature&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "fesser2024effective",
+      "raw": {
+        "title": "Effective Structural Encodings via Local Curvature Profiles",
+        "authors": [
+          "Fesser, Lukas",
+          "Weber, Melanie"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/c4403b5713f58d411e335dfef55fbec781d84c1b",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Effective Structural Encodings via Local Curvature Profiles",
+        "year": 2023,
+        "authors": [
+          "Lukas Fesser",
+          "Melanie Weber"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Effective%20Structural%20Encodings%20via%20Local%20Curvature%20Profiles&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "barannikov2022representation",
+      "raw": {
+        "title": "Representation Topology Divergence: A Method for Comparing Neural Network Representations",
+        "authors": [
+          "Barannikov, Serguei",
+          "Trofimov, Ilya",
+          "Balabin, Nikita",
+          "Burnaev, Evgeny"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/655e4837a05afdfa03124d9c41c0912805423571",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Representation Topology Divergence: A Method for Comparing Neural Network Representations",
+        "year": 2021,
+        "authors": [
+          "S. Barannikov",
+          "I. Trofimov",
+          "Nikita Balabin",
+          "Evgeny Burnaev"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Representation%20Topology%20Divergence%3A%20A%20Method%20for%20Comparing%20Neural%20Network%20Representations&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "miller2021accuracy",
+      "raw": {
+        "title": "Accuracy on the Line: On the Strong Correlation Between Out-of-Distribution and In-Distribution Generalization",
+        "authors": [
+          "Miller, John P.",
+          "Taori, Rohan",
+          "Raghunathan, Aditi",
+          "Sagawa, Shiori",
+          "Koh, Pang Wei",
+          "Shankar, Vaishaal",
+          "Liang, Percy",
+          "Carmon, Yair",
+          "Schmidt, Ludwig"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/106cc848e51ad0938e73c1b3b2ebb90d4bdea143",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Accuracy on the Line: on the Strong Correlation Between Out-of-Distribution and In-Distribution Generalization",
+        "year": 2021,
+        "authors": [
+          "John Miller",
+          "Rohan Taori",
+          "Aditi Raghunathan",
+          "Shiori Sagawa",
+          "Pang Wei Koh",
+          "Vaishaal Shankar",
+          "Percy Liang",
+          "Y. Carmon",
+          "Ludwig Schmidt"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Accuracy%20on%20the%20Line%3A%20On%20the%20Strong%20Correlation%20Between%20Out-of-Distribution%20and%20In-Distribution%20Generalization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "hendrycks2019robustness",
+      "raw": {
+        "title": "Benchmarking Neural Network Robustness to Common Corruptions and Perturbations",
+        "authors": [
+          "Hendrycks, Dan",
+          "Dietterich, Thomas"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/49b64383fe36268410c430352637ed23b16820c5",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Benchmarking Neural Network Robustness to Common Corruptions and Perturbations",
+        "year": 2019,
+        "authors": [
+          "Dan Hendrycks",
+          "Thomas G. Dietterich"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Benchmarking%20Neural%20Network%20Robustness%20to%20Common%20Corruptions%20and%20Perturbations&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "lu2023harder",
+      "raw": {
+        "title": "Harder or Different? A Closer Look at Distribution Shift in Dataset Reproduction",
+        "authors": [
+          "Lu, Shangyun",
+          "Nott, Bradley",
+          "Olson, Aaron",
+          "Todeschini, Alberto",
+          "Vahabi, Puya",
+          "Carmon, Yair",
+          "Schmidt, Ludwig"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "not_found",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": "semantic_scholar",
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Harder%20or%20Different%3F%20A%20Closer%20Look%20at%20Distribution%20Shift%20in%20Dataset%20Reproduction&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "recht2018cifar10.1",
+      "raw": {
+        "title": "Do CIFAR-10 Classifiers Generalize to CIFAR-10.1?",
+        "authors": [
+          "Recht, Benjamin",
+          "Roelofs, Rebecca",
+          "Schmidt, Ludwig",
+          "Shankar, Vaishaal"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/f445493badf53febbaeab340a4fca98d9e4ab7f7",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Do CIFAR-10 Classifiers Generalize to CIFAR-10?",
+        "year": 2018,
+        "authors": [
+          "B. Recht",
+          "R. Roelofs",
+          "Ludwig Schmidt",
+          "Vaishaal Shankar"
+        ]
+      },
+      "title_similarity": 0.9791666666666667,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Do%20CIFAR-10%20Classifiers%20Generalize%20to%20CIFAR-10.1%3F&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "hehl2025ricciflow",
+      "raw": {
+        "title": "Neural Feature Geometry Evolves as Discrete Ricci Flow",
+        "authors": [
+          "Hehl, Moritz",
+          "von Renesse, Max-K.",
+          "Weber, Melanie"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/66c4a35888a842348868d23b7021a56d6960e4aa",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Neural Feature Geometry Evolves as Discrete Ricci Flow",
+        "year": 2025,
+        "authors": [
+          "Moritz Hehl",
+          "M. Renesse",
+          "Melanie Weber"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Neural%20Feature%20Geometry%20Evolves%20as%20Discrete%20Ricci%20Flow&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "chung1997spectral",
+      "raw": {
+        "title": "Spectral Graph Theory",
+        "authors": [
+          "Chung, Fan"
+        ],
+        "year": 1997,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/75d82765de0900fed1a7a073415d8f7c625f79e8",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Spectral Graph Theory",
+        "year": 1996,
+        "authors": [
+          "F. Chung"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Spectral%20Graph%20Theory&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "vonluxburg2007tutorial",
+      "raw": {
+        "title": "A tutorial on spectral clustering",
+        "authors": [
+          "von Luxburg, Ulrike"
+        ],
+        "year": 2007,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "ambiguous",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/eda90bd43f4256986688e525b45b833a3addab97",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "A tutorial on spectral clustering",
+        "year": 2007,
+        "authors": [
+          "U. V. Luxburg"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=A%20tutorial%20on%20spectral%20clustering&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "raysinger1971torsion",
+      "raw": {
+        "title": "R-torsion and the Laplacian",
+        "authors": [
+          "Ray, Daniel",
+          "Singer, Isadore"
+        ],
+        "year": 1971,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/676ddcbc0ae147a0cccb1db1a200f3f0b21f3efa",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "R-Torsion and the Laplacian on Riemannian manifolds",
+        "year": 1971,
+        "authors": [
+          "D. Ray",
+          "I. Singer"
+        ]
+      },
+      "title_similarity": 0.9818181818181819,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=R-torsion%20and%20the%20Laplacian&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "lyons2005determinantal",
+      "raw": {
+        "title": "Determinantal probability measures",
+        "authors": [
+          "Lyons, Russell"
+        ],
+        "year": 2005,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "ambiguous",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/f929588f59fc9881d6446f374c06162989fefabb",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Determinantal probability measures",
+        "year": 2002,
+        "authors": [
+          "R. Lyons"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Determinantal%20probability%20measures&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "muller1993analytic",
+      "raw": {
+        "title": "Analytic torsion and R-torsion",
+        "authors": [
+          "M{\\\"u}ller, Werner"
+        ],
+        "year": 1993,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "metadata_mismatch",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/a438956304ba0f54445c253a3df9b3336e5af5b4",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "IntersectionR-torsion and analytic torsion for pseudomanifolds",
+        "year": 1987,
+        "authors": [
+          "Aparna Dar"
+        ]
+      },
+      "title_similarity": 0.9836065573770492,
+      "mismatches": [
+        "year",
+        "authors"
+      ],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Analytic%20torsion%20and%20R-torsion&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    }
+  ]
+}

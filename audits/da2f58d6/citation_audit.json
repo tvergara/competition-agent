@@ -1,0 +1,1662 @@
+{
+  "paper_id": "da2f58d6-1370-47cd-8ddf-2cccc856ee11",
+  "total": 39,
+  "verified": 37,
+  "mismatch": 1,
+  "missing": 0,
+  "ambiguous": 1,
+  "error": 0,
+  "skipped": 0,
+  "s2_consulted": 36,
+  "s2_lifted": 36,
+  "key_style_outliers": [
+    "amazon2023"
+  ],
+  "entries": [
+    {
+      "key": "amazon2023",
+      "raw": {
+        "title": "Bridging language and items for retrieval and recommendation",
+        "authors": [
+          "Hou, Yupeng",
+          "Li, Jiacheng",
+          "He, Zhankui",
+          "Yan, An",
+          "Chen, Xiusi",
+          "McAuley, Julian"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/13965d8d68217308ff8c7e738ced637739c6a1b8",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Bridging Language and Items for Retrieval and Recommendation",
+        "year": 2024,
+        "authors": [
+          "Yupeng Hou",
+          "Jiacheng Li",
+          "Zhankui He",
+          "An Yan",
+          "Xiusi Chen",
+          "Julian McAuley"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Bridging+language+and+items+for+retrieval+and+recommendation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "information",
+      "raw": {
+        "title": "The information bottleneck method",
+        "authors": [
+          "Tishby, Naftali",
+          "Pereira, Fernando C",
+          "Bialek, William"
+        ],
+        "year": 2000,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/4ef483f819e11873822416042a4b6dc4652e010c",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "The information bottleneck method",
+        "year": 2000,
+        "authors": [
+          "Naftali Tishby",
+          "Fernando C Pereira",
+          "W. Bialek"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=The+information+bottleneck+method&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "rqvae",
+      "raw": {
+        "title": "Autoregressive image generation using residual quantization",
+        "authors": [
+          "Lee, Doyup",
+          "Kim, Chiheon",
+          "Kim, Saehoon",
+          "Cho, Minsu",
+          "Han, Wook-Shin"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/8fbc2d349d3d0945efa5e92fd3713734ce63d19e",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Autoregressive Image Generation using Residual Quantization",
+        "year": 2022,
+        "authors": [
+          "Doyup Lee",
+          "Chiheon Kim",
+          "Saehoon Kim",
+          "Minsu Cho",
+          "Wook-Shin Han"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Autoregressive+image+generation+using+residual+quantization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "vocabularyTree",
+      "raw": {
+        "title": "Scalable recognition with a vocabulary tree",
+        "authors": [
+          "Nister, David",
+          "Stewenius, Henrik"
+        ],
+        "year": 2006,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/b3e7d3e37e67af7f4546b46051063bea1b62dbae",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Scalable Recognition with a Vocabulary Tree",
+        "year": 2006,
+        "authors": [
+          "D. Nistér",
+          "Henrik Stewénius"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Scalable+recognition+with+a+vocabulary+tree&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "gru4rec",
+      "raw": {
+        "title": "Session-based recommendations with recurrent neural networks",
+        "authors": [
+          "Hidasi, Bal{\\'a}zs",
+          "Karatzoglou, Alexandros",
+          "Baltrunas, Linas",
+          "Tikk, Domonkos"
+        ],
+        "year": 2015,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "ambiguous",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/cb57001315188582bbb79e548dfdb354592fa80e",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Personalizing Session-based Recommendations with Hierarchical Recurrent Neural Networks",
+        "year": 2017,
+        "authors": [
+          "Massimo Quadrana",
+          "Alexandros Karatzoglou",
+          "Balázs Hidasi",
+          "P. Cremonesi"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Session-based+recommendations+with+recurrent+neural+networks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "hgn",
+      "raw": {
+        "title": "Hierarchical gating networks for sequential recommendation",
+        "authors": [
+          "Ma, Chen",
+          "Kang, Peng",
+          "Liu, Xue"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/7f29eb8863755cafa9aeef8dbc55105f1dd8c587",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Hierarchical Gating Networks for Sequential Recommendation",
+        "year": 2019,
+        "authors": [
+          "Chen Ma",
+          "Peng Kang",
+          "Xue Liu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Hierarchical+gating+networks+for+sequential+recommendation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "sasrec",
+      "raw": {
+        "title": "Self-attentive sequential recommendation",
+        "authors": [
+          "Kang, Wang-Cheng",
+          "McAuley, Julian"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/97faeefa771e8cc8e55159e2bd03e6f5eef249a8",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Self-Attentive Sequential Recommendation",
+        "year": 2018,
+        "authors": [
+          "Wang-Cheng Kang",
+          "Julian McAuley"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Self-attentive+sequential+recommendation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "bert4rec",
+      "raw": {
+        "title": "BERT4Rec: Sequential recommendation with bidirectional encoder representations from transformer",
+        "authors": [
+          "Sun, Fei",
+          "Liu, Jun",
+          "Wu, Jian",
+          "Pei, Changhua",
+          "Lin, Xiao",
+          "Ou, Wenwu",
+          "Jiang, Peng"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/690edf44e8739fd80bdfb76f40c9a4a222f3bba8",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer",
+        "year": 2019,
+        "authors": [
+          "Fei Sun",
+          "Jun Liu",
+          "Jian Wu",
+          "Changhua Pei",
+          "Xiao Lin",
+          "Wenwu Ou",
+          "Peng Jiang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=BERT4Rec%3A+Sequential+recommendation+with+bidirectional+encoder+representations+from+transformer&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "s3rec",
+      "raw": {
+        "title": "S3-rec: Self-supervised learning for sequential recommendation with mutual information maximization",
+        "authors": [
+          "Zhou, Kun",
+          "Wang, Hui",
+          "Zhao, Wayne Xin",
+          "Zhu, Yutao",
+          "Wang, Sirui",
+          "Zhang, Fuzheng",
+          "Wang, Zhongyuan",
+          "Wen, Ji-Rong"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/39dbb388062b63e82e984d46e2c20b5ca9885b42",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "S3-Rec: Self-Supervised Learning for Sequential Recommendation with Mutual Information Maximization",
+        "year": 2020,
+        "authors": [
+          "Kun Zhou",
+          "Haibo Wang",
+          "Wayne Xin Zhao",
+          "Yutao Zhu",
+          "Sirui Wang",
+          "Fuzheng Zhang",
+          "Zhongyuan Wang",
+          "Ji-rong Wen"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=S3-rec%3A+Self-supervised+learning+for+sequential+recommendation+with+mutual+information+maximization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "grhandbook",
+      "raw": {
+        "title": "Generative Recommendation with Semantic IDs: A Practitioner's Handbook",
+        "authors": [
+          "Ju, Clark Mingxuan",
+          "Collins, Liam",
+          "Neves, Leonardo",
+          "Kumar, Bhuvesh",
+          "Wang, Louis Yufeng",
+          "Zhao, Tong",
+          "Shah, Neil"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/c05039f5dd3f50db644137d22212df842d858e43",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Generative Recommendation with Semantic IDs: A Practitioner's Handbook",
+        "year": 2025,
+        "authors": [
+          "Clark Mingxuan Ju",
+          "Liam Collins",
+          "Leonardo Neves",
+          "B. Kumar",
+          "L. Wang",
+          "Tong Zhao",
+          "Neil Shah"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Generative+Recommendation+with+Semantic+IDs%3A+A+Practitioner%27s+Handbook&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "tiger",
+      "raw": {
+        "title": "Recommender systems with generative retrieval",
+        "authors": [
+          "Rajput, Shashank",
+          "Mehta, Nikhil",
+          "Singh, Anima",
+          "Hulikal Keshavan, Raghunandan",
+          "Vu, Trung",
+          "Heldt, Lukasz",
+          "Hong, Lichan",
+          "Tay, Yi",
+          "Tran, Vinh",
+          "Samost, Jonah",
+          "others"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/a289100678e7d94af836d91cd48d7821ebc5b83d",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Recommender Systems with Generative Retrieval",
+        "year": 2023,
+        "authors": [
+          "Shashank Rajput",
+          "Nikhil Mehta",
+          "Anima Singh",
+          "Raghunandan H. Keshavan",
+          "T. Vu",
+          "L. Heldt",
+          "Lichan Hong",
+          "Yi Tay",
+          "Vinh Q. Tran",
+          "Jonah Samost",
+          "Maciej Kula",
+          "Ed H. Chi",
+          "M. Sathiamoorthy"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Recommender+systems+with+generative+retrieval&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "letter",
+      "raw": {
+        "title": "Learnable item tokenization for generative recommendation",
+        "authors": [
+          "Wang, Wenjie",
+          "Bao, Honghui",
+          "Lin, Xinyu",
+          "Zhang, Jizhi",
+          "Li, Yongqi",
+          "Feng, Fuli",
+          "Ng, See-Kiong",
+          "Chua, Tat-Seng"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/6aa5177b38969f69a5c1b17b2846e6e90bd684e8",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Learnable Item Tokenization for Generative Recommendation",
+        "year": 2024,
+        "authors": [
+          "Wenjie Wang",
+          "Honghui Bao",
+          "Xinyu Lin",
+          "Jizhi Zhang",
+          "Yongqi Li",
+          "Fuli Feng",
+          "See-Kiong Ng",
+          "Tat-Seng Chua"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Learnable+item+tokenization+for+generative+recommendation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "eager",
+      "raw": {
+        "title": "Eager: Two-stream generative recommender with behavior-semantic collaboration",
+        "authors": [
+          "Wang, Ye",
+          "Xun, Jiahao",
+          "Hong, Minjie",
+          "Zhu, Jieming",
+          "Jin, Tao",
+          "Lin, Wang",
+          "Li, Haoyuan",
+          "Li, Linjun",
+          "Xia, Yan",
+          "Zhao, Zhou",
+          "others"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/aaa5d85787ce317c83d194f1b4d2ac66fda97b65",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "EAGER: Two-Stream Generative Recommender with Behavior-Semantic Collaboration",
+        "year": 2024,
+        "authors": [
+          "Yejin Wang",
+          "Jiahao Xun",
+          "Ming Hong",
+          "Jieming Zhu",
+          "Tao Jin",
+          "Wang Lin",
+          "Haoyuan Li",
+          "Linjun Li",
+          "Yan Xia",
+          "Zhou Zhao",
+          "Zhenhua Dong"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Eager%3A+Two-stream+generative+recommender+with+behavior-semantic+collaboration&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "unger",
+      "raw": {
+        "title": "Unger: Generative recommendation with a unified code via semantic and collaborative integration",
+        "authors": [
+          "Xiao, Longtao",
+          "Wang, Haozhao",
+          "Wang, Cheng",
+          "Ji, Linfei",
+          "Wang, Yifan",
+          "Zhu, Jieming",
+          "Dong, Zhenhua",
+          "Zhang, Rui",
+          "Li, Ruixuan"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/aa6a298ec282629ac56d7f78fbd8374867734a9d",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "UNGER: Generative Recommendation with A Unified Code via Semantic and Collaborative Integration",
+        "year": 2025,
+        "authors": [
+          "Longtao Xiao",
+          "Haozhao Wang",
+          "Cheng Wang",
+          "Linfei Ji",
+          "Yifan Wang",
+          "Jieming Zhu",
+          "Zhenhua Dong",
+          "Rui Zhang",
+          "Ruixuan Li"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Unger%3A+Generative+recommendation+with+a+unified+code+via+semantic+and+collaborative+integration&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "etegrec",
+      "raw": {
+        "title": "Generative recommender with end-to-end learnable item tokenization",
+        "authors": [
+          "Liu, Enze",
+          "Zheng, Bowen",
+          "Ling, Cheng",
+          "Hu, Lantao",
+          "Li, Han",
+          "Zhao, Wayne Xin"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/65a85e771ca36c7415d9253f316c261c34456b3e",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Generative Recommender with End-to-End Learnable Item Tokenization",
+        "year": 2024,
+        "authors": [
+          "Enze Liu",
+          "Bowen Zheng",
+          "Cheng Ling",
+          "Lantao Hu",
+          "Han Li",
+          "Wayne Xin Zhao"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Generative+recommender+with+end-to-end+learnable+item+tokenization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "forge",
+      "raw": {
+        "title": "Forge: Forming semantic identifiers for generative retrieval in industrial datasets",
+        "authors": [
+          "Fu, Kairui",
+          "Zhang, Tao",
+          "Xiao, Shuwen",
+          "Wang, Ziyang",
+          "Zhang, Xinming",
+          "Zhang, Chenchi",
+          "Yan, Yuliang",
+          "Zheng, Junjun",
+          "Li, Yu",
+          "Chen, Zhihong",
+          "others"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/3591dd4a2fdd90ffb7aee38d52feda6fa9ded229",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "FORGE: Forming Semantic Identifiers for Generative Retrieval in Industrial Datasets",
+        "year": 2025,
+        "authors": [
+          "Kairui Fu",
+          "Tao Zhang",
+          "Shuwen Xiao",
+          "Ziyang Wang",
+          "Xinming Zhang",
+          "Chenchi Zhang",
+          "Yuliang Yan",
+          "Junjun Zheng",
+          "Yu Li",
+          "Zhihong Chen",
+          "Jian Wu",
+          "Xiangheng Kong",
+          "Shengyu Zhang",
+          "K. Kuang",
+          "Yuning Jiang",
+          "Bo Zheng"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Forge%3A+Forming+semantic+identifiers+for+generative+retrieval+in+industrial+datasets&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "lcrec",
+      "raw": {
+        "title": "Adapting large language models by integrating collaborative semantics for recommendation",
+        "authors": [
+          "Zheng, Bowen",
+          "Hou, Yupeng",
+          "Lu, Hongyu",
+          "Chen, Yu",
+          "Zhao, Wayne Xin",
+          "Chen, Ming",
+          "Wen, Ji-Rong"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/9d2c9a7c3ff8f760b43fdd6a7082069a467c8956",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Adapting Large Language Models by Integrating Collaborative Semantics for Recommendation",
+        "year": 2023,
+        "authors": [
+          "Bowen Zheng",
+          "Yupeng Hou",
+          "Hongyu Lu",
+          "Yu Chen",
+          "Wayne Xin Zhao",
+          "Ji-rong Wen"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Adapting+large+language+models+by+integrating+collaborative+semantics+for+recommendation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "cost",
+      "raw": {
+        "title": "Cost: Contrastive quantization based semantic tokenization for generative recommendation",
+        "authors": [
+          "Zhu, Jieming",
+          "Jin, Mengqun",
+          "Liu, Qijiong",
+          "Qiu, Zexuan",
+          "Dong, Zhenhua",
+          "Li, Xiu"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/6d9c4f406caff94da5846a9be6749ffe3505bda2",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "CoST: Contrastive Quantization based Semantic Tokenization for Generative Recommendation",
+        "year": 2024,
+        "authors": [
+          "Jieming Zhu",
+          "Mengqun Jin",
+          "Qijiong Liu",
+          "Zexuan Qiu",
+          "Zhenhua Dong",
+          "Xiu Li"
+        ]
+      },
+      "title_similarity": 0.9943502824858758,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Cost%3A+Contrastive+quantization+based+semantic+tokenization+for+generative+recommendation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "liger",
+      "raw": {
+        "title": "Unifying Generative and Dense Retrieval for Sequential Recommendation",
+        "authors": [
+          "Liu Yang",
+          "Fabian Paischer",
+          "Kaveh Hassani",
+          "Jiacheng Li",
+          "Shuai Shao",
+          "Zhang Gabriel Li",
+          "Yun He",
+          "Xue Feng",
+          "Nima Noorshams",
+          "Sem Park",
+          "Bo Long",
+          "Robert D Nowak",
+          "Xiaoli Gao",
+          "Hamid Eghbalzadeh"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2411.18814"
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/d34df5d9d9e84c3525c0c4023289eb43bd49f13c",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Unifying Generative and Dense Retrieval for Sequential Recommendation",
+        "year": 2024,
+        "authors": [
+          "Liu Yang",
+          "Fabian Paischer",
+          "Kaveh Hassani",
+          "Jiacheng Li",
+          "Shuai Shao",
+          "Zhang Gabriel Li",
+          "Yun He",
+          "Xue Feng",
+          "Nima Noorshams",
+          "Sem Park",
+          "Bo Long",
+          "Robert Nowak",
+          "Xiaoli Gao",
+          "Hamid Eghbalzadeh"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2411.18814&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "cobra",
+      "raw": {
+        "title": "Sparse meets dense: Unified generative recommendations with cascaded sparse-dense representations",
+        "authors": [
+          "Yang, Yuhao",
+          "Ji, Zhi",
+          "Li, Zhaopeng",
+          "Li, Yi",
+          "Mo, Zhonglin",
+          "Ding, Yue",
+          "Chen, Kai",
+          "Zhang, Zijian",
+          "Li, Jie",
+          "Li, Shuanglong",
+          "others"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/36485756610616bde975b91c259f9f3e1cdc0369",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Sparse Meets Dense: Unified Generative Recommendations with Cascaded Sparse-Dense Representations",
+        "year": 2025,
+        "authors": [
+          "Yuhao Yang",
+          "Zhi Ji",
+          "Zhaopeng Li",
+          "Yi Li",
+          "Zhonglin Mo",
+          "Yue Ding",
+          "Kaibo Chen",
+          "Zijian Zhang",
+          "Jie Li",
+          "Shuanglong Li",
+          "Lin Liu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Sparse+meets+dense%3A+Unified+generative+recommendations+with+cascaded+sparse-dense+representations&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "onerec",
+      "raw": {
+        "title": "OneRec Technical Report",
+        "authors": [
+          "Zhou, Guorui",
+          "Deng, Jiaxin",
+          "Zhang, Jinghao",
+          "Cai, Kuo",
+          "Ren, Lejian",
+          "Luo, Qiang",
+          "Wang, Qianqian",
+          "Hu, Qigen",
+          "Huang, Rui",
+          "Wang, Shiyao",
+          "others"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/911b068fe51ec1f7aa9f69cedf8e56e684a450ee",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "OneRec Technical Report",
+        "year": 2025,
+        "authors": [
+          "Guorui Zhou",
+          "Jiaxin Deng",
+          "Jinghao Zhang",
+          "Kuo Cai",
+          "Lejian Ren",
+          "Qiang Luo",
+          "Qianqian Wang",
+          "Qigen Hu",
+          "Rui Huang",
+          "Shiyao Wang",
+          "Weifeng Ding",
+          "Wuchao Li",
+          "Xinchen Luo",
+          "Xing-Yao Wang",
+          "Zexuan Cheng",
+          "Zixing Zhang",
+          "Bin Zhang",
+          "Bo-Wen Wang",
+          "Chao Ma",
+          "Cheng-bin Song",
+          "Chenhui Wang",
+          "Di Wang",
+          "Dongxue Meng",
+          "Fan Yang",
+          "Fang-Peng Zhang",
+          "Feng Jiang",
+          "Fuxing Zhang",
+          "Gang Wang",
+          "Guowang Zhang",
+          "Han Li",
+          "Hengrui Hu",
+          "Hezheng Lin",
+          "Hongtao Cheng",
+          "Hong Cao",
+          "Huanjie Wang",
+          "Jiaming Huang",
+          "Jiapeng Chen",
+          "Jiaqian Liu",
+          "Jinghui Jia",
+          "Kun Gai",
+          "Lantao Hu",
+          "Liang Zeng",
+          "Liao Yu",
+          "Qiang Wang",
+          "Qidong Zhou",
+          "Shengzhe Wang",
+          "Shi He",
+          "Shuang Yang",
+          "Shu-Jun Yang",
+          "Sui Huang",
+          "Tao Wu",
+          "TIAN-CHEN He",
+          "Tingting Gao",
+          "Wei Yuan",
+          "Xiaoyan Liang",
+          "Xiao-Xue Xu",
+          "Xugang Liu",
+          "Yan Wang",
+          "Yi Wang",
+          "Yiwu Liu",
+          "Yue Song",
+          "Yufei Zhang",
+          "Yun-Hong Wu",
+          "Yunfeng Zhao",
+          "Zhanyun Liu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=OneRec+Technical+Report&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "onerecv2",
+      "raw": {
+        "title": "Onerec-v2 technical report",
+        "authors": [
+          "Zhou, Guorui",
+          "Hu, Hengrui",
+          "Cheng, Hongtao",
+          "Wang, Huanjie",
+          "Deng, Jiaxin",
+          "Zhang, Jinghao",
+          "Cai, Kuo",
+          "Ren, Lejian",
+          "Ren, Lu",
+          "Yu, Liao",
+          "others"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/a17b161fadf577a28aad22752a15ccfb4d49bf16",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "OneRec-V2 Technical Report",
+        "year": 2025,
+        "authors": [
+          "Guorui Zhou",
+          "Hengrui Hu",
+          "Hongtao Cheng",
+          "Huanjie Wang",
+          "Jiaxin Deng",
+          "Jinghao Zhang",
+          "Kuo Cai",
+          "Lejian Ren",
+          "Lu Ren",
+          "Liao Yu",
+          "Pengfei Zheng",
+          "Qiang Luo",
+          "Qianqian Wang",
+          "Qigen Hu",
+          "Rui Huang",
+          "Ruiming Tang",
+          "Shiyao Wang",
+          "Shu-Jun Yang",
+          "Tao Wu",
+          "Wuchao Li",
+          "Xin-Jing LuO",
+          "Xing-Yao Wang",
+          "Yi Su",
+          "Yun-Jie Wu",
+          "Zexuan Cheng",
+          "Zhanyun Liu",
+          "Zixing Zhang",
+          "Bin Zhang",
+          "Bo-Long Wang",
+          "Chao Ma",
+          "Cheng-bin Song",
+          "Chenhui Wang",
+          "Chenglong Chu",
+          "Di Wang",
+          "Dongxue Meng",
+          "Dunju Zang",
+          "Fan Yang",
+          "Fang-Peng Zhang",
+          "Fengqing Jiang",
+          "Fuxing Zhang",
+          "Gang Wang",
+          "Guowang Zhang",
+          "Han Li",
+          "Honghui Bao",
+          "Hong Cao",
+          "Jiaming Huang",
+          "Jiapeng Chen",
+          "Jiaqian Liu",
+          "Jinghui Jia",
+          "Kun Gai",
+          "Lantao Hu",
+          "Liang Zeng",
+          "Qiang Wang",
+          "Qidong Zhou",
+          "Rong-Qing Zhang",
+          "Shengzhe Wang",
+          "Shi He",
+          "Shuang Yang",
+          "Si-Yuan Mao",
+          "Sui Huang",
+          "TIAN-CHEN He",
+          "Tingting Gao",
+          "Wei Yuan",
+          "Xiaofeng Liang",
+          "Xiao-Xue Xu",
+          "Xugang Liu",
+          "Yan Wang",
+          "Yang Zhou",
+          "Yi Wang",
+          "Yiwu Liu",
+          "Yuexin Song",
+          "Yufei Zhang",
+          "Yunfeng Zhao",
+          "Zhixin Ling",
+          "Ziming Li"
+        ]
+      },
+      "title_similarity": 0.9811320754716981,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Onerec-v2+technical+report&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "onesearch",
+      "raw": {
+        "title": "Onesearch: A preliminary exploration of the unified end-to-end generative framework for e-commerce search",
+        "authors": [
+          "Chen, Ben",
+          "Guo, Xian",
+          "Wang, Siyuan",
+          "Liang, Zihan",
+          "Lv, Yue",
+          "Ma, Yufei",
+          "Xiao, Xinlong",
+          "Xue, Bowen",
+          "Zhang, Xuxin",
+          "Yang, Ying",
+          "others"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/003cbd7a131a0d6ebbf8ba15db71678b0466d235",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "OneSearch: A Preliminary Exploration of the Unified End-to-End Generative Framework for E-commerce Search",
+        "year": 2025,
+        "authors": [
+          "Ben Chen",
+          "Xian Guo",
+          "Siyuan Wang",
+          "Zihan Liang",
+          "Yue Lv",
+          "Yufei Ma",
+          "Xinlong Xiao",
+          "Bowen Xue",
+          "Xuxin Zhang",
+          "Ying Yang",
+          "Huangyu Dai",
+          "Xin Xu",
+          "Tong Zhao",
+          "Mingcan Peng",
+          "Xiaoyang Zheng",
+          "Chao Wang",
+          "Qihang Zhao",
+          "Zhixin Zhai",
+          "Yang Zhao",
+          "Bochao Liu",
+          "Jingshan Lv",
+          "Xiao Liang",
+          "Yuqing Ding",
+          "Jing Chen",
+          "Chenyi Lei",
+          "Wenwu Ou",
+          "Han Li",
+          "Kun Gai"
+        ]
+      },
+      "title_similarity": 0.9952606635071091,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Onesearch%3A+A+preliminary+exploration+of+the+unified+end-to-end+generative+framework+for+e-commerce+search&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "seater",
+      "raw": {
+        "title": "Generative retrieval with semantic tree-structured identifiers and contrastive learning",
+        "authors": [
+          "Si, Zihua",
+          "Sun, Zhongxiang",
+          "Chen, Jiale",
+          "Chen, Guozhang",
+          "Zang, Xiaoxue",
+          "Zheng, Kai",
+          "Song, Yang",
+          "Zhang, Xiao",
+          "Xu, Jun",
+          "Gai, Kun"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/1d9865d92fb5648288219680e2c26cf1e1c02caf",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Generative Retrieval with Semantic Tree-Structured Identifiers and Contrastive Learning",
+        "year": 2023,
+        "authors": [
+          "Zihua Si",
+          "ZhongXiang Sun",
+          "Jiale Chen",
+          "Guozhang Chen",
+          "Xiaoxue Zang",
+          "Kai Zheng",
+          "Yang Song",
+          "Xiao Zhang",
+          "Jun Xu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Generative+retrieval+with+semantic+tree-structured+identifiers+and+contrastive+learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "gram",
+      "raw": {
+        "title": "GRAM: Generative Recommendation via Semantic-aware Multi-granular Late Fusion",
+        "authors": [
+          "Lee, Sunkyung",
+          "Choi, Minjin",
+          "Choi, Eunseong",
+          "Kim, Hye-young",
+          "Lee, Jongwuk"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/20c8acfb3cc456ee3a12892ca8561b342ebb5ae0",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "GRAM: Generative Recommendation via Semantic-aware Multi-granular Late Fusion",
+        "year": 2025,
+        "authors": [
+          "Sunkyung Lee",
+          "Minjin Choi",
+          "Eunseong Choi",
+          "Hye-young Kim",
+          "Jongwuk Lee"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=GRAM%3A+Generative+Recommendation+via+Semantic-aware+Multi-granular+Late+Fusion&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "actionpiece",
+      "raw": {
+        "title": "ActionPiece: Contextually Tokenizing Action Sequences for Generative Recommendation",
+        "authors": [
+          "Hou, Yupeng",
+          "Ni, Jianmo",
+          "He, Zhankui",
+          "Sachdeva, Noveen",
+          "Kang, Wang-Cheng",
+          "Chi, Ed H",
+          "McAuley, Julian",
+          "Cheng, Derek Zhiyuan"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/c3155f1c063be81ee8a0f9d3bd755148167881a1",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "ActionPiece: Contextually Tokenizing Action Sequences for Generative Recommendation",
+        "year": 2025,
+        "authors": [
+          "Yupeng Hou",
+          "Jianmo Ni",
+          "Zhankui He",
+          "Noveen Sachdeva",
+          "Wang-Cheng Kang",
+          "E. Chi",
+          "Julian McAuley",
+          "D. Cheng"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=ActionPiece%3A+Contextually+Tokenizing+Action+Sequences+for+Generative+Recommendation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "sentencet5",
+      "raw": {
+        "title": "Sentence-t5: Scalable sentence encoders from pre-trained text-to-text models",
+        "authors": [
+          "Ni, Jianmo",
+          "Abrego, Gustavo Hernandez",
+          "Constant, Noah",
+          "Ma, Ji",
+          "Hall, Keith",
+          "Cer, Daniel",
+          "Yang, Yinfei"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/dbe87b171bfb789e1d22a047aeeee69105e6fd02",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Sentence-T5: Scalable Sentence Encoders from Pre-trained Text-to-Text Models",
+        "year": 2021,
+        "authors": [
+          "Jianmo Ni",
+          "Gustavo Hernández Abrego",
+          "Noah Constant",
+          "Ji Ma",
+          "Keith B. Hall",
+          "Daniel Matthew Cer",
+          "Yinfei Yang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Sentence-t5%3A+Scalable+sentence+encoders+from+pre-trained+text-to-text+models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "t5x",
+      "raw": {
+        "title": "Scaling up models and data with t5x and seqio",
+        "authors": [
+          "Roberts, Adam",
+          "Chung, Hyung Won",
+          "Mishra, Gaurav",
+          "Levskaya, Anselm",
+          "Bradbury, James",
+          "Andor, Daniel",
+          "Narang, Sharan",
+          "Lester, Brian",
+          "Gaffney, Colin",
+          "Mohiuddin, Afroz",
+          "others"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/1ed66e048bb025e75aa5ea660545285212e5341f",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Scaling Up Models and Data with t5x and seqio",
+        "year": 2022,
+        "authors": [
+          "Adam Roberts",
+          "Hyung Won Chung",
+          "Anselm Levskaya",
+          "Gaurav Mishra",
+          "James Bradbury",
+          "D. Andor",
+          "Sharan Narang",
+          "Brian Lester",
+          "Colin Gaffney",
+          "Afroz Mohiuddin",
+          "Curtis Hawthorne",
+          "Aitor Lewkowycz",
+          "Alexandru Salcianu",
+          "Marc van Zee",
+          "Jacob Austin",
+          "Sebastian Goodman",
+          "Livio Baldini Soares",
+          "Haitang Hu",
+          "Sasha Tsvyashchenko",
+          "A. Chowdhery",
+          "Jasmijn Bastings",
+          "Jannis Bulian",
+          "Xavier García",
+          "Jianmo Ni",
+          "Andre Chen",
+          "Kathleen Kenealy",
+          "J. Clark",
+          "Stephan Lee",
+          "Dan Garrette",
+          "J. Lee-Thorp",
+          "Colin Raffel",
+          "Noam Shazeer",
+          "Marvin Ritter",
+          "Maarten Bosma",
+          "Alexandre Passos",
+          "Jeremy B. Maitin-Shepard",
+          "Noah Fiedel",
+          "Mark Omernick",
+          "Brennan Saeta",
+          "Ryan Sepassi",
+          "A. Spiridonov",
+          "Joshua Newlan",
+          "Andrea Gesmundo"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Scaling+up+models+and+data+with+t5x+and+seqio&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "narm",
+      "raw": {
+        "title": "Neural Attentive Session-based Recommendation",
+        "authors": [
+          "Li, Jing",
+          "Ren, Pengjie",
+          "Chen, Zhumin",
+          "Ren, Zhaochun",
+          "Lian, Tao",
+          "Ma, Jun"
+        ],
+        "year": 2017,
+        "doi": "10.1145/3132847.3132926",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2964044287",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Neural Attentive Session-based Recommendation",
+        "year": 2017,
+        "authors": [
+          "Jing Li",
+          "Pengjie Ren",
+          "Zhumin Chen",
+          "Zhaochun Ren",
+          "Tao Lian",
+          "Jun Ma"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "caser",
+      "raw": {
+        "title": "Personalized Top-N Sequential Recommendation via Convolutional Sequence Embedding",
+        "authors": [
+          "Tang, Jiaxi",
+          "Wang, Ke"
+        ],
+        "year": 2018,
+        "doi": "10.1145/3159652.3159656",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2783272285",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Personalized Top-N Sequential Recommendation via Convolutional Sequence Embedding",
+        "year": 2018,
+        "authors": [
+          "Jiaxi Tang",
+          "Ke Wang"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "srgnn",
+      "raw": {
+        "title": "Session-based recommendation with graph neural networks",
+        "authors": [
+          "Wu, Shu",
+          "Tang, Yuyuan",
+          "Zhu, Yanqiao",
+          "Wang, Liang",
+          "Xie, Xing",
+          "Tan, Tieniu"
+        ],
+        "year": 2019,
+        "doi": "10.1609/aaai.v33i01.3301346",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2899457523",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Session-Based Recommendation with Graph Neural Networks",
+        "year": 2019,
+        "authors": [
+          "Shu Wu",
+          "Yuyuan Tang",
+          "Yanqiao Zhu",
+          "Liang Wang",
+          "Xing Xie",
+          "Tieniu Tan"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "improvedrnns",
+      "raw": {
+        "title": "Improved recurrent neural networks for session-based recommendations",
+        "authors": [
+          "Tan, Yong Kiam",
+          "Xu, Xinxing",
+          "Liu, Yong"
+        ],
+        "year": 2016,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/908e33baf3eacc2e50c7dede52af96cf9cf5ac59",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Improved Recurrent Neural Networks for Session-based Recommendations",
+        "year": 2016,
+        "authors": [
+          "Yong Kiam Tan",
+          "Xinxing Xu",
+          "Yong Liu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Improved+recurrent+neural+networks+for+session-based+recommendations&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "transformer",
+      "raw": {
+        "title": "Attention is all you need",
+        "authors": [
+          "Vaswani, Ashish",
+          "Shazeer, Noam",
+          "Parmar, Niki",
+          "Uszkoreit, Jakob",
+          "Jones, Llion",
+          "Gomez, Aidan N",
+          "Kaiser, {\\L}ukasz",
+          "Polosukhin, Illia"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Attention is All you Need",
+        "year": 2017,
+        "authors": [
+          "Ashish Vaswani",
+          "Noam Shazeer",
+          "Niki Parmar",
+          "Jakob Uszkoreit",
+          "Llion Jones",
+          "Aidan N. Gomez",
+          "Lukasz Kaiser",
+          "I. Polosukhin"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Attention+is+all+you+need&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "recformer",
+      "raw": {
+        "title": "Text is all you need: Learning language representations for sequential recommendation",
+        "authors": [
+          "Li, Jiacheng",
+          "Wang, Ming",
+          "Li, Jin",
+          "Fu, Jinmiao",
+          "Shen, Xin",
+          "Shang, Jingbo",
+          "McAuley, Julian"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/c551ef5a45f72a689cbf02877290115606019106",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Text Is All You Need: Learning Language Representations for Sequential Recommendation",
+        "year": 2023,
+        "authors": [
+          "Jiacheng Li",
+          "Ming Wang",
+          "Jin Li",
+          "Jinmiao Fu",
+          "Xin Shen",
+          "Jingbo Shang",
+          "Julian McAuley"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Text+is+all+you+need%3A+Learning+language+representations+for+sequential+recommendation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "rpg",
+      "raw": {
+        "title": "Generating long semantic ids in parallel for recommendation",
+        "authors": [
+          "Hou, Yupeng",
+          "Li, Jiacheng",
+          "Shin, Ashley",
+          "Jeon, Jinsung",
+          "Santhanam, Abhishek",
+          "Shao, Wei",
+          "Hassani, Kaveh",
+          "Yao, Ning",
+          "McAuley, Julian"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/7d003726fcea1a7da72554cbb8e7c785f1fc3fe9",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Generating Long Semantic IDs in Parallel for Recommendation",
+        "year": 2025,
+        "authors": [
+          "Yupeng Hou",
+          "Jiacheng Li",
+          "Ashley Shin",
+          "Jinsung Jeon",
+          "Abhishek Santhanam",
+          "Wei Shao",
+          "Kaveh Hassani",
+          "Ning Yao",
+          "Julian McAuley"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Generating+long+semantic+ids+in+parallel+for+recommendation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "faiss",
+      "raw": {
+        "title": "Billion-scale similarity search with GPUs",
+        "authors": [
+          "Johnson, Jeff",
+          "Douze, Matthijs",
+          "J{\\'e}gou, Herv{\\'e}"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "metadata_mismatch",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/2cbb8de53759e75411bc528518947a3094fbce3a",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Billion-Scale Similarity Search with GPUs",
+        "year": 2017,
+        "authors": [
+          "Jeff Johnson",
+          "Matthijs Douze",
+          "H. Jégou"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [
+        "year"
+      ],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Billion-scale+similarity+search+with+GPUs&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "umap",
+      "raw": {
+        "title": "Umap: Uniform manifold approximation and projection for dimension reduction",
+        "authors": [
+          "McInnes, Leland",
+          "Healy, John",
+          "Melville, James"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/3a288c63576fc385910cb5bc44eaea75b442e62e",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction",
+        "year": 2018,
+        "authors": [
+          "Leland McInnes",
+          "John Healy"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Umap%3A+Uniform+manifold+approximation+and+projection+for+dimension+reduction&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "tsne",
+      "raw": {
+        "title": "Visualizing data using t-SNE",
+        "authors": [
+          "Maaten, Laurens van der",
+          "Hinton, Geoffrey"
+        ],
+        "year": 2008,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/1c46943103bd7b7a2c7be86859995a4144d1938b",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Visualizing Data using t-SNE",
+        "year": 2008,
+        "authors": [
+          "L. Maaten",
+          "Geoffrey E. Hinton"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Visualizing+data+using+t-SNE&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "louvain",
+      "raw": {
+        "title": "Fast unfolding of communities in large networks",
+        "authors": [
+          "Blondel, Vincent D",
+          "Guillaume, Jean-Loup",
+          "Lambiotte, Renaud",
+          "Lefebvre, Etienne"
+        ],
+        "year": 2008,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/274a4b1b7ef7811c5cbf9a2127b7dbd21244122a",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Fast unfolding of communities in large networks",
+        "year": 2008,
+        "authors": [
+          "V. Blondel",
+          "Jean-Loup Guillaume",
+          "R. Lambiotte",
+          "E. Lefebvre"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Fast+unfolding+of+communities+in+large+networks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    }
+  ]
+}

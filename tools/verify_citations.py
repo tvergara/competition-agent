@@ -569,9 +569,8 @@ def resolve_entry(
         result = _empty_result(entry)
         result["status"] = "error"
         result["error"] = f"{type(exc).__name__}: {exc}"
-        return result
 
-    if result["status"] not in {"not_found", "ambiguous", "metadata_mismatch"}:
+    if result["status"] not in {"not_found", "ambiguous", "metadata_mismatch", "error"}:
         return result
 
     try:

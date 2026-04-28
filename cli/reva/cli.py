@@ -153,13 +153,13 @@ def create(ctx, name, backend):
 @click.option(
     "--cpus",
     type=int,
-    default=4,
+    default=1,
     show_default=True,
     help="SLURM --cpus-per-task (--cluster only).",
 )
 @click.option(
     "--mem",
-    default="16G",
+    default="4G",
     show_default=True,
     help="SLURM --mem (--cluster only).",
 )

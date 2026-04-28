@@ -1,0 +1,350 @@
+{
+  "paper_id": "0d8bfac7-ad00-49cf-a49f-5c21647ff855",
+  "total": 13,
+  "verified": 3,
+  "mismatch": 0,
+  "missing": 1,
+  "ambiguous": 0,
+  "error": 7,
+  "skipped": 2,
+  "s2_consulted": 1,
+  "s2_lifted": 0,
+  "key_style_outliers": [],
+  "entries": [
+    {
+      "key": "corefl2021",
+      "raw": {
+        "title": "Fairness in Federated Learning via Core-Stability",
+        "authors": [
+          "Chaudhury, Bhaskar Ray",
+          "Li, Linyi",
+          "Kang, Mintong",
+          "Li,\n                  Bo",
+          "Mehta, Ruta"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "federatedfairnessanalytics2023",
+      "raw": {
+        "title": "Federated Fairness Analytics: Quantifying Fairness in Federated Learning",
+        "authors": [
+          "Oscar Dilley",
+          "Juan Marcelo Parra-Ullauri",
+          "Rasheed Hussain",
+          "Dimitra Simeonidou"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": "2408.08214"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2408.08214&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "fairfedcs2023",
+      "raw": {
+        "title": "Fairness-Aware Client Selection for Federated Learning",
+        "authors": [
+          "Shi, Yuxin",
+          "Liu, Zelei",
+          "Shi, Zhuan",
+          "Yu, Han"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": "2307.10738"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2307.10738&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "q-FFL",
+      "raw": {
+        "title": "Fair Resource Allocation in Federated Learning",
+        "authors": [
+          "Li, Tian",
+          "Sanjabi, Maziar",
+          "Beirami, Ahmad",
+          "Smith,\n                  Virgina"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "FedAvg",
+      "raw": {
+        "title": "Communication-efficient learning of deep networks from decentralized data",
+        "authors": [
+          "McMahan, H. Brendan",
+          "Moore, Eider",
+          "Ramage, Daniel",
+          "Hampson, Seth",
+          "Arcas, Blaise Agüera y"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": "1602.05629"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1602.05629&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "mohri2019agnostic",
+      "raw": {
+        "title": "Agnostic Federated Learning",
+        "authors": [
+          "Mohri, Mehryar",
+          "Sivek, Gary",
+          "Suresh, Ananda Theertha"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": "1902.00146"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+1902.00146&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "cho2020client",
+      "raw": {
+        "title": "Client Selection in Federated Learning: Convergence Analysis and Power-of-Choice Techniques",
+        "authors": [
+          "Cho, Youngkyun",
+          "Shin, Jinwoo",
+          "Shin, Kijung"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": "2010.01243"
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv+2010.01243&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "nishio2019client",
+      "raw": {
+        "title": "Client Selection for Federated Learning with Heterogeneous Resources in Mobile Edge",
+        "authors": [
+          "Nishio, Takayuki",
+          "Yonetani, Ryo"
+        ],
+        "year": 2019,
+        "doi": "10.1109/ICC.2019.8761315",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2798720628",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Client Selection for Federated Learning with Heterogeneous Resources in Mobile Edge",
+        "year": 2019,
+        "authors": [
+          "Takayuki Nishio",
+          "Ryo Yonetani"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "FedFV",
+      "raw": {
+        "title": "Federated Learning with Fair Averaging",
+        "authors": [
+          "Wang, Zheng",
+          "Fan, Xiaoliang",
+          "Qi, Jianzhong",
+          "Wen,\n                  Chenglu",
+          "Wang, Cheng",
+          "Yu, Rongshan"
+        ],
+        "year": 2021,
+        "doi": "https://www.ijcai.org/proceedings/2021/0223.pdf",
+        "arxiv_id": null
+      },
+      "status": "not_found",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "clientselectionmobileedge",
+      "raw": {
+        "title": "Client Selection for Federated Learning with Heterogeneous Resources in Mobile Edge",
+        "authors": [
+          "Takayuki Nishio",
+          "Ryo Yonetani"
+        ],
+        "year": 2019,
+        "doi": "10.1109/ICC.2019.8761315",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W2798720628",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Client Selection for Federated Learning with Heterogeneous Resources in Mobile Edge",
+        "year": 2019,
+        "authors": [
+          "Takayuki Nishio",
+          "Ryo Yonetani"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "yang2021characterizing",
+      "raw": {
+        "title": "Characterizing Impacts of Heterogeneity in Federated Learning upon Large-Scale Smartphone Data",
+        "authors": [
+          "Yang, Chengxu",
+          "Wang, Qipeng",
+          "Xu, Mengwei",
+          "Chen,\n                  Zhenpeng",
+          "Bian, Kaigui",
+          "Liu, Yunxin",
+          "Liu, Xuanzhe"
+        ],
+        "year": 2021,
+        "doi": "10.1145/3442381.3449851",
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": "https://openalex.org/W3154608090",
+      "semantic_scholar_id": null,
+      "match_source": "openalex",
+      "best_match": {
+        "title": "Characterizing Impacts of Heterogeneity in Federated Learning upon Large-Scale Smartphone Data",
+        "year": 2021,
+        "authors": [
+          "Chengxu Yang",
+          "Qipeng Wang",
+          "Mengwei Xu",
+          "Zhenpeng Chen",
+          "Kaigui Bian",
+          "Yunxin Liu",
+          "Xuanzhe Liu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "GoogleFL",
+      "raw": {
+        "title": "Towards federated learning at scale: System design",
+        "authors": [
+          "Keith Bonawitz",
+          "Hubert Eichner",
+          "Wolfgang Grieskamp",
+          "Dzmitry Huba",
+          "Alex Ingerman",
+          "Vladimir Ivanov",
+          "Chloe Kiddon",
+          "Jakub Konečny",
+          "Stefano Mazzocchi",
+          "Brendan McMahan et al."
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Towards+federated+learning+at+scale%3A+System+design&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "PHP-FL",
+      "raw": {
+        "title": "A Fair Federated Learning Method for Handling Client Participation Probability Inconsistencies in Heterogeneous Environments",
+        "authors": [
+          "Wu, Siyuan",
+          "Jia, Yongzhe",
+          "Xiang, Haolong",
+          "Xu, Xiaolong",
+          "Zhang, Xuyun",
+          "Qi, Lianyong",
+          "Dou, Wanchun"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=A+Fair+Federated+Learning+Method+for+Handling+Client+Participation+Probability+Inconsistencies+in+Heterogeneous+Environments&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    }
+  ]
+}

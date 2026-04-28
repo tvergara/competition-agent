@@ -1,10 +1,10 @@
 {
   "paper_id": "640e44ec-91da-4d38-9b9a-4a3a20ad15d0",
   "total": 89,
-  "verified": 49,
+  "verified": 47,
   "mismatch": 23,
-  "missing": 9,
-  "ambiguous": 2,
+  "missing": 12,
+  "ambiguous": 1,
   "error": 0,
   "skipped": 6,
   "s2_consulted": 61,
@@ -110,31 +110,13 @@
         "doi": null,
         "arxiv_id": null
       },
-      "status": "metadata_mismatch",
+      "status": "not_found",
       "openalex_id": null,
-      "semantic_scholar_id": "https://www.semanticscholar.org/paper/b6df5c2ac2f91d71b1d08d76135e2a470ac1ad1e",
+      "semantic_scholar_id": null,
       "match_source": "semantic_scholar",
-      "best_match": {
-        "title": "MACHINE LEARNING An Artificial Intelligence Approach",
-        "year": 2009,
-        "authors": [
-          "R. Michalski",
-          "Tom M Mitchell",
-          "Jack Mostow",
-          "Bernard Nudel",
-          "Michael Rychener",
-          "R. Quinlan",
-          "H. Simon",
-          "D. Sleeman",
-          "Robert Stepp",
-          "P. Utgoff"
-        ]
-      },
-      "title_similarity": 0.9203539823008849,
-      "mismatches": [
-        "year",
-        "authors"
-      ],
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
       "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Machine%20Learning%3A%20An%20Artificial%20Intelligence%20Approach%2C%20Vol.%20I&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
     },
     {
@@ -152,17 +134,16 @@
       },
       "status": "ambiguous",
       "openalex_id": null,
-      "semantic_scholar_id": "https://www.semanticscholar.org/paper/b07ce649d6f6eb636872527104b0209d3edc8188",
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/15c0c1a8140925252d5e6cbdaa9cf109d474beac",
       "match_source": "semantic_scholar",
       "best_match": {
-        "title": "Pattern classification and scene analysis",
-        "year": 1974,
+        "title": "Pattern Classification",
+        "year": 2021,
         "authors": [
-          "R. Duda",
-          "P. Hart"
+          "Katherine L. Silversides"
         ]
       },
-      "title_similarity": 0.9777777777777777,
+      "title_similarity": 1.0,
       "mismatches": [],
       "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Pattern%20Classification&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
     },
@@ -226,7 +207,7 @@
         "doi": null,
         "arxiv_id": null
       },
-      "status": "ambiguous",
+      "status": "metadata_mismatch",
       "openalex_id": null,
       "semantic_scholar_id": "https://www.semanticscholar.org/paper/e9e6bb5f2a04ae30d8ecc9287f8b702eedd7b772",
       "match_source": "semantic_scholar",
@@ -238,7 +219,9 @@
         ]
       },
       "title_similarity": 1.0,
-      "mismatches": [],
+      "mismatches": [
+        "year"
+      ],
       "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Some%20Studies%20in%20Machine%20Learning%20Using%20the%20Game%20of%20Checkers&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
     },
     {
@@ -794,7 +777,7 @@
           "Yongbin Li"
         ]
       },
-      "title_similarity": 0.989010989010989,
+      "title_similarity": 0.8571428571428571,
       "mismatches": [],
       "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv%202304.08244&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
     },
@@ -993,7 +976,7 @@
           "M. Barnes"
         ]
       },
-      "title_similarity": 0.4454148471615721,
+      "title_similarity": 0.05555555555555555,
       "mismatches": [
         "authors"
       ],
@@ -1027,7 +1010,7 @@
           "Marti A. Hearst"
         ]
       },
-      "title_similarity": 0.4431818181818182,
+      "title_similarity": 0.07142857142857142,
       "mismatches": [
         "authors"
       ],
@@ -1058,7 +1041,7 @@
           "Paul Maxime Valentin Saves"
         ]
       },
-      "title_similarity": 0.3430962343096235,
+      "title_similarity": 0.0588235294117647,
       "mismatches": [
         "authors"
       ],
@@ -1095,7 +1078,7 @@
           "J.P.C.Greenlees"
         ]
       },
-      "title_similarity": 0.3544303797468355,
+      "title_similarity": 0.0,
       "mismatches": [
         "authors"
       ],
@@ -1132,7 +1115,7 @@
           "Simon Ostermann"
         ]
       },
-      "title_similarity": 0.5205479452054794,
+      "title_similarity": 0.1,
       "mismatches": [
         "authors"
       ],
@@ -1168,7 +1151,7 @@
           "M. Pagnucco"
         ]
       },
-      "title_similarity": 0.4380952380952381,
+      "title_similarity": 0.125,
       "mismatches": [
         "authors"
       ],
@@ -1236,7 +1219,7 @@
           "Yansong Feng"
         ]
       },
-      "title_similarity": 0.8264462809917356,
+      "title_similarity": 0.6666666666666665,
       "mismatches": [],
       "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv%202505.21413&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
     },
@@ -1268,7 +1251,7 @@
           "Peter Alexander Jansen"
         ]
       },
-      "title_similarity": 0.9925925925925925,
+      "title_similarity": 0.6875,
       "mismatches": [],
       "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv%202305.14879&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
     },
@@ -1437,7 +1420,7 @@
           "Le Sun"
         ]
       },
-      "title_similarity": 0.8535031847133757,
+      "title_similarity": 0.7272727272727273,
       "mismatches": [],
       "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv%202306.05301&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
     },
@@ -1500,7 +1483,7 @@
           "Jie Chen"
         ]
       },
-      "title_similarity": 0.9904761904761905,
+      "title_similarity": 0.6153846153846154,
       "mismatches": [
         "authors"
       ],
@@ -1532,7 +1515,7 @@
           "Guim Planella Planas"
         ]
       },
-      "title_similarity": 0.34234234234234234,
+      "title_similarity": 0.0,
       "mismatches": [
         "authors"
       ],
@@ -1566,7 +1549,7 @@
           "Wenliang Chen"
         ]
       },
-      "title_similarity": 0.85,
+      "title_similarity": 0.5454545454545454,
       "mismatches": [],
       "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv%202405.08355&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
     },
@@ -1582,19 +1565,12 @@
         "doi": null,
         "arxiv_id": null
       },
-      "status": "verified",
+      "status": "not_found",
       "openalex_id": null,
-      "semantic_scholar_id": "https://www.semanticscholar.org/paper/7e7343a5608fff1c68c5259db0c77b9193f1546d",
+      "semantic_scholar_id": null,
       "match_source": "semantic_scholar",
-      "best_match": {
-        "title": "The measurement of observer agreement for categorical data.",
-        "year": 1977,
-        "authors": [
-          "J. Landis",
-          "G. Koch"
-        ]
-      },
-      "title_similarity": 0.9914529914529915,
+      "best_match": null,
+      "title_similarity": 0.0,
       "mismatches": [],
       "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=The%20Measurement%20of%20Observer%20Agreement%20for%20Categorical%20Data&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
     },
@@ -2579,7 +2555,7 @@
           "Yansong Feng"
         ]
       },
-      "title_similarity": 0.8264462809917356,
+      "title_similarity": 0.6666666666666665,
       "mismatches": [],
       "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv%202505.21413&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
     },
@@ -2613,7 +2589,7 @@
           "M. Pagnucco"
         ]
       },
-      "title_similarity": 0.4380952380952381,
+      "title_similarity": 0.125,
       "mismatches": [
         "authors"
       ],
@@ -2718,7 +2694,7 @@
           "J.P.C.Greenlees"
         ]
       },
-      "title_similarity": 0.3544303797468355,
+      "title_similarity": 0.0,
       "mismatches": [
         "authors"
       ],
@@ -2755,7 +2731,7 @@
           "J.P.C.Greenlees"
         ]
       },
-      "title_similarity": 0.3544303797468355,
+      "title_similarity": 0.0,
       "mismatches": [
         "authors"
       ],
@@ -2818,7 +2794,7 @@
           "Maosong Sun"
         ]
       },
-      "title_similarity": 0.9935483870967743,
+      "title_similarity": 0.9090909090909091,
       "mismatches": [],
       "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv%202307.16789&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
     },
@@ -2879,7 +2855,7 @@
           "Maosong Sun"
         ]
       },
-      "title_similarity": 0.9935483870967743,
+      "title_similarity": 0.9090909090909091,
       "mismatches": [],
       "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=arxiv%202307.16789&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
     },
@@ -2895,19 +2871,12 @@
         "doi": null,
         "arxiv_id": null
       },
-      "status": "verified",
+      "status": "not_found",
       "openalex_id": null,
-      "semantic_scholar_id": "https://www.semanticscholar.org/paper/7e7343a5608fff1c68c5259db0c77b9193f1546d",
+      "semantic_scholar_id": null,
       "match_source": "semantic_scholar",
-      "best_match": {
-        "title": "The measurement of observer agreement for categorical data.",
-        "year": 1977,
-        "authors": [
-          "J. Landis",
-          "G. Koch"
-        ]
-      },
-      "title_similarity": 0.9914529914529915,
+      "best_match": null,
+      "title_similarity": 0.0,
       "mismatches": [],
       "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=The%20Measurement%20of%20Observer%20Agreement%20for%20Categorical%20Data&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
     },
@@ -3074,7 +3043,7 @@
           "Jian Zhang"
         ]
       },
-      "title_similarity": 0.6444444444444444,
+      "title_similarity": 0.5,
       "mismatches": [],
       "error": null
     },
@@ -3127,7 +3096,7 @@
       },
       "status": "metadata_mismatch",
       "openalex_id": "https://openalex.org/W4399836817",
-      "semantic_scholar_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/70aa016c1f68fd5c0261f26ad20017b8307650af",
       "match_source": "openalex",
       "best_match": {
         "title": "$τ$-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains",
@@ -3139,7 +3108,7 @@
           "Karthik Narasimhan"
         ]
       },
-      "title_similarity": 0.89171974522293,
+      "title_similarity": 0.6,
       "mismatches": [
         "authors"
       ],
@@ -3174,7 +3143,7 @@
           "Jinan Xu"
         ]
       },
-      "title_similarity": 0.7380952380952381,
+      "title_similarity": 0.45454545454545453,
       "mismatches": [
         "authors"
       ],
@@ -3270,7 +3239,7 @@
           "Huan Sun"
         ]
       },
-      "title_similarity": 0.7786259541984732,
+      "title_similarity": 0.5384615384615384,
       "mismatches": [],
       "error": null
     },
@@ -3520,7 +3489,7 @@
           "Akul Arora"
         ]
       },
-      "title_similarity": 0.4297520661157025,
+      "title_similarity": 0.125,
       "mismatches": [],
       "error": null
     },

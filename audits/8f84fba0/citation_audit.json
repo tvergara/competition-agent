@@ -1,0 +1,1567 @@
+{
+  "paper_id": "8f84fba0-9f44-495e-8c68-a95b600beacd",
+  "total": 59,
+  "verified": 0,
+  "mismatch": 0,
+  "missing": 0,
+  "ambiguous": 0,
+  "error": 48,
+  "skipped": 11,
+  "s2_consulted": 0,
+  "s2_lifted": 0,
+  "key_style_outliers": [
+    "DeepSeekR1",
+    "dapo-math-17k",
+    "math500",
+    "langley00",
+    "mitchell80",
+    "kearns89",
+    "DudaHart2nd",
+    "Newell81",
+    "Samuel59"
+  ],
+  "entries": [
+    {
+      "key": "DeepSeekR1",
+      "raw": {
+        "title": "Deepseek-r1: Incentivizing reasoning capability in llms via reinforcement learning",
+        "authors": [
+          "Guo, Daya",
+          "Yang, Dejian",
+          "Zhang, Haowei",
+          "Song, Junxiao",
+          "Zhang, Ruoyu",
+          "Xu, Runxin",
+          "Zhu, Qihao",
+          "Ma, Shirong",
+          "Wang, Peiyi",
+          "Bi, Xiao",
+          "others"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Deepseek-r1%3A+Incentivizing+reasoning+capability+in+llms+via+reinforcement+learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "DeepSeekMath",
+      "raw": {
+        "title": "Deepseekmath: Pushing the limits of mathematical reasoning in open language models",
+        "authors": [
+          "Shao, Zhihong",
+          "Wang, Peiyi",
+          "Zhu, Qihao",
+          "Xu, Runxin",
+          "Song, Junxiao",
+          "Bi, Xiao",
+          "Zhang, Haowei",
+          "Zhang, Mingchuan",
+          "Li, YK",
+          "Wu, Yang",
+          "others"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Deepseekmath%3A+Pushing+the+limits+of+mathematical+reasoning+in+open+language+models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Luffy",
+      "raw": {
+        "title": "Learning to Reason under Off-Policy Guidance",
+        "authors": [
+          "Jianhao Yan",
+          "Yafu Li",
+          "Zican Hu",
+          "Zhi Wang",
+          "Ganqu Cui",
+          "Xiaoye Qu",
+          "Yu Cheng",
+          "Yue Zhang"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "DrGRPO",
+      "raw": {
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+        "authors": [
+          "Zichen Liu",
+          "Changyu Chen",
+          "Wenjun Li",
+          "Penghui Qi",
+          "Tianyu Pang",
+          "Chao Du",
+          "Wee Sun Lee",
+          "Min Lin"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "LASER",
+      "raw": {
+        "title": "Learn to reason efficiently with adaptive length-based reward shaping",
+        "authors": [
+          "Liu, Wei",
+          "Zhou, Ruochen",
+          "Deng, Yiyun",
+          "Huang, Yuzhen",
+          "Liu, Junteng",
+          "Deng, Yuntian",
+          "Zhang, Yizhe",
+          "He, Junxian"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Learn+to+reason+efficiently+with+adaptive+length-based+reward+shaping&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "NSR",
+      "raw": {
+        "title": "The Surprising Effectiveness of Negative Reinforcement in LLM Reasoning",
+        "authors": [
+          "Xinyu Zhu",
+          "Mengzhou Xia",
+          "Zhepei Wei",
+          "Wei-Lin Chen",
+          "Danqi Chen",
+          "Yu Meng"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "EntroPIC",
+      "raw": {
+        "title": "EntroPIC: Towards Stable Long-Term Training of LLMs via Entropy Stabilization with Proportional-Integral Control",
+        "authors": [
+          "Yang, Kai",
+          "Xu, Xin",
+          "Chen, Yangkun",
+          "Liu, Weijie",
+          "Lyu, Jiafei",
+          "Lin, Zichuan",
+          "Ye, Deheng",
+          "Yang, Saiyong"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=EntroPIC%3A+Towards+Stable+Long-Term+Training+of+LLMs+via+Entropy+Stabilization+with+Proportional-Integral+Control&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "OpenReasonerZero",
+      "raw": {
+        "title": "Open-Reasoner-Zero: An Open Source Approach to Scaling Up Reinforcement Learning on the Base Model",
+        "authors": [
+          "Jingcheng Hu",
+          "Yinmin Zhang",
+          "Qi Han",
+          "Daxin Jiang",
+          "Xiangyu Zhang",
+          "Heung-Yeung Shum"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "dapo-math-17k",
+      "raw": {
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "authors": [
+          "Qiying Yu",
+          "Zheng Zhang",
+          "Ruofei Zhu",
+          "Yufeng Yuan",
+          "Xiaochen Zuo",
+          "YuYue",
+          "Weinan Dai",
+          "Tiantian Fan",
+          "Gaohong Liu",
+          "Juncai Liu",
+          "LingJun Liu",
+          "Xin Liu",
+          "Haibin Lin",
+          "Zhiqi Lin",
+          "Bole Ma",
+          "Guangming Sheng",
+          "Yuxuan Tong",
+          "Chi Zhang",
+          "Mofan Zhang",
+          "Ru Zhang",
+          "Wang Zhang",
+          "Hang Zhu",
+          "Jinhua Zhu",
+          "Jiaze Chen",
+          "Jiangjie Chen",
+          "Chengyi Wang",
+          "Hongli Yu",
+          "Yuxuan Song",
+          "Xiangpeng Wei",
+          "Hao Zhou",
+          "Jingjing Liu",
+          "Wei-Ying Ma",
+          "Ya-Qin Zhang",
+          "Lin Yan",
+          "Yonghui Wu",
+          "Mingxuan Wang"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "math-dataset",
+      "raw": {
+        "title": "Measuring mathematical problem solving with the math dataset",
+        "authors": [
+          "Hendrycks, Dan",
+          "Burns, Collin",
+          "Kadavath, Saurav",
+          "Arora, Akul",
+          "Basart, Steven",
+          "Tang, Eric",
+          "Song, Dawn",
+          "Steinhardt, Jacob"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Measuring+mathematical+problem+solving+with+the+math+dataset&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "math500",
+      "raw": {
+        "title": "Let's Verify Step by Step",
+        "authors": [
+          "Hunter Lightman",
+          "Vineet Kosaraju",
+          "Yuri Burda",
+          "Harrison Edwards",
+          "Bowen Baker",
+          "Teddy Lee",
+          "Jan Leike",
+          "John Schulman",
+          "Ilya Sutskever",
+          "Karl Cobbe"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "verl",
+      "raw": {
+        "title": "HybridFlow: A Flexible and Efficient RLHF Framework",
+        "authors": [
+          "Guangming Sheng",
+          "Chi Zhang",
+          "Zilingfeng Ye",
+          "Xibin Wu",
+          "Wang Zhang",
+          "Ru Zhang",
+          "Yanghua Peng",
+          "Haibin Lin",
+          "Chuan Wu"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "chen2021evaluating",
+      "raw": {
+        "title": "Evaluating large language models trained on code",
+        "authors": [
+          "Chen, Mark"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Evaluating+large+language+models+trained+on+code&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "suzgun2023challenging",
+      "raw": {
+        "title": "Challenging big-bench tasks and whether chain-of-thought can solve them",
+        "authors": [
+          "Suzgun, Mirac",
+          "Scales, Nathan",
+          "Sch{\\\"a}rli, Nathanael",
+          "Gehrmann, Sebastian",
+          "Tay, Yi",
+          "Chung, Hyung Won",
+          "Chowdhery, Aakanksha",
+          "Le, Quoc",
+          "Chi, Ed",
+          "Zhou, Denny",
+          "others"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Challenging+big-bench+tasks+and+whether+chain-of-thought+can+solve+them&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "JustRL",
+      "raw": {
+        "title": "JustRL: Scaling a 1.5 B LLM with a Simple RL Recipe",
+        "authors": [
+          "He, Bingxiang",
+          "Qu, Zekai",
+          "Liu, Zeyuan",
+          "Chen, Yinghao",
+          "Zuo, Yuxin",
+          "Qian, Cheng",
+          "Zhang, Kaiyan",
+          "Chen, Weize",
+          "Xiao, Chaojun",
+          "Cui, Ganqu",
+          "others"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=JustRL%3A+Scaling+a+1.5+B+LLM+with+a+Simple+RL+Recipe&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "RS-GRPO",
+      "raw": {
+        "title": "Risk-Sensitive RL for Alleviating Exploration Dilemmas in Large Language Models",
+        "authors": [
+          "Jiang, Yuhua",
+          "Huang, Jiawei",
+          "Yuan, Yufeng",
+          "Mao, Xin",
+          "Yue, Yu",
+          "Zhao, Qianchuan",
+          "Yan, Lin"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Risk-Sensitive+RL+for+Alleviating+Exploration+Dilemmas+in+Large+Language+Models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "GRPOlam",
+      "raw": {
+        "title": "GRPO-\\$\\textbackslashlambda\\$: Credit Assignment improves LLM Reasoning",
+        "authors": [
+          "Prasanna Parthasarathi",
+          "Mathieu Reymond",
+          "Boxing Chen",
+          "Yufei Cui",
+          "Sarath Chandar"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "Passk",
+      "raw": {
+        "title": "Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?",
+        "authors": [
+          "Yang Yue",
+          "Zhiqi Chen",
+          "Rui Lu",
+          "Andrew Zhao",
+          "Zhaokai Wang",
+          "Yang Yue",
+          "Shiji Song",
+          "Gao Huang"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "PKPO",
+      "raw": {
+        "title": "Pass@K Policy Optimization: Solving Harder Reinforcement Learning Problems",
+        "authors": [
+          "Christian Walder",
+          "Deep Tejas Karkhanis"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "RSPO",
+      "raw": {
+        "title": "Rspo: Risk-seeking policy optimization for pass@ k and max@ k metrics in large language models",
+        "authors": [
+          "Zhang, Kaichen",
+          "Gao, Shenghao",
+          "Hong, Yuzhong",
+          "Sun, Haipeng",
+          "Bao, Junwei",
+          "Jiang, Hongfei",
+          "Song, Yang",
+          "Dingqian, Hong",
+          "Xiong, Hui"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Rspo%3A+Risk-seeking+policy+optimization+for+pass%40+k+and+max%40+k+metrics+in+large+language+models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "RejectionSampling",
+      "raw": {
+        "title": "A minimalist approach to llm reasoning: from rejection sampling to reinforce",
+        "authors": [
+          "Xiong, Wei",
+          "Yao, Jiarui",
+          "Xu, Yuhui",
+          "Pang, Bo",
+          "Wang, Lei",
+          "Sahoo, Doyen",
+          "Li, Junnan",
+          "Jiang, Nan",
+          "Zhang, Tong",
+          "Xiong, Caiming",
+          "others"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=A+minimalist+approach+to+llm+reasoning%3A+from+rejection+sampling+to+reinforce&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "chen2025passk",
+      "raw": {
+        "title": "Pass@ k training for adaptively balancing exploration and exploitation of large reasoning models",
+        "authors": [
+          "Chen, Zhipeng",
+          "Qin, Xiaobo",
+          "Wu, Youbin",
+          "Ling, Yue",
+          "Ye, Qinghao",
+          "Zhao, Wayne Xin",
+          "Shi, Guang"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Pass%40+k+training+for+adaptively+balancing+exploration+and+exploitation+of+large+reasoning+models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "bagirov2025bestofn",
+      "raw": {
+        "title": "The Best of N Worlds: Aligning Reinforcement Learning with Best-of-N Sampling via max@ k Optimisation",
+        "authors": [
+          "Bagirov, Farid",
+          "Arkhipov, Mikhail",
+          "Sycheva, Ksenia",
+          "Glukhov, Evgeniy",
+          "Bogomolov, Egor"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=The+Best+of+N+Worlds%3A+Aligning+Reinforcement+Learning+with+Best-of-N+Sampling+via+max%40+k+Optimisation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "peng2025simko",
+      "raw": {
+        "title": "Simko: Simple pass@ k policy optimization",
+        "authors": [
+          "Peng, Ruotian",
+          "Ren, Yi",
+          "Yu, Zhouliang",
+          "Liu, Weiyang",
+          "Wen, Yandong"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Simko%3A+Simple+pass%40+k+policy+optimization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "brown2020language",
+      "raw": {
+        "title": "Language models are few-shot learners",
+        "authors": [
+          "Brown, Tom",
+          "Mann, Benjamin",
+          "Ryder, Nick",
+          "Subbiah, Melanie",
+          "Kaplan, Jared D",
+          "Dhariwal, Prafulla",
+          "Neelakantan, Arvind",
+          "Shyam, Pranav",
+          "Sastry, Girish",
+          "Askell, Amanda",
+          "others"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Language+models+are+few-shot+learners&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "kaplan2020scaling",
+      "raw": {
+        "title": "Scaling laws for neural language models",
+        "authors": [
+          "Kaplan, Jared",
+          "McCandlish, Sam",
+          "Henighan, Tom",
+          "Brown, Tom B",
+          "Chess, Benjamin",
+          "Child, Rewon",
+          "Gray, Scott",
+          "Radford, Alec",
+          "Wu, Jeffrey",
+          "Amodei, Dario"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Scaling+laws+for+neural+language+models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "wei2022chain",
+      "raw": {
+        "title": "Chain-of-thought prompting elicits reasoning in large language models",
+        "authors": [
+          "Wei, Jason",
+          "Wang, Xuezhi",
+          "Schuurmans, Dale",
+          "Bosma, Maarten",
+          "Xia, Fei",
+          "Chi, Ed",
+          "Le, Quoc V",
+          "Zhou, Denny",
+          "others"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Chain-of-thought+prompting+elicits+reasoning+in+large+language+models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "kojima2022large",
+      "raw": {
+        "title": "Large language models are zero-shot reasoners",
+        "authors": [
+          "Kojima, Takeshi",
+          "Gu, Shixiang Shane",
+          "Reid, Machel",
+          "Matsuo, Yutaka",
+          "Iwasawa, Yusuke"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Large+language+models+are+zero-shot+reasoners&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "wang2022self",
+      "raw": {
+        "title": "Self-consistency improves chain of thought reasoning in language models",
+        "authors": [
+          "Wang, Xuezhi",
+          "Wei, Jason",
+          "Schuurmans, Dale",
+          "Le, Quoc",
+          "Chi, Ed",
+          "Narang, Sharan",
+          "Chowdhery, Aakanksha",
+          "Zhou, Denny"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Self-consistency+improves+chain+of+thought+reasoning+in+language+models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "yao2023tree",
+      "raw": {
+        "title": "Tree of thoughts: Deliberate problem solving with large language models",
+        "authors": [
+          "Yao, Shunyu",
+          "Yu, Dian",
+          "Zhao, Jeffrey",
+          "Shafran, Izhak",
+          "Griffiths, Tom",
+          "Cao, Yuan",
+          "Narasimhan, Karthik"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Tree+of+thoughts%3A+Deliberate+problem+solving+with+large+language+models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "snell2024scaling",
+      "raw": {
+        "title": "Scaling llm test-time compute optimally can be more effective than scaling model parameters",
+        "authors": [
+          "Snell, Charlie",
+          "Lee, Jaehoon",
+          "Xu, Kelvin",
+          "Kumar, Aviral"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Scaling+llm+test-time+compute+optimally+can+be+more+effective+than+scaling+model+parameters&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "wu2024inference",
+      "raw": {
+        "title": "An empirical analysis of compute-optimal inference for problem-solving with language models",
+        "authors": [
+          "Wu, Yangzhen",
+          "Sun, Zhiqing",
+          "Li, Shanda",
+          "Welleck, Sean",
+          "Yang, Yiming"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=An+empirical+analysis+of+compute-optimal+inference+for+problem-solving+with+language+models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "ouyang2022training",
+      "raw": {
+        "title": "Training language models to follow instructions with human feedback",
+        "authors": [
+          "Ouyang, Long",
+          "Wu, Jeffrey",
+          "Jiang, Xu",
+          "Almeida, Diogo",
+          "Wainwright, Carroll",
+          "Mishkin, Pamela",
+          "Zhang, Chong",
+          "Agarwal, Sandhini",
+          "Slama, Katarina",
+          "Ray, Alex",
+          "others"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Training+language+models+to+follow+instructions+with+human+feedback&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zelikman2022star",
+      "raw": {
+        "title": "Star: Bootstrapping reasoning with reasoning",
+        "authors": [
+          "Zelikman, Eric",
+          "Wu, Yuhuai",
+          "Mu, Jesse",
+          "Goodman, Noah"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Star%3A+Bootstrapping+reasoning+with+reasoning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "singh2023rest",
+      "raw": {
+        "title": "Beyond human data: Scaling self-training for problem-solving with language models",
+        "authors": [
+          "Singh, Avi",
+          "Co-Reyes, John D",
+          "Agarwal, Rishabh",
+          "Anand, Ankesh",
+          "Patil, Piyush",
+          "Garcia, Xavier",
+          "Liu, Peter J",
+          "Harrison, James",
+          "Lee, Jaehoon",
+          "Xu, Kelvin",
+          "others"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Beyond+human+data%3A+Scaling+self-training+for+problem-solving+with+language+models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "schulman2017proximal",
+      "raw": {
+        "title": "Proximal policy optimization algorithms",
+        "authors": [
+          "Schulman, John",
+          "Wolski, Filip",
+          "Dhariwal, Prafulla",
+          "Radford, Alec",
+          "Klimov, Oleg"
+        ],
+        "year": 2017,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Proximal+policy+optimization+algorithms&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "lightman2023let",
+      "raw": {
+        "title": "Let's verify step by step",
+        "authors": [
+          "Lightman, Hunter",
+          "Kosaraju, Vineet",
+          "Burda, Yuri",
+          "Edwards, Harrison",
+          "Baker, Bowen",
+          "Lee, Teddy",
+          "Leike, Jan",
+          "Schulman, John",
+          "Sutskever, Ilya",
+          "Cobbe, Karl"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Let%27s+verify+step+by+step&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "magister2023teaching",
+      "raw": {
+        "title": "Teaching small language models to reason",
+        "authors": [
+          "Magister, Lucie Charlotte",
+          "Mallinson, Jonathan",
+          "Adamek, Jakub",
+          "Malmi, Eric",
+          "Severyn, Aliaksei"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Teaching+small+language+models+to+reason&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "gershman2014amortized",
+      "raw": {
+        "title": "Amortized inference in probabilistic reasoning",
+        "authors": [
+          "Gershman, Samuel",
+          "Goodman, Noah"
+        ],
+        "year": 2014,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Amortized+inference+in+probabilistic+reasoning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "huang2023large",
+      "raw": {
+        "title": "Large Language Models Cannot Self-Correct Reasoning Yet",
+        "authors": [
+          "Huang, Jie",
+          "Chen, Xinyun",
+          "Mishra, Swaroop",
+          "Zheng, Huaixiu Steven",
+          "Yu, Adams Wei",
+          "Peng, Xany",
+          "Zhou, Denny"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Large+Language+Models+Cannot+Self-Correct+Reasoning+Yet&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "polu2022formal",
+      "raw": {
+        "title": "Formal Mathematics Statement Curricula for Theorem Proving",
+        "authors": [
+          "Polu, Stanislas",
+          "Han, Jesse Michael",
+          "Zheng, Kunhao",
+          "Baksys, Mantas",
+          "Babuschkin, Igor",
+          "Sutskever, Ilya"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Formal+Mathematics+Statement+Curricula+for+Theorem+Proving&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "yuan2024scaling",
+      "raw": {
+        "title": "Scaling Relationship on Learning Mathematical Reasoning with Large Language Models",
+        "authors": [
+          "Zheng Yuan",
+          "Hongyi Yuan",
+          "Chengpeng Li",
+          "Guanting Dong",
+          "Chuanqi Tan",
+          "Chang Zhou"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "skipped",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": null
+    },
+    {
+      "key": "dubois2024alpacafarm",
+      "raw": {
+        "title": "Alpacafarm: A simulation framework for methods that learn from human feedback",
+        "authors": [
+          "Dubois, Yann",
+          "Li, Chen Xuechen",
+          "Taori, Rohan",
+          "Zhang, Tianyi",
+          "Gulrajani, Ishaan",
+          "Ba, Jimmy",
+          "Guestrin, Carlos",
+          "Liang, Percy S",
+          "Hashimoto, Tatsunori B"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Alpacafarm%3A+A+simulation+framework+for+methods+that+learn+from+human+feedback&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "zhou2022least",
+      "raw": {
+        "title": "Least-to-most prompting enables complex reasoning in large language models",
+        "authors": [
+          "Zhou, Denny",
+          "Sch{\\\"a}rli, Nathanael",
+          "Hou, Le",
+          "Wei, Jason",
+          "Scales, Nathan",
+          "Wang, Xuezhi",
+          "Schuurmans, Dale",
+          "Cui, Claire",
+          "Bousquet, Olivier",
+          "Le, Quoc",
+          "others"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Least-to-most+prompting+enables+complex+reasoning+in+large+language+models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "feng2023alphazero",
+      "raw": {
+        "title": "Alphazero-like tree-search can guide large language model decoding and training",
+        "authors": [
+          "Feng, Xidong",
+          "Wan, Ziyu",
+          "Wen, Muning",
+          "McAleer, Stephen Marcus",
+          "Wen, Ying",
+          "Zhang, Weinan",
+          "Wang, Jun"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Alphazero-like+tree-search+can+guide+large+language+model+decoding+and+training&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "khan2024self",
+      "raw": {
+        "title": "Self-training large language models for improved visual program synthesis with visual reinforcement",
+        "authors": [
+          "Khan, Zaid",
+          "BG, Vijay Kumar",
+          "Schulter, Samuel",
+          "Fu, Yun",
+          "Chandraker, Manmohan"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Self-training+large+language+models+for+improved+visual+program+synthesis+with+visual+reinforcement&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "yang2024formal",
+      "raw": {
+        "title": "Formal mathematical reasoning: A new frontier in ai",
+        "authors": [
+          "Yang, Kaiyu",
+          "Poesia, Gabriel",
+          "He, Jingxuan",
+          "Li, Wenda",
+          "Lauter, Kristin",
+          "Chaudhuri, Swarat",
+          "Song, Dawn"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Formal+mathematical+reasoning%3A+A+new+frontier+in+ai&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "bansal2024thinking",
+      "raw": {
+        "title": "Large language models cannot self-correct reasoning yet",
+        "authors": [
+          "Huang, Jie",
+          "Chen, Xinyun",
+          "Mishra, Swaroop",
+          "Zheng, Huaixiu Steven",
+          "Yu, Adams Wei",
+          "Song, Xinying",
+          "Zhou, Denny"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Large+language+models+cannot+self-correct+reasoning+yet&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "pangu2024star",
+      "raw": {
+        "title": "Pangu Embedded: An Efficient Dual-system LLM Reasoner with Metacognition",
+        "authors": [
+          "Chen, Hanting",
+          "Wang, Yasheng",
+          "Han, Kai",
+          "Li, Dong",
+          "Li, Lin",
+          "Bi, Zhenni",
+          "Li, Jinpeng",
+          "Wang, Haoyu",
+          "Mi, Fei",
+          "Zhu, Mingjian",
+          "others"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Pangu+Embedded%3A+An+Efficient+Dual-system+LLM+Reasoner+with+Metacognition&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "hou2025thinkprune",
+      "raw": {
+        "title": "Thinkprune: Pruning long chain-of-thought of llms via reinforcement learning",
+        "authors": [
+          "Hou, Bairu",
+          "Zhang, Yang",
+          "Ji, Jiabao",
+          "Liu, Yujian",
+          "Qian, Kaizhi",
+          "Andreas, Jacob",
+          "Chang, Shiyu"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Thinkprune%3A+Pruning+long+chain-of-thought+of+llms+via+reinforcement+learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "yang2026your",
+      "raw": {
+        "title": "Your Group-Relative Advantage Is Biased",
+        "authors": [
+          "Yang, Fengkai",
+          "Chen, Zherui",
+          "Wang, Xiaohan",
+          "Lu, Xiaodong",
+          "Chai, Jiajun",
+          "Yin, Guojun",
+          "Lin, Wei",
+          "Ma, Shuai",
+          "Zhuang, Fuzhen",
+          "Wang, Deqing",
+          "others"
+        ],
+        "year": 2026,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Your+Group-Relative+Advantage+Is+Biased&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "langley00",
+      "raw": {
+        "title": "Crafting Papers on Machine Learning",
+        "authors": [
+          "P. Langley"
+        ],
+        "year": 2000,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Crafting+Papers+on+Machine+Learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "mitchell80",
+      "raw": {
+        "title": "The Need for Biases in Learning Generalizations",
+        "authors": [
+          "T. M. Mitchell"
+        ],
+        "year": 1980,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=The+Need+for+Biases+in+Learning+Generalizations&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "kearns89",
+      "raw": {
+        "title": "Computational Complexity of Machine Learning",
+        "authors": [
+          "M. J. Kearns"
+        ],
+        "year": 1989,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Computational+Complexity+of+Machine+Learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "MachineLearningI",
+      "raw": {
+        "title": "Machine Learning: An Artificial Intelligence Approach, Vol. I",
+        "authors": [],
+        "year": 1983,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Machine+Learning%3A+An+Artificial+Intelligence+Approach%2C+Vol.+I&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "DudaHart2nd",
+      "raw": {
+        "title": "Pattern Classification",
+        "authors": [
+          "R. O. Duda",
+          "P. E. Hart",
+          "D. G. Stork"
+        ],
+        "year": 2000,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Pattern+Classification&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "anonymous",
+      "raw": {
+        "title": "Suppressed for Anonymity",
+        "authors": [
+          "Author, N. N."
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Suppressed+for+Anonymity&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Newell81",
+      "raw": {
+        "title": "Mechanisms of Skill Acquisition and the Law of Practice",
+        "authors": [
+          "A. Newell",
+          "P. S. Rosenbloom"
+        ],
+        "year": 1981,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Mechanisms+of+Skill+Acquisition+and+the+Law+of+Practice&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    },
+    {
+      "key": "Samuel59",
+      "raw": {
+        "title": "Some Studies in Machine Learning Using the Game of Checkers",
+        "authors": [
+          "A. L. Samuel"
+        ],
+        "year": 1959,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "error",
+      "openalex_id": null,
+      "semantic_scholar_id": null,
+      "match_source": null,
+      "best_match": null,
+      "title_similarity": 0.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Some+Studies+in+Machine+Learning+Using+the+Game+of+Checkers&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    }
+  ]
+}

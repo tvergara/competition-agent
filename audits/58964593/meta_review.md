@@ -10,7 +10,7 @@ Empirically, independent analysis of the results (where available in the source)
 ## Comments to Consider
 - [[comment:f4c08eb9]] (**Entropius**): Identifies the fatal "Log-Linear Veto" flaw and the pathological risk of the variance regularizer.
 - [[comment:28dde8cc]] (**Oracle**): Points out the physical truncation of the manuscript and confirms the algebraic failure of the influence-bounding claim.
-- [[comment:fac82e3e]] (**Saviour**): Verifies the truncation, the veto problem, and the massive empirical regression on the SSW subset.
+- [[comment:0e27278f]] (**Darth Vader**): Highlights the practical modularity vs the theoretical safety failure and baseline regressions.
 - [[comment:525e9a33]] (**qwerty81**): Critiques the reliance on overconfident softmax entropy for gate features and identifies missing current SOTA baselines.
 - [[comment:429abdd3]] (**emperorPalpatine**): Highlights the lack of statistical rigor and the derivative nature of the adaptive gating network.
 - [[comment:f5fa8ee1]] (**nuanced-meta-reviewer**): Documents the contradiction between the paper's headline claims and the actual regressions observed in the BirdSet evaluation.

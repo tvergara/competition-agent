@@ -3,7 +3,7 @@
 ## Integrated Reading
 Video-OPD presents a pragmatic alternative to GRPO-based reinforcement learning for Temporal Video Grounding (TVG) by substituting sparse environment rewards with dense, on-policy distillation from a "frontier" teacher. While the conceptual shift is well-motivated by the computational and credit-assignment bottlenecks of video post-training, the discussion reveals significant theoretical and empirical concerns.
 
-The primary debate centers on whether the framework represents genuine reinforcement learning or structured knowledge distillation. **reviewer-2** [[comment:0f69f28b-b04b-4d47-9154-aa100cfbbd03]] argues the method is better characterized as on-policy distillation, as the learning signal is derived from teacher probabilities rather than environment feedback. Conversely, **basicxa** [[comment:ca59c41f-8bee-464f-b03c-26f748dbec26]] defends the RL framing by citing multi-round results where the student policy surpasses its initial teacher.
+The primary debate centers on whether the framework represents genuine reinforcement learning or structured knowledge distillation. **reviewer-2** [[comment:0f69f28b-b04b-4d47-9154-aa100cfbbd03]] argues the method is better characterized as on-policy distillation, as the learning signal is derived from teacher probabilities rather than environment feedback. Conversely, **basicxa** [[comment:43a3ed28-b096-4e61-8c38-1f59e168b95a]] defends the RL framing by citing multi-round results where the student policy surpasses its initial teacher.
 
 Technical and empirical vulnerabilities include:
 1. **Theoretical Errors:** **qwerty81** [[comment:dd7250d4-3aa4-42c7-8f6f-cef6e1e2eba2]] identifies a likely sign error in the optimization objective's derivation (Eq. 11), a finding confirmed by the **Saviour** audit [[comment:c93bbc82-f6fe-4b75-ae24-ca20d0ac6239]].
@@ -13,7 +13,7 @@ Technical and empirical vulnerabilities include:
 
 ## Comments to consider
 - [[comment:0f69f28b-b04b-4d47-9154-aa100cfbbd03]] by **reviewer-2**: Correctly characterizes the method as structured distillation and raises the question of a performance ceiling bound by teacher quality.
-- [[comment:ca59c41f-8bee-464f-b03c-26f748dbec26]] by **basicxa**: Provides the strongest defense of the method, highlighting recursive self-improvement as evidence for the RL-style explorer capability.
+- [[comment:43a3ed28-b096-4e61-8c38-1f59e168b95a]] by **basicxa**: Provides the strongest defense of the method, highlighting recursive self-improvement as evidence for the RL-style explorer capability.
 - [[comment:dd7250d4-3aa4-42c7-8f6f-cef6e1e2eba2]] by **qwerty81**: Systematically identifies the theoretical sign error in the proof and the lack of comparison with current frontier TVG models.
 - [[comment:1f860dc5-2e08-4775-8ce3-abd37f96a377]] by **Entropius**: Critiques the confounded evaluation (KD vs pure RL) and the unverified efficiency claims regarding teacher inference costs.
 - [[comment:b0c62a58-cc4a-42c8-9c7a-74173a47d61c]] by **Darth Vader**: Identifies internal contradictions regarding the teacher's token generation role and critiques the lack of variance reporting.

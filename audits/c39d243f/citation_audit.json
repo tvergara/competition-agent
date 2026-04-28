@@ -1,0 +1,2155 @@
+{
+  "paper_id": "c39d243f-0c59-4f70-8ee6-d9e742174491",
+  "total": 57,
+  "verified": 55,
+  "mismatch": 2,
+  "missing": 0,
+  "ambiguous": 0,
+  "error": 0,
+  "skipped": 0,
+  "s2_consulted": 57,
+  "s2_lifted": 57,
+  "key_style_outliers": [],
+  "entries": [
+    {
+      "key": "park2024ogbench",
+      "raw": {
+        "title": "Ogbench: Benchmarking offline goal-conditioned rl",
+        "authors": [
+          "Park, Seohong",
+          "Frans, Kevin",
+          "Eysenbach, Benjamin",
+          "Levine, Sergey"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/cefc25eb1e5e5c91a856df46802bcfa53aad6f0f",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "OGBench: Benchmarking Offline Goal-Conditioned RL",
+        "year": 2024,
+        "authors": [
+          "Seohong Park",
+          "Kevin Frans",
+          "Benjamin Eysenbach",
+          "Sergey Levine"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Ogbench%3A%20Benchmarking%20offline%20goal-conditioned%20rl&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "tang2025deep",
+      "raw": {
+        "title": "Deep reinforcement learning for robotics: A survey of real-world successes",
+        "authors": [
+          "Tang, Chen",
+          "Abbatematteo, Ben",
+          "Hu, Jiaheng",
+          "Chandra, Rohan",
+          "Mart{\\'\\i}n-Mart{\\'\\i}n, Roberto",
+          "Stone, Peter"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/4f5aa34d2e6758f78dc4a731cc2eed26f83de3b4",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Deep Reinforcement Learning for Robotics: A Survey of Real-World Successes",
+        "year": 2024,
+        "authors": [
+          "Chen Tang",
+          "Ben Abbatematteo",
+          "Jiaheng Hu",
+          "Rohan Chandra",
+          "Roberto Mart'in-Mart'in",
+          "Peter Stone"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Deep%20reinforcement%20learning%20for%20robotics%3A%20A%20survey%20of%20real-world%20successes&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "kalashnikov2021scaling",
+      "raw": {
+        "title": "Scaling up multi-task robotic reinforcement learning",
+        "authors": [
+          "Kalashnikov, Dmitry",
+          "Varley, Jake",
+          "Chebotar, Yevgen",
+          "Swanson, Benjamin",
+          "Jonschkowski, Rico",
+          "Finn, Chelsea",
+          "Levine, Sergey",
+          "Hausman, Karol"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/14e010d151d02fb2a9d3a0a981e80ef18c5c48b5",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Scaling Up Multi-Task Robotic Reinforcement Learning",
+        "year": 2021,
+        "authors": [
+          "Dmitry Kalashnikov",
+          "J. Varley",
+          "Yevgen Chebotar",
+          "Benjamin Swanson",
+          "Rico Jonschkowski",
+          "Chelsea Finn",
+          "Sergey Levine",
+          "Karol Hausman"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Scaling%20up%20multi-task%20robotic%20reinforcement%20learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "kroemer2021review",
+      "raw": {
+        "title": "A review of robot learning for manipulation: Challenges, representations, and algorithms",
+        "authors": [
+          "Kroemer, Oliver",
+          "Niekum, Scott",
+          "Konidaris, George"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "metadata_mismatch",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/f33ae3a6f47ff3897a7ff12c6a0bacec2223d6d6",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "A Review of Robot Learning for Manipulation: Challenges, Representations, and Algorithms",
+        "year": 2019,
+        "authors": [
+          "Oliver Kroemer",
+          "S. Niekum",
+          "G. Konidaris"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [
+        "year"
+      ],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=A%20review%20of%20robot%20learning%20for%20manipulation%3A%20Challenges%2C%20representations%2C%20and%20algorithms&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "zhu2020ingredients",
+      "raw": {
+        "title": "The ingredients of real-world robotic reinforcement learning",
+        "authors": [
+          "Zhu, Henry",
+          "Yu, Justin",
+          "Gupta, Abhishek",
+          "Shah, Dhruv",
+          "Hartikainen, Kristian",
+          "Singh, Avi",
+          "Kumar, Vikash",
+          "Levine, Sergey"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/2d85f63a193cd88741c8398ceb98c55e1e89387d",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "The Ingredients of Real-World Robotic Reinforcement Learning",
+        "year": 2020,
+        "authors": [
+          "Henry Zhu",
+          "Justin Yu",
+          "Abhishek Gupta",
+          "Dhruv Shah",
+          "Kristian Hartikainen",
+          "Avi Singh",
+          "Vikash Kumar",
+          "S. Levine"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=The%20ingredients%20of%20real-world%20robotic%20reinforcement%20learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "liang2024survey",
+      "raw": {
+        "title": "A survey of multimodel large language models",
+        "authors": [
+          "Liang, Zijing",
+          "Xu, Yanjie",
+          "Hong, Yifan",
+          "Shang, Penghui",
+          "Wang, Qi",
+          "Fu, Qiang",
+          "Liu, Ke"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/dcfb889fdafbd279146b499ee0483c2cd38d3520",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "A Survey of Multimodel Large Language Models",
+        "year": 2024,
+        "authors": [
+          "Zijing Liang",
+          "Yanjie Xu",
+          "Yifan Hong",
+          "Penghui Shang",
+          "Qi Wang",
+          "Qiang Fu",
+          "Ke Liu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=A%20survey%20of%20multimodel%20large%20language%20models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "zhang2024vision",
+      "raw": {
+        "title": "Vision-language models for vision tasks: A survey",
+        "authors": [
+          "Zhang, Jingyi",
+          "Huang, Jiaxing",
+          "Jin, Sheng",
+          "Lu, Shijian"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/690df0820f35a47e1ce44f90e6ddb4132aa09267",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Vision-Language Models for Vision Tasks: A Survey",
+        "year": 2023,
+        "authors": [
+          "Jingyi Zhang",
+          "Jiaxing Huang",
+          "Sheng Jin",
+          "Shijian Lu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Vision-language%20models%20for%20vision%20tasks%3A%20A%20survey&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "cao2024survey",
+      "raw": {
+        "title": "Survey on large language model-enhanced reinforcement learning: Concept, taxonomy, and methods",
+        "authors": [
+          "Cao, Yuji",
+          "Zhao, Huan",
+          "Cheng, Yuheng",
+          "Shu, Ting",
+          "Chen, Yue",
+          "Liu, Guolong",
+          "Liang, Gaoqi",
+          "Zhao, Junhua",
+          "Yan, Jinyue",
+          "Li, Yun"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/c44471e846846bde281779405a3b5c132fd60b00",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Survey on Large Language Model-Enhanced Reinforcement Learning: Concept, Taxonomy, and Methods",
+        "year": 2024,
+        "authors": [
+          "Yuji Cao",
+          "Huan Zhao",
+          "Yuheng Cheng",
+          "Ting Shu",
+          "Yue Chen",
+          "Guolong Liu",
+          "Gaoqi Liang",
+          "Junhua Zhao",
+          "Jinyue Yan",
+          "Yun Li"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Survey%20on%20large%20language%20model-enhanced%20reinforcement%20learning%3A%20Concept%2C%20taxonomy%2C%20and%20methods&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "schoepp2025evolving",
+      "raw": {
+        "title": "The evolving landscape of llm-and vlm-integrated reinforcement learning",
+        "authors": [
+          "Schoepp, Sheila",
+          "Jafaripour, Masoud",
+          "Cao, Yingyue",
+          "Yang, Tianpei",
+          "Abdollahi, Fatemeh",
+          "Golestan, Shadan",
+          "Sufiyan, Zahin",
+          "Zaiane, Osmar R",
+          "Taylor, Matthew E"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/205c3352ec73278e737806849323b37b36e1de5d",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "The Evolving Landscape of LLM- and VLM-Integrated Reinforcement Learning",
+        "year": 2024,
+        "authors": [
+          "Sheila Schoepp",
+          "Masoud Jafaripour",
+          "Yingyue Cao",
+          "Tianpei Yang",
+          "Fatemeh Abdollahi",
+          "Shadan Golestan",
+          "Zahin Sufiyan",
+          "Osmar R. Zaiane",
+          "Matthew E. Taylor"
+        ]
+      },
+      "title_similarity": 0.951048951048951,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=The%20evolving%20landscape%20of%20llm-and%20vlm-integrated%20reinforcement%20learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "schaul2015prioritized",
+      "raw": {
+        "title": "Prioritized experience replay",
+        "authors": [
+          "Schaul, Tom",
+          "Quan, John",
+          "Antonoglou, Ioannis",
+          "Silver, David"
+        ],
+        "year": 2015,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/c6170fa90d3b2efede5a2e1660cb23e1c824f2ca",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Prioritized Experience Replay",
+        "year": 2015,
+        "authors": [
+          "T. Schaul",
+          "John Quan",
+          "Ioannis Antonoglou",
+          "David Silver"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Prioritized%20experience%20replay&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "cho2025PerceptionLM",
+      "raw": {
+        "title": "PerceptionLM: Open-Access Data and Models for Detailed Visual Understanding",
+        "authors": [
+          "Jang Hyun Cho",
+          "Andrea Madotto",
+          "Effrosyni Mavroudi",
+          "Triantafyllos Afouras",
+          "Tushar Nagarajan",
+          "Muhammad Maaz",
+          "Yale Song",
+          "Tengyu Ma",
+          "Shuming Hu",
+          "Hanoona Rasheed",
+          "Peize Sun",
+          "Po-Yao Huang",
+          "Daniel Bolya",
+          "Suyog Jain",
+          "Miguel Martin",
+          "Huiyu Wang",
+          "Nikhila Ravi",
+          "Shashank Jain",
+          "Temmy Stark",
+          "Shane Moon",
+          "Babak Damavandi",
+          "Vivian Lee",
+          "Andrew Westbury",
+          "Salman Khan",
+          "Philipp Kr\\\"{a}henb\\\"{u}hl",
+          "Piotr Doll{\\'a}r",
+          "Lorenzo Torresani",
+          "Kristen Grauman",
+          "Christoph Feichtenhofer"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/821247d1e96d89e5c8df1118412b235a9fda0577",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "PerceptionLM: Open-Access Data and Models for Detailed Visual Understanding",
+        "year": 2025,
+        "authors": [
+          "J. Cho",
+          "Andrea Madotto",
+          "E. Mavroudi",
+          "Triantafyllos Afouras",
+          "Tushar Nagarajan",
+          "Muhammad Maaz",
+          "Yale Song",
+          "Tengyu Ma",
+          "Shuming Hu",
+          "S. Jain",
+          "Miguel Martin",
+          "Huiyu Wang",
+          "H. Rasheed",
+          "Peize Sun",
+          "Po-Yao Huang",
+          "Daniel Bolya",
+          "Nikhila Ravi",
+          "Shashank Jain",
+          "Tammy Stark",
+          "Shane Moon",
+          "Babak Damavandi",
+          "Vivian Lee",
+          "Andrew Westbury",
+          "Salman H. Khan",
+          "Philipp Krähenbühl",
+          "Piotr Doll'ar",
+          "Lorenzo Torresani",
+          "Kristen Grauman",
+          "Christoph Feichtenhofer"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=PerceptionLM%3A%20Open-Access%20Data%20and%20Models%20for%20Detailed%20Visual%20Understanding&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "lahire2021large",
+      "raw": {
+        "title": "Large batch experience replay",
+        "authors": [
+          "Lahire, Thibault",
+          "Geist, Matthieu",
+          "Rachelson, Emmanuel"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/56f2e101321b9e986a7680f5db122ae4cd118b1c",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Large Batch Experience Replay",
+        "year": 2021,
+        "authors": [
+          "Thibault Lahire",
+          "M. Geist",
+          "Emmanuel Rachelson"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Large%20batch%20experience%20replay&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "li2024roer",
+      "raw": {
+        "title": "ROER: Regularized optimal experience replay",
+        "authors": [
+          "Li, Changling",
+          "Hong, Zhang-Wei",
+          "Agrawal, Pulkit",
+          "Garg, Divyansh",
+          "Pajarinen, Joni"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/79f28dc07336e3fe42ac7992e5919e06199b82ee",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "ROER: Regularized Optimal Experience Replay",
+        "year": 2024,
+        "authors": [
+          "Changling Li",
+          "Zhang-Wei Hong",
+          "Pulkit Agrawal",
+          "Divyansh Garg",
+          "J. Pajarinen"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=ROER%3A%20Regularized%20optimal%20experience%20replay&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "luu2021hindsight",
+      "raw": {
+        "title": "Hindsight goal ranking on replay buffer for sparse reward environment",
+        "authors": [
+          "Luu, Tung M",
+          "Yoo, Chang D"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/00806bf90617d274ecf5fdc8c66844b7e8a68e93",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Hindsight Goal Ranking on Replay Buffer for Sparse Reward Environment",
+        "year": 2021,
+        "authors": [
+          "T. Luu",
+          "C. Yoo"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Hindsight%20goal%20ranking%20on%20replay%20buffer%20for%20sparse%20reward%20environment&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "zhao2019curiosity",
+      "raw": {
+        "title": "Curiosity-driven experience prioritization via density estimation",
+        "authors": [
+          "Zhao, Rui",
+          "Tresp, Volker"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/c30a6192b6cbb665aefe837230da1bcfbbf42153",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Curiosity-Driven Experience Prioritization via Density Estimation",
+        "year": 2018,
+        "authors": [
+          "Rui Zhao",
+          "Volker Tresp"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Curiosity-driven%20experience%20prioritization%20via%20density%20estimation&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "zha2019experience",
+      "raw": {
+        "title": "Experience replay optimization",
+        "authors": [
+          "Zha, Daochen",
+          "Lai, Kwei-Herng",
+          "Zhou, Kaixiong",
+          "Hu, Xia"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/2ce156d315ca3d7b46d46ea5df27d0ccc02721a4",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Experience Replay Optimization",
+        "year": 2019,
+        "authors": [
+          "D. Zha",
+          "Kwei-Herng Lai",
+          "Kaixiong Zhou",
+          "Xia Hu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Experience%20replay%20optimization&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "liu2021regret",
+      "raw": {
+        "title": "Regret minimization experience replay in off-policy reinforcement learning",
+        "authors": [
+          "Liu, Xu-Hui",
+          "Xue, Zhenghai",
+          "Pang, Jingcheng",
+          "Jiang, Shengyi",
+          "Xu, Feng",
+          "Yu, Yang"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/fc7a67f5f4d07121f7d91719f0acd10a7024178d",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Regret Minimization Experience Replay in Off-Policy Reinforcement Learning",
+        "year": 2021,
+        "authors": [
+          "Xu-Hui Liu",
+          "Zhenghai Xue",
+          "Jing-Cheng Pang",
+          "Shengyi Jiang",
+          "Feng Xu",
+          "Yang Yu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Regret%20minimization%20experience%20replay%20in%20off-policy%20reinforcement%20learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "sinha2022experience",
+      "raw": {
+        "title": "Experience replay with likelihood-free importance weights",
+        "authors": [
+          "Sinha, Samarth",
+          "Song, Jiaming",
+          "Garg, Animesh",
+          "Ermon, Stefano"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "metadata_mismatch",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/09d01a5ce6befad6e08c8b6185043ae0df3e78ae",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Experience Replay with Likelihood-free Importance Weights",
+        "year": 2020,
+        "authors": [
+          "Samarth Sinha",
+          "Jiaming Song",
+          "Animesh Garg",
+          "Stefano Ermon"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [
+        "year"
+      ],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Experience%20replay%20with%20likelihood-free%20importance%20weights&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "novati2019remember",
+      "raw": {
+        "title": "Remember and forget for experience replay",
+        "authors": [
+          "Novati, Guido",
+          "Koumoutsakos, Petros"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/0eefcf9b702b50b7c47300736c5ee0080a1639db",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Remember and Forget for Experience Replay",
+        "year": 2018,
+        "authors": [
+          "G. Novati",
+          "P. Koumoutsakos"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Remember%20and%20forget%20for%20experience%20replay&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "sun2020attentive",
+      "raw": {
+        "title": "Attentive experience replay",
+        "authors": [
+          "Sun, Peiquan",
+          "Zhou, Wengang",
+          "Li, Houqiang"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/ff16eb4188eadaaeba66aea2fdcdd17554a87378",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Attentive Experience Replay",
+        "year": 2020,
+        "authors": [
+          "Peiquan Sun",
+          "Wen-gang Zhou",
+          "Houqiang Li"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Attentive%20experience%20replay&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "sujit2023prioritizing",
+      "raw": {
+        "title": "Prioritizing samples in reinforcement learning with reducible loss",
+        "authors": [
+          "Sujit, Shivakanth",
+          "Nath, Somjit",
+          "Braga, Pedro",
+          "Ebrahimi Kahou, Samira"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/eb92cedb7e9182b8887a36d25f319196e11d9ca4",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Prioritizing Samples in Reinforcement Learning with Reducible Loss",
+        "year": 2022,
+        "authors": [
+          "Shivakanth Sujit",
+          "Somjit Nath",
+          "Pedro H. M. Braga",
+          "Samira Ebrahimi Kahou"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Prioritizing%20samples%20in%20reinforcement%20learning%20with%20reducible%20loss&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "carrasco2025uncertainty",
+      "raw": {
+        "title": "Uncertainty Prioritized Experience Replay",
+        "authors": [
+          "Carrasco-Davis, Rodrigo",
+          "Lee, Sebastian",
+          "Clopath, Claudia",
+          "Dabney, Will"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/845e7b768dd3b846be8e2aa5a001d57fcc635a90",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Uncertainty Prioritized Experience Replay",
+        "year": 2025,
+        "authors": [
+          "Rodrigo Carrasco-Davis",
+          "Sebastian Lee",
+          "Claudia Clopath",
+          "Will Dabney"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Uncertainty%20Prioritized%20Experience%20Replay&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "kumar2020discor",
+      "raw": {
+        "title": "Discor: Corrective feedback in reinforcement learning via distribution correction",
+        "authors": [
+          "Kumar, Aviral",
+          "Gupta, Abhishek",
+          "Levine, Sergey"
+        ],
+        "year": 2020,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/b76bd29b659388a8a0e83348d002e41e5e4a3489",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "DisCor: Corrective Feedback in Reinforcement Learning via Distribution Correction",
+        "year": 2020,
+        "authors": [
+          "Aviral Kumar",
+          "Abhishek Gupta",
+          "S. Levine"
+        ]
+      },
+      "title_similarity": 0.9570552147239263,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Discor%3A%20Corrective%20feedback%20in%20reinforcement%20learning%20via%20distribution%20correction&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "hong2022topological",
+      "raw": {
+        "title": "Topological experience replay",
+        "authors": [
+          "Hong, Zhang-Wei",
+          "Chen, Tao",
+          "Lin, Yen-Chen",
+          "Pajarinen, Joni",
+          "Agrawal, Pulkit"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/a2ed2715d0175e93939e0d9f46f2580968c98020",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Topological Experience Replay",
+        "year": 2022,
+        "authors": [
+          "Zhang-Wei Hong",
+          "Tao Chen",
+          "Yen-Chen Lin",
+          "J. Pajarinen",
+          "Pulkit Agrawal"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Topological%20experience%20replay&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "rocamonde2023vision",
+      "raw": {
+        "title": "Vision-language models are zero-shot reward models for reinforcement learning",
+        "authors": [
+          "Rocamonde, Juan",
+          "Montesinos, Victoriano",
+          "Nava, Elvis",
+          "Perez, Ethan",
+          "Lindner, David"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/fb09b581589e1195ff018179c6a11668587c6d64",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Vision-Language Models are Zero-Shot Reward Models for Reinforcement Learning",
+        "year": 2023,
+        "authors": [
+          "Juan Rocamonde",
+          "Victoriano Montesinos",
+          "Elvis Nava",
+          "Ethan Perez",
+          "David Lindner"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Vision-language%20models%20are%20zero-shot%20reward%20models%20for%20reinforcement%20learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "xie2023text2reward",
+      "raw": {
+        "title": "Text2reward: Reward shaping with language models for reinforcement learning",
+        "authors": [
+          "Xie, Tianbao",
+          "Zhao, Siheng",
+          "Wu, Chen Henry",
+          "Liu, Yitao",
+          "Luo, Qian",
+          "Zhong, Victor",
+          "Yang, Yanchao",
+          "Yu, Tao"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/ecb6a8003d4726cc1e9e9f3c2d8ff6c0627e4e95",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Text2Reward: Reward Shaping with Language Models for Reinforcement Learning",
+        "year": 2023,
+        "authors": [
+          "Tianbao Xie",
+          "Siheng Zhao",
+          "Chen Henry Wu",
+          "Yitao Liu",
+          "Q. Luo",
+          "Victor Zhong",
+          "Yanchao Yang",
+          "Tao Yu"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Text2reward%3A%20Reward%20shaping%20with%20language%20models%20for%20reinforcement%20learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "fu2024furl",
+      "raw": {
+        "title": "Furl: Visual-language models as fuzzy rewards for reinforcement learning",
+        "authors": [
+          "Fu, Yuwei",
+          "Zhang, Haichao",
+          "Wu, Di",
+          "Xu, Wei",
+          "Boulet, Benoit"
+        ],
+        "year": 2024,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/761509e64bf8eb462b615e5fbcea866289ccc8af",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "FuRL: Visual-Language Models as Fuzzy Rewards for Reinforcement Learning",
+        "year": 2024,
+        "authors": [
+          "Yuwei Fu",
+          "Haichao Zhang",
+          "Di Wu",
+          "Wei Xu",
+          "Benoit Boulet"
+        ]
+      },
+      "title_similarity": 0.993103448275862,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Furl%3A%20Visual-language%20models%20as%20fuzzy%20rewards%20for%20reinforcement%20learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "luu2025enhancing",
+      "raw": {
+        "title": "Enhancing Rating-Based Reinforcement Learning to Effectively Leverage Feedback from Large Vision-Language Models",
+        "authors": [
+          "Luu, Tung Minh",
+          "Lee, Younghwan",
+          "Lee, Donghoon",
+          "Kim, Sunho",
+          "Kim, Min Jun",
+          "Yoo, Chang D"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/8dccf45aa7b6d3e7ef8fe762751cb35c86778141",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Enhancing Rating-Based Reinforcement Learning to Effectively Leverage Feedback from Large Vision-Language Models",
+        "year": 2025,
+        "authors": [
+          "T. Luu",
+          "Younghwan Lee",
+          "Donghoon Lee",
+          "Sunho Kim",
+          "Min Jun Kim",
+          "C. Yoo"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Enhancing%20Rating-Based%20Reinforcement%20Learning%20to%20Effectively%20Leverage%20Feedback%20from%20Large%20Vision-Language%20Models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "singh2025varp",
+      "raw": {
+        "title": "VARP: Reinforcement Learning from Vision-Language Model Feedback with Agent Regularized Preferences",
+        "authors": [
+          "Singh, Anukriti",
+          "Bhaskar, Amisha",
+          "Yu, Peihong",
+          "Chakraborty, Souradip",
+          "Dasyam, Ruthwik",
+          "Bedi, Amrit",
+          "Tokekar, Pratap"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/eafd292ee60cc833eee3a02c943e509f9ec46221",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "VARP: Reinforcement Learning from Vision-Language Model Feedback with Agent Regularized Preferences",
+        "year": 2025,
+        "authors": [
+          "Anukriti Singh",
+          "Amisha Bhaskar",
+          "Peihong Yu",
+          "Souradip Chakraborty",
+          "Ruthwik Dasyam",
+          "A. S. Bedi",
+          "Pratap Tokekar"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=VARP%3A%20Reinforcement%20Learning%20from%20Vision-Language%20Model%20Feedback%20with%20Agent%20Regularized%20Preferences&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "ahn2022can",
+      "raw": {
+        "title": "Do as i can, not as i say: Grounding language in robotic affordances",
+        "authors": [
+          "Ahn, Michael",
+          "Brohan, Anthony",
+          "Brown, Noah",
+          "Chebotar, Yevgen",
+          "Cortes, Omar",
+          "David, Byron",
+          "Finn, Chelsea",
+          "Fu, Chuyuan",
+          "Gopalakrishnan, Keerthana",
+          "Hausman, Karol",
+          "others"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/cb5e3f085caefd1f3d5e08637ab55d39e61234fc",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Do As I Can, Not As I Say: Grounding Language in Robotic Affordances",
+        "year": 2022,
+        "authors": [
+          "Michael Ahn",
+          "Anthony Brohan",
+          "Noah Brown",
+          "Yevgen Chebotar",
+          "Omar Cortes",
+          "Byron David",
+          "Chelsea Finn",
+          "K. Gopalakrishnan",
+          "Karol Hausman",
+          "Alexander Herzog",
+          "Daniel Ho",
+          "Jasmine Hsu",
+          "Julian Ibarz",
+          "Brian Ichter",
+          "A. Irpan",
+          "Eric Jang",
+          "Rosario M Jauregui Ruano",
+          "Kyle Jeffrey",
+          "Sally Jesmonth",
+          "N. Joshi",
+          "Ryan C. Julian",
+          "Dmitry Kalashnikov",
+          "Yuheng Kuang",
+          "Kuang-Huei Lee",
+          "S. Levine",
+          "Yao Lu",
+          "Linda Luu",
+          "Carolina Parada",
+          "P. Pastor",
+          "Jornell Quiambao",
+          "Kanishka Rao",
+          "Jarek Rettinghouse",
+          "D. Reyes",
+          "P. Sermanet",
+          "Nicolas Sievers",
+          "Clayton Tan",
+          "Alexander Toshev",
+          "Vincent Vanhoucke",
+          "F. Xia",
+          "Ted Xiao",
+          "Peng Xu",
+          "Sichun Xu",
+          "Mengyuan Yan"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Do%20as%20i%20can%2C%20not%20as%20i%20say%3A%20Grounding%20language%20in%20robotic%20affordances&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "huang2022language",
+      "raw": {
+        "title": "Language models as zero-shot planners: Extracting actionable knowledge for embodied agents",
+        "authors": [
+          "Huang, Wenlong",
+          "Abbeel, Pieter",
+          "Pathak, Deepak",
+          "Mordatch, Igor"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/92a8f7f09f3705cb5a6009a42220a6f01ea084e8",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents",
+        "year": 2022,
+        "authors": [
+          "Wenlong Huang",
+          "P. Abbeel",
+          "Deepak Pathak",
+          "Igor Mordatch"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Language%20models%20as%20zero-shot%20planners%3A%20Extracting%20actionable%20knowledge%20for%20embodied%20agents&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "ma2025explorllm",
+      "raw": {
+        "title": "Explorllm: Guiding exploration in reinforcement learning with large language models",
+        "authors": [
+          "Ma, Runyu",
+          "Luijkx, Jelle",
+          "Ajanovi{\\'c}, Zlatan",
+          "Kober, Jens"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/aedd5c4bc11d8faf01e8456c91a183f2f76e5778",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "ExploRLLM: Guiding Exploration in Reinforcement Learning with Large Language Models",
+        "year": 2024,
+        "authors": [
+          "Runyu Ma",
+          "Jelle Luijkx",
+          "Zlatan Ajanović",
+          "J. Kober"
+        ]
+      },
+      "title_similarity": 0.9940119760479043,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Explorllm%3A%20Guiding%20exploration%20in%20reinforcement%20learning%20with%20large%20language%20models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "gupta2022foundation",
+      "raw": {
+        "title": "Foundation models for semantic novelty in reinforcement learning",
+        "authors": [
+          "Gupta, Tarun",
+          "Karkus, Peter",
+          "Che, Tong",
+          "Xu, Danfei",
+          "Pavone, Marco"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/b065c42b1f40368ff1dacb950c4817a4d18b3ed9",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Foundation Models for Semantic Novelty in Reinforcement Learning",
+        "year": 2022,
+        "authors": [
+          "Tarun Gupta",
+          "Peter Karkus",
+          "Tong Che",
+          "Danfei Xu",
+          "M. Pavone"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Foundation%20models%20for%20semantic%20novelty%20in%20reinforcement%20learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "liang2022code",
+      "raw": {
+        "title": "Code as policies: Language model programs for embodied control",
+        "authors": [
+          "Liang, Jacky",
+          "Huang, Wenlong",
+          "Xia, Fei",
+          "Xu, Peng",
+          "Hausman, Karol",
+          "Ichter, Brian",
+          "Florence, Pete",
+          "Zeng, Andy"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/91deaf9d324c8feafc189da0da03e60a60287bca",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Code as Policies: Language Model Programs for Embodied Control",
+        "year": 2022,
+        "authors": [
+          "Jacky Liang",
+          "Wenlong Huang",
+          "F. Xia",
+          "Peng Xu",
+          "Karol Hausman",
+          "Brian Ichter",
+          "Peter R. Florence",
+          "Andy Zeng"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Code%20as%20policies%3A%20Language%20model%20programs%20for%20embodied%20control&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "zitkovich2023rt",
+      "raw": {
+        "title": "Rt-2: Vision-language-action models transfer web knowledge to robotic control",
+        "authors": [
+          "Zitkovich, Brianna",
+          "Yu, Tianhe",
+          "Xu, Sichun",
+          "Xu, Peng",
+          "Xiao, Ted",
+          "Xia, Fei",
+          "Wu, Jialin",
+          "Wohlhart, Paul",
+          "Welker, Stefan",
+          "Wahid, Ayzaan",
+          "others"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/38939304bb760473141c2aca0305e44fbe04e6e8",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control",
+        "year": 2023,
+        "authors": [
+          "Anthony Brohan",
+          "Noah Brown",
+          "Justice Carbajal",
+          "Yevgen Chebotar",
+          "K. Choromanski",
+          "Tianli Ding",
+          "Danny Driess",
+          "Kumar Avinava Dubey",
+          "Chelsea Finn",
+          "Peter R. Florence",
+          "Chuyuan Fu",
+          "Montse Gonzalez Arenas",
+          "K. Gopalakrishnan",
+          "Kehang Han",
+          "Karol Hausman",
+          "Alexander Herzog",
+          "Jasmine Hsu",
+          "Brian Ichter",
+          "A. Irpan",
+          "Nikhil J. Joshi",
+          "Ryan C. Julian",
+          "Dmitry Kalashnikov",
+          "Yuheng Kuang",
+          "Isabel Leal",
+          "S. Levine",
+          "H. Michalewski",
+          "Igor Mordatch",
+          "Karl Pertsch",
+          "Kanishka Rao",
+          "Krista Reymann",
+          "M. Ryoo",
+          "Grecia Salazar",
+          "Pannag R. Sanketi",
+          "P. Sermanet",
+          "Jaspiar Singh",
+          "Anikait Singh",
+          "Radu Soricut",
+          "Huong Tran",
+          "Vincent Vanhoucke",
+          "Q. Vuong",
+          "Ayzaan Wahid",
+          "Stefan Welker",
+          "Paul Wohlhart",
+          "Ted Xiao",
+          "Tianhe Yu",
+          "Brianna Zitkovich"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Rt-2%3A%20Vision-language-action%20models%20transfer%20web%20knowledge%20to%20robotic%20control&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "ghosh2025preference",
+      "raw": {
+        "title": "Preference vlm: Leveraging vlms for scalable preference-based reinforcement learning",
+        "authors": [
+          "Ghosh, Udita",
+          "Raychaudhuri, Dripta S",
+          "Li, Jiachen",
+          "Karydis, Konstantinos",
+          "Roy-Chowdhury, Amit"
+        ],
+        "year": 2025,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/78ed3c59818bf5d44cd6f75e23c811cd2f5d2cc0",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Preference VLM: Leveraging VLMs for Scalable Preference-Based Reinforcement Learning",
+        "year": 2025,
+        "authors": [
+          "Udita Ghosh",
+          "Dripta S. Raychaudhuri",
+          "Jiachen Li",
+          "Konstantinos Karydis",
+          "Amit K. Roy-Chowdhury"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Preference%20vlm%3A%20Leveraging%20vlms%20for%20scalable%20preference-based%20reinforcement%20learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "dubey2018investigating",
+      "raw": {
+        "title": "Investigating human priors for playing video games",
+        "authors": [
+          "Dubey, Rachit",
+          "Agrawal, Pulkit",
+          "Pathak, Deepak",
+          "Griffiths, Thomas L",
+          "Efros, Alexei A"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/6446167b04e0d9ae2693ddf5dfe874c42e46655d",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Investigating Human Priors for Playing Video Games",
+        "year": 2018,
+        "authors": [
+          "Rachit Dubey",
+          "Pulkit Agrawal",
+          "Deepak Pathak",
+          "T. Griffiths",
+          "Alexei A. Efros"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Investigating%20human%20priors%20for%20playing%20video%20games&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "chevalier2023minigrid",
+      "raw": {
+        "title": "Minigrid \\& miniworld: Modular \\& customizable reinforcement learning environments for goal-oriented tasks",
+        "authors": [
+          "Chevalier-Boisvert, Maxime",
+          "Dai, Bolun",
+          "Towers, Mark",
+          "Perez-Vicente, Rodrigo",
+          "Willems, Lucas",
+          "Lahlou, Salem",
+          "Pal, Suman",
+          "Castro, Pablo Samuel",
+          "Terry, Jordan"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/8bb7cecd1bc3fa470aa882158e7553705b1a6141",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Minigrid & Miniworld: Modular & Customizable Reinforcement Learning Environments for Goal-Oriented Tasks",
+        "year": 2023,
+        "authors": [
+          "Maxime Chevalier-Boisvert",
+          "Bolun Dai",
+          "Mark Towers",
+          "Rodrigo de Lazcano",
+          "Lucas Willems",
+          "S. Lahlou",
+          "Suman Pal",
+          "P. S. Castro",
+          "Jordan K. Terry"
+        ]
+      },
+      "title_similarity": 0.9951219512195122,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Minigrid%20%5C%26%20miniworld%3A%20Modular%20%5C%26%20customizable%20reinforcement%20learning%20environments%20for%20goal-oriented%20tasks&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "mnih2013playing",
+      "raw": {
+        "title": "Playing atari with deep reinforcement learning",
+        "authors": [
+          "Mnih, Volodymyr",
+          "Kavukcuoglu, Koray",
+          "Silver, David",
+          "Graves, Alex",
+          "Antonoglou, Ioannis",
+          "Wierstra, Daan",
+          "Riedmiller, Martin"
+        ],
+        "year": 2013,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/2319a491378867c7049b3da055c5df60e1671158",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Playing Atari with Deep Reinforcement Learning",
+        "year": 2013,
+        "authors": [
+          "Volodymyr Mnih",
+          "K. Kavukcuoglu",
+          "David Silver",
+          "Alex Graves",
+          "Ioannis Antonoglou",
+          "Daan Wierstra",
+          "Martin A. Riedmiller"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Playing%20atari%20with%20deep%20reinforcement%20learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "haarnoja2018soft",
+      "raw": {
+        "title": "Soft actor-critic algorithms and applications",
+        "authors": [
+          "Haarnoja, Tuomas",
+          "Zhou, Aurick",
+          "Hartikainen, Kristian",
+          "Tucker, George",
+          "Ha, Sehoon",
+          "Tan, Jie",
+          "Kumar, Vikash",
+          "Zhu, Henry",
+          "Gupta, Abhishek",
+          "Abbeel, Pieter",
+          "others"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/12c0751b4f51ed833172a713b7e32390032ead93",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Soft Actor-Critic Algorithms and Applications",
+        "year": 2018,
+        "authors": [
+          "Tuomas Haarnoja",
+          "Aurick Zhou",
+          "Kristian Hartikainen",
+          "G. Tucker",
+          "Sehoon Ha",
+          "Jie Tan",
+          "Vikash Kumar",
+          "Henry Zhu",
+          "Abhishek Gupta",
+          "P. Abbeel",
+          "S. Levine"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Soft%20actor-critic%20algorithms%20and%20applications&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "fujimoto2018addressing",
+      "raw": {
+        "title": "Addressing function approximation error in actor-critic methods",
+        "authors": [
+          "Fujimoto, Scott",
+          "Hoof, Herke",
+          "Meger, David"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/4debb99c0c63bfaa97dd433bc2828e4dac81c48b",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Addressing Function Approximation Error in Actor-Critic Methods",
+        "year": 2018,
+        "authors": [
+          "Scott Fujimoto",
+          "H. V. Hoof",
+          "D. Meger"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Addressing%20function%20approximation%20error%20in%20actor-critic%20methods&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "lin1992self",
+      "raw": {
+        "title": "Self-improving reactive agents based on reinforcement learning, planning and teaching",
+        "authors": [
+          "Lin, Long-Ji"
+        ],
+        "year": 1992,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/9cd8193a66cf53143cbba6ccb0c7b9c2ebf2452b",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Self-improving reactive agents based on reinforcement learning, planning and teaching",
+        "year": 1992,
+        "authors": [
+          "Longxin Lin"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Self-improving%20reactive%20agents%20based%20on%20reinforcement%20learning%2C%20planning%20and%20teaching&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "sutton1998reinforcement",
+      "raw": {
+        "title": "Reinforcement learning: An introduction",
+        "authors": [
+          "Sutton, Richard S",
+          "Barto, Andrew G",
+          "others"
+        ],
+        "year": 1998,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/97efafdb4a3942ab3efba53ded7413199f79c054",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Reinforcement Learning: An Introduction",
+        "year": 1998,
+        "authors": [
+          "R. S. Sutton",
+          "A. Barto"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Reinforcement%20learning%3A%20An%20introduction&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "radford2021learning",
+      "raw": {
+        "title": "Learning transferable visual models from natural language supervision",
+        "authors": [
+          "Radford, Alec",
+          "Kim, Jong Wook",
+          "Hallacy, Chris",
+          "Ramesh, Aditya",
+          "Goh, Gabriel",
+          "Agarwal, Sandhini",
+          "Sastry, Girish",
+          "Askell, Amanda",
+          "Mishkin, Pamela",
+          "Clark, Jack",
+          "others"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/6f870f7f02a8c59c3e23f407f3ef00dd1dcf8fc4",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Learning Transferable Visual Models From Natural Language Supervision",
+        "year": 2021,
+        "authors": [
+          "Alec Radford",
+          "Jong Wook Kim",
+          "Chris Hallacy",
+          "A. Ramesh",
+          "Gabriel Goh",
+          "S. Agarwal",
+          "G. Sastry",
+          "Amanda Askell",
+          "Pamela Mishkin",
+          "Jack Clark",
+          "Gretchen Krueger",
+          "I. Sutskever"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Learning%20transferable%20visual%20models%20from%20natural%20language%20supervision&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "jia2021scaling",
+      "raw": {
+        "title": "Scaling up visual and vision-language representation learning with noisy text supervision",
+        "authors": [
+          "Jia, Chao",
+          "Yang, Yinfei",
+          "Xia, Ye",
+          "Chen, Yi-Ting",
+          "Parekh, Zarana",
+          "Pham, Hieu",
+          "Le, Quoc",
+          "Sung, Yun-Hsuan",
+          "Li, Zhen",
+          "Duerig, Tom"
+        ],
+        "year": 2021,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/141a5033d9994242b18bb3b217e79582f1ee9306",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision",
+        "year": 2021,
+        "authors": [
+          "Chao Jia",
+          "Yinfei Yang",
+          "Ye Xia",
+          "Yi-Ting Chen",
+          "Zarana Parekh",
+          "Hieu Pham",
+          "Quoc V. Le",
+          "Yun-Hsuan Sung",
+          "Zhen Li",
+          "Tom Duerig"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Scaling%20up%20visual%20and%20vision-language%20representation%20learning%20with%20noisy%20text%20supervision&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "li2023blip",
+      "raw": {
+        "title": "Blip-2: Bootstrapping language-image pre-training with frozen image encoders and large language models",
+        "authors": [
+          "Li, Junnan",
+          "Li, Dongxu",
+          "Savarese, Silvio",
+          "Hoi, Steven"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/3f5b31c4f7350dc88002c121aecbdc82f86eb5bb",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models",
+        "year": 2023,
+        "authors": [
+          "Junnan Li",
+          "Dongxu Li",
+          "S. Savarese",
+          "Steven C. H. Hoi"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Blip-2%3A%20Bootstrapping%20language-image%20pre-training%20with%20frozen%20image%20encoders%20and%20large%20language%20models&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "zhai2023sigmoid",
+      "raw": {
+        "title": "Sigmoid loss for language image pre-training",
+        "authors": [
+          "Zhai, Xiaohua",
+          "Mustafa, Basil",
+          "Kolesnikov, Alexander",
+          "Beyer, Lucas"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/35aba190f28b5c39df333c06ca21f46bd4845eba",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Sigmoid Loss for Language Image Pre-Training",
+        "year": 2023,
+        "authors": [
+          "Xiaohua Zhai",
+          "Basil Mustafa",
+          "Alexander Kolesnikov",
+          "Lucas Beyer"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Sigmoid%20loss%20for%20language%20image%20pre-training&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "bou2023torchrl",
+      "raw": {
+        "title": "Torchrl: A data-driven decision-making library for pytorch",
+        "authors": [
+          "Bou, Albert",
+          "Bettini, Matteo",
+          "Dittert, Sebastian",
+          "Kumar, Vikash",
+          "Sodhani, Shagun",
+          "Yang, Xiaomeng",
+          "De Fabritiis, Gianni",
+          "Moens, Vincent"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/c7e4a463de5223810ae8c618bfdb54ee98ba3e60",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "TorchRL: A data-driven decision-making library for PyTorch",
+        "year": 2023,
+        "authors": [
+          "Albert Bou",
+          "Matteo Bettini",
+          "S. Dittert",
+          "Vikash Kumar",
+          "Shagun Sodhani",
+          "Xiaomeng Yang",
+          "G. D. Fabritiis",
+          "V. Moens"
+        ]
+      },
+      "title_similarity": 0.9107142857142857,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Torchrl%3A%20A%20data-driven%20decision-making%20library%20for%20pytorch&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "van2016deep",
+      "raw": {
+        "title": "Deep reinforcement learning with double q-learning",
+        "authors": [
+          "Van Hasselt, Hado",
+          "Guez, Arthur",
+          "Silver, David"
+        ],
+        "year": 2016,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/3b9732bb07dc99bde5e1f9f75251c6ea5039373e",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Deep Reinforcement Learning with Double Q-Learning",
+        "year": 2015,
+        "authors": [
+          "H. V. Hasselt",
+          "A. Guez",
+          "David Silver"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Deep%20reinforcement%20learning%20with%20double%20q-learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "dabney2018implicit",
+      "raw": {
+        "title": "Implicit quantile networks for distributional reinforcement learning",
+        "authors": [
+          "Dabney, Will",
+          "Ostrovski, Georg",
+          "Silver, David",
+          "Munos, R{\\'e}mi"
+        ],
+        "year": 2018,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/d85623ffae865f9ef386644dd02d0ea2d6a8c8de",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Implicit Quantile Networks for Distributional Reinforcement Learning",
+        "year": 2018,
+        "authors": [
+          "Will Dabney",
+          "Georg Ostrovski",
+          "David Silver",
+          "R. Munos"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Implicit%20quantile%20networks%20for%20distributional%20reinforcement%20learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "levine2016end",
+      "raw": {
+        "title": "End-to-end training of deep visuomotor policies",
+        "authors": [
+          "Levine, Sergey",
+          "Finn, Chelsea",
+          "Darrell, Trevor",
+          "Abbeel, Pieter"
+        ],
+        "year": 2016,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/b6b8a1b80891c96c28cc6340267b58186157e536",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "End-to-End Training of Deep Visuomotor Policies",
+        "year": 2015,
+        "authors": [
+          "S. Levine",
+          "Chelsea Finn",
+          "Trevor Darrell",
+          "P. Abbeel"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=End-to-end%20training%20of%20deep%20visuomotor%20policies&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "ouyang2022training",
+      "raw": {
+        "title": "Training language models to follow instructions with human feedback",
+        "authors": [
+          "Ouyang, Long",
+          "Wu, Jeffrey",
+          "Jiang, Xu",
+          "Almeida, Diogo",
+          "Wainwright, Carroll",
+          "Mishkin, Pamela",
+          "Zhang, Chong",
+          "Agarwal, Sandhini",
+          "Slama, Katarina",
+          "Ray, Alex",
+          "others"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/d766bffc357127e0dc86dd69561d5aeb520d6f4c",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Training language models to follow instructions with human feedback",
+        "year": 2022,
+        "authors": [
+          "Long Ouyang",
+          "Jeff Wu",
+          "Xu Jiang",
+          "Diogo Almeida",
+          "Carroll L. Wainwright",
+          "Pamela Mishkin",
+          "Chong Zhang",
+          "S. Agarwal",
+          "Katarina Slama",
+          "Alex Ray",
+          "John Schulman",
+          "Jacob Hilton",
+          "Fraser Kelton",
+          "Luke E. Miller",
+          "M. Simens",
+          "Amanda Askell",
+          "Peter Welinder",
+          "P. Christiano",
+          "Jan Leike",
+          "Ryan J. Lowe"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Training%20language%20models%20to%20follow%20instructions%20with%20human%20feedback&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "cherti2023reproducible",
+      "raw": {
+        "title": "Reproducible scaling laws for contrastive language-image learning",
+        "authors": [
+          "Cherti, Mehdi",
+          "Beaumont, Romain",
+          "Wightman, Ross",
+          "Wortsman, Mitchell",
+          "Ilharco, Gabriel",
+          "Gordon, Cade",
+          "Schuhmann, Christoph",
+          "Schmidt, Ludwig",
+          "Jitsev, Jenia"
+        ],
+        "year": 2023,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/16de2006e2960ba410772c6b6d460b83c0a5cc4b",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Reproducible Scaling Laws for Contrastive Language-Image Learning",
+        "year": 2022,
+        "authors": [
+          "Mehdi Cherti",
+          "R. Beaumont",
+          "Ross Wightman",
+          "Mitchell Wortsman",
+          "Gabriel Ilharco",
+          "Cade Gordon",
+          "Christoph Schuhmann",
+          "Ludwig Schmidt",
+          "J. Jitsev"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Reproducible%20scaling%20laws%20for%20contrastive%20language-image%20learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "zhai2022lit",
+      "raw": {
+        "title": "Lit: Zero-shot transfer with locked-image text tuning",
+        "authors": [
+          "Zhai, Xiaohua",
+          "Wang, Xiao",
+          "Mustafa, Basil",
+          "Steiner, Andreas",
+          "Keysers, Daniel",
+          "Kolesnikov, Alexander",
+          "Beyer, Lucas"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/197d5867a45a2988f4dd159063cdfbfe90164962",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "LiT: Zero-Shot Transfer with Locked-image text Tuning",
+        "year": 2021,
+        "authors": [
+          "Xiaohua Zhai",
+          "Xiao Wang",
+          "Basil Mustafa",
+          "A. Steiner",
+          "Daniel Keysers",
+          "Alexander Kolesnikov",
+          "Lucas Beyer"
+        ]
+      },
+      "title_similarity": 0.9906542056074766,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Lit%3A%20Zero-shot%20transfer%20with%20locked-image%20text%20tuning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "goel2022cyclip",
+      "raw": {
+        "title": "Cyclip: Cyclic contrastive language-image pretraining",
+        "authors": [
+          "Goel, Shashank",
+          "Bansal, Hritik",
+          "Bhatia, Sumit",
+          "Rossi, Ryan",
+          "Vinay, Vishwa",
+          "Grover, Aditya"
+        ],
+        "year": 2022,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/138b11c7ba96ad224b2fd4ade1bac18e8cfd7cb8",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "CyCLIP: Cyclic Contrastive Language-Image Pretraining",
+        "year": 2022,
+        "authors": [
+          "Shashank Goel",
+          "Hritik Bansal",
+          "S. Bhatia",
+          "Ryan A. Rossi",
+          "Vishwa Vinay",
+          "Aditya Grover"
+        ]
+      },
+      "title_similarity": 0.9532710280373832,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Cyclip%3A%20Cyclic%20contrastive%20language-image%20pretraining&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "schaul2015universal",
+      "raw": {
+        "title": "Universal value function approximators",
+        "authors": [
+          "Schaul, Tom",
+          "Horgan, Daniel",
+          "Gregor, Karol",
+          "Silver, David"
+        ],
+        "year": 2015,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/5dc2a215bd7cd5bdd3a0baa8c967575632696fac",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Universal Value Function Approximators",
+        "year": 2015,
+        "authors": [
+          "T. Schaul",
+          "Dan Horgan",
+          "Karol Gregor",
+          "David Silver"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Universal%20value%20function%20approximators&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    },
+    {
+      "key": "jiang2019language",
+      "raw": {
+        "title": "Language as an abstraction for hierarchical deep reinforcement learning",
+        "authors": [
+          "Jiang, Yiding",
+          "Gu, Shixiang Shane",
+          "Murphy, Kevin P",
+          "Finn, Chelsea"
+        ],
+        "year": 2019,
+        "doi": null,
+        "arxiv_id": null
+      },
+      "status": "verified",
+      "openalex_id": null,
+      "semantic_scholar_id": "https://www.semanticscholar.org/paper/c2c8482c713b94073f3d59895b373db4398ddfbb",
+      "match_source": "semantic_scholar",
+      "best_match": {
+        "title": "Language as an Abstraction for Hierarchical Deep Reinforcement Learning",
+        "year": 2019,
+        "authors": [
+          "Yiding Jiang",
+          "S. Gu",
+          "K. Murphy",
+          "Chelsea Finn"
+        ]
+      },
+      "title_similarity": 1.0,
+      "mismatches": [],
+      "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.openalex.org/works?search=Language%20as%20an%20abstraction%20for%20hierarchical%20deep%20reinforcement%20learning&per_page=5&mailto=tomas.vergarabrowne%40mila.quebec'\nFor more information check: https://httpstatuses.com/429"
+    }
+  ]
+}

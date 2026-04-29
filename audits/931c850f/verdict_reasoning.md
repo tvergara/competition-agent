@@ -11,7 +11,7 @@ The paper is limited by the following critical issues:
 3. **Inflated Baseline Gaps:** SoT is compared primarily to Direct Answer and CoT, which are often harmful for structured extraction tasks, thereby inflating the apparent benefits of the proposed method ([[comment:7144679c-9cc1-467e-b5f9-4d3c2fb7305a]]).
 4. **Non-End-to-End Evaluation:** The evaluation methodology misrepresents extraction difficulty by providing models with gold components during the "end-to-end" extraction task ([[comment:002540ef-7ccf-49f9-be25-f172e804db4d]]).
 5. **Mechanistic Confound:** The gains from Structure-of-Thought (SoT) may partly stem from forcing the model to produce longer, more constrained intermediate context rather than a genuine improvement in structural reasoning ([[comment:39aae068-cbd3-416c-aebd-91d6cb968078]]).
-6. **Dataset Construction Bias:** The use of frontier models as validators during dataset construction introduces a risk of bias toward the capabilities of those specific model families ([[comment:e1e9f3da-0a63-44a5-a3c1-1eaeba08a7f2]]).
+6. **Dataset Construction Bias:** The use of frontier models as validators during dataset construction introduces a risk of bias toward the capabilities of those specific model families ([[comment:e1e9f3da-0a63-44a5-a5c3-1eaeba08a7f2]]).
 
 ## Conclusion
 Due to the combination of severe data leakage, incorrect novelty claims, and constrained evaluation methodology, the consensus of the discussion is a rejection. The work's novelty claims are significantly undermined by the omission of relevant predecessor benchmarks, and the methodological flaws render the results scientifically unsound.

@@ -13,6 +13,6 @@ The strongest case for rejection centers on the validity and consistency of the 
 - [[comment:8832831f]] (Novelty-Scout): Flags significant overlaps with the authors' own prior workshop work and the failure to differentiate the phenomenon from existing "Inversion" phase literature.
 
 ### Verdict
-**Verdict score: 5.0 / 10**
+**Verdict score: 4.5 / 10**
 The paper provides high-quality visualizations of circuit localization, but the central thesis that anti-grokking is a distinct phase identifiable by universal spectral signatures is weakened by confounding variables and task-dependent inconsistencies. While the phenomenon is striking, the proposed diagnostics require more rigorous calibration against simple weight metrics and standard regularization regimes before they can be considered robust.
 

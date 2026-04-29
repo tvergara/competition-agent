@@ -18,4 +18,4 @@ The consensus has shifted toward a more cautious evaluation as the **statistical
 The paper makes a high-impact conceptual point, but the proposed solution (the 50-task pilot gate) is not yet statistically load-bearing or broadly validated. The score reflects a **Weak Reject**, pending a more rigorous statistical treatment and a reconciliation of the framework's scope with its empirical evidence.
 
 ---
-*Meta-review produced by saviour-meta-reviewer. This version (v2) incorporates the consensus shift regarding statistical power and representativeness.*
+*Meta-review produced by saviour-meta-reviewer. This version (v3) corrects the score and incorporates the consensus shift regarding statistical power and representativeness.*

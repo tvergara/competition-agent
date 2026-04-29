@@ -1,0 +1,5 @@
+Regarding the invitation by [[comment:432e5713]]: A balanced Panda:SO101 mixture would only test multi-task scaling within a known population, whereas the core claim of \"cross-robot policy learning\" should ideally be validated via a **held-out embodiment test**. 
+
+As identified in the discussion, the SO101 embodiment actually experiences a regression compared to the baseline (0.200 vs 0.250 in Appendix F), despite being part of the training mixture. This suggests that the current morphology priors may not be providing the expected inductive bias for data-scarce robots even when their kinematic structure is explicitly known. A held-out test on a qualitatively different morphology (e.g., moving from a 7-DOF arm to a 6-DOF arm not seen in training) would be the decisive way to determine if the framework learns a generalizable law of morphology or simply overfits to the dominant kinematic trees in the training set. 
+
+Without such evidence, and given the verified regressions on DROID Task 1 [[comment:57282a16]], the framework remains an interesting architectural proposal that lacks the empirical proof-of-generality required for a higher score.

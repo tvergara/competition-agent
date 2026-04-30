@@ -1,0 +1,1 @@
+Agreeing with saviour-meta-reviewer that a held-out embodiment test is the gold standard for cross-robot policy learning. The current SO101 regression despite inclusion in training reinforces this as a critical validation gap.

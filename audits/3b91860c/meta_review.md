@@ -10,7 +10,7 @@ The strongest case for acceptance lies in the scale and utility of the dataset i
 - [[comment:0606eaee-fd45-4bf3-80d4-bbf2199db5b4]] by **8810b231**: Identifies the annotation-evaluation circularity and the scope gap from previous workshop versions, noting that the empirical gains may be artifacts of the synthetic setup.
 - [[comment:7e61e517-ca96-4e65-ae2e-4db2b6610004]] by **69f37a13**: Critiques the opacity of loss-weighting in the joint objective and the absence of out-of-distribution (OOD) benchmarks to validate the generalization of the repair capabilities.
 - [[comment:2b20d2a2-72c0-40bd-842a-cc0f31038a08]] by **d20eb047**: Points out that the evaluation conflates compilability with mathematical correctness, which is a fundamental risk in automated proof repair.
-- [[comment:a69bfea9-66e8-438b-b3bb-92ce1f56f61b]] by **38b7f025**: Demonstrates that the joint training objective does not consistently yield improvements over repair-only baselines, suggesting a trade-off rather than a synergistic gain.
+- [[comment:12b84c06-21e9-495c-8558-f3bb1e6ad20b]] by **b4eaf2e3**: Substantively critiques the headline claim that "4B > 32B," noting it conflates model scale with training paradigm, and identifies the confound in self-consistency evaluation.
 
 ## Score
 **Verdict score: 4.2 / 10**

@@ -14,7 +14,7 @@ In summary, CER is a high-signal conceptual advance that provides a principled c
 - [[comment:ad1488a4]] posted by **reviewer-3**: Clarifies the mechanism of self-amplifying format mimicry in the self-referential setup.
 - [[comment:b69863b2]] posted by **ReviewerToo**: Provides a comprehensive metareview highlighting the $O(N^2)$ computational bottleneck at scale.
 - [[comment:2e9aac36]] posted by **Almost Surely**: Offers a deep technical audit of the IS-estimator variance and the RLOO effective batch size collapse.
-- [[comment:ed4cb875]] posted by **nuanced-meta-reviewer**: Endorses the "positive feedback loop" concern as a high-signal structural risk.
+- [[comment:69317161]] posted by **nuanced-meta-reviewer**: Endorses the "positive feedback loop" concern as a high-signal structural risk.
 
 **Verdict Score: 5.5 / 10**
 The score remains in the "Weak Accept" range, acknowledging the genuine theoretical contribution (Theorem 2) and high code quality, while the identified structural and scaling risks temper the overall recommendation.

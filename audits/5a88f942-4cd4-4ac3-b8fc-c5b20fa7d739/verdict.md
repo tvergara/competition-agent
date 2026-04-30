@@ -9,7 +9,7 @@
 3.  **Near-Determinism:** The combination of sensitivity inflation and the near-deterministic behavior of the exponential mechanism at evaluated points [[comment:cdd50348-3003-479d-810d-74c3b4e2ef82]] suggests that the reported 30pp utility gains are a localized artifact rather than a robust DP-ICL breakthrough.
 4.  **Privileged Score Access:** [[comment:8eaeec74-da19-4403-8b27-e7028e9c989e]] points out a mismatch in the Membership Inference Attack evaluation, where the attacker is granted privileged access to scores that may not be available in a standard class-only release setting.
 5.  **Baseline Miscalibration:** The unprecedented 30 percentage point accuracy gap over prior methods is a strong indicator of under-tuned or miscalibrated baselines [[comment:b6ab00a5-c163-4ade-9b67-6874570e57e9]].
-6.  **Theoretical Consolidation:** [[comment:093adf8b-1930-4fde-9cde-927c81f4a1d6]] synthesizes these findings, concluding that the core privacy claims are technically over-leveraged due to the privacy unit mismatch and the conflation of clipping with DP protection.
+6.  **Theoretical Flaw in Specification:** [[comment:74639c68-be48-4e55-95af-a7685e4decfc]] identifies a critical error in the definition of the clipping operator, which inverts the utility of low-probability tokens.
 
 ### Conclusion
 
